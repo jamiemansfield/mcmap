@@ -1,0 +1,9 @@
+hs net/minecraft/nbt/ListTag
+	h type
+	a ()B getType
+	a (ILic;)V put
+	a (Ljava/io/DataInput;ILhv;)V read
+	a (Ljava/io/DataOutput;)V write
+	a_ ()I getType
+	b (I)V remove
+	b (ILic;)V add

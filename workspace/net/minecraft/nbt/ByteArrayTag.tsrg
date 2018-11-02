@@ -1,0 +1,8 @@
+hj net/minecraft/nbt/ByteArrayTag
+	f value
+	a ()B getType
+	a (Ljava/io/DataInput;ILhv;)V read
+	a (Ljava/io/DataOutput;)V write
+	b (I)V remove
+	b (ILic;)V add
+	c ()[B getArray

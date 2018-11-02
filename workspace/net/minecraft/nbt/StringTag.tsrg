@@ -1,0 +1,6 @@
+ib net/minecraft/nbt/StringTag
+	f value
+	a ()B getType
+	a (Ljava/io/DataInput;ILhv;)V read
+	a (Ljava/io/DataOutput;)V write
+	c_ ()Ljava/lang/String; get

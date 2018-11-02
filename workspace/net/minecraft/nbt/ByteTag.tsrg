@@ -1,0 +1,12 @@
+hk net/minecraft/nbt/ByteTag
+	f value
+	a ()B getType
+	a (Ljava/io/DataInput;ILhv;)V read
+	a (Ljava/io/DataOutput;)V write
+	d ()J asLong
+	e ()I asInt
+	f ()S asShort
+	g ()B asByte
+	h ()D asDouble
+	i ()F asFloat
+	j ()Ljava/lang/Number; asNumber

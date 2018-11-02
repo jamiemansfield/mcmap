@@ -1,0 +1,9 @@
+ht net/minecraft/nbt/LongArrayTag
+	f value
+	a ()B getType
+	a (ILic;)V put
+	a (Ljava/io/DataInput;ILhv;)V read
+	a (Ljava/io/DataOutput;)V write
+	b (I)V remove
+	b (ILic;)V add
+	f ()[J getArray
