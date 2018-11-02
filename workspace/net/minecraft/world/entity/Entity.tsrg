@@ -1,0 +1,2 @@
+afv net/minecraft/world/entity/Entity
+	f (Lhm;)V load

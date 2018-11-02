@@ -1,0 +1,2 @@
+net/minecraft/server/MinecraftServer net/minecraft/server/MinecraftServer
+	g ()Lazq; getGameMode

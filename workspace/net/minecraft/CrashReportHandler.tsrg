@@ -1,0 +1,2 @@
+b net/minecraft/CrashReportHandler
+	i ()Ljava/lang/String; getWittyComment

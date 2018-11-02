@@ -2,3 +2,4 @@ hm net/minecraft/nbt/CompoundTag
 	a ()B getType
 	a (Ljava/io/DataInput;ILhv;)V read
 	a (Ljava/io/DataOutput;)V write
+	l (Ljava/lang/String;)Ljava/lang/String; getString

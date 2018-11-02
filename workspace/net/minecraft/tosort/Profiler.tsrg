@@ -1,4 +1,4 @@
-adx adx
+adx net/minecraft/tosort/Profiler
 	a ()V startTick
 	a (Ljava/lang/String;)V push
 	a (Ljava/util/function/Supplier;)V push
