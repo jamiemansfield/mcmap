@@ -1,0 +1,10 @@
+jf net/minecraft/text/Style
+	b colour
+	c bold
+	d italic
+	e underlined
+	f strikethrough
+	g obfuscated
+	h clickEvent
+	i hoverEvent
+	j insertion

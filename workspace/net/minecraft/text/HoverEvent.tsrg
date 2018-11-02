@@ -1,0 +1,5 @@
+ja net/minecraft/text/HoverEvent
+	a action
+	b value
+	a ()Lja$a; getAction
+	b ()Lix; getValue

@@ -1,0 +1,3 @@
+jd net/minecraft/text/ScoreComponent
+	b name
+	d objective

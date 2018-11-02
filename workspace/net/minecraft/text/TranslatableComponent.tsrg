@@ -1,0 +1,5 @@
+jh net/minecraft/text/TranslatableComponent
+	f key
+	g args
+	k ()Ljava/lang/String; getKey
+	l ()[Ljava/lang/Object; getArgs

@@ -1,0 +1,2 @@
+ix net/minecraft/text/Component
+	b ()Ljf; getStyle
