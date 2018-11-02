@@ -1,0 +1,6 @@
+ud ud
+	a level
+	c gameMode
+	a (Lazq;)V setGameMode
+	a (Lua;)V setLevel
+	b ()Lazq; getGameMode

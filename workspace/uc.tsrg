@@ -1,0 +1,7 @@
+uc uc
+	b server
+	cb locale
+	cv seenCredits
+	s ()Lua; getLevel
+	t ()Z isSpectator
+	u ()Z isCreative

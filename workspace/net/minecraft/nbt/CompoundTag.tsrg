@@ -3,12 +3,14 @@ hm net/minecraft/nbt/CompoundTag
 	a ()B getType
 	a (Ljava/io/DataInput;ILhv;)V read
 	a (Ljava/io/DataOutput;)V write
+	a (Ljava/lang/String;)Ljava/util/UUID; getUuid
 	a (Ljava/lang/String;B)V putByte
 	a (Ljava/lang/String;D)V putDouble
 	a (Ljava/lang/String;F)V putFloat
 	a (Ljava/lang/String;J)V putLong
 	a (Ljava/lang/String;Lic;)V put
 	a (Ljava/lang/String;Ljava/lang/String;)V putString
+	a (Ljava/lang/String;Ljava/util/UUID;)V putUuid
 	a (Ljava/lang/String;S)V putShort
 	a (Ljava/lang/String;Z)V putBoolean
 	a (Ljava/lang/String;[B)V putByteArray

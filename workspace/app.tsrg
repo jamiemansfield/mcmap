@@ -1,0 +1,14 @@
+app app
+	a invulnerable
+	b flying
+	c mayfly
+	d instabuild
+	e mayBuild
+	f flySpeed
+	g walkSpeed
+	a ()F getFlySpeed
+	a (D)V setFlySpeed
+	a (F)V setWalkSpeed
+	a (Lhm;)V writeToTag
+	b ()F getWalkSpeed
+	b (Lhm;)V readFromTag

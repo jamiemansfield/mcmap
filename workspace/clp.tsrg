@@ -1,0 +1,3 @@
+clp clp
+	t ()Z isSpectator
+	u ()Z isCreative
