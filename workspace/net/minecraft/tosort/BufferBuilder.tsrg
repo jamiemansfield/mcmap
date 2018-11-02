@@ -1,0 +1,12 @@
+cla net/minecraft/tosort/BufferBuilder
+	a (FFF)V sortQuads
+	a (I)V fixupQuadColor
+	a (ILclg;)V begin
+	a (Lcla$a;)V restoreState
+	b (IIII)Lcla; color
+	c ()V noColor
+	c (DDD)V offset
+	c (FFF)Lcla; normal
+	d ()V endVertex
+	e ()V end
+	i ()I getDrawMode

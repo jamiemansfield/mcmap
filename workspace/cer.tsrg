@@ -1,0 +1,20 @@
+cer cer
+	B gameMode
+	G difficulty
+	i spawnX
+	j spawnY
+	k spawnZ
+	l time
+	a (I)V setSpawnX
+	a (J)V setTime
+	a (Laem;)V setDifficulty
+	a (Lazq;)V setGameMode
+	a (Leq;)V setSpawn
+	b ()I getSpawnX
+	b (I)V setSpawnY
+	c ()I getSpawnY
+	c (I)V setSpawnZ
+	d ()I getSpawnZ
+	e ()J getTime
+	q ()Lazq; getGameMode
+	x ()Laem; getDifficulty

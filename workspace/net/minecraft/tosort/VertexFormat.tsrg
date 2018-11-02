@@ -1,0 +1,16 @@
+clg net/minecraft/tosort/VertexFormat
+	b elements
+	a ()V clear
+	a (I)Z hasUv
+	a (Lclh;)Lclg; addElement
+	b ()Z hasNormal
+	b (I)I getUvOffset
+	c ()I getNormalOffset
+	c (I)Lclh; getElement
+	d ()Z hasColor
+	d (I)I getOffset
+	e ()I getColorOffset
+	f ()I getIntegerSize
+	g ()I getVertexSize
+	h ()Ljava/util/List; getElements
+	i ()I getElementCount

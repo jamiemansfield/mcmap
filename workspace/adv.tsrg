@@ -1,0 +1,6 @@
+adv adv
+	a (Ljava/lang/String;)V push
+	a (Ljava/util/function/Supplier;)V push
+	b (Ljava/lang/String;)V popAndPush
+	b (Ljava/util/function/Supplier;)V popAndPush
+	c ()V pop

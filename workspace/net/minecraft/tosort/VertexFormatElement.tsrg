@@ -1,0 +1,7 @@
+clh net/minecraft/tosort/VertexFormatElement
+	c type
+	b ()Lclh$b; getType
+	c ()I getCount
+	d ()I getIndex
+	e ()I getByteSize
+	f ()Z isPosition
