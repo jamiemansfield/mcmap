@@ -1,5 +1,35 @@
 hm net/minecraft/nbt/CompoundTag
+	h tags
 	a ()B getType
 	a (Ljava/io/DataInput;ILhv;)V read
 	a (Ljava/io/DataOutput;)V write
+	a (Ljava/lang/String;B)V putByte
+	a (Ljava/lang/String;D)V putDouble
+	a (Ljava/lang/String;F)V putFloat
+	a (Ljava/lang/String;J)V putLong
+	a (Ljava/lang/String;Lic;)V put
+	a (Ljava/lang/String;Ljava/lang/String;)V putString
+	a (Ljava/lang/String;S)V putShort
+	a (Ljava/lang/String;Z)V putBoolean
+	a (Ljava/lang/String;[B)V putByteArray
+	a (Ljava/lang/String;[I)V putIntArray
+	a (Ljava/lang/String;[J)V putLongArray
+	b (Ljava/lang/String;I)V putInt
+	c ()Ljava/util/Set; keySet
+	c (Ljava/lang/String;)Lic; get
+	d ()I size
+	d (Ljava/lang/String;)B getTagType
+	d (Ljava/lang/String;I)Lhs; getList
+	e (Ljava/lang/String;)Z contains
+	f (Ljava/lang/String;)B getByte
+	g (Ljava/lang/String;)S getShort
+	i (Ljava/lang/String;)J getLong
+	j (Ljava/lang/String;)F getFloat
+	k (Ljava/lang/String;)D getDouble
 	l (Ljava/lang/String;)Ljava/lang/String; getString
+	m (Ljava/lang/String;)[B getByteArray
+	n (Ljava/lang/String;)[I getIntArray
+	o (Ljava/lang/String;)[J getLongArray
+	p (Ljava/lang/String;)Lhm; getCompound
+	q (Ljava/lang/String;)Z getBoolean
+	r (Ljava/lang/String;)V remove

@@ -1,8 +1,9 @@
 hr net/minecraft/nbt/IntTag
-	f value
+	f data
 	a ()B getType
 	a (Ljava/io/DataInput;ILhv;)V read
 	a (Ljava/io/DataOutput;)V write
+	c ()Lhr; copy
 	d ()J asLong
 	e ()I asInt
 	f ()S asShort

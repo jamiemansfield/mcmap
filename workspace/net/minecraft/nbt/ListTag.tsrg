@@ -1,9 +1,23 @@
 hs net/minecraft/nbt/ListTag
+	g list
 	h type
 	a ()B getType
+	a (I)Lic; remove
 	a (ILic;)V put
+	a (Lic;)Z add
 	a (Ljava/io/DataInput;ILhv;)V read
 	a (Ljava/io/DataOutput;)V write
 	a_ ()I getType
 	b (I)V remove
 	b (ILic;)V add
+	c ()Lhs; copy
+	c (ILic;)Lic; put
+	d (I)Lic; get
+	e (I)Lhm; getCompound
+	f (I)Lhs; getList
+	g (I)S getShort
+	h (I)I getInt
+	i (I)[I getIntArray
+	k (I)D getDouble
+	l (I)F getFloat
+	m (I)Ljava/lang/String; getString
