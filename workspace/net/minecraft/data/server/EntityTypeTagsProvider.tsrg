@@ -1,0 +1,2 @@
+hc net/minecraft/data/server/EntityTypeTagsProvider
+	a ()Ljava/lang/String; getName

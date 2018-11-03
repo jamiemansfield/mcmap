@@ -1,0 +1,4 @@
+fy net/minecraft/data/server/AdvancementsProvider
+	d generator
+	a ()Ljava/lang/String; getName
+	a (Lfx;)V run

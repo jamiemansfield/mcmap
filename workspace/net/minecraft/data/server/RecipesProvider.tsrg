@@ -1,0 +1,4 @@
+gs net/minecraft/data/server/RecipesProvider
+	d generator
+	a ()Ljava/lang/String; getName
+	a (Lfx;)V run

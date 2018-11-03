@@ -1,0 +1,5 @@
+fx net/minecraft/data/DataCache
+	b root
+	b ()V deleteAll
+	b (Ljava/nio/file/Path;)Z contains
+	c ()Ljava/util/stream/Stream; files
