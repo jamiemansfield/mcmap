@@ -1,0 +1,6 @@
+bpj net/minecraft/world/level/chunk/ChunkNibbleArray
+	a data
+	a (II)V set
+	a (IIII)V set
+	b (III)I get
+	c ()Z isValid

@@ -1,0 +1,7 @@
+cxc net/minecraft/tosort/client/ServerAddress
+	a host
+	b port
+	a ()Ljava/lang/String; getHost
+	a (Ljava/lang/String;)Lcxc; parseString
+	a (Ljava/lang/String;I)I parseInt
+	b ()I getPort

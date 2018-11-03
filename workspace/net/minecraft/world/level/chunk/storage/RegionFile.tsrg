@@ -1,0 +1,19 @@
+bqf net/minecraft/world/level/chunk/storage/RegionFile
+	a emptySector
+	b fileName
+	c file
+	d offsets
+	e chunkTimestamps
+	f sectorFree
+	g sizeDelta
+	h lastModified
+	a (II)Ljava/io/DataInputStream; getChunkDataInputStream
+	a (III)V setOffset
+	a (II[BI)V write
+	a (I[BI)V write
+	b (III)V setTimestamp
+	c ()V close
+	c (II)Ljava/io/DataOutputStream; getChunkDataOutputStream
+	d (II)Z hasChunk
+	e (II)Z outOfBounds
+	f (II)I getOffset

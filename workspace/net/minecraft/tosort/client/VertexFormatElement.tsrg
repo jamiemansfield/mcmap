@@ -1,5 +1,7 @@
-clh net/minecraft/tosort/VertexFormatElement
+clh net/minecraft/tosort/client/VertexFormatElement
 	c type
+	d index
+	e count
 	b ()Lclh$b; getType
 	c ()I getCount
 	d ()I getIndex

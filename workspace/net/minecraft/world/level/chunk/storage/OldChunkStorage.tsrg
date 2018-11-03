@@ -1,0 +1,3 @@
+bqe net/minecraft/world/level/chunk/storage/OldChunkStorage
+	a (Lbqe$a;Lhm;Lbas;)V convertToAnvilFormat
+	a (Lhm;)Lbqe$a; load

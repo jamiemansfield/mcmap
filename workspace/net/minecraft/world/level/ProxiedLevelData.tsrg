@@ -1,4 +1,5 @@
-cen cen
+cen net/minecraft/world/level/ProxiedLevelData
+	b data
 	a (I)V setSpawnX
 	a (J)V setTime
 	a (Laem;)V setDifficulty

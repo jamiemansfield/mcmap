@@ -1,4 +1,4 @@
-cla net/minecraft/tosort/BufferBuilder
+cla net/minecraft/tosort/client/BufferBuilder
 	a (FFF)V sortQuads
 	a (I)V fixupQuadColor
 	a (ILclg;)V begin
