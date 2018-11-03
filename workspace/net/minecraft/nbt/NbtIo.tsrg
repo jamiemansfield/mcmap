@@ -1,0 +1,11 @@
+hw net/minecraft/nbt/NbtIo
+	a (Lhm;Ljava/io/DataOutput;)V write
+	a (Lhm;Ljava/io/File;)V safeWrite
+	a (Lhm;Ljava/io/OutputStream;)V writeCompressed
+	a (Lic;Ljava/io/DataOutput;)V write
+	a (Ljava/io/DataInput;ILhv;)Lic; read
+	a (Ljava/io/DataInput;Lhv;)Lhm; read
+	a (Ljava/io/DataInputStream;)Lhm; read
+	a (Ljava/io/File;)Lhm; read
+	a (Ljava/io/InputStream;)Lhm; readCompressed
+	b (Lhm;Ljava/io/File;)V write

@@ -20,4 +20,6 @@ fh net/minecraft/core/MappedRegistry
 	x DIMENSION_TYPE
 	y MOTIVE
 	z CUSTOM_STAT
+	a (Lfh;Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object; register
 	a (Lpu;)Ljava/lang/Object; get
+	b (Ljava/lang/Object;)Lpu; getKey

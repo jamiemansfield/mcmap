@@ -1,0 +1,2 @@
+axb net/minecraft/tosort/recipe/Recipe
+	b ()Lpu; getId

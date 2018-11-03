@@ -11,6 +11,7 @@ hs net/minecraft/nbt/ListTag
 	b (I)V remove
 	b (ILic;)V add
 	c ()Lhs; copy
+	c (I)Lic; getTag
 	c (ILic;)Lic; put
 	d (I)Lic; get
 	e (I)Lhm; getCompound

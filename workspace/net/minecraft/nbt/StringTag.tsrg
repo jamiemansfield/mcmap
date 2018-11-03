@@ -4,3 +4,4 @@ ib net/minecraft/nbt/StringTag
 	a (Ljava/io/DataInput;ILhv;)V read
 	a (Ljava/io/DataOutput;)V write
 	c ()Lib; copy
+	c_ ()Ljava/lang/String; get

@@ -1,0 +1,3 @@
+clp net/minecraft/client/MinecraftClient
+	t ()Z isSpectator
+	u ()Z isCreative

@@ -103,8 +103,11 @@ afz net/minecraft/world/entity/EntityType
 	z FALLING_BLOCK
 	a ()Z canSerialize
 	a (ILazt;)Lafv; create
+	a (Lafz;)Lpu; getKey
 	a (Lazt;)Lafv; create
 	a (Lazt;Lafz;)Lafv; create
 	a (Lazt;Lpu;)Lafv; create
 	a (Lhm;Lazt;)Lafv; create
+	a (Ljava/lang/String;)Lafz; byId
+	a (Ljava/lang/String;Lafz$a;)Lafz; register
 	b ()Z canSummon
