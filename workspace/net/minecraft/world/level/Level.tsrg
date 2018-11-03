@@ -1,1 +1,14 @@
 azt net/minecraft/world/level/Level
+	F profiler
+	s random
+	t dimension
+	y data
+	A ()Laxc; getRecipeManager
+	T ()J getTime
+	a (J)V setTime
+	ae ()Ladx; getProfiler
+	g ()Lcer; getData
+	m ()Ljava/util/Random; getRandom
+	o ()Lbqi; getDimension
+	w ()Lnet/minecraft/server/MinecraftServer; getServer
+	w (Leq;)V setSpawn

@@ -1,0 +1,2 @@
+bql net/minecraft/world/OverworldDimension
+	p ()Lbqj; getType

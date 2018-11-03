@@ -1,7 +1,25 @@
-cen cen
+cer net/minecraft/world/level/LevelData
+	B gameMode
+	G difficulty
+	a DEFAULT_DIFFICULTY
+	b versionName
+	c versionId
+	d versionSnapshot
+	i spawnX
+	j spawnY
+	k spawnZ
+	l time
+	n lastPlayed
+	o sizeOnDisk
+	p dataFixer
+	u name
+	L ()I getVersionId
+	M ()Z isVersionSnapshot
+	N ()Ljava/lang/String; getVersionName
 	a (I)V setSpawnX
 	a (J)V setTime
 	a (Laem;)V setDifficulty
+	a (Lazq;)V setGameMode
 	a (Leq;)V setSpawn
 	a (Ljava/lang/String;)V setName
 	b ()I getSpawnX

@@ -25,6 +25,7 @@ hm net/minecraft/nbt/CompoundTag
 	e (Ljava/lang/String;)Z contains
 	f (Ljava/lang/String;)B getByte
 	g (Ljava/lang/String;)S getShort
+	h (Ljava/lang/String;)I getInt
 	i (Ljava/lang/String;)J getLong
 	j (Ljava/lang/String;)F getFloat
 	k (Ljava/lang/String;)D getDouble

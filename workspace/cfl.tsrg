@@ -1,0 +1,6 @@
+cfl cfl
+	a CONSTANT
+	b UNIFORM
+	c BINOMIAL
+	a ()Lpu; getId
+	a (Ljava/util/Random;)I nextInt

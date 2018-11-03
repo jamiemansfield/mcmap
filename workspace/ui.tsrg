@@ -1,0 +1,4 @@
+ui ui
+	g ()Lcer; getData
+	m ()Ljava/util/Random; getRandom
+	o ()Lbqi; getDimension

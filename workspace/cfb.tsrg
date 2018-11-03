@@ -1,0 +1,3 @@
+cfb cfb
+	a ()Lpu; getId
+	a (Ljava/util/Random;)I nextInt

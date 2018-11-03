@@ -1,0 +1,6 @@
+bll net/minecraft/world/block/entity/BlockEntity
+	c_ level
+	e type
+	C ()Lblm; getType
+	F ()Lazt; getLevel
+	a (Lazt;)V setLevel

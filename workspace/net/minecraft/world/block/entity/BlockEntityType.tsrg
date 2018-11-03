@@ -1,0 +1,35 @@
+blm net/minecraft/world/block/entity/BlockEntityType
+	A SMOKER
+	B BLAST_FURNACE
+	C LECTERN
+	D BELL
+	F factory
+	a FURNACE
+	b CHEST
+	c TRAPPED_CHEST
+	d ENDER_CHEST
+	e JUKEBOX
+	f DISPENSER
+	g DROPPER
+	h SIGN
+	i MOB_SPAWNER
+	j PISTON
+	k BREWING_STAND
+	l ENCHANTING_TABLE
+	m END_PORTAL
+	n BEACON
+	o SKULL
+	p DAYLIGHT_DETECTOR
+	q HOPPER
+	r COMPARATOR
+	s BANNER
+	t STRUCTURE_BLOCK
+	u END_GATEWAY
+	v COMMAND_BLOCK
+	w SHULKER_BOX
+	x BED
+	y CONDUIT
+	z BARREL
+	a ()Lbll; create
+	a (Lblm;)Lpu; getKey
+	a (Ljava/lang/String;Lblm$a;)Lblm; register

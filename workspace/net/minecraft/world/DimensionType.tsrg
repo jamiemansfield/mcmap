@@ -1,0 +1,10 @@
+bqj net/minecraft/world/DimensionType
+	a OVERWORLD
+	b NETHER
+	c END
+	g factory
+	a ()Ljava/lang/Iterable; types
+	a (Lazt;)Lbqi; create
+	a (Lbqj;)Lpu; getKey
+	a (Ljava/lang/String;Lbqj;)Lbqj; register
+	a (Lpu;)Lbqj; byId
