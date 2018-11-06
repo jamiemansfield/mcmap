@@ -1,0 +1,6 @@
+dmr net/minecraft/client/tutorial/TutorialStepType
+	g id
+	h factory
+	a ()Ljava/lang/String; getId
+	a (Ldmp;)Ldmq; create
+	a (Ljava/lang/String;)Ldmr; byId

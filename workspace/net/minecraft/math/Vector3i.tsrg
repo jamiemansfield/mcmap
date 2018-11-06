@@ -1,0 +1,8 @@
+fk net/minecraft/math/Vector3i
+	a x
+	b y
+	c z
+	e ZERO
+	o ()I getX
+	p ()I getY
+	q ()I getZ

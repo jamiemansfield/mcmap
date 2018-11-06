@@ -1,4 +1,6 @@
-eu eu
+eu net/minecraft/core/DefaultedMappedRegistry
+	B default
+	a ()Lpu; getDefault
 	a (I)Ljava/lang/Object; byId
 	a (Lpu;)Ljava/lang/Object; get
 	b (Ljava/lang/Object;)Lpu; getKey

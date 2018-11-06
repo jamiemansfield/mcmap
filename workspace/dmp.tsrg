@@ -1,0 +1,5 @@
+dmp dmp
+	a client
+	b currentStep
+	e ()Lclp; getClient
+	f ()Lazq; getGameMode

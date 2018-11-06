@@ -1,4 +1,5 @@
-yf net/minecraft/Mth
+yf net/minecraft/math/Mth
+	b SIN_TABLE
 	a (D)F sqrt
 	a (DD)D absMax
 	a (DDD)D clamp

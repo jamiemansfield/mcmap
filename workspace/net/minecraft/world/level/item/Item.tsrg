@@ -1,0 +1,2 @@
+auq net/minecraft/world/level/item/Item
+	b (I)Lauq; byId
