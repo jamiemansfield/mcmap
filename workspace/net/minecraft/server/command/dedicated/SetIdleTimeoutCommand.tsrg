@@ -1,0 +1,2 @@
+sk net/minecraft/server/command/dedicated/SetIdleTimeoutCommand
+	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

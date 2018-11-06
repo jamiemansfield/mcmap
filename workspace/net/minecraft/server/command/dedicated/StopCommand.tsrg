@@ -1,0 +1,2 @@
+so net/minecraft/server/command/dedicated/StopCommand
+	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

@@ -1,0 +1,10 @@
+il il
+	h destination
+	k channel
+	l address
+	m packetListener
+	a (Liq;)V setPacketListener
+	b ()Ljava/net/SocketAddress; getAddress
+	g ()Z isChannelOpen
+	i ()Liq; getPacketListener
+	l ()V handleDisconnection

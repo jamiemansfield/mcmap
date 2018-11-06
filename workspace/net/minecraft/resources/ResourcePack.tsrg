@@ -1,0 +1,3 @@
+uw net/minecraft/resources/ResourcePack
+	a rootDirectory
+	a ()Ljava/lang/String; getName

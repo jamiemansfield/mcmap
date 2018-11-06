@@ -1,2 +1,3 @@
 net/minecraft/server/MinecraftServer net/minecraft/server/MinecraftServer
+	aL ()Lby; getCommandTree
 	g ()Lazq; getGameMode

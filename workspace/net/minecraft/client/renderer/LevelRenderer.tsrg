@@ -2,3 +2,4 @@ czw net/minecraft/client/renderer/LevelRenderer
 	h client
 	j entityRenderDispatcher
 	k level
+	a (Lvt;)V reload

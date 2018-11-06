@@ -1,0 +1,2 @@
+sz net/minecraft/server/command/dedicated/WhitelistCommand
+	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

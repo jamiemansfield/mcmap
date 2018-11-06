@@ -1,2 +1,4 @@
 auq net/minecraft/world/level/item/Item
 	b (I)Lauq; byId
+	h ()Lauq; getItem
+	r ()Lauv; createInstance

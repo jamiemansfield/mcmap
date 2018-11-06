@@ -2,3 +2,5 @@ fd fd
 	a (I)Ljava/lang/Object; byId
 	a (Lpu;)Ljava/lang/Object; get
 	b (Ljava/lang/Object;)Lpu; getKey
+	b (Lpu;)Z containsKey
+	c ()Z isEmpty

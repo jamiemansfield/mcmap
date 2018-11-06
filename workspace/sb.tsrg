@@ -1,0 +1,2 @@
+sb sb
+	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

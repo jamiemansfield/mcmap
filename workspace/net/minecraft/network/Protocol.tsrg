@@ -1,0 +1,2 @@
+im net/minecraft/network/Protocol
+	a (Ljm;Ljava/lang/Class;)Lim; register

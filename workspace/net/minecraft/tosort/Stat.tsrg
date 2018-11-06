@@ -1,0 +1,5 @@
+xd net/minecraft/tosort/Stat
+	o formatter
+	q type
+	a ()Lxf; getType
+	a (I)Ljava/lang/String; FORMAT

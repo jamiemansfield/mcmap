@@ -26,3 +26,4 @@ fh net/minecraft/core/MappedRegistry
 	a (Lfh;Lpu;Ljava/lang/Object;)Ljava/lang/Object; register
 	a (Lpu;)Ljava/lang/Object; get
 	b (Ljava/lang/Object;)Lpu; getKey
+	b (Lpu;)Z containsKey

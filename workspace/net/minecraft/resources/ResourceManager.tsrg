@@ -1,0 +1,4 @@
+vv net/minecraft/resources/ResourceManager
+	c listeners
+	e type
+	b (Lvu;)Ljava/lang/String; reload
