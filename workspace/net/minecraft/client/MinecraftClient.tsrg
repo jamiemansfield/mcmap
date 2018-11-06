@@ -1,3 +1,14 @@
 clp net/minecraft/client/MinecraftClient
+	L instance
+	M dataFixer
+	T entityRenderDispatcher
+	as profiler
+	h level
+	i levelRenderer
+	o gameRenderer
+	X ()Ldei; getEntityRenderDispatcher
+	ad ()Lcom/mojang/datafixers/DataFixer; getDataFixer
+	ap ()Ladx; getProfiler
 	t ()Z isSpectator
 	u ()Z isCreative
+	v ()Lclp; get

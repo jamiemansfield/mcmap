@@ -1,0 +1,4 @@
+czw net/minecraft/client/renderer/LevelRenderer
+	h client
+	j entityRenderDispatcher
+	k level

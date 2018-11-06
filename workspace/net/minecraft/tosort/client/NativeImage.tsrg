@@ -1,0 +1,8 @@
+cki net/minecraft/tosort/client/NativeImage
+	c width
+	d heigh
+	a (II)I getPixelRGBA
+	a (III)V putPIxelRGBA
+	a (IIIILcki;)V resizeSubRect
+	b (III)V blendPixel
+	d ()[I makePixelArray

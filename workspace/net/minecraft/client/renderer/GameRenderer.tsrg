@@ -1,0 +1,4 @@
+czs net/minecraft/client/renderer/GameRenderer
+	f client
+	h random
+	l ()Lclp; getClient
