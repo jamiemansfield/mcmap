@@ -1,0 +1,3 @@
+dfy net/minecraft/client/renderer/entity/fishing/Salmon
+	a TEXTURE
+	a (Lafv;)Lpu; getTexture

@@ -1,0 +1,5 @@
+aps net/minecraft/client/model/ModelPart
+	h id
+	j name
+	b ()I getId
+	c ()Ljava/lang/String; getName

@@ -1,0 +1,8 @@
+cwq net/minecraft/client/model/Cube
+	c x
+	d y
+	e z
+	l polygons
+	t compiled
+	a (FFF)V setPos
+	d (F)V compiler
