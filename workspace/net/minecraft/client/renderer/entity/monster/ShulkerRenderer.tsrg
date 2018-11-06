@@ -1,0 +1,2 @@
+dgb net/minecraft/client/renderer/entity/monster/ShulkerRenderer
+	a (Lafv;)Lpu; getTexture

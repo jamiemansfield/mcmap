@@ -1,0 +1,2 @@
+dfa net/minecraft/client/renderer/entity/item/ItemEntityRenderer
+	a (Lafv;)Lpu; getTexture

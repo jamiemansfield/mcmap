@@ -1,0 +1,2 @@
+dgx net/minecraft/client/renderer/entity/boss/wither/WitherBossRenderer
+	a (Lafv;)Lpu; getTexture

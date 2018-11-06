@@ -1,0 +1,2 @@
+dgu net/minecraft/client/renderer/entity/npc/VillagerRenderer
+	a (Lafv;)Lpu; getTexture

@@ -1,0 +1,2 @@
+dgn net/minecraft/client/renderer/entity/projectile/ArrowRenderer
+	a (Lafv;)Lpu; getTexture

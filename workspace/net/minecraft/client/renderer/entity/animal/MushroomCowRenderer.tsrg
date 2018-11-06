@@ -1,1 +1,3 @@
 dfm net/minecraft/client/renderer/entity/animal/MushroomCowRenderer
+	a TEXTURE
+	a (Lafv;)Lpu; getTexture

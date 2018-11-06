@@ -1,1 +1,3 @@
 ddw net/minecraft/client/renderer/entity/animal/CowRenderer
+	a TEXTURE
+	a (Lafv;)Lpu; getTexture

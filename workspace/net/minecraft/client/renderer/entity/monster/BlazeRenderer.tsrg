@@ -1,1 +1,3 @@
 ddp net/minecraft/client/renderer/entity/monster/BlazeRenderer
+	a TEXTURE
+	a (Lafv;)Lpu; getTexture

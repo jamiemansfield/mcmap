@@ -1,4 +1,4 @@
-apr apr
+apr net/minecraft/world/entity/player/Player
 	cb profile
 	t ()Z isSpectator
 	u ()Z isCreative

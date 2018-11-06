@@ -1,0 +1,3 @@
+dfi net/minecraft/client/renderer/entity/projectile/LlamaSpitRenderer
+	a TEXTURE
+	a (Lafv;)Lpu; getTexture

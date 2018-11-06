@@ -1,0 +1,2 @@
+deu net/minecraft/client/renderer/entity/animal/horse/HorseRenderer
+	a (Lafv;)Lpu; getTexture

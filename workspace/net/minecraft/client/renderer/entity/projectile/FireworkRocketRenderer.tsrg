@@ -1,0 +1,2 @@
+dep net/minecraft/client/renderer/entity/projectile/FireworkRocketRenderer
+	a (Lafv;)Lpu; getTexture

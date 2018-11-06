@@ -1,1 +1,3 @@
 deg net/minecraft/client/renderer/entity/monster/EnderManRenderer
+	a TEXTURE
+	a (Lafv;)Lpu; getTexture

@@ -1,1 +1,3 @@
 dfz net/minecraft/client/renderer/entity/animal/SheepRenderer
+	a TEXTURE
+	a (Lafv;)Lpu; getTexture

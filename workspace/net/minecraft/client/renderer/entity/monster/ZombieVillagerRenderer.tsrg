@@ -1,0 +1,2 @@
+dhc net/minecraft/client/renderer/entity/monster/ZombieVillagerRenderer
+	a (Lafv;)Lpu; getTexture

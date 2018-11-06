@@ -1,1 +1,3 @@
 ddu net/minecraft/client/renderer/entity/animal/ChickenRender
+	a TEXTURE
+	a (Lafv;)Lpu; getTexture

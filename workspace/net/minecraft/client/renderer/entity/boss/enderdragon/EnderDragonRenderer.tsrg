@@ -1,0 +1,2 @@
+def net/minecraft/client/renderer/entity/boss/enderdragon/EnderDragonRenderer
+	a (Lafv;)Lpu; getTexture

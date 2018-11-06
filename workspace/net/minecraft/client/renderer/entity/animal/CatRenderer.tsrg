@@ -1,0 +1,2 @@
+ddr net/minecraft/client/renderer/entity/animal/CatRenderer
+	a (Lafv;)Lpu; getTexture

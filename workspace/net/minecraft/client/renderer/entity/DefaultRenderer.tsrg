@@ -1,0 +1,2 @@
+ddy net/minecraft/client/renderer/entity/DefaultRenderer
+	a (Lafv;)Lpu; getTexture

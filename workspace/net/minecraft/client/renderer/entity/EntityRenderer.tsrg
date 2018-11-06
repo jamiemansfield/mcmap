@@ -1,0 +1,5 @@
+dej net/minecraft/client/renderer/entity/EntityRenderer
+	a SHADOW_TEXTURE
+	b dispatcher
+	a (Lafv;)Lpu; getTexture
+	e ()Ldei; getDispatcher

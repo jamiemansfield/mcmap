@@ -1,0 +1,3 @@
+deq net/minecraft/client/renderer/entity/fishing/FishingHookRenderer
+	a TEXTURE
+	a (Lafv;)Lpu; getTexture

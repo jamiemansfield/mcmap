@@ -1,0 +1,3 @@
+dga net/minecraft/client/renderer/entity/projectile/ShulkerBulletRenderer
+	a TEXTURE
+	a (Lafv;)Lpu; getTexture

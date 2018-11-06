@@ -1,0 +1,3 @@
+ddv net/minecraft/client/renderer/entity/fishing/CodRenderer
+	a TEXTURE
+	a (Lafv;)Lpu; getTexture

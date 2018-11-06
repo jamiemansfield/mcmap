@@ -1,1 +1,2 @@
 der net/minecraft/client/renderer/entity/monster/GhastRenderer
+	a (Lafv;)Lpu; getTexture

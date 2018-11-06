@@ -1,2 +1,3 @@
 ddo net/minecraft/client/renderer/entity/ambient/BatRenderer
 	a TEXTURE
+	a (Lafv;)Lpu; getTexture
