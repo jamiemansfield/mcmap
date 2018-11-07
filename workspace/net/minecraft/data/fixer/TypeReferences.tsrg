@@ -1,4 +1,4 @@
-abp abp
+abp net/minecraft/data/fixer/TypeReferences
 	a LEVEL
 	b PLAYER
 	c CHUNK

@@ -1,0 +1,3 @@
+ti net/minecraft/server/dedicated/DedicatedServer
+	p gameMode
+	g ()Lazq; getGameMode

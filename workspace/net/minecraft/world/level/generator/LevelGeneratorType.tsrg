@@ -1,0 +1,9 @@
+baa net/minecraft/world/level/generator/LevelGeneratorType
+	b DEFAULT
+	c FLAT
+	d LARGE_BIOMES
+	e AMPLIFIED
+	f CUSTOMISED
+	g BUFFET
+	h DEBUG
+	i DEFAULT_1_1

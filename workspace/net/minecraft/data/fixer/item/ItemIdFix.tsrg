@@ -1,0 +1,3 @@
+aaq net/minecraft/data/fixer/item/ItemIdFix
+	a MAPPINGS
+	a (I)Ljava/lang/String; getModernId

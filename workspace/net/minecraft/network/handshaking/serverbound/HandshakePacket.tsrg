@@ -1,0 +1,7 @@
+om net/minecraft/network/handshaking/serverbound/HandshakePacket
+	a protocolVersion
+	b address
+	c port
+	d nextProtocol
+	b ()Lim; getNextProtocol
+	c ()I getProtocolVersion

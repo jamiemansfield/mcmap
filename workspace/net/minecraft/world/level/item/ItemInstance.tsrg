@@ -2,3 +2,4 @@ auv net/minecraft/world/level/item/ItemInstance
 	d count
 	g tag
 	a (Lhm;)Lauv; loaad
+	b (Lhm;)Lhm; writeToTag

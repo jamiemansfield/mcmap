@@ -1,0 +1,5 @@
+dbs net/minecraft/client/renderer/BlockEntityRenderDispatcher
+	a INSTANCE
+	f level
+	n renderers
+	a (Ljava/lang/Class;)Ldbt; getRenderer

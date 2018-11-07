@@ -1,0 +1,11 @@
+cxd cxd
+	a name
+	b ip
+	j textures
+	k icon
+	a ()Lhm; writeToTag
+	a (Lcxd$a;)V setTextures
+	a (Lhm;)Lcxd; readFromTag
+	a (Ljava/lang/String;)V setIcon
+	b ()Lcxd$a; getTextures
+	c ()Ljava/lang/String; getIcon
