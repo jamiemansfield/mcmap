@@ -1,4 +1,6 @@
 apr net/minecraft/world/entity/player/Player
-	cb profile
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag
+	ds ()Lcom/mojang/authlib/GameProfile; getProfile
 	t ()Z isSpectator
 	u ()Z isCreative

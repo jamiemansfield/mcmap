@@ -1,1 +1,3 @@
 anm net/minecraft/world/entity/decoration/Painting
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

@@ -1,1 +1,3 @@
 ama net/minecraft/world/entity/animal/horse/Llama
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

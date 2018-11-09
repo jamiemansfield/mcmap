@@ -1,1 +1,3 @@
 aob net/minecraft/world/entity/monster/Creeper
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

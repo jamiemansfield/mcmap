@@ -1,1 +1,3 @@
 ara net/minecraft/world/entity/vehicle/SpawnerMinecart
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

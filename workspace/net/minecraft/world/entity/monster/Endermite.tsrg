@@ -1,1 +1,3 @@
 aof net/minecraft/world/entity/monster/Endermite
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

@@ -1,1 +1,3 @@
 ant net/minecraft/world/entity/item/FallingBlockEntity
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

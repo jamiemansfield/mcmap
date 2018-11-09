@@ -1,1 +1,3 @@
 alh net/minecraft/world/entity/animal/Parrot
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

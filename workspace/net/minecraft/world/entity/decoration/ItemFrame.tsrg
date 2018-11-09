@@ -1,1 +1,3 @@
 anj net/minecraft/world/entity/decoration/ItemFrame
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

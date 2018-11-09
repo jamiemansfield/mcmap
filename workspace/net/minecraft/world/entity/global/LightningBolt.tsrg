@@ -1,1 +1,3 @@
 anr net/minecraft/world/entity/global/LightningBolt
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

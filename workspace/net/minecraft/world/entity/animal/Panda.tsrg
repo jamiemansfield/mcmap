@@ -1,1 +1,3 @@
 alg net/minecraft/world/entity/animal/Panda
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

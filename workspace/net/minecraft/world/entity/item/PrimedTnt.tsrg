@@ -1,1 +1,3 @@
 anv net/minecraft/world/entity/item/PrimedTnt
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

@@ -1,1 +1,3 @@
 aly net/minecraft/world/entity/animal/horse/Horse
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

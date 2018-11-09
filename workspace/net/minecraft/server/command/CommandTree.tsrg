@@ -1,5 +1,4 @@
 by net/minecraft/server/command/CommandTree
-	b commandDispatcher
 	a ()Lcom/mojang/brigadier/CommandDispatcher; getDispatcher
 	a (Ljava/io/File;)V writeToFile
 	a (Ljava/lang/String;)Lcom/mojang/brigadier/builder/LiteralArgumentBuilder; literal

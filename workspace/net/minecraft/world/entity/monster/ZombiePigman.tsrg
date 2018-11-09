@@ -1,1 +1,3 @@
 aos net/minecraft/world/entity/monster/ZombiePigman
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

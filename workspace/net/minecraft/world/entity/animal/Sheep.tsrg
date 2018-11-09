@@ -1,1 +1,3 @@
 aln net/minecraft/world/entity/animal/Sheep
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

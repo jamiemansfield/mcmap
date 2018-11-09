@@ -1,1 +1,3 @@
 aoz net/minecraft/world/entity/monster/Slime
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

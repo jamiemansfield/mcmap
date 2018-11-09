@@ -1,1 +1,2 @@
 blx net/minecraft/world/block/entity/FurnaceBlockEntity
+	f ()I getScrollbarPosition

@@ -1,1 +1,3 @@
 ali net/minecraft/world/entity/animal/Pig
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

@@ -1,5 +1,4 @@
 qh qh
-	f server
 	a ()Lnet/minecraft/server/MinecraftServer; getServer
 	a (Lvt;)V reload
 	d ()Lcom/mojang/brigadier/CommandDispatcher; getCommandDispatcher

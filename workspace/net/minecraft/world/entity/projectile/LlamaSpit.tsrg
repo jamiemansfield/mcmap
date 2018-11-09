@@ -1,1 +1,3 @@
 aqd net/minecraft/world/entity/projectile/LlamaSpit
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

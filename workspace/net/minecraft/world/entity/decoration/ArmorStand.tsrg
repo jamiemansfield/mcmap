@@ -1,1 +1,3 @@
 anh net/minecraft/world/entity/decoration/ArmorStand
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

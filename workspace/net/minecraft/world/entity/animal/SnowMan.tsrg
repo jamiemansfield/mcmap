@@ -1,1 +1,3 @@
 alp net/minecraft/world/entity/animal/SnowMan
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

@@ -1,1 +1,3 @@
 anf net/minecraft/world/entity/boss/wither/WitherBoss
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

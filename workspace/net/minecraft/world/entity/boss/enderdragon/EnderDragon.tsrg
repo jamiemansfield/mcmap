@@ -1,1 +1,3 @@
 aml net/minecraft/world/entity/boss/enderdragon/EnderDragon
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

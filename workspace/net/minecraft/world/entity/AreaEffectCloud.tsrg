@@ -1,1 +1,3 @@
 aft net/minecraft/world/entity/AreaEffectCloud
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

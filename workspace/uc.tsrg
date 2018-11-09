@@ -1,7 +1,8 @@
 uc uc
-	b server
 	cb locale
 	cv seenCredits
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag
 	s ()Lua; getLevel
 	t ()Z isSpectator
 	u ()Z isCreative

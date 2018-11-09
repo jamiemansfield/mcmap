@@ -1,1 +1,3 @@
 aqx net/minecraft/world/entity/vehicle/CommandBlockMinecart
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

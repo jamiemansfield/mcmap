@@ -1,2 +1,3 @@
 blt net/minecraft/world/block/entity/DispenserBlockEntity
 	a RANDOM
+	f ()I getScrollbarPosition

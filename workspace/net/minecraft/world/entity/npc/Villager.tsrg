@@ -1,1 +1,3 @@
 apm net/minecraft/world/entity/npc/Villager
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

@@ -1,1 +1,2 @@
 blz net/minecraft/world/block/entity/HopperBlockEntity
+	f ()I getScrollbarPosition

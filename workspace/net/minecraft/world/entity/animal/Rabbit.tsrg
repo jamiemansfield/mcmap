@@ -1,1 +1,3 @@
 all net/minecraft/world/entity/animal/Rabbit
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

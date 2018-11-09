@@ -1,0 +1,5 @@
+cxb cxb
+	c gameMode
+	a ()Lcom/mojang/authlib/GameProfile; getProfile
+	a (Lazq;)V setGameMode
+	b ()Lazq; getGameMode

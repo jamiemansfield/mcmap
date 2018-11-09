@@ -1,5 +1,9 @@
 auv net/minecraft/world/level/item/ItemInstance
 	d count
 	g tag
-	a (Lhm;)Lauv; loaad
+	A ()I getRepairCost
+	a (Lhm;)Lauv; load
+	b (I)V setDamage
 	b (Lhm;)Lhm; writeToTag
+	c (I)V setRepairCost
+	g ()I getDamage

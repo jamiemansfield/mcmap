@@ -1,3 +1,2 @@
 up up
-	e server
 	d ()Lnet/minecraft/server/MinecraftServer; getServer

@@ -1,2 +1,4 @@
 afv net/minecraft/world/entity/Entity
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag
 	f (Lhm;)V load

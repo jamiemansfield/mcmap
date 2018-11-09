@@ -1,1 +1,3 @@
 aoi net/minecraft/world/entity/monster/Ghast
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

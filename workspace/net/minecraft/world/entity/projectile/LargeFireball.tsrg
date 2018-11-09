@@ -1,1 +1,3 @@
 aqc net/minecraft/world/entity/projectile/LargeFireball
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

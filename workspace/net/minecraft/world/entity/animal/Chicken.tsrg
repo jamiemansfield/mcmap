@@ -1,1 +1,3 @@
 aky net/minecraft/world/entity/animal/Chicken
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

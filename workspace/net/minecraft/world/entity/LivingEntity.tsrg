@@ -1,1 +1,3 @@
 age net/minecraft/world/entity/LivingEntity
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

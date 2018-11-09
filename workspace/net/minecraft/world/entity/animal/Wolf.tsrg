@@ -1,1 +1,3 @@
 alu net/minecraft/world/entity/animal/Wolf
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

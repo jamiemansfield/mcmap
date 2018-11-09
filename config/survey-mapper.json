@@ -1,0 +1,83 @@
+{
+  "blacklist": [
+    "com/google/",
+    "com/mojang/",
+    "io/netty/",
+    "it/unimi/dsi/fastutil/",
+    "javax/annotation/",
+    "joptsimple/",
+    "net/minecraftforge/api/distmarker/",
+    "org/apache/"
+  ],
+  "mappers": [
+    {
+      "id": "enum-constants",
+      "type": "enum",
+      "config": {
+        "map_synthetic_values": true
+      }
+    },
+    {
+      "id": "gson-field",
+      "type": "field-name",
+      "config": {
+        "requirements": {
+          "static": true,
+          "final": true,
+          "synthetic": false
+        },
+        "desc": "Lcom/google/gson/Gson;",
+        "name": "GSON"
+      }
+    },
+    {
+      "id": "logger-field",
+      "type": "field-name",
+      "config": {
+        "requirements": {
+          "static": true,
+          "final": true,
+          "synthetic": false
+        },
+        "desc": "Lorg/apache/logging/log4j/Logger;",
+        "name": "LOGGER"
+      }
+    },
+    {
+      "id": "server-field",
+      "type": "field-name",
+      "config": {
+        "requirements": {
+          "static": false,
+          "synthetic": false
+        },
+        "desc": "Lnet/minecraft/server/MinecraftServer;",
+        "name": "server"
+      }
+    },
+    {
+      "id": "dispatcher-field",
+      "type": "field-name",
+      "config": {
+        "requirements": {
+          "static": false,
+          "synthetic": false
+        },
+        "desc": "Lcom/mojang/brigadier/CommandDispatcher;",
+        "name": "dispatcher"
+      }
+    },
+    {
+      "id": "profile-field",
+      "type": "field-name",
+      "config": {
+        "requirements": {
+          "static": false,
+          "synthetic": false
+        },
+        "desc": "Lcom/mojang/authlib/GameProfile;",
+        "name": "profile"
+      }
+    }
+  ]
+}

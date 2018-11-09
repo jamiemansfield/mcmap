@@ -1,1 +1,2 @@
 blg net/minecraft/world/block/entity/BarrelBlockEntity
+	f ()I getScrollbarPosition

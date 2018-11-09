@@ -1,1 +1,3 @@
 aph net/minecraft/world/entity/monster/Zombie
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

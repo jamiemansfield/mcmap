@@ -1,0 +1,10 @@
+coo coo
+	v proxy
+	a ()V renderItem
+	a (I)Z isSelectedItem
+	a (IIDD)Z selectItem
+	a (IIIIIIF)V renderItem
+	a (IIILnet/minecraft/realms/Tezzelator;)V renderSelected
+	d ()I getItemCount
+	f ()I getScrollbarPosition
+	n ()I getMaxPosition

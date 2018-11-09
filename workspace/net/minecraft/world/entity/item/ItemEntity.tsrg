@@ -1,1 +1,3 @@
 anu net/minecraft/world/entity/item/ItemEntity
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

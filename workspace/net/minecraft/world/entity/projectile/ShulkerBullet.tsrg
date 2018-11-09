@@ -1,1 +1,3 @@
 aqg net/minecraft/world/entity/projectile/ShulkerBullet
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

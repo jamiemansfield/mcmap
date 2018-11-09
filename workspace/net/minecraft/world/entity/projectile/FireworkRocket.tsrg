@@ -1,1 +1,3 @@
 aqb net/minecraft/world/entity/projectile/FireworkRocket
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag
