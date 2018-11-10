@@ -78,6 +78,30 @@
         "desc": "Lcom/mojang/authlib/GameProfile;",
         "name": "profile"
       }
+    },
+    {
+      "id": "profile-repository-field",
+      "type": "field-name",
+      "config": {
+        "requirements": {
+          "static": false,
+          "synthetic": false
+        },
+        "desc": "Lcom/mojang/authlib/GameProfileRepository;",
+        "name": "profileRepository"
+      }
+    },
+    {
+      "id": "session-service-field",
+      "type": "field-name",
+      "config": {
+        "requirements": {
+          "static": false,
+          "synthetic": false
+        },
+        "desc": "Lcom/mojang/authlib/minecraft/MinecraftSessionService;",
+        "name": "sessionService"
+      }
     }
   ]
 }

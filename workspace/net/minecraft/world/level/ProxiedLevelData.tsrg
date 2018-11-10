@@ -16,5 +16,7 @@ cen net/minecraft/world/level/ProxiedLevelData
 	j ()Ljava/lang/String; getName
 	l ()J getLastPlayed
 	q ()Lazq; getGameMode
+	s ()Z isHardcore
 	t ()Lbaa; getGeneratorType
+	u ()Z isCheats
 	x ()Laem; getDifficulty

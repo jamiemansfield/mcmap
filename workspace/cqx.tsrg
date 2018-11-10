@@ -1,4 +1,6 @@
 cqx cqx
+	a (Lauv;II)V renderTooltip
 	a (Ljava/lang/String;)V setCommand
+	c ()V init
 	i ()I getSuccessCount
 	m ()Z trackOutput

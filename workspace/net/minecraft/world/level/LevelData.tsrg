@@ -33,5 +33,7 @@ cer net/minecraft/world/level/LevelData
 	j ()Ljava/lang/String; getName
 	l ()J getLastPlayed
 	q ()Lazq; getGameMode
+	s ()Z isHardcore
 	t ()Lbaa; getGeneratorType
+	u ()Z isCheats
 	x ()Laem; getDifficulty

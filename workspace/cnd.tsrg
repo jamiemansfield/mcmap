@@ -4,6 +4,7 @@ cnd cnd
 	a (I)Z isSelectedItem
 	a (IIDD)Z selectItem
 	a (IIIIIIF)V renderItem
+	c (Z)V active
 	d ()I getItemCount
 	f ()I getScrollbarPosition
 	m ()Z trackOutput

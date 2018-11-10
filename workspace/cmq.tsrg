@@ -1,6 +1,11 @@
 cmq cmq
+	a ()V tick
 	a (I)V setSuccessCount
+	a (IIF)V render
 	a (Ljava/lang/String;)V setCommand
 	a (Z)V setTrackOutput
+	b ()Ljava/lang/String; getValue
+	c (Z)V active
 	d (Z)V render
+	g (I)V setMaxLength
 	m ()Z trackOutput

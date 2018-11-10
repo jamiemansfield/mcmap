@@ -5,3 +5,4 @@ cqr cqr
 	x title
 	a (Ljava/lang/String;)V setCommand
 	a (Z)V setTrackOutput
+	c ()V init

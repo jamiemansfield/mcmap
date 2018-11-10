@@ -1,2 +1,3 @@
 cpl cpl
 	g options
+	c ()V init

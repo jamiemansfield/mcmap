@@ -1,2 +1,3 @@
 cpb cpb
 	a (Lhm;)V readFromTag
+	c ()V init

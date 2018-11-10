@@ -1,2 +1,7 @@
 com com
 	a (Ljava/lang/String;)V setCommand
+	b ()I getSuccessCount
+	c ()I id
+	c (Z)V active
+	d ()Z active
+	g ()I getHeight

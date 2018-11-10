@@ -1,0 +1,3 @@
+cpy cpy
+	c ()V init
+	e ()Z isPauseScreen

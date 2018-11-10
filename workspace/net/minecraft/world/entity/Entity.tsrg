@@ -5,5 +5,7 @@ afv net/minecraft/world/entity/Entity
 	b (Lhm;)V writeToTag
 	b (Lix;)V setCustomName
 	c (Lix;)V setLastOutput
+	c (Z)V active
 	d (Z)V render
 	f (Lhm;)V load
+	g (I)V setMaxLength

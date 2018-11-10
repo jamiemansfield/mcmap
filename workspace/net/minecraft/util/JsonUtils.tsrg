@@ -1,4 +1,0 @@
-xy net/minecraft/util/JsonUtils
-	a (Lcom/google/gson/JsonObject;Ljava/lang/String;I)I getInt
-	a (Lcom/google/gson/JsonObject;Ljava/lang/String;Z)Z getBoolean
-	h (Lcom/google/gson/JsonObject;Ljava/lang/String;)Ljava/lang/String; getString

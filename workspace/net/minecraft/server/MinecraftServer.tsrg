@@ -6,6 +6,7 @@ net/minecraft/server/MinecraftServer net/minecraft/server/MinecraftServer
 	aL ()Lby; getCommandTree
 	aN ()Laxc; getRecipeManager
 	b (Lix;)V setCustomName
+	c (Z)V active
 	d ()Z start
 	d (Z)V render
 	g ()Lazq; getGameMode
