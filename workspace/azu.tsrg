@@ -1,3 +1,5 @@
 azu azu
+	ah ()Laem; getDifficulty
+	f ()Lazt; getLevel
 	g ()Lcer; getData
 	m ()Ljava/util/Random; getRandom

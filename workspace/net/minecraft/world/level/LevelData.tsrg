@@ -20,6 +20,7 @@ cer net/minecraft/world/level/LevelData
 	a (J)V setTime
 	a (Laem;)V setDifficulty
 	a (Lazq;)V setGameMode
+	a (Lbaa;)V setGeneratorType
 	a (Leq;)V setSpawn
 	a (Ljava/lang/String;)V setName
 	b ()I getSpawnX
@@ -32,4 +33,5 @@ cer net/minecraft/world/level/LevelData
 	j ()Ljava/lang/String; getName
 	l ()J getLastPlayed
 	q ()Lazq; getGameMode
+	t ()Lbaa; getGeneratorType
 	x ()Laem; getDifficulty

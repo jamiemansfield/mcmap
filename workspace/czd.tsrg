@@ -1,2 +1,5 @@
 czd czd
 	f client
+	a (I)V setSuccessCount
+	a (Lix;)V updateLastOutput
+	w ()Ljava/lang/String; getServerBrand

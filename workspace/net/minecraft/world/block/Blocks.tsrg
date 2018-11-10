@@ -1,4 +1,4 @@
-beu net/minecraft/world/block/BlockType
+beu net/minecraft/world/block/Blocks
 	a AIR
 	b STONE
 	c GRANITE

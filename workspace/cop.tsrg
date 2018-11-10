@@ -1,2 +1,3 @@
 cop cop
 	a proxy
+	i ()I getSuccessCount

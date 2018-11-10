@@ -19,6 +19,7 @@ hm net/minecraft/nbt/CompoundTag
 	b (Ljava/lang/String;I)V putInt
 	c ()Ljava/util/Set; keySet
 	c (Ljava/lang/String;)Lic; get
+	c (Ljava/lang/String;I)Z has
 	d ()I size
 	d (Ljava/lang/String;)B getTagType
 	d (Ljava/lang/String;I)Lhs; getList

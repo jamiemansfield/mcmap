@@ -1,2 +1,3 @@
 cpc cpc
 	a (Lhm;)V readFromTag
+	a (Ljava/lang/String;)V setCommand

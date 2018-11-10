@@ -1,0 +1,28 @@
+anl net/minecraft/world/block/Motive
+	a KEBAB
+	b AZTEC
+	c ALBAN
+	d AZTEC2
+	e BOMB
+	f PLANT
+	g WASTELAND
+	h POOL
+	i COURBET
+	j SEA
+	k SUNSET
+	l CREEBET
+	m WANDERER
+	n GRAHAM
+	o MATCH
+	p BUST
+	q STAGE
+	r VOID
+	s SKULL_AND_ROSES
+	t WITHER
+	u FIGHTERS
+	v POINTER
+	w PIGSCENE
+	x BURNING_SKULL
+	y SKELETON
+	z DONKEY_KONG
+	a (Ljava/lang/String;IIII)Lanl; register

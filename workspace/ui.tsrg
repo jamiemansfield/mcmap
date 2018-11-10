@@ -1,4 +1,5 @@
 ui ui
+	f ()Lazt; getLevel
 	g ()Lcer; getData
 	m ()Ljava/util/Random; getRandom
 	o ()Lbqi; getDimension

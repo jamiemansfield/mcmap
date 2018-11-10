@@ -1,0 +1,4 @@
+cqx cqx
+	a (Ljava/lang/String;)V setCommand
+	i ()I getSuccessCount
+	m ()Z trackOutput

@@ -1,3 +1,4 @@
 aob net/minecraft/world/entity/monster/Creeper
+	a (I)V setSuccessCount
 	a (Lhm;)V readFromTag
 	b (Lhm;)V writeToTag

@@ -1,4 +1,9 @@
 afv net/minecraft/world/entity/Entity
 	a (Lhm;)V readFromTag
+	a (Lix;)V updateLastOutput
+	al ()Z trackOutput
 	b (Lhm;)V writeToTag
+	b (Lix;)V setCustomName
+	c (Lix;)V setLastOutput
+	d (Z)V render
 	f (Lhm;)V load

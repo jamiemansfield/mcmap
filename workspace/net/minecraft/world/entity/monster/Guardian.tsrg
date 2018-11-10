@@ -1,1 +1,3 @@
 aok net/minecraft/world/entity/monster/Guardian
+	a (I)V setSuccessCount
+	a (Z)V setTrackOutput

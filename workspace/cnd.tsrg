@@ -6,4 +6,5 @@ cnd cnd
 	a (IIIIIIF)V renderItem
 	d ()I getItemCount
 	f ()I getScrollbarPosition
+	m ()Z trackOutput
 	n ()I getMaxPosition

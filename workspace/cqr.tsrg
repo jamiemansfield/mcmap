@@ -3,3 +3,5 @@ cqr cqr
 	u pageCount
 	w pages
 	x title
+	a (Ljava/lang/String;)V setCommand
+	a (Z)V setTrackOutput

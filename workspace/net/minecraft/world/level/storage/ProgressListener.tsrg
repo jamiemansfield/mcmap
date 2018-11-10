@@ -1,1 +1,5 @@
 yg net/minecraft/world/level/storage/ProgressListener
+	a (I)V setSuccessCount
+	a (Lix;)V updateLastOutput
+	b (Lix;)V setCustomName
+	c (Lix;)V setLastOutput

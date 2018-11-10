@@ -1,7 +1,9 @@
 uc uc
 	cb locale
 	cv seenCredits
+	a (I)V setSuccessCount
 	a (Lhm;)V readFromTag
+	a (Lix;)V updateLastOutput
 	b (Lhm;)V writeToTag
 	s ()Lua; getLevel
 	t ()Z isSpectator

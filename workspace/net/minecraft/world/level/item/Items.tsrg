@@ -1,4 +1,4 @@
-auw net/minecraft/world/level/item/ItemType
+auw net/minecraft/world/level/item/Items
 	a AIR
 	b STONE
 	c GRANITE

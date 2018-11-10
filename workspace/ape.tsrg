@@ -1,3 +1,5 @@
 ape ape
 	a (Lhm;)V readFromTag
+	a (Z)V setTrackOutput
 	b (Lhm;)V writeToTag
+	b (Lix;)V setCustomName

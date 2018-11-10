@@ -1,4 +1,4 @@
-auv net/minecraft/world/level/item/ItemInstance
+auv net/minecraft/world/level/item/ItemStack
 	d count
 	g tag
 	A ()I getRepairCost

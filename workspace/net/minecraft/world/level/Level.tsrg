@@ -7,6 +7,7 @@ azt net/minecraft/world/level/Level
 	T ()J getTime
 	a (J)V setTime
 	ae ()Ladx; getProfiler
+	f ()Lazt; getLevel
 	g ()Lcer; getData
 	m ()Ljava/util/Random; getRandom
 	o ()Lbqi; getDimension

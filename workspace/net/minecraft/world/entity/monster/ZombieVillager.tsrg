@@ -1,3 +1,4 @@
 api net/minecraft/world/entity/monster/ZombieVillager
+	a (I)V setSuccessCount
 	a (Lhm;)V readFromTag
 	b (Lhm;)V writeToTag

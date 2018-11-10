@@ -2,13 +2,24 @@ clp net/minecraft/client/MinecraftClient
 	L instance
 	M dataFixer
 	T entityRenderDispatcher
+	aO trackOutput
+	ae version
 	as profiler
 	h level
 	i levelRenderer
 	o gameRenderer
+	u options
+	B ()Ldlv; getIntegratedServer
+	T ()Lcom/mojang/authlib/minecraft/MinecraftSessionService; getSessionService
 	X ()Ldei; getEntityRenderDispatcher
+	a (I)V setSuccessCount
+	a (Z)V setTrackOutput
 	ad ()Lcom/mojang/datafixers/DataFixer; getDataFixer
+	al ()Z trackOutput
 	ap ()Ladx; getProfiler
+	b (Lix;)V setCustomName
+	d (Z)V render
+	i ()V stop
 	t ()Z isSpectator
 	u ()Z isCreative
 	v ()Lclp; get

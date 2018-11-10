@@ -1,0 +1,23 @@
+afe net/minecraft/world/entity/damage/DamageSource
+	a IN_FIRE
+	b LIGHTNING_BOLT
+	c ON_FIRE
+	d LAVA
+	e HOT_FLOOR
+	f IN_WALL
+	g CRAMMING
+	h DROWN
+	i STARVE
+	j CACTUS
+	k FALL
+	l FLY_INTO_WALL
+	m OUT_OF_WORLD
+	n GENERIC
+	o MAGIC
+	p WITHER
+	q ANVIL
+	r FALLING_BLOCK
+	s DRAGON_BREATH
+	t FIREWORKS
+	u DRYOUT
+	a ()Lafe; netherBed

@@ -3,6 +3,7 @@ cen net/minecraft/world/level/ProxiedLevelData
 	a (I)V setSpawnX
 	a (J)V setTime
 	a (Laem;)V setDifficulty
+	a (Lbaa;)V setGeneratorType
 	a (Leq;)V setSpawn
 	a (Ljava/lang/String;)V setName
 	b ()I getSpawnX
@@ -15,4 +16,5 @@ cen net/minecraft/world/level/ProxiedLevelData
 	j ()Ljava/lang/String; getName
 	l ()J getLastPlayed
 	q ()Lazq; getGameMode
+	t ()Lbaa; getGeneratorType
 	x ()Laem; getDifficulty

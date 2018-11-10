@@ -1,3 +1,12 @@
 net/minecraft/server/MinecraftServer net/minecraft/server/MinecraftServer
+	a (I)V setSuccessCount
+	a (Lix;)V updateLastOutput
+	a (Ljava/lang/String;)V setCommand
+	a (Z)V setTrackOutput
 	aL ()Lby; getCommandTree
+	aN ()Laxc; getRecipeManager
+	b (Lix;)V setCustomName
+	d ()Z start
+	d (Z)V render
 	g ()Lazq; getGameMode
+	h ()Laem; getDifficulty

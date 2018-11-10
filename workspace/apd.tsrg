@@ -1,3 +1,5 @@
 apd apd
+	a (I)V setSuccessCount
 	a (Lhm;)V readFromTag
+	a (Z)V setTrackOutput
 	b (Lhm;)V writeToTag

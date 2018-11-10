@@ -1,0 +1,3 @@
+cqn cqn
+	a (Ljava/lang/String;)V setCommand
+	i ()I getSuccessCount

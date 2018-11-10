@@ -1,3 +1,4 @@
 akr net/minecraft/world/entity/ambient/Bat
 	a (Lhm;)V readFromTag
+	a (Z)V setTrackOutput
 	b (Lhm;)V writeToTag

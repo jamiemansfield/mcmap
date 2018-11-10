@@ -1,3 +1,6 @@
 aft net/minecraft/world/entity/AreaEffectCloud
+	a (I)V setSuccessCount
 	a (Lhm;)V readFromTag
+	a (Z)V setTrackOutput
 	b (Lhm;)V writeToTag
+	i ()I getSuccessCount
