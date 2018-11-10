@@ -2,6 +2,8 @@ uc uc
 	cb locale
 	cv seenCredits
 	a (I)V setSuccessCount
+	a (Lblp;)V openCommandBlcok
+	a (Lbmg;)V openSign
 	a (Lhm;)V readFromTag
 	a (Lix;)V updateLastOutput
 	b (Lhm;)V writeToTag

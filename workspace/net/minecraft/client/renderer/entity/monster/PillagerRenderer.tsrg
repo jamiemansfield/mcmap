@@ -1,0 +1,2 @@
+dfu net/minecraft/client/renderer/entity/monster/PillagerRenderer
+	a (Lafv;)Lpu; getTexture

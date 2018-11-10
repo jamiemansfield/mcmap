@@ -1,0 +1,2 @@
+rs net/minecraft/server/command/MessageCommand
+	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

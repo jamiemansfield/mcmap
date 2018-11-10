@@ -1,4 +1,7 @@
 apr net/minecraft/world/entity/player/Player
+	a (Lblp;)V openCommandBlcok
+	a (Lbmg;)V openSign
+	a (Lbmk;)V openStructureBlock
 	a (Lhm;)V readFromTag
 	b (Lhm;)V writeToTag
 	ds ()Lcom/mojang/authlib/GameProfile; getProfile

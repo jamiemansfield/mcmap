@@ -1,0 +1,2 @@
+qt net/minecraft/server/command/BossBarCommand
+	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

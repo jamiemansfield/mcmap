@@ -1,0 +1,2 @@
+dec net/minecraft/client/renderer/entity/monster/DrownedRenderer
+	a (Lafv;)Lpu; getTexture

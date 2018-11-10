@@ -1,0 +1,2 @@
+qy net/minecraft/server/command/DebugCommand
+	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

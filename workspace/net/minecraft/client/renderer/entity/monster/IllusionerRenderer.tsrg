@@ -1,0 +1,2 @@
+dey net/minecraft/client/renderer/entity/monster/IllusionerRenderer
+	a (Lafv;)Lpu; getTexture

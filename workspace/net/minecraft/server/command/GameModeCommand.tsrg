@@ -1,0 +1,2 @@
+rk net/minecraft/server/command/GameModeCommand
+	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

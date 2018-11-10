@@ -1,0 +1,2 @@
+qw net/minecraft/server/command/DataPackCommand
+	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

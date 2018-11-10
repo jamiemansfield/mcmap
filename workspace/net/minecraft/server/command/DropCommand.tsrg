@@ -1,0 +1,3 @@
+rb net/minecraft/server/command/DropCommand
+	a SUGGESTION_PROVIDER
+	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

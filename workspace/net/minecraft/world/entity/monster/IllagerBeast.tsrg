@@ -1,0 +1,3 @@
+aom net/minecraft/world/entity/monster/IllagerBeast
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

@@ -1,0 +1,2 @@
+qv net/minecraft/server/command/CloneCommand
+	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

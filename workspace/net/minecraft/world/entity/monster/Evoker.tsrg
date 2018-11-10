@@ -1,0 +1,3 @@
+aoh net/minecraft/world/entity/monster/Evoker
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

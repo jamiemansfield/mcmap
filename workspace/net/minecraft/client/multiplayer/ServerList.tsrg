@@ -1,0 +1,10 @@
+cxe net/minecraft/client/multiplayer/ServerList
+	b client
+	c servers
+	a ()V load
+	a (I)Lcxd; get
+	a (ILcxd;)V set
+	a (Lcxd;)V add
+	b ()V save
+	b (I)V remove
+	c ()I size

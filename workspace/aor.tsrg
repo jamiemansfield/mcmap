@@ -1,4 +1,0 @@
-aor aor
-	a (I)V setSuccessCount
-	a (Lhm;)V readFromTag
-	b (Lhm;)V writeToTag

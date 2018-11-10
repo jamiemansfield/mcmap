@@ -1,0 +1,2 @@
+qu net/minecraft/server/command/ClearCommand
+	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

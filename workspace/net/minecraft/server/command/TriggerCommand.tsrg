@@ -1,0 +1,2 @@
+sx net/minecraft/server/command/TriggerCommand
+	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

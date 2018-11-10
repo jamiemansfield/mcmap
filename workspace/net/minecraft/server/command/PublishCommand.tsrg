@@ -1,0 +1,2 @@
+ry net/minecraft/server/command/PublishCommand
+	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

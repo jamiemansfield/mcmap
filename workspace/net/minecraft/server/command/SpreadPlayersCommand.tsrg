@@ -1,0 +1,2 @@
+sn net/minecraft/server/command/SpreadPlayersCommand
+	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

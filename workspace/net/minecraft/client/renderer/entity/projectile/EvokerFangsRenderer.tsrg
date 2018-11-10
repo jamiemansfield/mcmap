@@ -1,0 +1,2 @@
+dek net/minecraft/client/renderer/entity/projectile/EvokerFangsRenderer
+	a (Lafv;)Lpu; getTexture

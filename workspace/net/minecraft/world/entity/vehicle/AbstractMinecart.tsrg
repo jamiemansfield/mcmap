@@ -1,0 +1,5 @@
+aqs net/minecraft/world/entity/vehicle/AbstractMinecart
+	a (Lazt;DDDLaqs$a;)Laqs; create
+	a (Lhm;)V readFromTag
+	a (Z)V setTrackOutput
+	b (Lhm;)V writeToTag

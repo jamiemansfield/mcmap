@@ -1,0 +1,2 @@
+sl net/minecraft/server/command/SpawnPointCommand
+	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

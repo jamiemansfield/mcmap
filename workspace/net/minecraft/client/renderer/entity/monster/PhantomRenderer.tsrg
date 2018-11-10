@@ -1,0 +1,2 @@
+dfr net/minecraft/client/renderer/entity/monster/PhantomRenderer
+	a (Lafv;)Lpu; getTexture

@@ -1,0 +1,2 @@
+dex net/minecraft/client/renderer/entity/IllagerBeastRenderer
+	a (Lafv;)Lpu; getTexture

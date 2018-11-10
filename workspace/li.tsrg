@@ -1,0 +1,5 @@
+li li
+	a action
+	b entries
+	b ()Ljava/util/List; getEntries
+	c ()Lli$a; getAction

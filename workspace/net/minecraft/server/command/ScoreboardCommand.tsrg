@@ -1,0 +1,2 @@
+sh net/minecraft/server/command/ScoreboardCommand
+	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

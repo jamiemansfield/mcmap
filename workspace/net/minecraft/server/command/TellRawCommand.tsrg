@@ -1,0 +1,2 @@
+su net/minecraft/server/command/TellRawCommand
+	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

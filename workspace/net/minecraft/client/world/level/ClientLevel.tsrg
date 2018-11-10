@@ -1,3 +1,0 @@
-cxa net/minecraft/client/world/level/ClientLevel
-	d client
-	A ()Laxc; getRecipeManager

@@ -1,0 +1,2 @@
+sq net/minecraft/server/command/SummonCommand
+	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

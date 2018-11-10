@@ -1,0 +1,2 @@
+rh net/minecraft/server/command/FillCommand
+	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

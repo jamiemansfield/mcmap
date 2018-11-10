@@ -10,4 +10,5 @@ net/minecraft/server/MinecraftServer net/minecraft/server/MinecraftServer
 	d ()Z start
 	d (Z)V render
 	g ()Lazq; getGameMode
+	g (Ljava/lang/String;)V setServerBrand
 	h ()Laem; getDifficulty

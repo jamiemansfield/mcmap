@@ -1,5 +1,10 @@
 czd czd
+	cw serverBrand
 	f client
 	a (I)V setSuccessCount
+	a (Lblp;)V openCommandBlcok
+	a (Lbmg;)V openSign
+	a (Lbmk;)V openStructureBlock
 	a (Lix;)V updateLastOutput
+	g (Ljava/lang/String;)V setServerBrand
 	w ()Ljava/lang/String; getServerBrand

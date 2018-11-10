@@ -1,0 +1,2 @@
+dfw net/minecraft/client/renderer/entity/animal/PufferfishRenderer
+	a (Lafv;)Lpu; getTexture

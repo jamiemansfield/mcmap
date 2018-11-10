@@ -1,0 +1,2 @@
+re net/minecraft/server/command/EnchantCommand
+	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

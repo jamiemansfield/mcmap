@@ -1,5 +1,0 @@
-xf net/minecraft/tosort/StatType
-	a registry
-	a ()Lfh; getRegistry
-	a (Ljava/lang/Object;Lxe;)Lxd; get
-	b (Ljava/lang/Object;)Lxd; get

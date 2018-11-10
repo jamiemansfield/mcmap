@@ -1,0 +1,13 @@
+qk net/minecraft/server/ServerProperties
+	b properties
+	c file
+	a ()V generate
+	a (Ljava/lang/String;)Z contains
+	a (Ljava/lang/String;I)I getOrDefault
+	a (Ljava/lang/String;J)J getOrDefault
+	a (Ljava/lang/String;Ljava/lang/Object;)V set
+	a (Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String; getOrDefault
+	a (Ljava/lang/String;Z)Z getOrDefault
+	b ()V save
+	b (Ljava/lang/String;)V remove
+	c ()Ljava/io/File; getFile

@@ -1,0 +1,2 @@
+sf net/minecraft/server/command/SayCommand
+	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

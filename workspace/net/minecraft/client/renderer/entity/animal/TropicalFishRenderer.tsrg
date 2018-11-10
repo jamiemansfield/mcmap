@@ -1,0 +1,2 @@
+dgq net/minecraft/client/renderer/entity/animal/TropicalFishRenderer
+	a (Lafv;)Lpu; getTexture
