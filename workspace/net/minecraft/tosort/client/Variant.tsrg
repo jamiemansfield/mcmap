@@ -1,9 +1,0 @@
-dbe net/minecraft/tosort/client/Variant
-	a modelLocation
-	b rotation
-	c uvLock
-	d weight
-	a ()Lpu; getModelLocation
-	b ()Ldkk; getRotation
-	c ()Z getUvLock
-	d ()I getWeight

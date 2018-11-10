@@ -1,0 +1,3 @@
+alr net/minecraft/world/entity/animal/TropicalFish
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

@@ -1,0 +1,4 @@
+als net/minecraft/world/entity/animal/Turtle
+	a (Lhm;)V readFromTag
+	a (Z)V setTrackOutput
+	b (Lhm;)V writeToTag

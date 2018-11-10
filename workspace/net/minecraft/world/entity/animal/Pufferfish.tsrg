@@ -1,0 +1,3 @@
+alk net/minecraft/world/entity/animal/Pufferfish
+	a (Lhm;)V readFromTag
+	b (Lhm;)V writeToTag

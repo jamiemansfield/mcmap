@@ -1,0 +1,2 @@
+axb net/minecraft/world/item/recipe/Recipe
+	b ()Lpu; getId

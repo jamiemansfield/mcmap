@@ -1,0 +1,2 @@
+agq net/minecraft/world/entity/attribute/Attribute
+	a ()Ljava/lang/String; getName

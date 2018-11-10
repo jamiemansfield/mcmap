@@ -1,0 +1,2 @@
+dkk net/minecraft/client/renderer/model/BlockModelRotation
+	b ()Ldkk; getRotation

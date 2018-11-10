@@ -1,0 +1,9 @@
+dbe net/minecraft/client/renderer/model/Variant
+	a modelLocation
+	b rotation
+	c uvLock
+	d weight
+	a ()Lpu; getModelLocation
+	b ()Ldkk; getRotation
+	c ()Z getUvLock
+	d ()I getWeight

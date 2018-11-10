@@ -1,0 +1,7 @@
+axc net/minecraft/world/item/recipe/RecipeManager
+	d recipes
+	a (Lpu;)Laxb; get
+	a (Lvt;)V reload
+	b ()Ljava/util/Collection; values
+	c ()Ljava/util/Collection; keySets
+	d ()V clear

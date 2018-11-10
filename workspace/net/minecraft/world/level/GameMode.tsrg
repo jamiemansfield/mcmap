@@ -1,0 +1,5 @@
+azq net/minecraft/world/level/GameMode
+	f id
+	g name
+	a ()I getId
+	b ()Ljava/lang/String; getName

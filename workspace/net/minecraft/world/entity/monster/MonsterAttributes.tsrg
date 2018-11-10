@@ -1,0 +1,18 @@
+aov net/minecraft/world/entity/monster/MonsterAttributes
+	a MAX_HEALTH
+	b FOLLOW_RANGE
+	c KNOCKBACK_RESISTANCE
+	d MOVEMENT_SPEED
+	e FLYING_SPEED
+	f ATTACK_DAMAGE
+	g ATTACK_KNOCKBACK
+	h ATTACK_SPEED
+	i ARMOR
+	j ARMOR_TOUGHNESS
+	k LUCK
+	a (Lagr;)Lhm; writeToTag
+	a (Lagr;Lhm;)V readFromTag
+	a (Lags;)Lhm; writeToTag
+	a (Lagu;)Lhs; writeToTag
+	a (Lagu;Lhs;)V readFromTag
+	a (Lhm;)Lags; readFromTag
