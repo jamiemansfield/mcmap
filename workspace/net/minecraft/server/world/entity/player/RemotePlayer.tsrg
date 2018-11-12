@@ -1,4 +1,4 @@
-uc uc
+uc net/minecraft/server/world/entity/player/RemotePlayer
 	cb locale
 	cv seenCredits
 	a (I)V setSuccessCount

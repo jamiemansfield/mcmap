@@ -1,3 +1,4 @@
 aqu net/minecraft/world/entity/vehicle/Boat
 	a (Lhm;)V readFromTag
+	am ()Z isGrounded
 	b (Lhm;)V writeToTag

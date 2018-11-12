@@ -1,3 +1,4 @@
 aoe net/minecraft/world/entity/monster/EnderMan
 	a (Lhm;)V readFromTag
 	b (Lhm;)V writeToTag
+	dC ()Z mayBuild

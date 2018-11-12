@@ -1,5 +1,6 @@
 anv net/minecraft/world/entity/item/PrimedTnt
 	a (I)V setSuccessCount
 	a (Lhm;)V readFromTag
+	am ()Z isGrounded
 	b (Lhm;)V writeToTag
 	i ()I getSuccessCount

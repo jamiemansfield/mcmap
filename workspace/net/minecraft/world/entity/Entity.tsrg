@@ -2,6 +2,7 @@ afv net/minecraft/world/entity/Entity
 	a (Lhm;)V readFromTag
 	a (Lix;)V updateLastOutput
 	al ()Z trackOutput
+	am ()Z isGrounded
 	b (Lhm;)V writeToTag
 	b (Lix;)V setCustomName
 	c (Lix;)V setLastOutput

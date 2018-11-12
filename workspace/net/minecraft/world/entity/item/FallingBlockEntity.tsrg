@@ -1,4 +1,5 @@
 ant net/minecraft/world/entity/item/FallingBlockEntity
 	a (Lhm;)V readFromTag
 	a (Z)V setTrackOutput
+	am ()Z isGrounded
 	b (Lhm;)V writeToTag

@@ -1,0 +1,6 @@
+btf net/minecraft/world/level/chunk/generator/feature/Feature
+	b VILLAGE
+	c MINESHAFT
+	d WOODLAND_MANSION
+	e JUNGLE_TEMPLE
+	a (Ljava/lang/String;Lbtf;)Lbtf; register
