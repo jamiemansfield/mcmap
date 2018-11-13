@@ -1,4 +1,0 @@
-bqi net/minecraft/world/Dimension
-	b level
-	f type
-	p ()Lbqj; getType

@@ -4,6 +4,7 @@ apr net/minecraft/world/entity/player/Player
 	a (Lbmg;)V openSign
 	a (Lbmk;)V openStructureBlock
 	a (Lhm;)V readFromTag
+	am ()Z isGrounded
 	b (Lhm;)V writeToTag
 	dC ()Z mayBuild
 	ds ()Lcom/mojang/authlib/GameProfile; getProfile

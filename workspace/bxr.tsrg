@@ -1,0 +1,5 @@
+bxr bxr
+	a count
+	b baseline
+	c spread
+	a (Lcom/mojang/datafixers/Dynamic;)Lbxr; create

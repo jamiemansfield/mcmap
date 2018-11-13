@@ -1,0 +1,2 @@
+dj net/minecraft/server/command/arguments/Vec2ArgumentType
+	a ()Ldj; create

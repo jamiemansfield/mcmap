@@ -1,0 +1,2 @@
+cz net/minecraft/server/command/arguments/BlockPredicateArgumentType
+	a ()Lcz; create

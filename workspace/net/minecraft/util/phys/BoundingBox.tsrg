@@ -1,0 +1,7 @@
+cii net/minecraft/util/phys/BoundingBox
+	a x0
+	b y0
+	c z0
+	d x1
+	e y1
+	f z1

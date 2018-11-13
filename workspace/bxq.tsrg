@@ -1,3 +1,4 @@
 bxq bxq
 	a min
 	b max
+	a (Lcom/mojang/datafixers/Dynamic;)Lbxq; create

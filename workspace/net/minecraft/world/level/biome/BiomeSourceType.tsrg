@@ -1,6 +1,6 @@
 bau net/minecraft/world/level/biome/BiomeSourceType
 	a CHECKERBOARD
-	b FIXEDF
+	b FIXED
 	c VANILLA_LAYERED
 	d THE_END
 	e factory

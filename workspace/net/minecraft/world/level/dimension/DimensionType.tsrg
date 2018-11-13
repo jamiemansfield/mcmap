@@ -1,4 +1,4 @@
-bqj net/minecraft/world/DimensionType
+bqj net/minecraft/world/level/dimension/DimensionType
 	a OVERWORLD
 	b NETHER
 	c END

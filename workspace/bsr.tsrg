@@ -1,0 +1,2 @@
+bsr bsr
+	a (Lcom/mojang/datafixers/Dynamic;)Lbsr; create

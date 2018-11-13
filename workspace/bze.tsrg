@@ -1,0 +1,7 @@
+bze bze
+	a width
+	b height
+	c depth
+	d hPos
+	a (Lhm;)V writeToTag
+	a (Lhm;Lbzs;)V readFromTag
