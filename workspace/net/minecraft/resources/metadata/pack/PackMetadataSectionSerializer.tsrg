@@ -1,0 +1,3 @@
+vf net/minecraft/resources/metadata/pack/PackMetadataSectionSerializer
+	a ()Ljava/lang/String; getMetadataSectionName
+	b (Lcom/google/gson/JsonObject;)Lve; deserialize

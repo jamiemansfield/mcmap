@@ -5,3 +5,4 @@ ix net/minecraft/text/Component
 	b ()Ljf; getStyle
 	c ()Ljava/util/stream/Stream; stream
 	d ()Ljava/lang/String; getValue
+ix$a net/minecraft/text/Component$Serializer

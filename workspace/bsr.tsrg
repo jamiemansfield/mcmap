@@ -1,2 +1,6 @@
 bsr bsr
+	a count
+	b bottomOffset
+	c topOffset
+	d maximum
 	a (Lcom/mojang/datafixers/Dynamic;)Lbsr; create

@@ -1,4 +1,4 @@
-cpt net/minecraft/client/gui/Screen
+cpt net/minecraft/client/gui/screen/Screen
 	f PROTOCOLS
 	k client
 	a (Lauv;II)V renderTooltip

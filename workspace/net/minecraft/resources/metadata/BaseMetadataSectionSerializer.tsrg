@@ -1,0 +1,2 @@
+vd net/minecraft/resources/metadata/BaseMetadataSectionSerializer
+	a ()Ljava/lang/String; getMetadataSectionName

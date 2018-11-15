@@ -1,0 +1,7 @@
+cpy net/minecraft/client/gui/screen/TitleScreen
+	D SPLASHES
+	E MINECRAFT_LOGO
+	F MINECRAFT_EDITION
+	f RANDOM
+	c ()V init
+	e ()Z isPauseScreen

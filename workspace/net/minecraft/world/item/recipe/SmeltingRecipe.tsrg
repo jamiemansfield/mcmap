@@ -1,0 +1,2 @@
+axk net/minecraft/world/item/recipe/SmeltingRecipe
+	b ()Lpu; getId

@@ -1,0 +1,7 @@
+awp net/minecraft/world/item/potion/Potions
+	a EMPTY
+	b WATER
+	c MUNDANE
+	d THICK
+	e AWKWARD
+	a (Ljava/lang/String;Lawm;)Lawm; register

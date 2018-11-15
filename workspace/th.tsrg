@@ -4,6 +4,7 @@ th th
 	C ()V saveOperatorList
 	D ()V loadWhitelist
 	E ()V saveWhitelist
+	c ()Lnet/minecraft/server/MinecraftServer; getServer
 	x ()V saveIpBanlist
 	y ()V saveUserBanlist
 	z ()V loadIpBanlist
