@@ -1,2 +1,4 @@
 bqb net/minecraft/world/level/chunk/storage/ThreadedAnvilChunkStorage
 	d fixer
+	a ()Z save
+	a (Lhm;Lazt;)Lafv; loadEntity

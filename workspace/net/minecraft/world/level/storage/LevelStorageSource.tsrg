@@ -1,0 +1,7 @@
+ceu net/minecraft/world/level/storage/LevelStorageSource
+	a ()Ljava/lang/String; getFormatName
+	a (Ljava/lang/String;Lyg;)Z convertLevel
+	b ()Ljava/util/List; getLevels
+	c (Ljava/lang/String;)Lcer; read
+	d (Ljava/lang/String;)Z makeLevel
+	e (Ljava/lang/String;)Z deleteLevel

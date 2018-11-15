@@ -1,0 +1,11 @@
+ceq net/minecraft/world/level/storage/OldLevelStorageSource
+	a root
+	c fixer
+	a ()Ljava/lang/String; getFormatName
+	a (Ljava/io/File;Lcom/mojang/datafixers/DataFixer;)Lcer; read
+	a (Ljava/lang/String;Lyg;)Z convertLevel
+	a ([Ljava/io/File;)Z delete
+	b ()Ljava/util/List; getLevels
+	c (Ljava/lang/String;)Lcer; read
+	d (Ljava/lang/String;)Z makeLevel
+	e (Ljava/lang/String;)Z deleteLevel

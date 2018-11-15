@@ -1,0 +1,3 @@
+cmd cmd
+	a (I)V setSuccessCount
+	a (Ljava/lang/String;)V setCommand

@@ -8,3 +8,5 @@ cei cei
 	g colors
 	k banners
 	l frames
+	a (Lhm;)V readFromTag
+	b (Lhm;)Lhm; writeToTag

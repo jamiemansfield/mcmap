@@ -1,0 +1,6 @@
+cmn cmn
+	a (I)V setSuccessCount
+	a (Lix;)V updateLastOutput
+	a (Ljava/lang/String;)V setCommand
+	a (Z)V setTrackOutput
+	f ()I getScrollbarPosition
