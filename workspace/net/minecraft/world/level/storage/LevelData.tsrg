@@ -1,4 +1,4 @@
-cer net/minecraft/world/level/LevelData
+cer net/minecraft/world/level/storage/LevelData
 	B gameMode
 	G difficulty
 	a DEFAULT_DIFFICULTY

@@ -1,0 +1,13 @@
+diy$a diy$Holder
+	b width
+	c height
+diy$b diy$Slot
+	a originX
+	b originY
+	c width
+	d height
+	e subSlots
+	f texture
+	a ()Ldiy$a; getTexture
+	b ()I getOriginX
+	c ()I getOriginY

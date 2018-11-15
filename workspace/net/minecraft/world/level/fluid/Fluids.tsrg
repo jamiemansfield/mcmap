@@ -1,4 +1,4 @@
-cbn cbn
+cbn net/minecraft/world/level/fluid/Fluids
 	a EMPTY
 	b FLOWING_WATER
 	c WATER

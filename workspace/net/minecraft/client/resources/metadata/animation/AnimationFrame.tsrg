@@ -1,0 +1,6 @@
+djy net/minecraft/client/resources/metadata/animation/AnimationFrame
+	a index
+	b time
+	a ()Z isTimeUnknown
+	b ()I getTime
+	c ()I getIndex

@@ -1,0 +1,6 @@
+dkg net/minecraft/client/resources/metadata/texture/TextureMetadataSection
+	a SERIALIZER
+	b blur
+	c clamp
+	a ()Z isBlur
+	b ()Z isClamp

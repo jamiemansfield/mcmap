@@ -1,0 +1,18 @@
+djb net/minecraft/tosort/client/TextureAtlasSprite
+	a width
+	b height
+	g rotated
+	h x
+	i y
+	l name
+	n u0
+	o u1
+	p v0
+	q v1
+	g ()I getWidth
+	h ()I getHeight
+	i ()F getU0
+	j ()F getU1
+	k ()F getV0
+	l ()F getV1
+	m ()Lpu; getName

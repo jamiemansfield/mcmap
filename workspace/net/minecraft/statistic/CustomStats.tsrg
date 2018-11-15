@@ -1,4 +1,4 @@
-xg net/minecraft/statistic/Stats
+xg net/minecraft/statistic/CustomStats
 	A AVIATE_ONE_CM
 	B SWIM_ONE_CM
 	C JUMP

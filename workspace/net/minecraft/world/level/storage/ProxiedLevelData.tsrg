@@ -1,4 +1,4 @@
-cen net/minecraft/world/level/ProxiedLevelData
+cen net/minecraft/world/level/storage/ProxiedLevelData
 	b data
 	a (I)V setSpawnX
 	a (J)V setTime

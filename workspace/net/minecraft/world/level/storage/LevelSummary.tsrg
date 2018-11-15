@@ -1,4 +1,4 @@
-cev net/minecraft/world/level/LevelSummary
+cev net/minecraft/world/level/storage/LevelSummary
 	a id
 	b name
 	c lastPlayed

@@ -1,0 +1,7 @@
+bro net/minecraft/world/level/chunk/generator/carver/Carver
+	a CAVE
+	b HELL_CAVE
+	c CANYON
+	d UNDERWATER_CANYON
+	e UNDERWATER_CAVE
+	a (Ljava/lang/String;Lbro;)Lbro; register
