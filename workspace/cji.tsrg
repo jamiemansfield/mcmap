@@ -1,0 +1,7 @@
+cji cji
+	d name
+	k format
+	a (La;)V setFormat
+	a (Lix;)V setName
+	c ()Lix; getName
+	n ()La; getFormat

@@ -1,0 +1,4 @@
+dk net/minecraft/command/arguments/Vec3ArgumentType
+	c EXAMPLES
+	a ()Ldk; create
+	a (Z)Ldk; create

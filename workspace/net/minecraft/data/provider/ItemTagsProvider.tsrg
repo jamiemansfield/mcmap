@@ -1,0 +1,2 @@
+he net/minecraft/data/provider/ItemTagsProvider
+	a ()Ljava/lang/String; getName

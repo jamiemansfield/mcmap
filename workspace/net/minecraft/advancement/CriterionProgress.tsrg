@@ -1,0 +1,6 @@
+r net/minecraft/advancement/CriterionProgress
+	a DATE_FORMAT
+	b obtained
+	a ()Z hasObtained
+	b ()V obtained
+	d ()Ljava/util/Date; getObtained

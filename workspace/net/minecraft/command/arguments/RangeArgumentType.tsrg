@@ -1,0 +1,5 @@
+cr net/minecraft/command/arguments/RangeArgumentType
+cr$a net/minecraft/command/arguments/RangeArgumentType$FloatRangeArgumentType
+	a EXAMPLES
+cr$b net/minecraft/command/arguments/RangeArgumentType$IntRangeArgumentType
+	a EXAMPLES

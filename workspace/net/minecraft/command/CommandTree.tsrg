@@ -1,0 +1,5 @@
+by net/minecraft/command/CommandTree
+	a ()Lcom/mojang/brigadier/CommandDispatcher; getDispatcher
+	a (Ljava/io/File;)V writeToFile
+	a (Ljava/lang/String;)Lcom/mojang/brigadier/builder/LiteralArgumentBuilder; literal
+	a (Ljava/lang/String;Lcom/mojang/brigadier/arguments/ArgumentType;)Lcom/mojang/brigadier/builder/RequiredArgumentBuilder; argument

@@ -1,2 +1,8 @@
 cpq cpq
 	c ()V init
+cpq$b cpq$b
+	a ()V renderItem
+	a (I)Z isSelectedItem
+	a (IIDD)Z selectItem
+	a (IIIIIIF)V renderItem
+	d ()I getItemCount

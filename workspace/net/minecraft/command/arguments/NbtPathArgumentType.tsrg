@@ -1,0 +1,3 @@
+cl net/minecraft/command/arguments/NbtPathArgumentType
+	c EXAMPLES
+	a ()Lcl; create

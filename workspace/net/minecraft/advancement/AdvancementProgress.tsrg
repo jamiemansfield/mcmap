@@ -1,0 +1,3 @@
+n net/minecraft/advancement/AdvancementProgress
+	a criteria
+	b requirements

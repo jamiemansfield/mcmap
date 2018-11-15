@@ -1,0 +1,5 @@
+cjj cjj
+	b ()I getScore
+	d ()Lcjh; getObjective
+	e ()Ljava/lang/String; getName
+	g ()Z isLocked

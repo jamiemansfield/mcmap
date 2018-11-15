@@ -1,0 +1,5 @@
+o net/minecraft/advancement/AdvancementRewards
+	b experience
+	c loot
+	d recipes
+	e function

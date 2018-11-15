@@ -1,0 +1,3 @@
+ee net/minecraft/command/serialize/CommandSerializers
+	a ()V register
+	a (Ljava/lang/String;Ljava/lang/Class;Led;)V register

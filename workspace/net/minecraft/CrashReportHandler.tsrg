@@ -1,2 +1,6 @@
 b net/minecraft/CrashReportHandler
+	d systemDetails
+	a (Ljava/io/File;)Z save
+	g ()Lc; getSystemDetails
+	h ()V populateSystemDetails
 	i ()Ljava/lang/String; getWittyComment

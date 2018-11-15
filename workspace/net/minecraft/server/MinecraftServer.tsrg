@@ -12,3 +12,8 @@ net/minecraft/server/MinecraftServer net/minecraft/server/MinecraftServer
 	g ()Lazq; getGameMode
 	g (Ljava/lang/String;)V setServerBrand
 	h ()Laem; getDifficulty
+net/minecraft/server/MinecraftServer$1 net/minecraft/server/MinecraftServer$1
+	a (I)V setSuccessCount
+	a (Lix;)V updateLastOutput
+	b (Lix;)V setCustomName
+	c (Lix;)V setLastOutput

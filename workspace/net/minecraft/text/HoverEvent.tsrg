@@ -3,3 +3,4 @@ ja net/minecraft/text/HoverEvent
 	b value
 	a ()Lja$a; getAction
 	b ()Lix; getValue
+ja$a net/minecraft/text/HoverEvent$Action

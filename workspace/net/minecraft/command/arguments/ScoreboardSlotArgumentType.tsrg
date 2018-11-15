@@ -1,0 +1,2 @@
+cu net/minecraft/command/arguments/ScoreboardSlotArgumentType
+	a ()Lcu; create

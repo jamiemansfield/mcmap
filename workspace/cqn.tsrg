@@ -2,3 +2,7 @@ cqn cqn
 	a (Ljava/lang/String;)V setCommand
 	c ()V init
 	i ()I getSuccessCount
+cqn$4 cqn$4
+	c (Z)V active
+cqn$5 cqn$5
+	c (Z)V active

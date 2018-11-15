@@ -1,0 +1,5 @@
+eq net/minecraft/core/BlockPos
+eq$a net/minecraft/core/BlockPos$a
+	o ()I getX
+	p ()I getY
+	q ()I getZ

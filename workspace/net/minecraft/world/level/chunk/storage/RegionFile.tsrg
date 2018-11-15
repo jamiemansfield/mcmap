@@ -17,3 +17,6 @@ bqf net/minecraft/world/level/chunk/storage/RegionFile
 	d (II)Z hasChunk
 	e (II)Z outOfBounds
 	f (II)I getOffset
+bqf$a net/minecraft/world/level/chunk/storage/RegionFile$ChunkBuffer
+	b x
+	c z

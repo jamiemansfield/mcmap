@@ -1,0 +1,3 @@
+cq net/minecraft/command/arguments/ParticleArgumentType
+	b EXAMPLES
+	a ()Lcq; create

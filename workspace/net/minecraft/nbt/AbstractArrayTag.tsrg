@@ -1,7 +1,0 @@
-hl net/minecraft/nbt/AbstractArrayTag
-	a (ILic;)V put
-	b (I)V remove
-	b (ILic;)V add
-	c (I)Lic; getTag
-	c (ILic;)Lic; put
-	d (I)Lic; get

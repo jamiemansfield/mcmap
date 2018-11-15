@@ -1,0 +1,2 @@
+ck net/minecraft/command/arguments/MobEffectArgumentType
+	a ()Lck; create

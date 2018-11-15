@@ -1,0 +1,7 @@
+cij net/minecraft/tosort/HitResult
+	a type
+	b f
+	c pos
+	d entity
+	e blockPos
+	a ()Leq; getBlockPOs

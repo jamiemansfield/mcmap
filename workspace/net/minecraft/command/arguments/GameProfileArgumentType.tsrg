@@ -1,0 +1,3 @@
+ch net/minecraft/command/arguments/GameProfileArgumentType
+	b EXAMPLES
+	a ()Lch; create

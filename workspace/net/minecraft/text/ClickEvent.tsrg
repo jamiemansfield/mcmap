@@ -3,3 +3,4 @@ iw net/minecraft/text/ClickEvent
 	b value
 	a ()Liw$a; getAction
 	b ()Ljava/lang/String; getValue
+iw$a net/minecraft/text/ClickEvent$Action

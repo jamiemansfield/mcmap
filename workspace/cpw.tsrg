@@ -1,2 +1,8 @@
 cpw cpw
 	c ()V init
+cpw$a cpw$a
+	a ()V renderItem
+	a (I)Z isSelectedItem
+	a (IIIIIIF)V renderItem
+	d ()I getItemCount
+	f ()I getScrollbarPosition

@@ -1,0 +1,3 @@
+dt net/minecraft/command/arguments/ItemPredicateArgumentType
+	a EXAMPLES
+	a ()Ldt; create

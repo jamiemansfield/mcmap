@@ -1,0 +1,3 @@
+cc net/minecraft/command/arguments/NbtCompoundTagArgumentType
+	a EXAMPLES
+	a ()Lcc; create

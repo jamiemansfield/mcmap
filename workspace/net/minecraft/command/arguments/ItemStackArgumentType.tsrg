@@ -1,0 +1,3 @@
+dq net/minecraft/command/arguments/ItemStackArgumentType
+	a EXAMPLES
+	a ()Ldq; create

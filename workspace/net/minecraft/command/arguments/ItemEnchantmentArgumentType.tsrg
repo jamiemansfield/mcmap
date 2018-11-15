@@ -1,0 +1,2 @@
+ci net/minecraft/command/arguments/ItemEnchantmentArgumentType
+	a ()Lci; create

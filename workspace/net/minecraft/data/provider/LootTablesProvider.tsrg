@@ -1,0 +1,4 @@
+go net/minecraft/data/provider/LootTablesProvider
+	d generator
+	a ()Ljava/lang/String; getName
+	a (Lfx;)V run

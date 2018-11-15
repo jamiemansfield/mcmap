@@ -1,3 +1,0 @@
-dd net/minecraft/server/command/arguments/BlockPosArgumentType
-	c EXAMPLES
-	a ()Ldd; create

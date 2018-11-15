@@ -6,3 +6,5 @@ cqr cqr
 	a (Ljava/lang/String;)V setCommand
 	a (Z)V setTrackOutput
 	c ()V init
+cqr$a cqr$a
+	a (IIF)V render

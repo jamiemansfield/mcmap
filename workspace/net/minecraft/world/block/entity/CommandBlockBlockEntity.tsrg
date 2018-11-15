@@ -1,1 +1,4 @@
 blp net/minecraft/world/block/entity/CommandBlockBlockEntity
+blp$1 net/minecraft/world/block/entity/CommandBlockBlockEntity$1
+	a (Ljava/lang/String;)V setCommand
+	d ()Lua; getLevel

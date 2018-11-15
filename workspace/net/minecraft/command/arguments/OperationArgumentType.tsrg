@@ -1,0 +1,3 @@
+cp net/minecraft/command/arguments/OperationArgumentType
+	a EXAMPLES
+	a ()Lcp; create

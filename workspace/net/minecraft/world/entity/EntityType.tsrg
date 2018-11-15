@@ -47,6 +47,7 @@ afz net/minecraft/world/entity/EntityType
 	aS PLAYER
 	aT FISHING_BOBBER
 	aU TRIDENT
+	aW klass
 	aX factory
 	aY serialize
 	aZ summon
@@ -111,3 +112,14 @@ afz net/minecraft/world/entity/EntityType
 	a (Ljava/lang/String;)Lafz; byId
 	a (Ljava/lang/String;Lafz$a;)Lafz; register
 	b ()Z canSummon
+	c ()Ljava/lang/Class; getKlass
+afz$a net/minecraft/world/entity/EntityType$Builder
+	a klass
+	b factory
+	c serialize
+	d summon
+	a ()Lafz$a; noSummon
+	a (Ljava/lang/Class;)Lafz$a; createNothing
+	a (Ljava/lang/Class;Ljava/util/function/Function;)Lafz$a; of
+	a (Ljava/lang/String;)Lafz; build
+	b ()Lafz$a; noSave

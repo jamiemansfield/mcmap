@@ -1,2 +1,0 @@
-ee net/minecraft/server/command/serialise/CommandSerialisers
-	a (Ljava/lang/String;Ljava/lang/Class;Led;)V register

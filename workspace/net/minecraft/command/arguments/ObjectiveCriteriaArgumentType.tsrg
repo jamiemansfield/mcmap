@@ -1,0 +1,3 @@
+co net/minecraft/command/arguments/ObjectiveCriteriaArgumentType
+	b EXAMPLES
+	a ()Lco; create

@@ -1,0 +1,3 @@
+cj net/minecraft/command/arguments/MessageArgumentType
+	a EXAMPLES
+	a ()Lcj; create
