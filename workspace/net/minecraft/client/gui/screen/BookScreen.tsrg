@@ -4,7 +4,7 @@ cqr net/minecraft/client/gui/screen/BookScreen
 	u pageCount
 	w pages
 	x title
-	a (Ljava/lang/String;)V setCommand
+	a (Ljava/lang/String;)V setValue
 	a (Z)V setTrackOutput
 	c ()V init
 cqr$a net/minecraft/client/gui/screen/BookScreen$a

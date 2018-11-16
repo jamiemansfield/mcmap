@@ -8,5 +8,6 @@ afv net/minecraft/world/entity/Entity
 	c (Lix;)V setLastOutput
 	c (Z)V active
 	d (Z)V render
+	e (I)V scroll
 	f (Lhm;)V load
 	g (I)V setMaxLength

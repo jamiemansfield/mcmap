@@ -3,4 +3,4 @@ aft net/minecraft/world/entity/AreaEffectCloud
 	a (Lhm;)V readFromTag
 	a (Z)V setTrackOutput
 	b (Lhm;)V writeToTag
-	i ()I getSuccessCount
+	i ()I headerHeight

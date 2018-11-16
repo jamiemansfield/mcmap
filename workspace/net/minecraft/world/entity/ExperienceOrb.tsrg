@@ -3,4 +3,4 @@ agb net/minecraft/world/entity/ExperienceOrb
 	am ()Z isGrounded
 	b (Lhm;)V writeToTag
 	g (I)V setMaxLength
-	i ()I getSuccessCount
+	i ()I headerHeight

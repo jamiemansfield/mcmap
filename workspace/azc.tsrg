@@ -11,14 +11,14 @@ azc azc
 	a (Lazt;)Z execute
 	a (Lhm;)Lhm; writeToTag
 	a (Lix;)V updateLastOutput
-	a (Ljava/lang/String;)V setCommand
+	a (Ljava/lang/String;)V setValue
 	a (Z)V setTrackOutput
 	b (Lhm;)V writeToTag
 	b (Lix;)V setCustomName
 	c (Lix;)V setLastOutput
 	d ()Lua; getLevel
-	i ()I getSuccessCount
+	i ()I headerHeight
 	j ()Lix; getLastOutput
 	k ()Ljava/lang/String; getCommand
 	l ()Lix; getCustomName
-	m ()Z trackOutput
+	m ()Z isVisible

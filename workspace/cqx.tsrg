@@ -1,6 +1,6 @@
 cqx cqx
 	a (Lauv;II)V renderTooltip
-	a (Ljava/lang/String;)V setCommand
+	a (Ljava/lang/String;)V setValue
 	c ()V init
-	i ()I getSuccessCount
-	m ()Z trackOutput
+	i ()I headerHeight
+	m ()Z isVisible

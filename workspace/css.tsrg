@@ -1,5 +1,5 @@
 css css
-	a (Ljava/lang/String;)V setCommand
+	a (Ljava/lang/String;)V setValue
 	c ()V init
 css$1 css$1
 	c (Z)V active

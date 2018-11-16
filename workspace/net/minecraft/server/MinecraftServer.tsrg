@@ -1,7 +1,7 @@
 net/minecraft/server/MinecraftServer net/minecraft/server/MinecraftServer
 	a (I)V setSuccessCount
 	a (Lix;)V updateLastOutput
-	a (Ljava/lang/String;)V setCommand
+	a (Ljava/lang/String;)V setValue
 	a (Z)V setTrackOutput
 	aL ()Lby; getCommandTree
 	aN ()Laxc; getRecipeManager
@@ -12,6 +12,7 @@ net/minecraft/server/MinecraftServer net/minecraft/server/MinecraftServer
 	g ()Lazq; getGameMode
 	g (Ljava/lang/String;)V setServerBrand
 	h ()Laem; getDifficulty
+	q ()I getScroll
 net/minecraft/server/MinecraftServer$1 net/minecraft/server/MinecraftServer$1
 	a (I)V setSuccessCount
 	a (Lix;)V updateLastOutput

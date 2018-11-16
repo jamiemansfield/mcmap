@@ -1,2 +1,3 @@
 blh net/minecraft/world/level/block/entity/BeaconBlockEntity
 	f ()I getScrollbarPosition
+	h ()I y1

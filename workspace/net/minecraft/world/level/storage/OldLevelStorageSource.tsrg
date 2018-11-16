@@ -1,11 +1,16 @@
 ceq net/minecraft/world/level/storage/OldLevelStorageSource
 	a root
 	c fixer
-	a ()Ljava/lang/String; getFormatName
+	a ()Ljava/lang/String; getName
 	a (Ljava/io/File;Lcom/mojang/datafixers/DataFixer;)Lcer; read
+	a (Ljava/lang/String;)Z isConvertable
+	a (Ljava/lang/String;Ljava/lang/String;)V renameLevel
 	a (Ljava/lang/String;Lyg;)Z convertLevel
 	a ([Ljava/io/File;)Z delete
-	b ()Ljava/util/List; getLevels
+	b ()Ljava/util/List; getLevelList
+	b (Ljava/lang/String;)Z requiresConversion
 	c (Ljava/lang/String;)Lcer; read
-	d (Ljava/lang/String;)Z makeLevel
+	d ()V clearAll
+	d (Ljava/lang/String;)Z isNewLevelIdAcceptable
 	e (Ljava/lang/String;)Z deleteLevel
+	f (Ljava/lang/String;)Z levelExists

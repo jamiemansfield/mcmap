@@ -1,11 +1,13 @@
-cmq cmq
+cmq net/minecraft/client/gui/EditBox
 	a ()V tick
 	a (I)V setSuccessCount
 	a (IIF)V render
-	a (Ljava/lang/String;)V setCommand
+	a (Ljava/lang/String;)V setValue
 	a (Z)V setTrackOutput
 	b ()Ljava/lang/String; getValue
 	c (Z)V active
 	d (Z)V render
+	e (I)V scroll
 	g (I)V setMaxLength
-	m ()Z trackOutput
+	h ()I y1
+	m ()Z isVisible

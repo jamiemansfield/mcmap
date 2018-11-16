@@ -1,3 +1,16 @@
 k k
+	a NANO_TIME_SUPPLIER
+	c ()J nanoTime
+	d ()J epochMIlli
+	e ()Lk$b; getOs
 	g ()Lit/unimi/dsi/fastutil/Hash$Strategy; getStrategy
 k$b k$OperatingSystem
+	a (Ljava/io/File;)V openUri
+	a (Ljava/lang/String;)V openUri
+	a (Ljava/net/URI;)V openUri
+	a (Ljava/net/URL;)V openUri
+	b (Ljava/net/URL;)[Ljava/lang/String; openUri
+k$b$1 k$OperatingSystem$1
+	b (Ljava/net/URL;)[Ljava/lang/String; openUri
+k$b$2 k$OperatingSystem$2
+	b (Ljava/net/URL;)[Ljava/lang/String; openUri

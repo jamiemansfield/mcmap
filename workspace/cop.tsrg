@@ -16,4 +16,4 @@ cop cop
 	c_ (I)V renderBackground
 	d ()V renderBackground
 	e ()Z isPauseScreen
-	i ()I getSuccessCount
+	i ()I headerHeight

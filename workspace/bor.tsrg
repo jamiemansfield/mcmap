@@ -1,0 +1,5 @@
+bor bor
+	a ()Ljava/lang/String; getName
+	b ()Ljava/lang/Class; getClazz
+	b (Ljava/lang/String;)Ljava/util/Optional; parseString
+	d ()Ljava/util/Collection; getValues

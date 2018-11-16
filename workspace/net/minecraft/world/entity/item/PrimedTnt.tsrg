@@ -3,4 +3,4 @@ anv net/minecraft/world/entity/item/PrimedTnt
 	a (Lhm;)V readFromTag
 	am ()Z isGrounded
 	b (Lhm;)V writeToTag
-	i ()I getSuccessCount
+	i ()I headerHeight

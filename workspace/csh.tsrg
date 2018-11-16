@@ -1,3 +1,3 @@
 csh csh
 	c client
-	m ()Z trackOutput
+	m ()Z isVisible

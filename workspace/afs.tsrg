@@ -3,4 +3,4 @@ afs afs
 	a (Lhm;)V readFromTag
 	a (Z)V setTrackOutput
 	b (Lhm;)V writeToTag
-	i ()I getSuccessCount
+	i ()I headerHeight

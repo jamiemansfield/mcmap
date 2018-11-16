@@ -1,0 +1,7 @@
+bob bob
+	a clazz
+	b name
+	c hash
+	a ()Ljava/lang/String; getName
+	b ()Ljava/lang/Class; getClazz
+	c ()I calculateHashCode

@@ -1,4 +1,4 @@
 aqo net/minecraft/world/entity/projectile/ThrownPotion
 	a (Lhm;)V readFromTag
 	b (Lhm;)V writeToTag
-	m ()Z trackOutput
+	m ()Z isVisible

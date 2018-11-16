@@ -2,3 +2,4 @@ aqt aqt
 	a (Lhm;)V readFromTag
 	b (Lhm;)V writeToTag
 	f ()I getScrollbarPosition
+	h ()I y1

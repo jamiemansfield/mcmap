@@ -1,6 +1,6 @@
 cpc cpc
 	a (Lhm;)V readFromTag
-	a (Ljava/lang/String;)V setCommand
+	a (Ljava/lang/String;)V setValue
 	c ()V init
 cpc$a cpc$a
 	a ()V renderItem

@@ -1,0 +1,4 @@
+aga net/minecraft/world/entity/Slot
+	g type
+	a ()Laga$a; getType
+aga$a net/minecraft/world/entity/Slot$Type

@@ -7,5 +7,9 @@ coo coo
 	a (IIILnet/minecraft/realms/Tezzelator;)V renderSelected
 	d ()I getItemCount
 	f ()I getScrollbarPosition
-	i ()I getSuccessCount
+	g ()I y0
+	h ()I y1
+	i ()I headerHeight
+	j ()D yo
+	k ()I itemHeright
 	n ()I getMaxPosition

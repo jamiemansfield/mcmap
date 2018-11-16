@@ -1,2 +1,3 @@
 blg net/minecraft/world/level/block/entity/BarrelBlockEntity
 	f ()I getScrollbarPosition
+	h ()I y1

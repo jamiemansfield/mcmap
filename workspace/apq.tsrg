@@ -1,2 +1,3 @@
 apq apq
 	f ()I getScrollbarPosition
+	h ()I y1

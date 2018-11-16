@@ -1,4 +1,4 @@
 arb net/minecraft/world/entity/vehicle/TntMinecart
 	a (Lhm;)V readFromTag
 	b (Lhm;)V writeToTag
-	i ()I getSuccessCount
+	i ()I headerHeight

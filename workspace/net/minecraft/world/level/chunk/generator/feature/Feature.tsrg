@@ -25,6 +25,7 @@ btf net/minecraft/world/level/chunk/generator/feature/Feature
 	X REED
 	Y FREEZE_TOP_LAYER
 	Z VINES
+	a factory
 	aA CORAL_CLAW
 	aB SEA_PICKLE
 	aC SIMPLE_BLOCK
@@ -83,4 +84,5 @@ btf net/minecraft/world/level/chunk/generator/feature/Feature
 	x SPRUCE_TREE
 	y SWAMP_TREE
 	z NORMAL_TREE
+	a (Lcom/mojang/datafixers/Dynamic;)Lbtg; create
 	a (Ljava/lang/String;Lbtf;)Lbtf; register

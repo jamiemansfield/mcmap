@@ -4,4 +4,5 @@ bro net/minecraft/world/level/chunk/generator/carver/Carver
 	c CANYON
 	d UNDERWATER_CANYON
 	e UNDERWATER_CAVE
+	l factory
 	a (Ljava/lang/String;Lbro;)Lbro; register
