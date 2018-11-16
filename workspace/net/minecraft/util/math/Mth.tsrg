@@ -25,6 +25,7 @@ yf net/minecraft/util/math/Mth
 	c (II)I roundUp
 	d (D)J lfloor
 	d (F)I floor
+	d (I)I ceillog2
 	e (D)I absFloor
 	e (F)F abs
 	e (I)I log2

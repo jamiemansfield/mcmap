@@ -1,8 +1,10 @@
 auv net/minecraft/world/item/ItemStack
 	d count
+	f item
 	g tag
 	A ()I getRepairCost
 	a (Lhm;)Lauv; load
+	b ()Lauq; getItem
 	b (I)V setDamage
 	b (Lhm;)Lhm; writeToTag
 	c (I)V setRepairCost

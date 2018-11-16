@@ -1,4 +1,8 @@
 bpw net/minecraft/world/level/chunk/storage/PalettedContainer
+	a storage
 	j lock
+	a (Lhm;Ljava/lang/String;Ljava/lang/String;)V write
+	a (Lhs;[J)V read
 	b ()V lock
+	b (I)V setBits
 	c ()V unlock

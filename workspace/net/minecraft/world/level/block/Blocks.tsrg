@@ -2,6 +2,8 @@ beu net/minecraft/world/level/block/Blocks
 	a AIR
 	b STONE
 	c GRANITE
+	cI PUMPKIN
 	d POLISHED_GRANITE
 	e DIORITE
+	i GRASS
 	a (Ljava/lang/String;Lbet;)Lbet; register

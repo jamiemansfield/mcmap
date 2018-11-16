@@ -1,2 +1,3 @@
 bpc net/minecraft/world/level/chunk/Chunk
+	b (Z)V setLightOn
 	r ()Z isLightOn

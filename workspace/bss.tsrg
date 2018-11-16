@@ -1,2 +1,5 @@
 bss bss
+	a noiseLevel
+	b belowNoise
+	c aboveNoise
 	a (Lcom/mojang/datafixers/Dynamic;)Lbss; create

@@ -1,2 +1,6 @@
 bpo bpo
+	a chunk
+	b (Z)V setLightOn
+	h (Leq;)Lbnh; getBlockState
 	r ()Z isLightOn
+	x ()Lbpp; getChunk

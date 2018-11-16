@@ -1,2 +1,6 @@
 bpx bpx
+	q blocks
+	r fluids
+	v lightOn
+	b (Z)V setLightOn
 	r ()Z isLightOn

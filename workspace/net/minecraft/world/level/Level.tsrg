@@ -8,7 +8,9 @@ azt net/minecraft/world/level/Level
 	T ()J getTime
 	a (IILbpi;)Lbpc; createChunk
 	a (J)V setTime
+	a (Leq;Lbnh;I)Z setBlock
 	ae ()Ladx; getProfiler
+	b (Leq;)Z isEmptyBlock
 	f ()Lazt; getLevel
 	g ()Lcer; getData
 	m ()Ljava/util/Random; getRandom

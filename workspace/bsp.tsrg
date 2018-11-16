@@ -1,2 +1,6 @@
 bsp bsp
+	a chance
+	b bottomOffset
+	c topOffset
+	d top
 	a (Lcom/mojang/datafixers/Dynamic;)Lbsp; create
