@@ -1,8 +1,0 @@
-bpj net/minecraft/world/level/chunk/ChunkNibbleArray
-	a data
-	a ()[B next
-	a (II)V set
-	a (IIII)V set
-	b ()Lbpj; clone
-	b (III)I get
-	c ()Z isValid

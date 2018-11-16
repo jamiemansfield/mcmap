@@ -1,0 +1,4 @@
+bpw net/minecraft/world/level/chunk/storage/PalettedContainer
+	j lock
+	b ()V lock
+	c ()V unlock

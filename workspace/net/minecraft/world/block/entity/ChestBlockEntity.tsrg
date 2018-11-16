@@ -1,2 +1,0 @@
-blo net/minecraft/world/block/entity/ChestBlockEntity
-	f ()I getScrollbarPosition

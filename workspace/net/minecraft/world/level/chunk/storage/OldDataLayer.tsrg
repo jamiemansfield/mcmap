@@ -1,0 +1,5 @@
+bpt net/minecraft/world/level/chunk/storage/OldDataLayer
+	a data
+	b depthBits
+	c depthBitsPlusFour
+	a (III)I get

@@ -1,7 +1,0 @@
-beu net/minecraft/world/block/Blocks
-	a AIR
-	b STONE
-	c GRANITE
-	d POLISHED_GRANITE
-	e DIORITE
-	a (Ljava/lang/String;Lbet;)Lbet; register

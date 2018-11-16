@@ -1,0 +1,7 @@
+beu net/minecraft/world/level/block/Blocks
+	a AIR
+	b STONE
+	c GRANITE
+	d POLISHED_GRANITE
+	e DIORITE
+	a (Ljava/lang/String;Lbet;)Lbet; register

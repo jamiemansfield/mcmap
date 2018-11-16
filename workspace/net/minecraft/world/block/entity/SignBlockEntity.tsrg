@@ -1,3 +1,0 @@
-bmg net/minecraft/world/block/entity/SignBlockEntity
-	g player
-	a (Lix;)V updateLastOutput

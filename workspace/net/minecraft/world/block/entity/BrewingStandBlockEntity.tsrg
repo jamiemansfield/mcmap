@@ -1,2 +1,0 @@
-bln net/minecraft/world/block/entity/BrewingStandBlockEntity
-	f ()I getScrollbarPosition

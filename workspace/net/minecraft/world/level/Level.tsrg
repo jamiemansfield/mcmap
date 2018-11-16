@@ -1,10 +1,12 @@
 azt net/minecraft/world/level/Level
 	F profiler
+	j players
 	s random
 	t dimension
 	y data
 	A ()Laxc; getRecipeManager
 	T ()J getTime
+	a (IILbpi;)Lbpc; createChunk
 	a (J)V setTime
 	ae ()Ladx; getProfiler
 	f ()Lazt; getLevel
