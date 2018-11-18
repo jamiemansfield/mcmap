@@ -1,2 +1,5 @@
 dji net/minecraft/client/resources/ResourceIndex
-	a (Ljava/lang/String;ILjava/util/function/Predicate;)Ljava/util/Collection; getFiles
+	b resources
+	a (Ljava/lang/String;)Ljava/io/File; get
+	a (Ljava/lang/String;ILjava/util/function/Predicate;)Ljava/util/Collection; get
+	a (Lpu;)Ljava/io/File; get

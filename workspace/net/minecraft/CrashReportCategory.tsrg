@@ -1,0 +1,8 @@
+c net/minecraft/CrashReportCategory
+	a handler
+	b name
+	c details
+	a (Ljava/lang/String;Ld;)V addDetail
+	a (Ljava/lang/String;Ljava/lang/Object;)V addDetail
+	a (Ljava/lang/String;Ljava/lang/Throwable;)V addDetail
+c$a net/minecraft/CrashReportCategory$Detail

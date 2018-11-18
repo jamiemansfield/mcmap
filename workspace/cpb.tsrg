@@ -1,5 +1,5 @@
 cpb cpb
-	a (Lhm;)V readFromTag
+	a (Lhm;)V read
 	c ()V init
 cpb$a cpb$a
 	a ()V renderItem

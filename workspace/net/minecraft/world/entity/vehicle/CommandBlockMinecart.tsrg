@@ -1,5 +1,5 @@
 aqx net/minecraft/world/entity/vehicle/CommandBlockMinecart
-	a (Lhm;)V readFromTag
-	b (Lhm;)V writeToTag
+	a (Lhm;)V read
+	b (Lhm;)V write
 aqx$a net/minecraft/world/entity/vehicle/CommandBlockMinecart$a
 	d ()Lua; getLevel

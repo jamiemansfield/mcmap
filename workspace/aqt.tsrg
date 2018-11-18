@@ -1,5 +1,5 @@
 aqt aqt
-	a (Lhm;)V readFromTag
-	b (Lhm;)V writeToTag
+	a (Lhm;)V read
+	b (Lhm;)V write
 	f ()I getScrollbarPosition
 	h ()I y1

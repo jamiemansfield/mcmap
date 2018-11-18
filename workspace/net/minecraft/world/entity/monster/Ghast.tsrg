@@ -1,4 +1,4 @@
 aoi net/minecraft/world/entity/monster/Ghast
-	a (Lhm;)V readFromTag
+	a (Lhm;)V read
 	a (Z)V setTrackOutput
-	b (Lhm;)V writeToTag
+	b (Lhm;)V write

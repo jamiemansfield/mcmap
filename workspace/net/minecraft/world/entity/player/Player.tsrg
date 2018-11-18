@@ -3,9 +3,9 @@ apr net/minecraft/world/entity/player/Player
 	a (Lblp;)V openCommandBlcok
 	a (Lbmg;)V openSign
 	a (Lbmk;)V openStructureBlock
-	a (Lhm;)V readFromTag
+	a (Lhm;)V read
 	am ()Z isGrounded
-	b (Lhm;)V writeToTag
+	b (Lhm;)V write
 	dC ()Z mayBuild
 	ds ()Lcom/mojang/authlib/GameProfile; getProfile
 	t ()Z isSpectator

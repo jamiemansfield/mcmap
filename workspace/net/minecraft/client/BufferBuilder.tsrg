@@ -1,4 +1,4 @@
-cla net/minecraft/tosort/client/BufferBuilder
+cla net/minecraft/client/BufferBuilder
 	a (DD)Lcla; tex
 	a (DDD)V postProcessFacePosition
 	a (FFF)V sortQuads

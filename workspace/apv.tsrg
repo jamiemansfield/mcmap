@@ -1,6 +1,6 @@
 apv apv
 	a (I)V setSuccessCount
-	a (Lhm;)V readFromTag
+	a (Lhm;)V read
 	a (Z)V setTrackOutput
 	am ()Z isGrounded
-	b (Lhm;)V writeToTag
+	b (Lhm;)V write

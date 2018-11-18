@@ -1,5 +1,5 @@
 apd net/minecraft/world/entity/monster/Vex
 	a (I)V setSuccessCount
-	a (Lhm;)V readFromTag
+	a (Lhm;)V read
 	a (Z)V setTrackOutput
-	b (Lhm;)V writeToTag
+	b (Lhm;)V write

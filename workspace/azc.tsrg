@@ -13,7 +13,7 @@ azc azc
 	a (Lix;)V updateLastOutput
 	a (Ljava/lang/String;)V setValue
 	a (Z)V setTrackOutput
-	b (Lhm;)V writeToTag
+	b (Lhm;)V write
 	b (Lix;)V setCustomName
 	c (Lix;)V setLastOutput
 	d ()Lua; getLevel

@@ -1,0 +1,3 @@
+axg net/minecraft/world/item/recipe/ShapedRecipe
+	e id
+	b ()Lpu; getId

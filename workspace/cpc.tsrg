@@ -1,5 +1,5 @@
 cpc cpc
-	a (Lhm;)V readFromTag
+	a (Lhm;)V read
 	a (Ljava/lang/String;)V setValue
 	c ()V init
 cpc$a cpc$a

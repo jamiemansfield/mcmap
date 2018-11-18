@@ -1,0 +1,3 @@
+cpd net/minecraft/client/gui/screen/DeathScreen
+	c ()V init
+	e ()Z isPauseScreen

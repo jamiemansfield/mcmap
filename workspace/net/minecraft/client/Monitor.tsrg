@@ -1,4 +1,4 @@
-ckg net/minecraft/tosort/client/Monitor
+ckg net/minecraft/client/Monitor
 	e width
 	f height
 	c ()I getWidth

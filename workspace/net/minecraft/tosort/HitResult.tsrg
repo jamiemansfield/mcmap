@@ -4,4 +4,5 @@ cij net/minecraft/tosort/HitResult
 	c pos
 	d entity
 	e blockPos
-	a ()Leq; getBlockPOs
+	a ()Leq; getBlockPos
+cij$a net/minecraft/tosort/HitResult$Type

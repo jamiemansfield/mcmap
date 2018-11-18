@@ -1,4 +1,0 @@
-c c
-	a handler
-	a (Ljava/lang/String;Ld;)V addDetail
-	a (Ljava/lang/String;Ljava/lang/Object;)V addDetail

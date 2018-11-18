@@ -1,4 +1,4 @@
-clh net/minecraft/tosort/client/VertexFormatElement
+clh net/minecraft/client/VertexFormatElement
 	c type
 	d index
 	e count
@@ -7,3 +7,4 @@ clh net/minecraft/tosort/client/VertexFormatElement
 	d ()I getIndex
 	e ()I getByteSize
 	f ()Z isPosition
+clh$b net/minecraft/client/VertexFormatElement$Type

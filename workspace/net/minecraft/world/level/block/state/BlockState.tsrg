@@ -1,2 +1,3 @@
 bnh net/minecraft/world/level/block/state/BlockState
 	d ()Lbet; getBlock
+	g (Lazg;Leq;)Lcje; getOutlineAABB

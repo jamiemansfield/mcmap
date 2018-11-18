@@ -1,5 +1,6 @@
-b net/minecraft/CrashReportHandler
+b net/minecraft/CrashReport
 	d systemDetails
+	e categories
 	a (Ljava/io/File;)Z save
 	g ()Lc; getSystemDetails
 	h ()V populateSystemDetails

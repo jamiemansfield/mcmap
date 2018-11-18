@@ -1,5 +1,5 @@
 apz net/minecraft/world/entity/projectile/EvokerFangs
 	a warmup
 	f ownerId
-	a (Lhm;)V readFromTag
-	b (Lhm;)V writeToTag
+	a (Lhm;)V read
+	b (Lhm;)V write

@@ -1,4 +1,4 @@
-clg net/minecraft/tosort/client/VertexFormat
+clg net/minecraft/client/VertexFormat
 	b elements
 	a ()V clear
 	a (I)Z hasUv

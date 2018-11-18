@@ -1,1 +1,3 @@
 dmo net/minecraft/client/tutorial/PunchTreeTutorialStep
+	a TITLE
+	b DESCRIPTION

@@ -1,4 +1,4 @@
 aor net/minecraft/world/entity/monster/Phantom
 	a (I)V setSuccessCount
-	a (Lhm;)V readFromTag
-	b (Lhm;)V writeToTag
+	a (Lhm;)V read
+	b (Lhm;)V write

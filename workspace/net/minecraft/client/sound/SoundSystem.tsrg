@@ -1,0 +1,4 @@
+dmd net/minecraft/client/sound/SoundSystem
+	e options
+	g started
+	h ()V start

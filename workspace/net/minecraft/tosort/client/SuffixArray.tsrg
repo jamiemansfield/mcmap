@@ -1,0 +1,3 @@
+dls net/minecraft/tosort/client/SuffixArray
+	b PRINT_COMPARISIONS
+	c PRINT_ARRAY

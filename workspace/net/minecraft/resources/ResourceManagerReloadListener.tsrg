@@ -1,0 +1,2 @@
+vu net/minecraft/resources/ResourceManagerReloadListener
+	a (Lvt;)V reload

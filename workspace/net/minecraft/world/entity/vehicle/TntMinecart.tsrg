@@ -1,4 +1,4 @@
 arb net/minecraft/world/entity/vehicle/TntMinecart
-	a (Lhm;)V readFromTag
-	b (Lhm;)V writeToTag
+	a (Lhm;)V read
+	b (Lhm;)V write
 	i ()I headerHeight

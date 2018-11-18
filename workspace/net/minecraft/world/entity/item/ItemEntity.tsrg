@@ -1,6 +1,6 @@
 anu net/minecraft/world/entity/item/ItemEntity
 	a (I)V setSuccessCount
-	a (Lhm;)V readFromTag
+	a (Lhm;)V read
 	am ()Z isGrounded
-	b (Lhm;)V writeToTag
+	b (Lhm;)V write
 	g (I)V setMaxLength

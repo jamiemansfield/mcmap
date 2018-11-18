@@ -1,5 +1,5 @@
 aow net/minecraft/world/entity/monster/Shulker
 	a (I)V setSuccessCount
-	a (Lhm;)V readFromTag
+	a (Lhm;)V read
 	am ()Z isGrounded
-	b (Lhm;)V writeToTag
+	b (Lhm;)V write

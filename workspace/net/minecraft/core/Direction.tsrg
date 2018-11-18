@@ -1,1 +1,2 @@
 ev net/minecraft/core/Direction
+ev$a net/minecraft/core/Direction$Axis
