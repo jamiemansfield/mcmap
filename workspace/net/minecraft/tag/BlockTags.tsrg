@@ -1,0 +1,13 @@
+xj net/minecraft/tag/BlockTags
+	a WOOL
+	b PLANKS
+	c STONE_BRICKS
+	d WOODEN_BUTTONS
+	e BUTTONS
+	f CARPETS
+	g WOODEN_DOORS
+	h WOODEN_STAIRS
+	i WOODEN_SLABS
+	j WOODEN_PRESSURE_PLATES
+	k WOODEN_TRAPDOORS
+	a (Ljava/lang/String;)Lxo; register

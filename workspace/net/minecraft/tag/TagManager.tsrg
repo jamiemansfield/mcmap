@@ -1,0 +1,10 @@
+xq net/minecraft/tag/TagManager
+	a BLOCKS
+	b ITEMS
+	c FLUIDS
+	d ENTITY_TYPES
+	a ()Lxn; blocks
+	a (Lvt;)V reload
+	b ()Lxn; items
+	c ()Lxn; fluids
+	d ()Lxn; entityTypes

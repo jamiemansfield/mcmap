@@ -1,0 +1,15 @@
+cai net/minecraft/world/level/chunk/generator/surfacebuilder/SurfaceBuilder
+	G DEFAULT
+	H MOUNTAIN
+	I SHATTERED_SAVANNA
+	J GRAVELLY_MOUNTAIN
+	K GIANT_TREE_TAIGA
+	L SWAMP
+	M BADLANDS
+	N WOODED_BADLANDS
+	O ERODED_BADLANDS
+	P FROZEN_OCEAN
+	Q NETHER
+	R NOPE
+	a factory
+	a (Ljava/lang/String;Lcai;)Lcai; register

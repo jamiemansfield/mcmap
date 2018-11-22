@@ -3,16 +3,20 @@ azt net/minecraft/world/level/Level
 	j players
 	s random
 	t dimension
+	v listeners
 	y data
 	A ()Laxc; getRecipeManager
+	Q ()Lbaa; getGeneratorType
 	T ()J getTime
 	a (IILbpi;)Lbpc; createChunk
 	a (J)V setTime
 	a (Leq;Lbnh;I)Z setBlock
 	ae ()Ladx; getProfiler
 	b (Leq;)Z isEmptyBlock
+	c (II)Lbpp; createChunk
 	f ()Lazt; getLevel
 	g ()Lcer; getData
+	l (Leq;)Lbpp; createChunk
 	m ()Ljava/util/Random; getRandom
 	o ()Lbqi; getDimension
 	w ()Lnet/minecraft/server/MinecraftServer; getServer

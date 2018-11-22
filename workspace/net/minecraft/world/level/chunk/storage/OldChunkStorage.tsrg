@@ -1,3 +1,15 @@
 bqe net/minecraft/world/level/chunk/storage/OldChunkStorage
 	a (Lbqe$a;Lhm;Lbas;)V convertToAnvilFormat
 	a (Lhm;)Lbqe$a; load
+bqe$a net/minecraft/world/level/chunk/storage/OldChunkStorage$OldLevelChunk
+	a lastUpdated
+	b terrainPopulated
+	c heightMap
+	d blockLight
+	e skyLight
+	f data
+	h entities
+	i blockEntities
+	j tileTicks
+	k y
+	l z
