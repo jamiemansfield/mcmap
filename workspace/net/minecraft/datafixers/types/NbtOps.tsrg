@@ -1,0 +1,4 @@
+hx net/minecraft/datafixers/types/NbtOps
+	a INSTANCE
+	a (Lic;Lic;)Lic; mergeInto
+	b (Lic;Lic;)Lic; merge
