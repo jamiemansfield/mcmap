@@ -1,1 +1,3 @@
 uy net/minecraft/resources/DirectoryResourcePack
+	a (Ljava/lang/String;)Ljava/io/InputStream; getInputStream
+	c (Ljava/lang/String;)Z getLocation

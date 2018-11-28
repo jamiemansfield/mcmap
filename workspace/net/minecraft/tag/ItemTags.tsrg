@@ -34,3 +34,4 @@ xm net/minecraft/tag/ItemTags
 	x SLABS
 	y WALLS
 	z ANVIL
+	a (Ljava/lang/String;)Lxo; create

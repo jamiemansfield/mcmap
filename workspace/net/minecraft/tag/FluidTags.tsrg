@@ -1,0 +1,4 @@
+xl net/minecraft/tag/FluidTags
+	a WATER
+	b LAVA
+	a (Ljava/lang/String;)Lxo; create

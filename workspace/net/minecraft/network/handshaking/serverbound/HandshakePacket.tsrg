@@ -3,5 +3,8 @@ om net/minecraft/network/handshaking/serverbound/HandshakePacket
 	b address
 	c port
 	d nextProtocol
+	a (Lin;)V read
+	a (Lon;)V accept
 	b ()Lim; getNextProtocol
+	b (Lin;)V write
 	c ()I getProtocolVersion

@@ -1,7 +1,9 @@
 b net/minecraft/CrashReport
 	d systemDetails
 	e categories
+	a ()Ljava/lang/String; getMessage
 	a (Ljava/io/File;)Z save
+	b ()Ljava/lang/Throwable; getCause
 	g ()Lc; getSystemDetails
 	h ()V populateSystemDetails
 	i ()Ljava/lang/String; getWittyComment

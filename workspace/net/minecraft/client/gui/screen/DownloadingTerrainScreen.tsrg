@@ -1,2 +1,0 @@
-cps net/minecraft/client/gui/screen/DownloadingTerrainScreen
-	e ()Z isPauseScreen

@@ -1,0 +1,3 @@
+xk net/minecraft/tag/EntityTypeTags
+	a SKELETONS
+	a (Ljava/lang/String;)Lxo; create

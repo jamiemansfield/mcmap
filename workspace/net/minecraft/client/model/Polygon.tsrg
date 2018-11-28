@@ -1,1 +1,5 @@
-cwo net/minecraft/client/model/Polygon
+cvd net/minecraft/client/model/Polygon
+	a vertices
+	b vertexCount
+	a ()V mirror
+	a (Lcla;F)V render

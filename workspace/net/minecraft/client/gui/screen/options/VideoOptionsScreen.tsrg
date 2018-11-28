@@ -1,0 +1,2 @@
+cpz net/minecraft/client/gui/screen/options/VideoOptionsScreen
+	c ()V init

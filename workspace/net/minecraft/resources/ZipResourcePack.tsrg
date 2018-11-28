@@ -1,1 +1,3 @@
 ux net/minecraft/resources/ZipResourcePack
+	a (Ljava/lang/String;)Ljava/io/InputStream; getInputStream
+	c (Ljava/lang/String;)Z getLocation

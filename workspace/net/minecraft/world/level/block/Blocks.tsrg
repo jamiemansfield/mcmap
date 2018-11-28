@@ -5,5 +5,8 @@ beu net/minecraft/world/level/block/Blocks
 	cI PUMPKIN
 	d POLISHED_GRANITE
 	e DIORITE
+	f POLISHED_DIORITE
+	g ANDESITE
+	h POLISHED_ANDESITE
 	i GRASS
 	a (Ljava/lang/String;Lbet;)Lbet; register

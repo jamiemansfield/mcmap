@@ -1,0 +1,12 @@
+lc lc
+	a (Lin;)V read
+	b (Lin;)V write
+lc$a lc$a
+	a (Lin;)V read
+	b (Lin;)V write
+lc$b lc$b
+	a (Lin;)V read
+	b (Lin;)V write
+lc$c lc$c
+	a (Lin;)V read
+	b (Lin;)V write

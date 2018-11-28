@@ -1,5 +1,7 @@
 li li
 	a action
 	b entries
+	a (Lin;)V read
 	b ()Ljava/util/List; getEntries
+	b (Lin;)V write
 	c ()Lli$a; getAction

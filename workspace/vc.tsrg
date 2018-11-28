@@ -1,2 +1,5 @@
 vc vc
 	a ()Ljava/lang/String; getName
+	a (Ljava/lang/String;)Ljava/io/InputStream; getInputStream
+	a (Lva;Lpu;)Ljava/io/InputStream; getInputStream
+	a (Lvd;)Ljava/lang/Object; loadPackMetadata
