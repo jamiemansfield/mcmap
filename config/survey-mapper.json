@@ -1,7 +1,10 @@
 {
   "blacklist": [
     "com/google/",
-    "com/mojang/",
+    "com/mojang/authlib/",
+    "com/mojang/brigadier/",
+    "com/mojang/datafixers/",
+    "com/mojang/util/",
     "io/netty/",
     "it/unimi/dsi/fastutil/",
     "javax/annotation/",
@@ -12,7 +15,7 @@
   "mappers": [
     {
       "id": "enum-constants",
-      "type": "enum",
+      "type": "enum-constants",
       "config": {
         "map_synthetic_values": true
       }
