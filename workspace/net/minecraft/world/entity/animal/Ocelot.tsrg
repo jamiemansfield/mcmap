@@ -1,3 +1,1 @@
-alf net/minecraft/world/entity/animal/Ocelot
-	a (Lhm;)V read
-	b (Lhm;)V write
+alw net/minecraft/world/entity/animal/Ocelot

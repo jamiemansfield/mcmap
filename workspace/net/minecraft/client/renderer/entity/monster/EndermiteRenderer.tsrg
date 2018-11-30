@@ -1,3 +1,2 @@
-deh net/minecraft/client/renderer/entity/monster/EndermiteRenderer
+dgr net/minecraft/client/renderer/entity/monster/EndermiteRenderer
 	a TEXTURE
-	a (Lafv;)Lpu; getTexture

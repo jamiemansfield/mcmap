@@ -1,16 +1,16 @@
-l net/minecraft/advancement/SimpleAdvancement
+n net/minecraft/advancement/SimpleAdvancement
 	a parent
 	b display
 	c rewards
 	e criteria
 	f requirements
-	b ()Ll; getParent
-	c ()Lu; getDisplay
-	d ()Lo; getRewards
+	b ()Ln; getParent
+	c ()Lw; getDisplay
+	d ()Lq; getRewards
 	f ()Ljava/util/Map; getCriteria
-	h ()Lpu; getId
+	h ()Lpy; getId
 	i ()[[Ljava/lang/String; getRequirements
-l$a net/minecraft/advancement/SimpleAdvancement$a
+n$a net/minecraft/advancement/SimpleAdvancement$a
 	a parentId
 	c display
 	d rewards

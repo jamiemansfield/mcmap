@@ -1,4 +1,4 @@
-fx net/minecraft/data/DataCache
+ga net/minecraft/data/DataCache
 	b root
 	b ()V deleteAll
 	b (Ljava/nio/file/Path;)Z contains

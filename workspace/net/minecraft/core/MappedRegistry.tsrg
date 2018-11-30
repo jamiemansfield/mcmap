@@ -1,5 +1,5 @@
-fh net/minecraft/core/MappedRegistry
-	A STAT_TYPE
+fk net/minecraft/core/MappedRegistry
+	G STAT_TYPE
 	g SOUND_EVENT
 	h FLUID
 	i MOB_EFFECT
@@ -20,10 +20,10 @@ fh net/minecraft/core/MappedRegistry
 	x DIMENSION_TYPE
 	y MOTIVE
 	z CUSTOM_STAT
-	a ()Lpu; getDefault
-	a (Lfh;ILjava/lang/String;Ljava/lang/Object;)Ljava/lang/Object; register
-	a (Lfh;Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object; register
-	a (Lfh;Lpu;Ljava/lang/Object;)Ljava/lang/Object; register
-	a (Lpu;)Ljava/lang/Object; get
-	b (Ljava/lang/Object;)Lpu; getKey
-	b (Lpu;)Z containsKey
+	a (Lfk;ILjava/lang/String;Ljava/lang/Object;)Ljava/lang/Object; register
+	a (Lfk;Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object; register
+	a (Lfk;Lpy;Ljava/lang/Object;)Ljava/lang/Object; register
+	a (Lpy;)Ljava/lang/Object; get
+	b (Ljava/lang/Object;)Lpy; getKey
+	b (Lpy;)Z containsKey
+	i ()Lpy; getDefault

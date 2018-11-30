@@ -1,3 +1,2 @@
-dhb net/minecraft/client/renderer/entity/monster/ZombieRenderer
+djm net/minecraft/client/renderer/entity/monster/ZombieRenderer
 	a TEXTURE
-	a (Lafv;)Lpu; getTexture

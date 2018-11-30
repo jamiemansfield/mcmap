@@ -1,3 +1,2 @@
 cri cri
-	c ()V init
-	i ()I headerHeight
+	a (Lja;)V updateLastOutput

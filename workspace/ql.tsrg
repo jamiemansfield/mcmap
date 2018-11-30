@@ -1,0 +1,3 @@
+ql ql
+	a ()Lnet/minecraft/server/MinecraftServer; getServer
+	d ()Lcom/mojang/brigadier/CommandDispatcher; getCommandDispatcher

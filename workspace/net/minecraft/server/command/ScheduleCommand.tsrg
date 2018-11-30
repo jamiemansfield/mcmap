@@ -1,2 +1,2 @@
-sg net/minecraft/server/command/ScheduleCommand
+sl net/minecraft/server/command/ScheduleCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

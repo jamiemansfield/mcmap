@@ -1,0 +1,4 @@
+wq wq
+	a (Lwp;)V add
+	c (Ljava/lang/Object;)V remove
+	f ()V save

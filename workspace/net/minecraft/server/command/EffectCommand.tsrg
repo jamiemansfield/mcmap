@@ -1,2 +1,2 @@
-rc net/minecraft/server/command/EffectCommand
+rf net/minecraft/server/command/EffectCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

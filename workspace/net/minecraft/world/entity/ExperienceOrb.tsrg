@@ -1,6 +1,2 @@
-agb net/minecraft/world/entity/ExperienceOrb
-	a (Lhm;)V read
-	am ()Z isGrounded
-	b (Lhm;)V write
-	g (I)V setMaxLength
+ago net/minecraft/world/entity/ExperienceOrb
 	i ()I headerHeight

@@ -1,9 +1,9 @@
-cki net/minecraft/client/NativeImage
+cmn net/minecraft/client/NativeImage
 	c width
 	d height
 	a (II)I getPixelRGBA
 	a (III)V putPixelRGBA
-	a (IIIILcki;)V resizeSubRectTo
+	a (IIIILcmn;)V resizeSubRectTo
 	b (III)V blendPixel
 	d ()[I makePixelArray
-cki$a net/minecraft/client/NativeImage$Format
+cmn$a net/minecraft/client/NativeImage$Format

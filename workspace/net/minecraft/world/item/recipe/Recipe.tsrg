@@ -1,2 +1,2 @@
-axb net/minecraft/world/item/recipe/Recipe
-	b ()Lpu; getId
+axy net/minecraft/world/item/recipe/Recipe
+	b ()Lpy; getId

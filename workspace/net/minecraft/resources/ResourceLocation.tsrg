@@ -1,7 +1,7 @@
-pu net/minecraft/resources/ResourceLocation
+py net/minecraft/resources/ResourceLocation
 	a namespace
 	b path
 	a ()Ljava/lang/String; getPath
-	a (Ljava/lang/String;)Lpu; of
-	a (Ljava/lang/String;C)Lpu; of
+	a (Ljava/lang/String;)Lpy; of
+	a (Ljava/lang/String;C)Lpy; of
 	b ()Ljava/lang/String; getNamespace

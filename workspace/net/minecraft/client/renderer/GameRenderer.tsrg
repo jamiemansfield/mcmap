@@ -1,5 +1,4 @@
-czs net/minecraft/client/renderer/GameRenderer
+dcc net/minecraft/client/renderer/GameRenderer
 	f client
 	h random
-	a (Lvt;)V reload
-	l ()Lclp; getClient
+	l ()Lcnv; getClient

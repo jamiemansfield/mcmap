@@ -1,7 +1,0 @@
-ud ud
-	a level
-	b player
-	c gameMode
-	a (Lazq;)V setGameMode
-	a (Lua;)V setLevel
-	b ()Lazq; getGameMode

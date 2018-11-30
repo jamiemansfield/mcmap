@@ -1,3 +1,2 @@
-dfq net/minecraft/client/renderer/entity/animal/ParrotRenderer
+dib net/minecraft/client/renderer/entity/animal/ParrotRenderer
 	a TEXTURES
-	a (Lafv;)Lpu; getTexture

@@ -1,1 +1,1 @@
-bvr net/minecraft/world/level/chunk/generator/feature/SimpleRandomSelectorFeature
+bws net/minecraft/world/level/chunk/generator/feature/SimpleRandomSelectorFeature

@@ -1,2 +1,2 @@
-di net/minecraft/command/arguments/SwizzleArgumentType
-	a ()Ldi; create
+dl net/minecraft/command/arguments/SwizzleArgumentType
+	a ()Ldl; create

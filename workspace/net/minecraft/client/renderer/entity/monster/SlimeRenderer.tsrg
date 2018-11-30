@@ -1,3 +1,2 @@
-dge net/minecraft/client/renderer/entity/monster/SlimeRenderer
+dip net/minecraft/client/renderer/entity/monster/SlimeRenderer
 	a TEXTURE
-	a (Lafv;)Lpu; getTexture

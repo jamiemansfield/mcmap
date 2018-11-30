@@ -1,8 +1,8 @@
-bau net/minecraft/world/level/biome/BiomeSourceType
+bbs net/minecraft/world/level/biome/BiomeSourceType
 	a CHECKERBOARD
 	b FIXED
 	c VANILLA_LAYERED
 	d THE_END
 	e factory
-	a (Lbat;)Lbas; create
-	a (Ljava/lang/String;Ljava/util/function/Function;Ljava/util/function/Supplier;)Lbau; register
+	a (Lbbr;)Lbbq; create
+	a (Ljava/lang/String;Ljava/util/function/Function;Ljava/util/function/Supplier;)Lbbs; register

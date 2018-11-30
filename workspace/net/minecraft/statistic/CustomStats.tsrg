@@ -1,4 +1,4 @@
-xg net/minecraft/statistic/CustomStats
+xp net/minecraft/statistic/CustomStats
 	A AVIATE_ONE_CM
 	B SWIM_ONE_CM
 	C JUMP
@@ -66,5 +66,5 @@ xg net/minecraft/statistic/CustomStats
 	x BOAT_ONE_CM
 	y PIG_ONE_CM
 	z HORSE_ONE_CM
-	a (Ljava/lang/String;Lfh;)Lxf; register
-	a (Ljava/lang/String;Lxe;)Lpu; register
+	a (Ljava/lang/String;Lfk;)Lxo; register
+	a (Ljava/lang/String;Lxn;)Lpy; register

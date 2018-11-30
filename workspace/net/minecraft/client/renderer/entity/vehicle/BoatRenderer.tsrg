@@ -1,3 +1,2 @@
-ddq net/minecraft/client/renderer/entity/vehicle/BoatRenderer
+dga net/minecraft/client/renderer/entity/vehicle/BoatRenderer
 	f TEXTURES
-	a (Lafv;)Lpu; getTexture

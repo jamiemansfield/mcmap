@@ -1,7 +1,4 @@
 bze bze
-	a width
-	b height
-	c depth
-	d hPos
-	a (Lhm;)V writeToTag
-	a (Lhm;Lbzs;)V readFromTag
+	a min
+	b max
+	a (Lcom/mojang/datafixers/Dynamic;)Lbze; create

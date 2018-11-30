@@ -1,3 +1,1 @@
-aos net/minecraft/world/entity/monster/ZombiePigman
-	a (Lhm;)V read
-	b (Lhm;)V write
+apk net/minecraft/world/entity/monster/ZombiePigman

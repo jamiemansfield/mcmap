@@ -1,6 +1,6 @@
-fv net/minecraft/data/DataGenerator
+fy net/minecraft/data/DataGenerator
 	c root
 	d providers
-	a (Lfw;)V install
+	a (Lfz;)V install
 	b ()Ljava/nio/file/Path; getRoot
 	c ()V run

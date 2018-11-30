@@ -1,2 +1,2 @@
-dp net/minecraft/command/arguments/FunctionArgumentType
-	a ()Ldp; create
+ds net/minecraft/command/arguments/FunctionArgumentType
+	a ()Lds; create

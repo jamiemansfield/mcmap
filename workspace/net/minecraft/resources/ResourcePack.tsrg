@@ -1,8 +1,5 @@
-uw net/minecraft/resources/ResourcePack
+vf net/minecraft/resources/ResourcePack
 	a rootDirectory
-	a ()Ljava/lang/String; getName
 	a (Ljava/lang/String;)Ljava/io/InputStream; getInputStream
-	a (Lva;Lpu;)Ljava/io/InputStream; getInputStream
-	a (Lvd;)Ljava/lang/Object; loadPackMetadata
-	a (Lvd;Ljava/io/InputStream;)Ljava/lang/Object; loadMetadata
+	a (Lvm;Ljava/io/InputStream;)Ljava/lang/Object; loadMetadata
 	c (Ljava/lang/String;)Z getLocation

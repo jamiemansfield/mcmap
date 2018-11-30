@@ -1,2 +1,7 @@
 cov cov
-	c ()V init
+	a (I)V setSuccessCount
+	a (Lja;)V updateLastOutput
+	a (Ljava/lang/String;)V setValue
+	a (Z)V setTrackOutput
+	f ()I getScrollbarPosition
+	h ()I y1

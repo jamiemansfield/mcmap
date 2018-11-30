@@ -1,3 +1,3 @@
-cuu net/minecraft/client/model/Model
+cxe net/minecraft/client/model/Model
 	q cubes
-	a (Ljava/lang/String;)Lcwr; getTextureOffset
+	a (Ljava/lang/String;)Lczb; getTextureOffset

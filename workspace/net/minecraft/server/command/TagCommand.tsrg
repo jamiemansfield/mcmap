@@ -1,2 +1,2 @@
-sr net/minecraft/server/command/TagCommand
+sw net/minecraft/server/command/TagCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

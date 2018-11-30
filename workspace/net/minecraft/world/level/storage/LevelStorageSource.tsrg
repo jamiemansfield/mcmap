@@ -1,12 +1,12 @@
-ceu net/minecraft/world/level/storage/LevelStorageSource
+cgx net/minecraft/world/level/storage/LevelStorageSource
 	d DATE_TIME_FORMATTER
 	a ()Ljava/lang/String; getName
 	a (Ljava/lang/String;)Z isConvertable
 	a (Ljava/lang/String;Ljava/lang/String;)V renameLevel
-	a (Ljava/lang/String;Lyg;)Z convertLevel
+	a (Ljava/lang/String;Lyq;)Z convertLevel
 	b ()Ljava/util/List; getLevelList
 	b (Ljava/lang/String;)Z requiresConversion
-	c (Ljava/lang/String;)Lcer; read
+	c (Ljava/lang/String;)Lcgu; read
 	d ()V clearAll
 	d (Ljava/lang/String;)Z isNewLevelIdAcceptable
 	e (Ljava/lang/String;)Z deleteLevel

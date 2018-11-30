@@ -1,3 +1,1 @@
-alr net/minecraft/world/entity/animal/TropicalFish
-	a (Lhm;)V read
-	b (Lhm;)V write
+ami net/minecraft/world/entity/animal/TropicalFish

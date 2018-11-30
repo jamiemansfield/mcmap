@@ -1,2 +1,2 @@
-ri net/minecraft/server/command/ForceLoadCommand
+rl net/minecraft/server/command/ForceLoadCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

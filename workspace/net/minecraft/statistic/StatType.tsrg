@@ -1,5 +1,5 @@
-xf net/minecraft/statistic/StatType
+xo net/minecraft/statistic/StatType
 	a registry
-	a ()Lfh; getRegistry
-	a (Ljava/lang/Object;Lxe;)Lxd; get
-	b (Ljava/lang/Object;)Lxd; get
+	a ()Lfk; getRegistry
+	a (Ljava/lang/Object;Lxn;)Lxm; get
+	b (Ljava/lang/Object;)Lxm; get

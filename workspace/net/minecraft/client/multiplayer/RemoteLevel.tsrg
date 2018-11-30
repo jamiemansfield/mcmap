@@ -1,3 +1,2 @@
-cxa net/minecraft/client/multiplayer/RemoteLevel
+czk net/minecraft/client/multiplayer/RemoteLevel
 	d client
-	A ()Laxc; getRecipeManager

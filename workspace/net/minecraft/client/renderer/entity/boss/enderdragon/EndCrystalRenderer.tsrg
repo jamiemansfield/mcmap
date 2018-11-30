@@ -1,3 +1,2 @@
-dee net/minecraft/client/renderer/entity/boss/enderdragon/EndCrystalRenderer
+dgo net/minecraft/client/renderer/entity/boss/enderdragon/EndCrystalRenderer
 	a TEXTURE
-	a (Lafv;)Lpu; getTexture

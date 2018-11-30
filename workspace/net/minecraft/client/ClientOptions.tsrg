@@ -1,4 +1,4 @@
-clr net/minecraft/client/ClientOptions
+cnx net/minecraft/client/ClientOptions
 	Q currentStep
 	V forwardKey
 	W leftKey

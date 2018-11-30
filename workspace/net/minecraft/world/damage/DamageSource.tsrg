@@ -1,4 +1,4 @@
-afe net/minecraft/world/damage/DamageSource
+afr net/minecraft/world/damage/DamageSource
 	a IN_FIRE
 	b LIGHTNING_BOLT
 	c ON_FIRE
@@ -20,4 +20,4 @@ afe net/minecraft/world/damage/DamageSource
 	s DRAGON_BREATH
 	t FIREWORKS
 	u DRYOUT
-	a ()Lafe; netherBed
+	a ()Lafr; netherBed

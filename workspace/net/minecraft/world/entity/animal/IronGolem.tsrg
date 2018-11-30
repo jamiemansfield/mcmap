@@ -1,4 +1,2 @@
-ald net/minecraft/world/entity/animal/IronGolem
-	a (Lhm;)V read
+alu net/minecraft/world/entity/animal/IronGolem
 	a (Z)V setTrackOutput
-	b (Lhm;)V write

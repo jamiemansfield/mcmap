@@ -1,3 +1,2 @@
-cpm net/minecraft/client/gui/screen/SplashScreen
+cru net/minecraft/client/gui/screen/SplashScreen
 	f MOJANG_LOGO
-	c ()V init

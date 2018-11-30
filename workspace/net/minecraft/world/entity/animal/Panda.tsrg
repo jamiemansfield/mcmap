@@ -1,4 +1,2 @@
-alg net/minecraft/world/entity/animal/Panda
-	a (Lhm;)V read
-	b (Lhm;)V write
+alx net/minecraft/world/entity/animal/Panda
 	dC ()Z mayBuild

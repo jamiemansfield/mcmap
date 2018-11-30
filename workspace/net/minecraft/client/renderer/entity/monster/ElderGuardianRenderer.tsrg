@@ -1,3 +1,2 @@
-ded net/minecraft/client/renderer/entity/monster/ElderGuardianRenderer
+dgn net/minecraft/client/renderer/entity/monster/ElderGuardianRenderer
 	a TEXTURE
-	a (Lafv;)Lpu; getTexture

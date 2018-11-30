@@ -1,13 +1,13 @@
-xm net/minecraft/tag/ItemTags
+xv net/minecraft/tag/ItemTags
 	A RAILS
 	B LEAVES
 	C TRAPDOORS
 	D SMALL_FLOWERS
 	E BEDS
-	F BOATS
-	G FISHES
-	H SIGNS
-	I MUSIC_DISCS
+	G BOATS
+	H FISHES
+	I SIGNS
+	J MUSIC_DISCS
 	a WOOL
 	b PLANKS
 	c STONE_BRICKS
@@ -34,4 +34,4 @@ xm net/minecraft/tag/ItemTags
 	x SLABS
 	y WALLS
 	z ANVIL
-	a (Ljava/lang/String;)Lxo; create
+	a (Ljava/lang/String;)Lxx; create

@@ -1,3 +1,2 @@
-dfn net/minecraft/client/renderer/entity/animal/OcelotRenderer
+dhy net/minecraft/client/renderer/entity/animal/OcelotRenderer
 	a TEXTURE
-	a (Lafv;)Lpu; getTexture

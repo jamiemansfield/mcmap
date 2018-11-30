@@ -1,13 +1,12 @@
-afv net/minecraft/world/entity/Entity
-	a (Lhm;)V read
-	a (Lix;)V updateLastOutput
+agi net/minecraft/world/entity/Entity
+	a (Lhp;)V read
 	al ()Z trackOutput
 	am ()Z isGrounded
-	b (Lhm;)V write
-	b (Lix;)V setCustomName
-	c (Lix;)V setLastOutput
+	b (Lhp;)V write
+	b (Lja;)V setCustomName
+	c (Lja;)V setLastOutput
 	c (Z)V active
 	d (Z)V render
 	e (I)V scroll
-	f (Lhm;)V load
+	f (Lhp;)V load
 	g (I)V setMaxLength

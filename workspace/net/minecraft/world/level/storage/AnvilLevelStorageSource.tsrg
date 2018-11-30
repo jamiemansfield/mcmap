@@ -1,10 +1,4 @@
-cem net/minecraft/world/level/storage/AnvilLevelStorageSource
-	a ()Ljava/lang/String; getName
-	a (Ljava/io/File;Ljava/io/File;Lbas;IILyg;)V convertRegion
+cgp net/minecraft/world/level/storage/AnvilLevelStorageSource
+	a (Ljava/io/File;Ljava/io/File;Lbbq;IILyq;)V convertRegion
 	a (Ljava/io/File;Ljava/util/Collection;)V addRegionFiles
-	a (Ljava/lang/String;)Z isConvertable
-	a (Ljava/lang/String;Lyg;)Z convertLevel
-	b ()Ljava/util/List; getLevelList
-	b (Ljava/lang/String;)Z requiresConversion
-	d ()V clearAll
 	i (Ljava/lang/String;)V makeMcrLevelDatBackup

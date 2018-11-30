@@ -1,3 +1,2 @@
-dem net/minecraft/client/renderer/entity/ExperienceOrbRenderer
+dgw net/minecraft/client/renderer/entity/ExperienceOrbRenderer
 	a TEXTURE
-	a (Lafv;)Lpu; getTexture

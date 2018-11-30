@@ -1,2 +1,2 @@
-qx net/minecraft/server/command/dedicated/DeopCommand
+rb net/minecraft/server/command/dedicated/DeopCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

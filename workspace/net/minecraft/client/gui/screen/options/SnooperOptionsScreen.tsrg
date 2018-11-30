@@ -1,9 +1,2 @@
-cpw net/minecraft/client/gui/screen/options/SnooperOptionsScreen
+cse net/minecraft/client/gui/screen/options/SnooperOptionsScreen
 	f options
-	c ()V init
-cpw$a net/minecraft/client/gui/screen/options/SnooperOptionsScreen$a
-	a ()V renderItem
-	a (I)Z isSelectedItem
-	a (IIIIIIF)V renderItem
-	d ()I getItemCount
-	f ()I getScrollbarPosition

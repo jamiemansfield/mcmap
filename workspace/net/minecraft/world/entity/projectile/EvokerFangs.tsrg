@@ -1,5 +1,3 @@
-apz net/minecraft/world/entity/projectile/EvokerFangs
+aqr net/minecraft/world/entity/projectile/EvokerFangs
 	a warmup
 	f ownerId
-	a (Lhm;)V read
-	b (Lhm;)V write

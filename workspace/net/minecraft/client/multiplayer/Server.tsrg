@@ -1,11 +1,11 @@
-cxd net/minecraft/client/multiplayer/Server
+czn net/minecraft/client/multiplayer/Server
 	a name
 	b ip
 	j textures
 	k icon
-	a ()Lhm; writeToTag
-	a (Lcxd$a;)V setTextures
-	a (Lhm;)Lcxd; readFromTag
+	a ()Lhp; writeToTag
+	a (Lczn$a;)V setTextures
+	a (Lhp;)Lczn; readFromTag
 	a (Ljava/lang/String;)V setIcon
-	b ()Lcxd$a; getTextures
+	b ()Lczn$a; getTextures
 	c ()Ljava/lang/String; getIcon

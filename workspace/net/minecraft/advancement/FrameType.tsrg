@@ -1,4 +1,4 @@
-v net/minecraft/advancement/FrameType
+x net/minecraft/advancement/FrameType
 	f color
-	a (Ljava/lang/String;)Lv; of
+	a (Ljava/lang/String;)Lx; of
 	c ()La; getColor

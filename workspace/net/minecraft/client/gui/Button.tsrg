@@ -1,4 +1,4 @@
-cmm net/minecraft/client/gui/Button
+cou net/minecraft/client/gui/Button
 	f successCount
 	a (I)V setSuccessCount
 	a (IIF)V render

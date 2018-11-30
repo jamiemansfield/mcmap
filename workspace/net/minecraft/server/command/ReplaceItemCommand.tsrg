@@ -1,2 +1,2 @@
-sb net/minecraft/server/command/ReplaceItemCommand
+sg net/minecraft/server/command/ReplaceItemCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

@@ -1,3 +1,2 @@
-dea net/minecraft/client/renderer/entity/animal/DolphinRenderer
+dgk net/minecraft/client/renderer/entity/animal/DolphinRenderer
 	a TEXTURE
-	a (Lafv;)Lpu; getTexture

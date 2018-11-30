@@ -1,2 +1,2 @@
-dly net/minecraft/client/network/LanServerPinger
+doj net/minecraft/client/network/LanServerPinger
 	d socket

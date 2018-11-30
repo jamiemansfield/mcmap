@@ -1,5 +1,0 @@
-cpr cpr
-	a (I)V setSuccessCount
-	a (Lix;)V updateLastOutput
-	b (Lix;)V setCustomName
-	c (Lix;)V setLastOutput

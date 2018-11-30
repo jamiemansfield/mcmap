@@ -1,5 +1,0 @@
-aqt aqt
-	a (Lhm;)V read
-	b (Lhm;)V write
-	f ()I getScrollbarPosition
-	h ()I y1

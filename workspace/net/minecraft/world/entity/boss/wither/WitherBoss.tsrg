@@ -1,4 +1,1 @@
-anf net/minecraft/world/entity/boss/wither/WitherBoss
-	a (Lhm;)V read
-	b (Lhm;)V write
-	b (Lix;)V setCustomName
+anw net/minecraft/world/entity/boss/wither/WitherBoss

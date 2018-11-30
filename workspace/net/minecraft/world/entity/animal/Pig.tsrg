@@ -1,3 +1,1 @@
-ali net/minecraft/world/entity/animal/Pig
-	a (Lhm;)V read
-	b (Lhm;)V write
+alz net/minecraft/world/entity/animal/Pig

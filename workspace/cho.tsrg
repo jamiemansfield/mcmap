@@ -1,0 +1,6 @@
+cho cho
+	a CONSTANT
+	b UNIFORM
+	c BINOMIAL
+	a ()Lpy; getId
+	a (Ljava/util/Random;)I nextInt

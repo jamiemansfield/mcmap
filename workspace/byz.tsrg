@@ -1,12 +1,3 @@
-byz$a byz$a
-	a (Lhm;)V writeToTag
-	a (Lhm;Lbzs;)V readFromTag
-byz$b byz$b
-	a (Lhm;)V writeToTag
-	a (Lhm;Lbzs;)V readFromTag
-byz$c byz$c
-	a (Lhm;)V writeToTag
-	a (Lhm;Lbzs;)V readFromTag
-byz$d byz$d
-	a (Lhm;)V writeToTag
-	a (Lhm;Lbzs;)V readFromTag
+byz byz
+	a chance
+	a (Lcom/mojang/datafixers/Dynamic;)Lbyz; create

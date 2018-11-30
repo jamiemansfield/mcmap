@@ -1,4 +1,1 @@
-ua net/minecraft/server/world/level/ServerLevel
-	A ()Laxc; getRecipeManager
-	a (J)V setTime
-	w ()Lnet/minecraft/server/MinecraftServer; getServer
+uj net/minecraft/server/world/level/ServerLevel

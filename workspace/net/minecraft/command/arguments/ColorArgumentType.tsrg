@@ -1,3 +1,3 @@
-ca net/minecraft/command/arguments/ColorArgumentType
+cd net/minecraft/command/arguments/ColorArgumentType
 	b EXAMPLES
-	a ()Lca; create
+	a ()Lcd; create

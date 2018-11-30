@@ -1,0 +1,6 @@
+dbn dbn
+	cw serverBrand
+	f client
+	a (I)V setSuccessCount
+	g (Ljava/lang/String;)V setServerBrand
+	w ()Ljava/lang/String; getServerBrand

@@ -1,6 +1,6 @@
-ve net/minecraft/resources/metadata/pack/PackMetadataSection
+vn net/minecraft/resources/metadata/pack/PackMetadataSection
 	a SERIALIZER
 	b description
 	c packFormat
-	a ()Lix; getDescription
+	a ()Lja; getDescription
 	b ()I getPackFormat

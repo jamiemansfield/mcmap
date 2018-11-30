@@ -1,2 +1,2 @@
-rp net/minecraft/server/command/KillCommand
+rs net/minecraft/server/command/KillCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

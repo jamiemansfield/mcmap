@@ -1,7 +1,0 @@
-byx byx
-	e plaacedMainChest
-	f placedHiddenChest
-	g placedTrap1
-	h placedTrap2
-	a (Lhm;)V writeToTag
-	a (Lhm;Lbzs;)V readFromTag

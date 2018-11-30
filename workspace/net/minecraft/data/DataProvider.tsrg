@@ -1,4 +1,4 @@
-fw net/minecraft/data/DataProvider
+fz net/minecraft/data/DataProvider
 	a SHA_1
 	a ()Ljava/lang/String; getName
-	a (Lfx;)V run
+	a (Lga;)V run

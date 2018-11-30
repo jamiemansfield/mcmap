@@ -1,11 +1,8 @@
-cqr net/minecraft/client/gui/screen/BookScreen
+csz net/minecraft/client/gui/screen/BookScreen
 	a TEXTURE
 	f author
 	u pageCount
 	w pages
 	x title
-	a (Ljava/lang/String;)V setValue
 	a (Z)V setTrackOutput
-	c ()V init
-cqr$a net/minecraft/client/gui/screen/BookScreen$a
-	a (IIF)V render
+	b (Ljava/lang/String;)V setValue

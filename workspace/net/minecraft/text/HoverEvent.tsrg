@@ -1,6 +1,6 @@
-ja net/minecraft/text/HoverEvent
+jd net/minecraft/text/HoverEvent
 	a action
 	b value
-	a ()Lja$a; getAction
-	b ()Lix; getValue
-ja$a net/minecraft/text/HoverEvent$Action
+	a ()Ljd$a; getAction
+	b ()Lja; getValue
+jd$a net/minecraft/text/HoverEvent$Action

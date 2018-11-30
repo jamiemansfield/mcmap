@@ -1,8 +1,5 @@
-jh net/minecraft/text/TranslatableComponent
+jk net/minecraft/text/TranslatableComponent
 	f key
 	g args
-	a (Ljf;)Lix; setStyle
-	c ()Ljava/util/stream/Stream; stream
-	d ()Ljava/lang/String; getValue
 	k ()Ljava/lang/String; getKey
 	l ()[Ljava/lang/Object; getArgs

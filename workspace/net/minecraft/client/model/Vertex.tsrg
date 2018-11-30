@@ -1,5 +1,5 @@
-cwc net/minecraft/client/model/Vertex
+cym net/minecraft/client/model/Vertex
 	a pos
 	b u
 	c v
-	a (FF)Lcwc; remap
+	a (FF)Lcym; remap

@@ -1,1 +1,1 @@
-bqu net/minecraft/world/level/chunk/generator/DebugChunkGenerator
+brm net/minecraft/world/level/chunk/generator/DebugChunkGenerator

@@ -1,2 +1,2 @@
-ci net/minecraft/command/arguments/ItemEnchantmentArgumentType
-	a ()Lci; create
+cl net/minecraft/command/arguments/ItemEnchantmentArgumentType
+	a ()Lcl; create

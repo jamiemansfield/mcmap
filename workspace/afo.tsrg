@@ -1,8 +1,3 @@
 afo afo
-	c duration
-	e splash
-	h particles
-	i showIcon
-	b ()I getDuration
-	e ()Z particles
-	f ()Z showIcons
+	a source
+	a ()Lafr; getSource

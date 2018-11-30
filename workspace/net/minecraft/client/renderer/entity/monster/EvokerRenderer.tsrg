@@ -1,2 +1,1 @@
-del net/minecraft/client/renderer/entity/monster/EvokerRenderer
-	a (Lafv;)Lpu; getTexture
+dgv net/minecraft/client/renderer/entity/monster/EvokerRenderer

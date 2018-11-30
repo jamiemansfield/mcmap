@@ -1,6 +1,6 @@
-bll net/minecraft/world/level/block/entity/BlockEntity
+bmn net/minecraft/world/level/block/entity/BlockEntity
 	c_ level
 	e type
-	C ()Lblm; getType
-	F ()Lazt; getLevel
-	a (Lazt;)V setLevel
+	C ()Lbmo; getType
+	F ()Lbaq; getLevel
+	a (Lbaq;)V setLevel

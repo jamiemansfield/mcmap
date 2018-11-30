@@ -1,2 +1,1 @@
-dgt net/minecraft/client/renderer/entity/monster/VexRenderer
-	a (Lafv;)Lpu; getTexture
+dje net/minecraft/client/renderer/entity/monster/VexRenderer

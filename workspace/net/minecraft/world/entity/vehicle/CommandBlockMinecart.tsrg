@@ -1,5 +1,1 @@
-aqx net/minecraft/world/entity/vehicle/CommandBlockMinecart
-	a (Lhm;)V read
-	b (Lhm;)V write
-aqx$a net/minecraft/world/entity/vehicle/CommandBlockMinecart$a
-	d ()Lua; getLevel
+ars net/minecraft/world/entity/vehicle/CommandBlockMinecart

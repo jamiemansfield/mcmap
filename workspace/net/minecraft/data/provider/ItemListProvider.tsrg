@@ -1,4 +1,2 @@
-gh net/minecraft/data/provider/ItemListProvider
+gk net/minecraft/data/provider/ItemListProvider
 	b generator
-	a ()Ljava/lang/String; getName
-	a (Lfx;)V run

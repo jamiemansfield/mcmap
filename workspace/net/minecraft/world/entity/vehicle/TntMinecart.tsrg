@@ -1,4 +1,2 @@
-arb net/minecraft/world/entity/vehicle/TntMinecart
-	a (Lhm;)V read
-	b (Lhm;)V write
+arw net/minecraft/world/entity/vehicle/TntMinecart
 	i ()I headerHeight

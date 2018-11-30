@@ -1,2 +1,2 @@
 vl vl
-	d report
+	a (Ljava/lang/String;)Ljava/io/InputStream; getInputStream

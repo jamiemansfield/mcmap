@@ -1,4 +1,4 @@
-xy net/minecraft/util/gson/GsonUtils
+yi net/minecraft/util/gson/GsonUtils
 	a (Lcom/google/gson/Gson;Ljava/io/Reader;Ljava/lang/Class;)Ljava/lang/Object; read
 	a (Lcom/google/gson/Gson;Ljava/io/Reader;Ljava/lang/Class;Z)Ljava/lang/Object; read
 	a (Lcom/google/gson/Gson;Ljava/io/Reader;Ljava/lang/reflect/Type;)Ljava/lang/Object; read
@@ -26,7 +26,7 @@ xy net/minecraft/util/gson/GsonUtils
 	a (Ljava/lang/String;)Lcom/google/gson/JsonObject; read
 	a (Ljava/lang/String;Z)Lcom/google/gson/JsonObject; read
 	b (Lcom/google/gson/JsonElement;)Z isNumber
-	b (Lcom/google/gson/JsonElement;Ljava/lang/String;)Lauq; getItem
+	b (Lcom/google/gson/JsonElement;Ljava/lang/String;)Lavn; getItem
 	c (Lcom/google/gson/JsonElement;Ljava/lang/String;)Z getBoolean
 	c (Lcom/google/gson/JsonObject;Ljava/lang/String;)Z isBoolean
 	d (Lcom/google/gson/JsonElement;)Ljava/lang/String; asString
@@ -38,7 +38,7 @@ xy net/minecraft/util/gson/GsonUtils
 	g (Lcom/google/gson/JsonObject;Ljava/lang/String;)Z contains
 	h (Lcom/google/gson/JsonElement;Ljava/lang/String;)B getByte
 	h (Lcom/google/gson/JsonObject;Ljava/lang/String;)Ljava/lang/String; getString
-	i (Lcom/google/gson/JsonObject;Ljava/lang/String;)Lauq; getItem
+	i (Lcom/google/gson/JsonObject;Ljava/lang/String;)Lavn; getItem
 	j (Lcom/google/gson/JsonObject;Ljava/lang/String;)Z getBoolean
 	l (Lcom/google/gson/JsonObject;Ljava/lang/String;)F getFloat
 	m (Lcom/google/gson/JsonElement;Ljava/lang/String;)Lcom/google/gson/JsonObject; getObject

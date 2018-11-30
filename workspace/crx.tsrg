@@ -1,5 +1,0 @@
-crx crx
-	a (Ljava/lang/String;)V setValue
-	a (Z)V setTrackOutput
-	c (Z)V active
-	d (Z)V render

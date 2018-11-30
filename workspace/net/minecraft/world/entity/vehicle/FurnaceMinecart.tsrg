@@ -1,3 +1,1 @@
-aqy net/minecraft/world/entity/vehicle/FurnaceMinecart
-	a (Lhm;)V read
-	b (Lhm;)V write
+art net/minecraft/world/entity/vehicle/FurnaceMinecart

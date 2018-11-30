@@ -1,4 +1,3 @@
-hf net/minecraft/data/provider/AbstractTagsProvider
+hi net/minecraft/data/provider/AbstractTagsProvider
 	b generator
 	c registry
-	a (Lfx;)V run

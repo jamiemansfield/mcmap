@@ -1,5 +1,2 @@
-amk net/minecraft/world/entity/boss/enderdragon/EndCrystal
-	a (Lhm;)V read
+anb net/minecraft/world/entity/boss/enderdragon/EndCrystal
 	a (Z)V setTrackOutput
-	am ()Z isGrounded
-	b (Lhm;)V write

@@ -1,4 +1,2 @@
-anr net/minecraft/world/entity/global/LightningBolt
+aoi net/minecraft/world/entity/global/LightningBolt
 	a (I)V setSuccessCount
-	a (Lhm;)V read
-	b (Lhm;)V write

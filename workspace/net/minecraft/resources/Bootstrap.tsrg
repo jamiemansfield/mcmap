@@ -1,4 +1,4 @@
-px net/minecraft/resources/Bootstrap
+qb net/minecraft/resources/Bootstrap
 	a SYSTEM_OUT
 	a ()V init
 	a (Ljava/lang/String;)V println

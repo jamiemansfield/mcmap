@@ -1,3 +1,3 @@
-rj net/minecraft/server/command/FunctionCommand
+rm net/minecraft/server/command/FunctionCommand
 	a SUGGESTION_PROVIDER
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

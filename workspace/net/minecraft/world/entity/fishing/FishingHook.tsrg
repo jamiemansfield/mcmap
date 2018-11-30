@@ -1,5 +1,2 @@
-ano net/minecraft/world/entity/fishing/FishingHook
+aof net/minecraft/world/entity/fishing/FishingHook
 	a (I)V setSuccessCount
-	a (Lhm;)V read
-	am ()Z isGrounded
-	b (Lhm;)V write

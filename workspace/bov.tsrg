@@ -1,0 +1,5 @@
+bov bov
+	a clazz
+	b name
+	c hash
+	c ()I calculateHashCode

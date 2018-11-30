@@ -1,4 +1,4 @@
-jf net/minecraft/text/Style
+ji net/minecraft/text/Style
 	b colour
 	c bold
 	d italic

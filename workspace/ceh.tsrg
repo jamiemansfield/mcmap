@@ -1,9 +1,0 @@
-ceh ceh
-	a pos
-	b rotation
-	c entityId
-	a ()Lhm; writeToTag
-	a (Lhm;)Lceh; readFromTag
-	b ()Leq; getPos
-	c ()I getRotation
-	d ()I getEntityId

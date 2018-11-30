@@ -1,3 +1,2 @@
-dgy net/minecraft/client/renderer/entity/monster/WitherSkeletonRenderer
+djj net/minecraft/client/renderer/entity/monster/WitherSkeletonRenderer
 	a TEXTURE
-	a (Lafv;)Lpu; getTexture

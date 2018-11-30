@@ -1,4 +1,9 @@
 wh wh
-	a (Lwg;)V add
-	c (Ljava/lang/Object;)V remove
-	f ()V save
+	a DATE_FORMAT
+	b created
+	c source
+	d expires
+	e reason
+	b ()Ljava/lang/String; getSource
+	c ()Ljava/util/Date; getExpires
+	d ()Ljava/lang/String; getReason

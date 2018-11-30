@@ -1,4 +1,4 @@
-djb net/minecraft/tosort/client/TextureAtlasSprite
+dlm net/minecraft/tosort/client/TextureAtlasSprite
 	a width
 	b height
 	g rotated
@@ -15,4 +15,4 @@ djb net/minecraft/tosort/client/TextureAtlasSprite
 	j ()F getU1
 	k ()F getV0
 	l ()F getV1
-	m ()Lpu; getName
+	m ()Lpy; getName

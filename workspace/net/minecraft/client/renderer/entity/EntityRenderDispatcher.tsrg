@@ -1,6 +1,6 @@
-dei net/minecraft/client/renderer/entity/EntityRenderDispatcher
+dgs net/minecraft/client/renderer/entity/EntityRenderDispatcher
 	b level
 	g options
 	k renderers
-	a (Lafv;)Ldej; getRenderer
-	a (Ljava/lang/Class;)Ldej; getRenderer
+	a (Lagi;)Ldgt; getRenderer
+	a (Ljava/lang/Class;)Ldgt; getRenderer

@@ -1,3 +1,1 @@
-age net/minecraft/world/entity/LivingEntity
-	a (Lhm;)V read
-	b (Lhm;)V write
+agr net/minecraft/world/entity/LivingEntity

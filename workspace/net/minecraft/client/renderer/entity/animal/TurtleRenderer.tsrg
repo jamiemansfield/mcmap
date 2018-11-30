@@ -1,2 +1,1 @@
-dgr net/minecraft/client/renderer/entity/animal/TurtleRenderer
-	a (Lafv;)Lpu; getTexture
+djc net/minecraft/client/renderer/entity/animal/TurtleRenderer

@@ -1,8 +1,7 @@
-czw net/minecraft/client/renderer/LevelRenderer
+dcg net/minecraft/client/renderer/LevelRenderer
 	W chunkBatcher
 	h client
 	j entityRenderDispatcher
 	k level
-	a (Lapr;Lcij;IF)V renderHitOutline
-	a (Lvt;)V reload
-	b (Lcje;DDDFFFF)V renderLineBox
+	a (Laqj;Lckm;IF)V renderHitOutline
+	b (Lclj;DDDFFFF)V renderLineBox

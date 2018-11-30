@@ -1,11 +1,11 @@
-auv net/minecraft/world/item/ItemStack
+avs net/minecraft/world/item/ItemStack
 	d count
 	f item
 	g tag
 	A ()I getRepairCost
-	a (Lhm;)Lauv; load
-	b ()Lauq; getItem
+	a (Lhp;)Lavs; load
+	b ()Lavn; getItem
 	b (I)V setDamage
-	b (Lhm;)Lhm; writeToTag
+	b (Lhp;)Lhp; writeToTag
 	c (I)V setRepairCost
 	g ()I getDamage

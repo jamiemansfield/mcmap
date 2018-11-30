@@ -1,10 +1,10 @@
-clh net/minecraft/client/VertexFormatElement
+cnm net/minecraft/client/VertexFormatElement
 	c type
 	d index
 	e count
-	b ()Lclh$b; getType
+	b ()Lcnm$b; getType
 	c ()I getCount
 	d ()I getIndex
 	e ()I getByteSize
 	f ()Z isPosition
-clh$b net/minecraft/client/VertexFormatElement$Type
+cnm$b net/minecraft/client/VertexFormatElement$Type

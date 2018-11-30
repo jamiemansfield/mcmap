@@ -1,3 +1,1 @@
-all net/minecraft/world/entity/animal/Rabbit
-	a (Lhm;)V read
-	b (Lhm;)V write
+amc net/minecraft/world/entity/animal/Rabbit

@@ -1,5 +1,5 @@
-cld net/minecraft/client/Tesselator
+cni net/minecraft/client/Tesselator
 	a builder
 	c INSTANCE
-	a ()Lcld; getInstance
-	c ()Lcla; getBuilder
+	a ()Lcni; getInstance
+	c ()Lcnf; getBuilder

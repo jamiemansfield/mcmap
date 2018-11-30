@@ -1,10 +1,14 @@
 cpl cpl
-	g options
-	c ()V init
-cpl$a cpl$a
+	a client
 	a ()V renderItem
 	a (I)Z isSelectedItem
 	a (IIDD)Z selectItem
+	a (IIF)V render
 	a (IIIIIIF)V renderItem
+	c (Z)V active
 	d ()I getItemCount
+	e (I)V scroll
+	f ()I getScrollbarPosition
+	m ()Z isVisible
 	n ()I getMaxPosition
+	q ()I getScroll

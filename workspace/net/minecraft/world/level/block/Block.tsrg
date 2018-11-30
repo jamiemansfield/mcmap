@@ -1,5 +1,4 @@
-bet net/minecraft/world/level/block/Block
+bfr net/minecraft/world/level/block/Block
 	c state
-	a (Lbnh;Lazg;Leq;)Lcje; getOutlineAABB
-	h ()Lauq; getItem
-	p ()Lbnh; defaultBlockState
+	a (Lboj;Lbac;Let;)Lclj; getOutlineAABB
+	p ()Lboj; defaultBlockState

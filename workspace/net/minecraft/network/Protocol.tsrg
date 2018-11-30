@@ -1,2 +1,2 @@
-im net/minecraft/network/Protocol
-	a (Ljm;Ljava/lang/Class;)Lim; register
+ip net/minecraft/network/Protocol
+	a (Ljp;Ljava/lang/Class;)Lip; register

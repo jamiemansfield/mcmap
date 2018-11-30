@@ -1,6 +1,0 @@
-bxp bxp
-	a noiseToCountRatio
-	b noiseFactor
-	c noiseOffset
-	d heightmap
-	a (Lcom/mojang/datafixers/Dynamic;)Lbxp; create

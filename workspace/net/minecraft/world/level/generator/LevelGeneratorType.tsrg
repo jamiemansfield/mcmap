@@ -1,4 +1,4 @@
-baa net/minecraft/world/level/generator/LevelGeneratorType
+baz net/minecraft/world/level/generator/LevelGeneratorType
 	b DEFAULT
 	c FLAT
 	d LARGE_BIOMES

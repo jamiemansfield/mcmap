@@ -1,4 +1,4 @@
-cjn net/minecraft/statistic/StatTypes
+cls net/minecraft/statistic/StatTypes
 	b DUMMY
 	c TRIGGER
 	d DEATH_COUNT

@@ -1,1 +1,1 @@
-cnj net/minecraft/client/gui/GuiEventListener
+cpr net/minecraft/client/gui/GuiEventListener

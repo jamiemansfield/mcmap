@@ -1,3 +1,1 @@
-alk net/minecraft/world/entity/animal/Pufferfish
-	a (Lhm;)V read
-	b (Lhm;)V write
+amb net/minecraft/world/entity/animal/Pufferfish

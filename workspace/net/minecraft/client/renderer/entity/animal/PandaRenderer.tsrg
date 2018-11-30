@@ -1,2 +1,1 @@
-dfp net/minecraft/client/renderer/entity/animal/PandaRenderer
-	a (Lafv;)Lpu; getTexture
+dia net/minecraft/client/renderer/entity/animal/PandaRenderer

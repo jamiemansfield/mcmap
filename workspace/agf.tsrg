@@ -1,0 +1,4 @@
+agf agf
+	a (I)V setSuccessCount
+	a (Z)V setTrackOutput
+	i ()I headerHeight

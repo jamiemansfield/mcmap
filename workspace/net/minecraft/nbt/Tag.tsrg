@@ -1,7 +1,7 @@
-ic net/minecraft/nbt/Tag
+ig net/minecraft/nbt/Tag
 	a ()B getType
-	a (B)Lic; newTag
-	a (Ljava/io/DataInput;ILhv;)V read
+	a (B)Lig; newTag
+	a (Ljava/io/DataInput;ILhy;)V read
 	a (Ljava/io/DataOutput;)V write
 	c_ ()Ljava/lang/String; get
 	n (I)Ljava/lang/String; getTagName

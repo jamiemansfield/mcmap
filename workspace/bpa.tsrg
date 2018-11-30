@@ -1,0 +1,4 @@
+bpa bpa
+	a values
+	a (Ljava/lang/Boolean;)Ljava/lang/String; toString
+	a (Ljava/lang/String;)Lbpa; of

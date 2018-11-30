@@ -1,3 +1,2 @@
-dfv net/minecraft/client/renderer/entity/animal/PolarBearRenderer
+dig net/minecraft/client/renderer/entity/animal/PolarBearRenderer
 	a TEXTURE
-	a (Lafv;)Lpu; getTexture

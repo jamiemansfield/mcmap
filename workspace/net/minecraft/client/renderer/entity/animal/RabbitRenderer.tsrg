@@ -1,2 +1,1 @@
-dfx net/minecraft/client/renderer/entity/animal/RabbitRenderer
-	a (Lafv;)Lpu; getTexture
+dii net/minecraft/client/renderer/entity/animal/RabbitRenderer

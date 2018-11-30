@@ -1,3 +1,2 @@
-deg net/minecraft/client/renderer/entity/monster/EnderManRenderer
+dgq net/minecraft/client/renderer/entity/monster/EnderManRenderer
 	a TEXTURE
-	a (Lafv;)Lpu; getTexture

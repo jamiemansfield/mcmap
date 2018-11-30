@@ -1,2 +1,2 @@
-rq net/minecraft/server/command/ListCommand
+rt net/minecraft/server/command/ListCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

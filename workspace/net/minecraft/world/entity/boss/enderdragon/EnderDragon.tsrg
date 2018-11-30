@@ -1,4 +1,2 @@
-aml net/minecraft/world/entity/boss/enderdragon/EnderDragon
+anc net/minecraft/world/entity/boss/enderdragon/EnderDragon
 	a (I)V setSuccessCount
-	a (Lhm;)V read
-	b (Lhm;)V write

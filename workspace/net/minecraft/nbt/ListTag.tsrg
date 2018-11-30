@@ -1,21 +1,12 @@
-hs net/minecraft/nbt/ListTag
+hv net/minecraft/nbt/ListTag
 	g list
 	h type
-	a ()B getType
-	a (I)Lic; remove
-	a (ILic;)V put
-	a (Lic;)Z add
-	a (Ljava/io/DataInput;ILhv;)V read
-	a (Ljava/io/DataOutput;)V write
+	a (I)Lig; remove
+	a (Lig;)Z add
 	a_ ()I getType
-	b (I)V remove
-	b (ILic;)V add
-	c ()Lhs; copy
-	c (I)Lic; getTag
-	c (ILic;)Lic; put
-	d (I)Lic; get
-	e (I)Lhm; getCompound
-	f (I)Lhs; getList
+	c ()Lhv; copy
+	e (I)Lhp; getCompound
+	f (I)Lhv; getList
 	g (I)S getShort
 	h (I)I getInt
 	i (I)[I getIntArray

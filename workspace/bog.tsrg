@@ -1,7 +1,2 @@
 bog bog
-	a values
-	a (Ljava/lang/Boolean;)Ljava/lang/String; toString
-	a (Ljava/lang/String;)Lbog; of
-	b (Ljava/lang/String;)Ljava/util/Optional; parseString
-	c ()I calculateHashCode
-	d ()Ljava/util/Collection; getValues
+	a level

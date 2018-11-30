@@ -1,3 +1,2 @@
-ddx net/minecraft/client/renderer/entity/monster/CreeperRenderer
+dgh net/minecraft/client/renderer/entity/monster/CreeperRenderer
 	a TEXTURE
-	a (Lafv;)Lpu; getTexture

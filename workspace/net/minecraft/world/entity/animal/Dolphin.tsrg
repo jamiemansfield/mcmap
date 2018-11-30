@@ -1,5 +1,2 @@
-alb net/minecraft/world/entity/animal/Dolphin
-	a (I)V setSuccessCount
-	a (Lhm;)V read
+als net/minecraft/world/entity/animal/Dolphin
 	a (Z)V setTrackOutput
-	b (Lhm;)V write

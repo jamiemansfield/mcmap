@@ -1,2 +1,2 @@
-ce net/minecraft/command/arguments/EntityAnchorArgumentType
-	a ()Lce; create
+ch net/minecraft/command/arguments/EntityAnchorArgumentType
+	a ()Lch; create

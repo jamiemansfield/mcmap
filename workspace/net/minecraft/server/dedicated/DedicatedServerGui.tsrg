@@ -1,6 +1,5 @@
-tl net/minecraft/server/dedicated/DedicatedServerGui
+tt net/minecraft/server/dedicated/DedicatedServerGui
 	a FONT
 	c server
 	d thread
 	a ()V startThread
-	a (Lti;)V create

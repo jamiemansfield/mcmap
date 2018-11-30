@@ -1,3 +1,1 @@
-aqj net/minecraft/world/entity/projectile/SpectralArrow
-	a (Lhm;)V read
-	b (Lhm;)V write
+arb net/minecraft/world/entity/projectile/SpectralArrow

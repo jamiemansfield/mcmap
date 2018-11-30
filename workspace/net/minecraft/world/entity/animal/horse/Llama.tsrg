@@ -1,3 +1,1 @@
-ama net/minecraft/world/entity/animal/horse/Llama
-	a (Lhm;)V read
-	b (Lhm;)V write
+amr net/minecraft/world/entity/animal/horse/Llama

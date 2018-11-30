@@ -1,2 +1,3 @@
 crk crk
-	c ()V init
+	a (Lhp;)V read
+	a (Ljava/lang/String;)V setValue

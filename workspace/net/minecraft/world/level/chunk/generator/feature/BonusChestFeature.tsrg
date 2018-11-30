@@ -1,1 +1,1 @@
-brx net/minecraft/world/level/chunk/generator/feature/BonusChestFeature
+bsr net/minecraft/world/level/chunk/generator/feature/BonusChestFeature

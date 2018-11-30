@@ -1,0 +1,6 @@
+cln cln
+	d name
+	k format
+	a (La;)V setFormat
+	a (Lja;)V setName
+	c ()Lja; getName

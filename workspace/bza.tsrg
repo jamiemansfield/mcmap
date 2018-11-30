@@ -1,15 +1,3 @@
-bza$b bza$b
-	a (Lhm;)V writeToTag
-	a (Lhm;Lbzs;)V readFromTag
-bza$h bza$h
-	a (Lhm;)V writeToTag
-	a (Lhm;Lbzs;)V readFromTag
-bza$j bza$j
-	a (Lhm;)V writeToTag
-	a (Lhm;Lbzs;)V readFromTag
-bza$l bza$l
-	a (Lhm;)V writeToTag
-	a (Lhm;Lbzs;)V readFromTag
-bza$m bza$m
-	a (Lhm;)V writeToTag
-	a (Lhm;Lbzs;)V readFromTag
+bza bza
+	a count
+	a (Lcom/mojang/datafixers/Dynamic;)Lbza; create

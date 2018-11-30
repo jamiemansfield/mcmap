@@ -1,3 +1,4 @@
-bzb$r bzb$r
-	a (Lhm;)V writeToTag
-	a (Lhm;Lbzs;)V readFromTag
+bzb bzb
+	a count
+	b chance
+	a (Lcom/mojang/datafixers/Dynamic;)Lbzb; create

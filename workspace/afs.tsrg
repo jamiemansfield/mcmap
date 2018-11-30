@@ -1,6 +1,0 @@
-afs afs
-	a (I)V setSuccessCount
-	a (Lhm;)V read
-	a (Z)V setTrackOutput
-	b (Lhm;)V write
-	i ()I headerHeight

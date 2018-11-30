@@ -1,2 +1,1 @@
-aox net/minecraft/world/entity/monster/Silverfish
-	am ()Z isGrounded
+app net/minecraft/world/entity/monster/Silverfish

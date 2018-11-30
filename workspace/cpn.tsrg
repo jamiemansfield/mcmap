@@ -1,3 +1,2 @@
 cpn cpn
-	h options
-	c ()V init
+	c (Z)V active

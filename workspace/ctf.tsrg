@@ -1,0 +1,4 @@
+ctf ctf
+	a (Ljava/lang/String;)V setValue
+	i ()I headerHeight
+	m ()Z isVisible

@@ -1,3 +1,2 @@
-des net/minecraft/client/renderer/entity/monster/GiantRenderer
+dhc net/minecraft/client/renderer/entity/monster/GiantRenderer
 	a TEXTURE
-	a (Lafv;)Lpu; getTexture

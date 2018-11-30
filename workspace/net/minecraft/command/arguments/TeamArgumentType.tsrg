@@ -1,2 +1,2 @@
-cw net/minecraft/command/arguments/TeamArgumentType
-	a ()Lcw; create
+cz net/minecraft/command/arguments/TeamArgumentType
+	a ()Lcz; create

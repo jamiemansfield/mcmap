@@ -1,3 +1,1 @@
-ara net/minecraft/world/entity/vehicle/SpawnerMinecart
-	a (Lhm;)V read
-	b (Lhm;)V write
+arv net/minecraft/world/entity/vehicle/SpawnerMinecart

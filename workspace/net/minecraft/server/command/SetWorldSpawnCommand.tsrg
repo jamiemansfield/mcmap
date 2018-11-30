@@ -1,2 +1,2 @@
-sm net/minecraft/server/command/SetWorldSpawnCommand
+sr net/minecraft/server/command/SetWorldSpawnCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

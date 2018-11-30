@@ -1,5 +1,3 @@
-apd net/minecraft/world/entity/monster/Vex
+apv net/minecraft/world/entity/monster/Vex
 	a (I)V setSuccessCount
-	a (Lhm;)V read
 	a (Z)V setTrackOutput
-	b (Lhm;)V write

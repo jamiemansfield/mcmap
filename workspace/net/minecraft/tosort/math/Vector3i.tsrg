@@ -1,4 +1,4 @@
-fk net/minecraft/tosort/math/Vector3i
+fn net/minecraft/tosort/math/Vector3i
 	a x
 	b y
 	c z

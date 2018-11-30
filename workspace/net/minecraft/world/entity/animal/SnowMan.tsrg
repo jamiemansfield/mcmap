@@ -1,4 +1,2 @@
-alp net/minecraft/world/entity/animal/SnowMan
-	a (Lhm;)V read
+amg net/minecraft/world/entity/animal/SnowMan
 	a (Z)V setTrackOutput
-	b (Lhm;)V write

@@ -1,3 +1,2 @@
-dgj net/minecraft/client/renderer/entity/monster/StrayRenderer
+diu net/minecraft/client/renderer/entity/monster/StrayRenderer
 	a TEXTURE
-	a (Lafv;)Lpu; getTexture

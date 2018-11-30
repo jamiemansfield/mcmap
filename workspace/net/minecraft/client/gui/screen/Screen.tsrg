@@ -1,8 +1,8 @@
-cpt net/minecraft/client/gui/screen/Screen
+csb net/minecraft/client/gui/screen/Screen
 	f PROTOCOLS
 	k client
-	a (Lauv;II)V renderTooltip
-	a (Lclp;II)V init
+	a (Lavs;II)V renderTooltip
+	a (Lcnv;II)V init
 	a (Ljava/lang/String;II)V renderTooltip
 	a (Ljava/util/List;II)V renderTooltip
 	c ()V init

@@ -1,3 +1,2 @@
-axh net/minecraft/world/item/recipe/ShapelessRecipe
+ayd net/minecraft/world/item/recipe/ShapelessRecipe
 	a id
-	b ()Lpu; getId

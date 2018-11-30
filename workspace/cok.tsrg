@@ -1,0 +1,3 @@
+cok cok
+	a (I)V setSuccessCount
+	a (Ljava/lang/String;)V setValue

@@ -1,4 +1,4 @@
-hx net/minecraft/datafixers/types/NbtOps
+ia net/minecraft/datafixers/types/NbtOps
 	a INSTANCE
-	a (Lic;Lic;)Lic; mergeInto
-	b (Lic;Lic;)Lic; merge
+	a (Lig;Lig;)Lig; mergeInto
+	b (Lig;Lig;)Lig; merge

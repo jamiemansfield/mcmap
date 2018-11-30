@@ -1,2 +1,2 @@
-cs net/minecraft/command/arguments/ResourceLocationArgumentType
-	a ()Lcs; create
+cv net/minecraft/command/arguments/ResourceLocationArgumentType
+	a ()Lcv; create

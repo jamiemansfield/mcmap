@@ -1,2 +1,2 @@
-aqq net/minecraft/world/entity/projectile/WitherSkull
+ari net/minecraft/world/entity/projectile/WitherSkull
 	a (Z)V setTrackOutput

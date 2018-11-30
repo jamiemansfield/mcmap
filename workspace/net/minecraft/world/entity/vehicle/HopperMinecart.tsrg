@@ -1,3 +1,1 @@
-aqz net/minecraft/world/entity/vehicle/HopperMinecart
-	a (Lhm;)V read
-	b (Lhm;)V write
+aru net/minecraft/world/entity/vehicle/HopperMinecart

@@ -1,4 +1,4 @@
-azq net/minecraft/world/level/GameMode
+ban net/minecraft/world/level/GameMode
 	f id
 	g name
 	a ()I getId

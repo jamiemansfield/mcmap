@@ -1,4 +1,4 @@
-aem net/minecraft/world/Difficulty
+aez net/minecraft/world/Difficulty
 	f id
 	g name
 	a ()I getId

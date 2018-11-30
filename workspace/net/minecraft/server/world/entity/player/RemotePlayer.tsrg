@@ -1,12 +1,5 @@
-uc net/minecraft/server/world/entity/player/RemotePlayer
+ul net/minecraft/server/world/entity/player/RemotePlayer
 	cb locale
 	cv seenCredits
 	a (I)V setSuccessCount
-	a (Lblp;)V openCommandBlcok
-	a (Lbmg;)V openSign
-	a (Lhm;)V read
-	a (Lix;)V updateLastOutput
-	b (Lhm;)V write
-	s ()Lua; getLevel
-	t ()Z isSpectator
-	u ()Z isCreative
+	s ()Luj; getLevel

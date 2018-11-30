@@ -1,2 +1,2 @@
-wt net/minecraft/server/dedicated/rcon/RconConnection
+xc net/minecraft/server/dedicated/rcon/RconConnection
 	j socket

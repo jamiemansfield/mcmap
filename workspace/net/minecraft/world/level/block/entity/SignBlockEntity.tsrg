@@ -1,3 +1,2 @@
-bmg net/minecraft/world/level/block/entity/SignBlockEntity
-	g player
-	a (Lix;)V updateLastOutput
+bnj net/minecraft/world/level/block/entity/SignBlockEntity
+	j player

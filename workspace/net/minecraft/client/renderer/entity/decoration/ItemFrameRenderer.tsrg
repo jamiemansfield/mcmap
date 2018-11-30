@@ -1,3 +1,2 @@
-dfb net/minecraft/client/renderer/entity/decoration/ItemFrameRenderer
+dhm net/minecraft/client/renderer/entity/decoration/ItemFrameRenderer
 	a TEXTURE
-	a (Lafv;)Lpu; getTexture

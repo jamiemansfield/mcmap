@@ -1,4 +1,4 @@
-aov net/minecraft/world/entity/monster/MonsterAttributes
+apn net/minecraft/world/entity/monster/MonsterAttributes
 	a MAX_HEALTH
 	b FOLLOW_RANGE
 	c KNOCKBACK_RESISTANCE
@@ -10,9 +10,9 @@ aov net/minecraft/world/entity/monster/MonsterAttributes
 	i ARMOR
 	j ARMOR_TOUGHNESS
 	k LUCK
-	a (Lagr;)Lhm; writeToTag
-	a (Lagr;Lhm;)V readFromTag
-	a (Lags;)Lhm; writeToTag
-	a (Lagu;)Lhs; writeToTag
-	a (Lagu;Lhs;)V readFromTag
-	a (Lhm;)Lags; readFromTag
+	a (Lahg;)Lhp; writeToTag
+	a (Lahg;Lhp;)V readFromTag
+	a (Lahh;)Lhp; writeToTag
+	a (Lahj;)Lhv; writeToTag
+	a (Lahj;Lhv;)V readFromTag
+	a (Lhp;)Lahh; readFromTag

@@ -1,9 +1,0 @@
-ui ui
-	k dimension
-	a (IILbpi;)Lbpc; createChunk
-	a (Leq;Lbnh;I)Z setBlock
-	b (Leq;)Z isEmptyBlock
-	f ()Lazt; getLevel
-	g ()Lcer; getData
-	m ()Ljava/util/Random; getRandom
-	o ()Lbqi; getDimension

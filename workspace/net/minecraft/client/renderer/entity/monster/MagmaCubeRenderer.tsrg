@@ -1,3 +1,2 @@
-dfd net/minecraft/client/renderer/entity/monster/MagmaCubeRenderer
+dho net/minecraft/client/renderer/entity/monster/MagmaCubeRenderer
 	a TEXTURE
-	a (Lafv;)Lpu; getTexture

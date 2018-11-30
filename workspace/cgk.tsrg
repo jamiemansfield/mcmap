@@ -1,0 +1,9 @@
+cgk cgk
+	a pos
+	b rotation
+	c entityId
+	a ()Lhp; writeToTag
+	a (Lhp;)Lcgk; readFromTag
+	b ()Let; getPos
+	c ()I getRotation
+	d ()I getEntityId

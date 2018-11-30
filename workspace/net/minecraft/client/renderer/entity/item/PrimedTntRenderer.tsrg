@@ -1,2 +1,1 @@
-dgp net/minecraft/client/renderer/entity/item/PrimedTntRenderer
-	a (Lafv;)Lpu; getTexture
+dja net/minecraft/client/renderer/entity/item/PrimedTntRenderer

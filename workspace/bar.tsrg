@@ -1,0 +1,6 @@
+bar bar
+	a (IILbqb;)Lbpw; createChunk
+	ai ()Laez; getDifficulty
+	f ()Lbaq; getLevel
+	g ()Lcgu; getData
+	m ()Ljava/util/Random; getRandom

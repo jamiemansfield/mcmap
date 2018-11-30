@@ -1,2 +1,2 @@
-apf net/minecraft/world/entity/monster/Witch
+apx net/minecraft/world/entity/monster/Witch
 	a (Z)V setTrackOutput

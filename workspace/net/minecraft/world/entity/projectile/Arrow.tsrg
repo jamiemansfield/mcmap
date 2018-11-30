@@ -1,3 +1,1 @@
-apx net/minecraft/world/entity/projectile/Arrow
-	a (Lhm;)V read
-	b (Lhm;)V write
+aqp net/minecraft/world/entity/projectile/Arrow

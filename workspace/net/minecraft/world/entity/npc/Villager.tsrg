@@ -1,3 +1,1 @@
-apm net/minecraft/world/entity/npc/Villager
-	a (Lhm;)V read
-	b (Lhm;)V write
+aqe net/minecraft/world/entity/npc/Villager

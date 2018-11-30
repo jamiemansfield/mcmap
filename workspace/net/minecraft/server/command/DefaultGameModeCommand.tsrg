@@ -1,2 +1,2 @@
-qz net/minecraft/server/command/DefaultGameModeCommand
+rd net/minecraft/server/command/DefaultGameModeCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

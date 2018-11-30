@@ -1,4 +1,4 @@
-cmq net/minecraft/client/gui/EditBox
+coy net/minecraft/client/gui/EditBox
 	a ()V tick
 	a (I)V setSuccessCount
 	a (IIF)V render

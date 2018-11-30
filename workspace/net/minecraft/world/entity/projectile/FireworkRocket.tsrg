@@ -1,3 +1,1 @@
-aqb net/minecraft/world/entity/projectile/FireworkRocket
-	a (Lhm;)V read
-	b (Lhm;)V write
+aqt net/minecraft/world/entity/projectile/FireworkRocket

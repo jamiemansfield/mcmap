@@ -1,3 +1,3 @@
-cm net/minecraft/command/arguments/NbtTagArgumentType
+cp net/minecraft/command/arguments/NbtTagArgumentType
 	a EXAMPLES
-	a ()Lcm; create
+	a ()Lcp; create

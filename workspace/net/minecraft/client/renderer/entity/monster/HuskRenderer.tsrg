@@ -1,3 +1,2 @@
-dew net/minecraft/client/renderer/entity/monster/HuskRenderer
+dhg net/minecraft/client/renderer/entity/monster/HuskRenderer
 	a TEXTURE
-	a (Lafv;)Lpu; getTexture

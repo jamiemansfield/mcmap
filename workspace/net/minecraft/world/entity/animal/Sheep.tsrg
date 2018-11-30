@@ -1,3 +1,1 @@
-aln net/minecraft/world/entity/animal/Sheep
-	a (Lhm;)V read
-	b (Lhm;)V write
+ame net/minecraft/world/entity/animal/Sheep

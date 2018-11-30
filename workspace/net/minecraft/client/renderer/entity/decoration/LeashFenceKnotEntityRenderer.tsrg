@@ -1,3 +1,2 @@
-dfe net/minecraft/client/renderer/entity/decoration/LeashFenceKnotEntityRenderer
+dhp net/minecraft/client/renderer/entity/decoration/LeashFenceKnotEntityRenderer
 	a TEXTURE
-	a (Lafv;)Lpu; getTexture

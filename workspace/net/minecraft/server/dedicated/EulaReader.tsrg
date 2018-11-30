@@ -1,5 +1,4 @@
-qc net/minecraft/server/dedicated/EulaReader
+qg net/minecraft/server/dedicated/EulaReader
 	b file
 	c accepted
-	a (Ljava/io/File;)Z read
-	b ()V save
+	c ()V save

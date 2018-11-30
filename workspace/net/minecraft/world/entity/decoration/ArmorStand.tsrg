@@ -1,4 +1,2 @@
-anh net/minecraft/world/entity/decoration/ArmorStand
-	a (Lhm;)V read
+any net/minecraft/world/entity/decoration/ArmorStand
 	a (Z)V setTrackOutput
-	b (Lhm;)V write

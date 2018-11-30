@@ -1,4 +1,4 @@
-cev net/minecraft/world/level/storage/LevelSummary
+cgy net/minecraft/world/level/storage/LevelSummary
 	a id
 	b name
 	c lastPlayed
@@ -12,11 +12,11 @@ cev net/minecraft/world/level/storage/LevelSummary
 	k versionSnapshot
 	l generator
 	a ()Ljava/lang/String; getId
-	a (Lcev;)I compareTo
+	a (Lcgy;)I compareTo
 	b ()Ljava/lang/String; getName
 	c ()J getSizeOnDisk
 	d ()Z isRequiresConversion
 	e ()J getLastPlayed
-	f ()Lazq; getGameMode
+	f ()Lban; getGameMode
 	g ()Z isHardcore
 	h ()Z hasCheats

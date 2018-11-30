@@ -1,2 +1,2 @@
-cd net/minecraft/command/arguments/DimensionArgumentType
-	a ()Lcd; create
+cg net/minecraft/command/arguments/DimensionArgumentType
+	a ()Lcg; create

@@ -1,2 +1,2 @@
-cu net/minecraft/command/arguments/ScoreboardSlotArgumentType
-	a ()Lcu; create
+cx net/minecraft/command/arguments/ScoreboardSlotArgumentType
+	a ()Lcx; create

@@ -1,3 +1,23 @@
 azy azy
-	b gameMode
-	e ()Lazq; getGameMode
+	a DATE_FORMAT
+	b lastExecution
+	c updateLastExecution
+	d successCount
+	e trackOutput
+	f lastOutput
+	g command
+	h customName
+	a (I)V setSuccessCount
+	a (Lbaq;)Z execute
+	a (Lhp;)Lhp; writeToTag
+	a (Ljava/lang/String;)V setValue
+	a (Z)V setTrackOutput
+	b (Lhp;)V write
+	b (Lja;)V setCustomName
+	c (Lja;)V setLastOutput
+	d ()Luj; getLevel
+	i ()I headerHeight
+	j ()Lja; getLastOutput
+	k ()Ljava/lang/String; getCommand
+	l ()Lja; getCustomName
+	m ()Z isVisible

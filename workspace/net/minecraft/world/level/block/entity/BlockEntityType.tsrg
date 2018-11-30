@@ -1,9 +1,9 @@
-blm net/minecraft/world/level/block/entity/BlockEntityType
+bmo net/minecraft/world/level/block/entity/BlockEntityType
 	A SMOKER
 	B BLAST_FURNACE
 	C LECTERN
 	D BELL
-	F factory
+	G factory
 	a FURNACE
 	b CHEST
 	c TRAPPED_CHEST
@@ -30,6 +30,6 @@ blm net/minecraft/world/level/block/entity/BlockEntityType
 	x BED
 	y CONDUIT
 	z BARREL
-	a ()Lbll; create
-	a (Lblm;)Lpu; getKey
-	a (Ljava/lang/String;Lblm$a;)Lblm; register
+	a ()Lbmn; create
+	a (Lbmo;)Lpy; getKey
+	a (Ljava/lang/String;Lbmo$a;)Lbmo; register

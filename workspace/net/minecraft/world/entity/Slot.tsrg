@@ -1,4 +1,4 @@
-aga net/minecraft/world/entity/Slot
+agn net/minecraft/world/entity/Slot
 	g type
-	a ()Laga$a; getType
-aga$a net/minecraft/world/entity/Slot$Type
+	a ()Lagn$a; getType
+agn$a net/minecraft/world/entity/Slot$Type

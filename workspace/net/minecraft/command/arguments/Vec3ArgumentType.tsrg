@@ -1,4 +1,4 @@
-dk net/minecraft/command/arguments/Vec3ArgumentType
+dn net/minecraft/command/arguments/Vec3ArgumentType
 	c EXAMPLES
-	a ()Ldk; create
-	a (Z)Ldk; create
+	a ()Ldn; create
+	a (Z)Ldn; create

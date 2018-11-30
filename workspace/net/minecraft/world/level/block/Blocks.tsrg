@@ -1,4 +1,4 @@
-beu net/minecraft/world/level/block/Blocks
+bfs net/minecraft/world/level/block/Blocks
 	a AIR
 	b STONE
 	c GRANITE
@@ -9,4 +9,4 @@ beu net/minecraft/world/level/block/Blocks
 	g ANDESITE
 	h POLISHED_ANDESITE
 	i GRASS
-	a (Ljava/lang/String;Lbet;)Lbet; register
+	a (Ljava/lang/String;Lbfr;)Lbfr; register

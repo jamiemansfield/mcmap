@@ -1,9 +1,0 @@
-la la
-	c gameMode
-	d dimensionType
-	e difficulty
-	a (Lin;)V read
-	b (Lin;)V write
-	d ()Lazq; getGameMode
-	e ()Lbqj; getDimensionType
-	f ()Laem; getDifficulty

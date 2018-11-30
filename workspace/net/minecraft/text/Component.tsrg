@@ -1,8 +1,8 @@
-ix net/minecraft/text/Component
+ja net/minecraft/text/Component
 	a ()Ljava/util/List; getSiblings
-	a (Lix;)Lix; addSibling
-	a (Ljf;)Lix; setStyle
-	b ()Ljf; getStyle
+	a (Lja;)Lja; addSibling
+	a (Lji;)Lja; setStyle
+	b ()Lji; getStyle
 	c ()Ljava/util/stream/Stream; stream
 	d ()Ljava/lang/String; getValue
-ix$a net/minecraft/text/Component$Serializer
+ja$a net/minecraft/text/Component$Serializer

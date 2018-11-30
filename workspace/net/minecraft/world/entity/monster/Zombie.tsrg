@@ -1,4 +1,2 @@
-aph net/minecraft/world/entity/monster/Zombie
+apz net/minecraft/world/entity/monster/Zombie
 	a (I)V setSuccessCount
-	a (Lhm;)V read
-	b (Lhm;)V write

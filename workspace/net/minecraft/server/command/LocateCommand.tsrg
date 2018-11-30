@@ -1,2 +1,2 @@
-rr net/minecraft/server/command/LocateCommand
+ru net/minecraft/server/command/LocateCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

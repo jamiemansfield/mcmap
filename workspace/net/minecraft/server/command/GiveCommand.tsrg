@@ -1,2 +1,2 @@
-rm net/minecraft/server/command/GiveCommand
+rp net/minecraft/server/command/GiveCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

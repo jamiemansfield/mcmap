@@ -1,4 +1,2 @@
-api net/minecraft/world/entity/monster/ZombieVillager
+aqa net/minecraft/world/entity/monster/ZombieVillager
 	a (I)V setSuccessCount
-	a (Lhm;)V read
-	b (Lhm;)V write

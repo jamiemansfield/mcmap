@@ -1,3 +1,1 @@
-bln net/minecraft/world/level/block/entity/BrewingStandBlockEntity
-	f ()I getScrollbarPosition
-	h ()I y1
+bmp net/minecraft/world/level/block/entity/BrewingStandBlockEntity

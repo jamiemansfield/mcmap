@@ -1,4 +1,4 @@
-hz net/minecraft/nbt/PrimitiveTag
+ic net/minecraft/nbt/PrimitiveTag
 	d ()J asLong
 	e ()I asInt
 	f ()S asShort

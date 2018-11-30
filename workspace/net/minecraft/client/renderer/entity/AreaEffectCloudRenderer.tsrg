@@ -1,2 +1,1 @@
-ddl net/minecraft/client/renderer/entity/AreaEffectCloudRenderer
-	a (Lafv;)Lpu; getTexture
+dfv net/minecraft/client/renderer/entity/AreaEffectCloudRenderer

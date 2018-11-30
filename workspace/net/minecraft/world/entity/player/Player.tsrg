@@ -1,12 +1,9 @@
-apr net/minecraft/world/entity/player/Player
+aqj net/minecraft/world/entity/player/Player
 	bT abilities
-	a (Lblp;)V openCommandBlcok
-	a (Lbmg;)V openSign
-	a (Lbmk;)V openStructureBlock
-	a (Lhm;)V read
-	am ()Z isGrounded
-	b (Lhm;)V write
-	dC ()Z mayBuild
-	ds ()Lcom/mojang/authlib/GameProfile; getProfile
+	a (Lbmr;)V openCommandBlcok
+	a (Lbnj;)V openSign
+	a (Lbnn;)V openStructureBlock
+	dD ()Z mayBuild
+	dt ()Lcom/mojang/authlib/GameProfile; getProfile
 	t ()Z isSpectator
 	u ()Z isCreative

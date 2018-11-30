@@ -1,0 +1,7 @@
+chq chq
+	d min
+	e max
+	a (I)Z withinBounds
+	b ()F getMin
+	b (Ljava/util/Random;)F nextFloat
+	c ()F getMax

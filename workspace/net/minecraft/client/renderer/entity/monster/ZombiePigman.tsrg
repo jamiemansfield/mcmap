@@ -1,3 +1,2 @@
-dft net/minecraft/client/renderer/entity/monster/ZombiePigman
+die net/minecraft/client/renderer/entity/monster/ZombiePigman
 	a TEXTURE
-	a (Lafv;)Lpu; getTexture

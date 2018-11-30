@@ -1,1 +1,1 @@
-dcb net/minecraft/client/renderer/block/MobSpawnerBlockEntityRenderer
+del net/minecraft/client/renderer/block/MobSpawnerBlockEntityRenderer

@@ -1,3 +1,2 @@
-dgh net/minecraft/client/renderer/entity/monster/SpiderRenderer
+dis net/minecraft/client/renderer/entity/monster/SpiderRenderer
 	a TEXTURE
-	a (Lafv;)Lpu; getTexture

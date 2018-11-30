@@ -1,3 +1,1 @@
-aqc net/minecraft/world/entity/projectile/LargeFireball
-	a (Lhm;)V read
-	b (Lhm;)V write
+aqu net/minecraft/world/entity/projectile/LargeFireball

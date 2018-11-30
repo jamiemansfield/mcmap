@@ -1,12 +1,12 @@
-clg net/minecraft/client/VertexFormat
+cnl net/minecraft/client/VertexFormat
 	b elements
 	a ()V clear
 	a (I)Z hasUv
-	a (Lclh;)Lclg; addElement
+	a (Lcnm;)Lcnl; addElement
 	b ()Z hasNormal
 	b (I)I getUvOffset
 	c ()I getNormalOffset
-	c (I)Lclh; getElement
+	c (I)Lcnm; getElement
 	d ()Z hasColor
 	d (I)I getOffset
 	e ()I getColorOffset

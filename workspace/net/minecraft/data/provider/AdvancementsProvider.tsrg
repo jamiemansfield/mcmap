@@ -1,4 +1,2 @@
-fy net/minecraft/data/provider/AdvancementsProvider
+gb net/minecraft/data/provider/AdvancementsProvider
 	d generator
-	a ()Ljava/lang/String; getName
-	a (Lfx;)V run

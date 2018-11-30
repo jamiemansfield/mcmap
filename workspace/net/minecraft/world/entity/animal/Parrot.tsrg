@@ -1,3 +1,1 @@
-alh net/minecraft/world/entity/animal/Parrot
-	a (Lhm;)V read
-	b (Lhm;)V write
+aly net/minecraft/world/entity/animal/Parrot

@@ -1,6 +1,9 @@
 cqx cqx
-	a (Lauv;II)V renderTooltip
-	a (Ljava/lang/String;)V setValue
-	c ()V init
+	a proxy
+	a ()Lnet/minecraft/realms/RealmsScreen; getProxy
+	a (Ljava/lang/String;III)V drawCenteredString
+	a (Ljava/lang/String;IIIZ)V drawString
+	b (Ljava/lang/String;III)V fontDrawShadow
+	b (Ljava/lang/String;IIIZ)I draw
+	c (Ljava/lang/String;)I fontWidth
 	i ()I headerHeight
-	m ()Z isVisible

@@ -1,4 +1,2 @@
-aqo net/minecraft/world/entity/projectile/ThrownPotion
-	a (Lhm;)V read
-	b (Lhm;)V write
+arg net/minecraft/world/entity/projectile/ThrownPotion
 	m ()Z isVisible

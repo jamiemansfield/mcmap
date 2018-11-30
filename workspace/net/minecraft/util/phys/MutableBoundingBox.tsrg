@@ -1,9 +1,9 @@
-bys net/minecraft/util/phys/MutableBoundingBox
+cag net/minecraft/util/phys/MutableBoundingBox
 	a x0
 	b y0
 	c z0
 	d x1
 	e y1
 	f z1
-	a ()Lbys; max
-	g ()Lhq; asTag
+	a ()Lcag; max
+	g ()Lht; asTag

@@ -1,4 +1,1 @@
-aqu net/minecraft/world/entity/vehicle/Boat
-	a (Lhm;)V read
-	am ()Z isGrounded
-	b (Lhm;)V write
+arp net/minecraft/world/entity/vehicle/Boat

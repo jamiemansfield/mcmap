@@ -1,10 +1,10 @@
-auw net/minecraft/world/item/Items
+avt net/minecraft/world/item/Items
 	a AIR
 	b STONE
 	c GRANITE
-	a (Lasz;)Lauq; register
-	a (Lbet;)Lauq; register
-	a (Lbet;Latn;)Lauq; register
-	a (Lbet;Lauq;)Lauq; register
-	a (Ljava/lang/String;Lauq;)Lauq; register
-	a (Lpu;Lauq;)Lauq; register
+	a (Latv;)Lavn; register
+	a (Lbfr;)Lavn; register
+	a (Lbfr;Lauj;)Lavn; register
+	a (Lbfr;Lavn;)Lavn; register
+	a (Ljava/lang/String;Lavn;)Lavn; register
+	a (Lpy;Lavn;)Lavn; register

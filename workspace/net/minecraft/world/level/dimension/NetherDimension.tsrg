@@ -1,2 +1,1 @@
-bqk net/minecraft/world/level/dimension/NetherDimension
-	p ()Lbqj; getType
+brd net/minecraft/world/level/dimension/NetherDimension

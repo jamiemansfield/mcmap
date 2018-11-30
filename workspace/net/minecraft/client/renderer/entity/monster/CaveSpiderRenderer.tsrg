@@ -1,3 +1,2 @@
-dds net/minecraft/client/renderer/entity/monster/CaveSpiderRenderer
+dgc net/minecraft/client/renderer/entity/monster/CaveSpiderRenderer
 	a TEXTURE
-	a (Lafv;)Lpu; getTexture

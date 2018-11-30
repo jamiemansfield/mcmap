@@ -1,6 +1,6 @@
-dmr net/minecraft/client/tutorial/TutorialStepType
+dpc net/minecraft/client/tutorial/TutorialStepType
 	g id
 	h factory
 	a ()Ljava/lang/String; getId
-	a (Ldmp;)Ldmq; create
-	a (Ljava/lang/String;)Ldmr; byId
+	a (Ldpa;)Ldpb; create
+	a (Ljava/lang/String;)Ldpc; byId

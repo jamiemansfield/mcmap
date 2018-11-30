@@ -1,2 +1,2 @@
-dh net/minecraft/command/arguments/RotationArgumentType
-	a ()Ldh; create
+dk net/minecraft/command/arguments/RotationArgumentType
+	a ()Ldk; create

@@ -1,27 +1,27 @@
-cla net/minecraft/client/BufferBuilder
-	a (DD)Lcla; tex
+cnf net/minecraft/client/BufferBuilder
+	a (DD)Lcnf; tex
 	a (DDD)V postProcessFacePosition
 	a (FFF)V sortQuads
-	a (FFFF)Lcla; color
+	a (FFFF)Lcnf; color
 	a (FFFI)V faceTint
 	a (I)V fixupQuadColor
-	a (II)Lcla; tex2
+	a (II)Lcnf; tex2
 	a (IIII)V faceTex2
-	a (ILclg;)V begin
-	a (Lcla$a;)V restoreState
+	a (ILcnl;)V begin
+	a (Lcnf$a;)V restoreState
 	a ([I)V putBulkData
 	b ()V clear
-	b (DDD)Lcla; vertex
+	b (DDD)Lcnf; vertex
 	b (FFF)V postNormal
 	b (FFFI)V fixupVertexColor
-	b (IIII)Lcla; color
+	b (IIII)Lcnf; color
 	c ()V noColor
 	c (DDD)V offset
-	c (FFF)Lcla; normal
+	c (FFF)Lcnf; normal
 	d ()V endVertex
 	d (FFF)V fixupQuadColor
 	e ()V end
 	f ()Ljava/nio/ByteBuffer; getBuffer
-	g ()Lclg; getVertexFormat
+	g ()Lcnl; getVertexFormat
 	h ()I getVertexCount
 	i ()I getDrawMode

@@ -1,7 +1,12 @@
 cji cji
-	d name
-	k format
-	a (La;)V setFormat
-	a (Lix;)V setName
-	c ()Lix; getName
-	n ()La; getFormat
+	a THIS_ENTITY
+	b LAST_DAMAGE_PLAYER
+	c DAMAGE_SOURCE
+	d KILLER_ENTITY
+	e DIRECT_KILLER_ENTITY
+	f POSITION
+	g BLOCK_STATE
+	h BLOCK_ENTITY
+	i TOOL
+	j EXPLOSION_RADIUS
+	a (Ljava/lang/String;)Lcjf; crete

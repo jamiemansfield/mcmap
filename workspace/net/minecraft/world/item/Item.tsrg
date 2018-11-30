@@ -1,4 +1,3 @@
-auq net/minecraft/world/item/Item
-	b (I)Lauq; byId
-	h ()Lauq; getItem
-	r ()Lauv; createInstance
+avn net/minecraft/world/item/Item
+	b (I)Lavn; byId
+	r ()Lavs; createInstance

@@ -1,3 +1,2 @@
-dfo net/minecraft/client/renderer/entity/decoration/PaintingRenderer
+dhz net/minecraft/client/renderer/entity/decoration/PaintingRenderer
 	a TEXTURE
-	a (Lafv;)Lpu; getTexture

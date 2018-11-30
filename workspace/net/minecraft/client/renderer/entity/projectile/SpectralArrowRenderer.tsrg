@@ -1,2 +1,1 @@
-dgg net/minecraft/client/renderer/entity/projectile/SpectralArrowRenderer
-	a (Lafv;)Lpu; getTexture
+dir net/minecraft/client/renderer/entity/projectile/SpectralArrowRenderer

@@ -1,4 +1,2 @@
-bpp net/minecraft/world/level/chunk/storage/AnvilChunk
-	i level
-	b (Z)V setLightOn
-	r ()Z isLightOn
+bqi net/minecraft/world/level/chunk/storage/AnvilChunk
+	g level

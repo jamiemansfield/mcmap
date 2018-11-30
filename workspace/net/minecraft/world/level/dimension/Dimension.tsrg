@@ -1,4 +1,4 @@
-bqi net/minecraft/world/level/dimension/Dimension
+brb net/minecraft/world/level/dimension/Dimension
 	b level
 	f type
-	p ()Lbqj; getType
+	p ()Lbrc; getType

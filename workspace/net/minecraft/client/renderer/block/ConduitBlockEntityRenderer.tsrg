@@ -1,1 +1,1 @@
-dbv net/minecraft/client/renderer/block/ConduitBlockEntityRenderer
+def net/minecraft/client/renderer/block/ConduitBlockEntityRenderer

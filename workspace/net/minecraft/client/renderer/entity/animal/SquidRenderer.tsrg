@@ -1,3 +1,2 @@
-dgi net/minecraft/client/renderer/entity/animal/SquidRenderer
+dit net/minecraft/client/renderer/entity/animal/SquidRenderer
 	a TEXTURE
-	a (Lafv;)Lpu; getTexture

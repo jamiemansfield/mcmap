@@ -1,2 +1,2 @@
-si net/minecraft/server/command/SeedCommand
+sn net/minecraft/server/command/SeedCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

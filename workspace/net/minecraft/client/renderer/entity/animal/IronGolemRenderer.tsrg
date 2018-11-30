@@ -1,3 +1,2 @@
-dez net/minecraft/client/renderer/entity/animal/IronGolemRenderer
+dhk net/minecraft/client/renderer/entity/animal/IronGolemRenderer
 	a TEXTURE
-	a (Lafv;)Lpu; getTexture

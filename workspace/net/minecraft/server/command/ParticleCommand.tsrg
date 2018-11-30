@@ -1,2 +1,2 @@
-rw net/minecraft/server/command/ParticleCommand
+sa net/minecraft/server/command/ParticleCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

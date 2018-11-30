@@ -1,0 +1,5 @@
+czl czl
+	c gameMode
+	a ()Lcom/mojang/authlib/GameProfile; getProfile
+	a (Lban;)V setGameMode
+	b ()Lban; getGameMode

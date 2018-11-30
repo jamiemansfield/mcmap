@@ -1,2 +1,1 @@
-bql net/minecraft/world/level/dimension/OverworldDimension
-	p ()Lbqj; getType
+bre net/minecraft/world/level/dimension/OverworldDimension

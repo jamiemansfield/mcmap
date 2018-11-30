@@ -1,5 +1,2 @@
-ant net/minecraft/world/entity/item/FallingBlockEntity
-	a (Lhm;)V read
+aok net/minecraft/world/entity/item/FallingBlockEntity
 	a (Z)V setTrackOutput
-	am ()Z isGrounded
-	b (Lhm;)V write

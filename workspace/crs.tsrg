@@ -1,3 +1,0 @@
-crs crs
-	a (I)Z isSelectedItem
-	f ()I getScrollbarPosition

@@ -1,9 +1,0 @@
-cpb cpb
-	a (Lhm;)V read
-	c ()V init
-cpb$a cpb$a
-	a ()V renderItem
-	a (I)Z isSelectedItem
-	a (IIDD)Z selectItem
-	a (IIIIIIF)V renderItem
-	d ()I getItemCount

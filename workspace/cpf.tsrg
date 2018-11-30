@@ -1,2 +1,2 @@
 cpf cpf
-	c ()V init
+	c (Z)V active

@@ -1,6 +1,2 @@
-ti net/minecraft/server/dedicated/DedicatedServer
-	m properties
-	p gameMode
-	d ()Z start
-	g ()Lazq; getGameMode
-	h ()Laem; getDifficulty
+tn net/minecraft/server/dedicated/DedicatedServer
+	n gameMode

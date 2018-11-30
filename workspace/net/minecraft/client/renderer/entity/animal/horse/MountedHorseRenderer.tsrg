@@ -1,3 +1,2 @@
-dgs net/minecraft/client/renderer/entity/animal/horse/MountedHorseRenderer
+djd net/minecraft/client/renderer/entity/animal/horse/MountedHorseRenderer
 	a TEXTURES
-	a (Lafv;)Lpu; getTexture

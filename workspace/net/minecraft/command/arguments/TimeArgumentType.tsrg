@@ -1,2 +1,2 @@
-cx net/minecraft/command/arguments/TimeArgumentType
-	a ()Lcx; create
+da net/minecraft/command/arguments/TimeArgumentType
+	a ()Lda; create

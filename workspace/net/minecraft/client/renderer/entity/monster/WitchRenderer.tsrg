@@ -1,3 +1,2 @@
-dgw net/minecraft/client/renderer/entity/monster/WitchRenderer
+djh net/minecraft/client/renderer/entity/monster/WitchRenderer
 	a TEXTURE
-	a (Lafv;)Lpu; getTexture

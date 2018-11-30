@@ -1,2 +1,5 @@
 clo clo
-	a (Ljava/lang/String;)V setClipboard
+	b ()I getScore
+	d ()Lclm; getObjective
+	e ()Ljava/lang/String; getName
+	g ()Z isLocked

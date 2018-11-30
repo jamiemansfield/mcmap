@@ -1,0 +1,12 @@
+cjh cjh
+	a EMPTY
+	b CHEST
+	c FISHING
+	d ENTITY
+	e GIFT
+	f ADVANCEMENT_REWARD
+	g GENERIC
+	h BLOCK
+	a (Lcjg;)Lpy; getKey
+	a (Ljava/lang/String;Ljava/util/function/Consumer;)Lcjg; register
+	a (Lpy;)Lcjg; byId

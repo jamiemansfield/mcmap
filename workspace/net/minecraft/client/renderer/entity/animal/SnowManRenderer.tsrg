@@ -1,3 +1,2 @@
-dgf net/minecraft/client/renderer/entity/animal/SnowManRenderer
+diq net/minecraft/client/renderer/entity/animal/SnowManRenderer
 	a TEXTURE
-	a (Lafv;)Lpu; getTexture

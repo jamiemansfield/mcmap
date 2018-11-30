@@ -1,2 +1,1 @@
-cps net/minecraft/client/gui/screen/multiplayer/DownloadingTerrainScreen
-	e ()Z isPauseScreen
+csa net/minecraft/client/gui/screen/multiplayer/DownloadingTerrainScreen

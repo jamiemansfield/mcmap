@@ -1,4 +1,2 @@
-anj net/minecraft/world/entity/decoration/ItemFrame
+aoa net/minecraft/world/entity/decoration/ItemFrame
 	a (I)V setSuccessCount
-	a (Lhm;)V read
-	b (Lhm;)V write

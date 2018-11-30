@@ -1,3 +1,2 @@
-dfh net/minecraft/client/renderer/entity/animal/horse/LlamaRenderer
+dhs net/minecraft/client/renderer/entity/animal/horse/LlamaRenderer
 	a TEXTURES
-	a (Lafv;)Lpu; getTexture

@@ -1,3 +1,2 @@
-deb net/minecraft/client/renderer/entity/projectile/DragonFireballRenderer
+dgl net/minecraft/client/renderer/entity/projectile/DragonFireballRenderer
 	a TEXTURE
-	a (Lafv;)Lpu; getTexture

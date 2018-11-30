@@ -1,3 +1,2 @@
-ddt net/minecraft/client/renderer/entity/animal/horse/DonkeyRenderer
+dgd net/minecraft/client/renderer/entity/animal/horse/DonkeyRenderer
 	a TEXTURES
-	a (Lafv;)Lpu; getTexture

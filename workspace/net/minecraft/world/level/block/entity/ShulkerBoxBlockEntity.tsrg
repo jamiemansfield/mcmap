@@ -1,2 +1,1 @@
-bmf net/minecraft/world/level/block/entity/ShulkerBoxBlockEntity
-	f ()I getScrollbarPosition
+bni net/minecraft/world/level/block/entity/ShulkerBoxBlockEntity

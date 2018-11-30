@@ -1,4 +1,4 @@
-cwq net/minecraft/client/model/Cube
+cza net/minecraft/client/model/Cube
 	c x
 	d y
 	e z
@@ -11,12 +11,12 @@ cwq net/minecraft/client/model/Cube
 	u list
 	v parent
 	a (FFF)V setPos
-	a (FFFIII)Lcwq; addBox
+	a (FFFIII)Lcza; addBox
 	a (FFFIIIF)V addBox
 	a (FFFIIIFZ)V addBox
-	a (FFFIIIZ)Lcwq; addBox
-	a (II)Lcwq; setTexOffs
-	a (Lcwq;)V addChild
-	a (Ljava/lang/String;FFFIII)Lcwq; addBox
-	a (Ljava/lang/String;FFFIIIF)Lcwq; addBox
+	a (FFFIIIZ)Lcza; addBox
+	a (II)Lcza; setTexOffs
+	a (Lcza;)V addChild
+	a (Ljava/lang/String;FFFIII)Lcza; addBox
+	a (Ljava/lang/String;FFFIIIF)Lcza; addBox
 	d (F)V compile

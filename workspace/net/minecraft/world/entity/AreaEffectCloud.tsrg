@@ -1,6 +1,4 @@
-aft net/minecraft/world/entity/AreaEffectCloud
+agg net/minecraft/world/entity/AreaEffectCloud
 	a (I)V setSuccessCount
-	a (Lhm;)V read
 	a (Z)V setTrackOutput
-	b (Lhm;)V write
 	i ()I headerHeight

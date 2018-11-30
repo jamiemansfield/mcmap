@@ -1,13 +1,3 @@
-hr net/minecraft/nbt/IntTag
+hu net/minecraft/nbt/IntTag
 	f data
-	a ()B getType
-	a (Ljava/io/DataInput;ILhv;)V read
-	a (Ljava/io/DataOutput;)V write
-	c ()Lhr; copy
-	d ()J asLong
-	e ()I asInt
-	f ()S asShort
-	g ()B asByte
-	h ()D asDouble
-	i ()F asFloat
-	j ()Ljava/lang/Number; asNumber
+	c ()Lhu; copy

@@ -1,5 +1,2 @@
-akr net/minecraft/world/entity/ambient/Bat
-	a (Lhm;)V read
+ali net/minecraft/world/entity/ambient/Bat
 	a (Z)V setTrackOutput
-	am ()Z isGrounded
-	b (Lhm;)V write

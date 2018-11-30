@@ -1,3 +1,1 @@
-agf net/minecraft/world/entity/Mob
-	a (Lhm;)V read
-	b (Lhm;)V write
+ags net/minecraft/world/entity/Mob

@@ -1,8 +1,8 @@
-cij net/minecraft/tosort/HitResult
+ckm net/minecraft/tosort/HitResult
 	a type
 	b f
 	c pos
 	d entity
 	e blockPos
-	a ()Leq; getBlockPos
-cij$a net/minecraft/tosort/HitResult$Type
+	a ()Let; getBlockPos
+ckm$a net/minecraft/tosort/HitResult$Type

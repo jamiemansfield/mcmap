@@ -1,3 +1,6 @@
-bzd$a bzd$a
-	a (Lhm;)V writeToTag
-	a (Lhm;Lbzs;)V readFromTag
+bzd bzd
+	a noiseToCountRatio
+	b noiseFactor
+	c noiseOffset
+	d heightmap
+	a (Lcom/mojang/datafixers/Dynamic;)Lbzd; create

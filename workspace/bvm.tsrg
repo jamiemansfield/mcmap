@@ -1,2 +1,2 @@
 bvm bvm
-	a isBeached
+	a (Lcom/mojang/datafixers/Dynamic;)Lbvm; create

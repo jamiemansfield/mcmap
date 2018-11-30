@@ -1,0 +1,8 @@
+cqw cqw
+	v proxy
+	a (IIILnet/minecraft/realms/Tezzelator;)V renderSelected
+	g ()I y0
+	h ()I y1
+	i ()I headerHeight
+	j ()D yo
+	k ()I itemHeright

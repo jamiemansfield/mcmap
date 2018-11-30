@@ -1,2 +1,1 @@
-dfa net/minecraft/client/renderer/entity/item/ItemEntityRenderer
-	a (Lafv;)Lpu; getTexture
+dhl net/minecraft/client/renderer/entity/item/ItemEntityRenderer

@@ -1,5 +1,0 @@
-alw alw
-	bC JUMP_STRENGTH
-	a (Lhm;)V read
-	a (Z)V setTrackOutput
-	b (Lhm;)V write

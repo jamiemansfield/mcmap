@@ -1,4 +1,0 @@
-cnc cnc
-	a (Lix;)V updateLastOutput
-	a (Z)V setTrackOutput
-	b (Lix;)V setCustomName

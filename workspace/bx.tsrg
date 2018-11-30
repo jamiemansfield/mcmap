@@ -1,6 +1,0 @@
-bx bx
-	e level
-	a (Lcom/mojang/brigadier/context/CommandContext;ZI)V onCommandComplete
-	a (Lix;)V updateLastOutput
-	e ()Lua; getLevel
-	j ()Lnet/minecraft/server/MinecraftServer; getServer

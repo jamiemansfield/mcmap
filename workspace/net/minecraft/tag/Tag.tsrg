@@ -1,2 +1,2 @@
-xp net/minecraft/tag/Tag
-	a (Lvt;)V reload
+xy net/minecraft/tag/Tag
+	a (Lwc;)V reload

@@ -1,4 +1,2 @@
-aob net/minecraft/world/entity/monster/Creeper
+aos net/minecraft/world/entity/monster/Creeper
 	a (I)V setSuccessCount
-	a (Lhm;)V read
-	b (Lhm;)V write

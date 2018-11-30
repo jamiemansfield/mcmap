@@ -1,3 +1,2 @@
-ddm net/minecraft/client/renderer/entity/decoration/ArmorStandRenderer
+dfw net/minecraft/client/renderer/entity/decoration/ArmorStandRenderer
 	a TEXTURE
-	a (Lafv;)Lpu; getTexture

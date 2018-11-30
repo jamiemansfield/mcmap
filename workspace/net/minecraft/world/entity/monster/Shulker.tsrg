@@ -1,5 +1,2 @@
-aow net/minecraft/world/entity/monster/Shulker
+apo net/minecraft/world/entity/monster/Shulker
 	a (I)V setSuccessCount
-	a (Lhm;)V read
-	am ()Z isGrounded
-	b (Lhm;)V write

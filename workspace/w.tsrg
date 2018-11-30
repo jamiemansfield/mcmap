@@ -1,0 +1,13 @@
+w w
+	a title
+	b description
+	d background
+	f showToast
+	g announceToChat
+	h hidden
+	a ()Lja; getTitle
+	b ()Lja; getDescription
+	d ()Lpy; getBackground
+	h ()Z shouldShowToast
+	i ()Z shouldAnnounceToChat
+	j ()Z isHidden

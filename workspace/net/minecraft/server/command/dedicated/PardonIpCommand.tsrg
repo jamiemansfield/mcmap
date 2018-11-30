@@ -1,2 +1,2 @@
-rv net/minecraft/server/command/dedicated/PardonIpCommand
+rz net/minecraft/server/command/dedicated/PardonIpCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

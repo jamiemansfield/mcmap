@@ -1,4 +1,4 @@
-bav net/minecraft/world/level/biome/Biomes
+bbt net/minecraft/world/level/biome/Biomes
 	A STONE_SHORE
 	B SNOWY_BEACH
 	C BIRCH_FOREST
@@ -75,4 +75,4 @@ bav net/minecraft/world/level/biome/Biomes
 	x JUNGLE_HILLS
 	y JUNGLE_EDGE
 	z DEEP_OCEAN
-	a (ILjava/lang/String;Lbaq;)Lbaq; register
+	a (ILjava/lang/String;Lbbp;)Lbbp; register

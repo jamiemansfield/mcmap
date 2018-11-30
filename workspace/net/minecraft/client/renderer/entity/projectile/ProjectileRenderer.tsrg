@@ -1,2 +1,1 @@
-dgk net/minecraft/client/renderer/entity/projectile/ProjectileRenderer
-	a (Lafv;)Lpu; getTexture
+div net/minecraft/client/renderer/entity/projectile/ProjectileRenderer

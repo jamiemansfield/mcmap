@@ -1,3 +1,1 @@
-anm net/minecraft/world/entity/decoration/Painting
-	a (Lhm;)V read
-	b (Lhm;)V write
+aod net/minecraft/world/entity/decoration/Painting

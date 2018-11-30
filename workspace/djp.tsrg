@@ -1,4 +1,0 @@
-djp djp
-	a ()Ljava/lang/String; getName
-	a (Lva;Lpu;)Ljava/io/InputStream; getInputStream
-	a (Lvd;)Ljava/lang/Object; loadPackMetadata

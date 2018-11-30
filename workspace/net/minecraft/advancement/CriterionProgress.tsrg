@@ -1,4 +1,4 @@
-r net/minecraft/advancement/CriterionProgress
+t net/minecraft/advancement/CriterionProgress
 	a DATE_FORMAT
 	b obtained
 	a ()Z hasObtained

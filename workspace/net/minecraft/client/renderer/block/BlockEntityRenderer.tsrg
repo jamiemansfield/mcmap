@@ -1,4 +1,4 @@
-dbt net/minecraft/client/renderer/block/BlockEntityRenderer
+ded net/minecraft/client/renderer/block/BlockEntityRenderer
 	b dispatcher
-	a ()Lazt; getLevel
-	a (Ldbs;)V setDispatcher
+	a ()Lbaq; getLevel
+	a (Ldec;)V setDispatcher

@@ -1,2 +1,1 @@
-dca net/minecraft/client/renderer/block/SkullBlockEntityRenderer
-	a (Ldbs;)V setDispatcher
+dek net/minecraft/client/renderer/block/SkullBlockEntityRenderer

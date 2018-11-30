@@ -1,5 +1,4 @@
-jg net/minecraft/text/TextComponent
+jj net/minecraft/text/TextComponent
 	b text
-	d ()Ljava/lang/String; getValue
 	i ()Ljava/lang/String; getText
-	j ()Ljg; clone
+	j ()Ljj; clone

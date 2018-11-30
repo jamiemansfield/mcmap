@@ -1,2 +1,2 @@
-sv net/minecraft/server/command/TimeCommand
+ta net/minecraft/server/command/TimeCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

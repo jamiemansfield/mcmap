@@ -1,3 +1,2 @@
-dgc net/minecraft/client/renderer/entity/monster/SilverfishRenderer
+din net/minecraft/client/renderer/entity/monster/SilverfishRenderer
 	a TEXTURE
-	a (Lafv;)Lpu; getTexture

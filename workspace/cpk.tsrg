@@ -1,2 +1,4 @@
 cpk cpk
-	c ()V init
+	a (Lja;)V updateLastOutput
+	a (Z)V setTrackOutput
+	b (Lja;)V setCustomName
