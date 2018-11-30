@@ -1,2 +1,4 @@
 apj net/minecraft/world/entity/monster/Phantom
 	a (I)V setSuccessCount
+	a (Lhp;)V read
+	b (Lhp;)V write

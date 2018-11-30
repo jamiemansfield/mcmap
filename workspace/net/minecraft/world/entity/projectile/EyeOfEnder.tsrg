@@ -1,1 +1,3 @@
 aqs net/minecraft/world/entity/projectile/EyeOfEnder
+	a (Lhp;)V read
+	b (Lhp;)V write

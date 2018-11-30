@@ -1,0 +1,4 @@
+arl arl
+	a (Lhp;)V read
+	b (Lhp;)V write
+	dC ()Z mayBuild

@@ -1,4 +1,4 @@
-cnv net/minecraft/client/MinecraftClient
+cnv net/minecraft/client/Minecraft
 	L instance
 	M dataFixer
 	T entityRenderDispatcher
@@ -12,10 +12,12 @@ cnv net/minecraft/client/MinecraftClient
 	o gameRenderer
 	u options
 	A ()Ldog; getIntegratedServer
+	E ()Ljava/net/Proxy; getProxy
 	Q ()Lcom/mojang/authlib/minecraft/MinecraftSessionService; getSessionService
 	V ()Ldgs; getEntityRenderDispatcher
 	a (I)V setSuccessCount
 	a (Lcsb;)V setScreen
+	a (Z)V setTrackOutput
 	ab ()Lcom/mojang/datafixers/DataFixer; getDataFixer
 	aj ()Z trackOutput
 	an ()Laek; getProfiler

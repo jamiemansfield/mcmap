@@ -1,1 +1,3 @@
 alo net/minecraft/world/entity/animal/Cat
+	a (Lhp;)V read
+	b (Lhp;)V write

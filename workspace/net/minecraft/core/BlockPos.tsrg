@@ -1,3 +1,8 @@
 et net/minecraft/core/BlockPos
 	b (III)Let; offset
 	c ()Let; below
+et$a net/minecraft/core/BlockPos$a
+	b (III)Let; offset
+	o ()I getX
+	p ()I getY
+	q ()I getZ

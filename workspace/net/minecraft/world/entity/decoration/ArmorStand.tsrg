@@ -1,2 +1,4 @@
 any net/minecraft/world/entity/decoration/ArmorStand
+	a (Lhp;)V read
 	a (Z)V setTrackOutput
+	b (Lhp;)V write

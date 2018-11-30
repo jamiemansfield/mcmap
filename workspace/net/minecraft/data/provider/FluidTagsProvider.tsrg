@@ -1,1 +1,2 @@
 hg net/minecraft/data/provider/FluidTagsProvider
+	a ()Ljava/lang/String; getName

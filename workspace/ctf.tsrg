@@ -1,4 +1,6 @@
 ctf ctf
+	a (Lavs;II)V renderTooltip
 	a (Ljava/lang/String;)V setValue
+	c ()V init
 	i ()I headerHeight
 	m ()Z isVisible

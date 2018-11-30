@@ -1,2 +1,5 @@
 alx net/minecraft/world/entity/animal/Panda
+	a (Lhp;)V read
+	b (Lhp;)V write
 	dC ()Z mayBuild
+	dD ()Z mayBuild

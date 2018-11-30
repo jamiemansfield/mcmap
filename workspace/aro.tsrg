@@ -1,0 +1,5 @@
+aro aro
+	a (Lhp;)V read
+	b (Lhp;)V write
+	f ()I getScrollbarPosition
+	h ()I y1

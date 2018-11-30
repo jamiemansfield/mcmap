@@ -1,2 +1,5 @@
 apo net/minecraft/world/entity/monster/Shulker
 	a (I)V setSuccessCount
+	a (Lhp;)V read
+	am ()Z isGrounded
+	b (Lhp;)V write

@@ -1,1 +1,3 @@
 aqp net/minecraft/world/entity/projectile/Arrow
+	a (Lhp;)V read
+	b (Lhp;)V write

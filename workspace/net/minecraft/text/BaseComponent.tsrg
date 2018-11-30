@@ -1,3 +1,8 @@
 ix net/minecraft/text/BaseComponent
 	a siblings
 	b style
+	a ()Ljava/util/List; getSiblings
+	a (Lja;)Lja; addSibling
+	a (Lji;)Lja; setStyle
+	b ()Lji; getStyle
+	c ()Ljava/util/stream/Stream; stream

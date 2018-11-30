@@ -1,2 +1,3 @@
 dgf net/minecraft/client/renderer/entity/fishing/CodRenderer
 	a TEXTURE
+	a (Lagi;)Lpy; getTexture

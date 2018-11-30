@@ -2,3 +2,6 @@ bpa bpa
 	a values
 	a (Ljava/lang/Boolean;)Ljava/lang/String; toString
 	a (Ljava/lang/String;)Lbpa; of
+	b (Ljava/lang/String;)Ljava/util/Optional; parseString
+	c ()I calculateHashCode
+	d ()Ljava/util/Collection; getValues

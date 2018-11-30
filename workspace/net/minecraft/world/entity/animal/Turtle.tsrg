@@ -1,1 +1,5 @@
 amj net/minecraft/world/entity/animal/Turtle
+	a (Lhp;)V read
+	a (Z)V setTrackOutput
+	b (Lhp;)V write
+	dD ()Z mayBuild

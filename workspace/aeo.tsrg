@@ -1,0 +1,2 @@
+aeo aeo
+	a (Ljava/util/function/Supplier;)Ljava/util/concurrent/CompletableFuture; execute

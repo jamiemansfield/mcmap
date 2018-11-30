@@ -1,1 +1,3 @@
 aqt net/minecraft/world/entity/projectile/FireworkRocket
+	a (Lhp;)V read
+	b (Lhp;)V write

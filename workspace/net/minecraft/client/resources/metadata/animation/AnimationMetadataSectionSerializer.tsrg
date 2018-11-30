@@ -1,1 +1,3 @@
 dml net/minecraft/client/resources/metadata/animation/AnimationMetadataSectionSerializer
+	a ()Ljava/lang/String; getMetadataSectionName
+	a (Lcom/google/gson/JsonObject;)Ljava/lang/Object; deserialize

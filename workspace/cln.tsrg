@@ -4,3 +4,4 @@ cln cln
 	a (La;)V setFormat
 	a (Lja;)V setName
 	c ()Lja; getName
+	n ()La; getFormat

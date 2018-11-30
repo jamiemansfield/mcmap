@@ -1,2 +1,4 @@
 gi net/minecraft/data/provider/BlockListProvider
 	b generator
+	a ()Ljava/lang/String; getName
+	a (Lga;)V run

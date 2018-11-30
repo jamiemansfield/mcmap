@@ -2,5 +2,9 @@ dbn dbn
 	cw serverBrand
 	f client
 	a (I)V setSuccessCount
+	a (Lbmr;)V openCommandBlcok
+	a (Lbnj;)V openSign
+	a (Lbnn;)V openStructureBlock
+	a (Lja;)V updateLastOutput
 	g (Ljava/lang/String;)V setServerBrand
 	w ()Ljava/lang/String; getServerBrand

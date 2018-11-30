@@ -1,2 +1,5 @@
+csy csy
+	c ()V init
 csy$d csy$d
+	a (IIF)V render
 	c (Z)V active

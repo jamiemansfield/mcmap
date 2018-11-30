@@ -1,3 +1,7 @@
 ie net/minecraft/nbt/StringTag
 	f data
+	a ()B getType
+	a (Ljava/io/DataInput;ILhy;)V read
+	a (Ljava/io/DataOutput;)V write
 	c ()Lie; copy
+	c_ ()Ljava/lang/String; get

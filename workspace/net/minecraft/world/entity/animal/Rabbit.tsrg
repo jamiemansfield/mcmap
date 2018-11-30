@@ -1,1 +1,3 @@
 amc net/minecraft/world/entity/animal/Rabbit
+	a (Lhp;)V read
+	b (Lhp;)V write

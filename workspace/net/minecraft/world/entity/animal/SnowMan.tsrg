@@ -1,2 +1,4 @@
 amg net/minecraft/world/entity/animal/SnowMan
+	a (Lhp;)V read
 	a (Z)V setTrackOutput
+	b (Lhp;)V write

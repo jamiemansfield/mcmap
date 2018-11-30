@@ -1,12 +1,16 @@
 agi net/minecraft/world/entity/Entity
 	a (Lhp;)V read
+	a (Lja;)V updateLastOutput
+	aj ()Z trackOutput
 	al ()Z trackOutput
 	am ()Z isGrounded
 	b (Lhp;)V write
 	b (Lja;)V setCustomName
+	b (Z)V setTrackOutput
 	c (Lja;)V setLastOutput
 	c (Z)V active
-	d (Z)V render
+	d (Z)V active
 	e (I)V scroll
+	e (Z)V render
 	f (Lhp;)V load
 	g (I)V setMaxLength

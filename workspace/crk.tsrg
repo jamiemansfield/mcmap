@@ -1,3 +1,11 @@
 crk crk
 	a (Lhp;)V read
 	a (Ljava/lang/String;)V setValue
+	c ()V init
+crk$a crk$a
+	a ()V renderItem
+	a (I)Z isSelectedItem
+	a (IIDD)Z selectItem
+	a (IIIIIIF)V renderItem
+	d ()I getItemCount
+	f ()I getScrollbarPosition

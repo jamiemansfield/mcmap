@@ -1,3 +1,4 @@
 hi net/minecraft/data/provider/AbstractTagsProvider
 	b generator
 	c registry
+	a (Lga;)V run

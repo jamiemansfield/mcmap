@@ -1,1 +1,2 @@
 dgx net/minecraft/client/renderer/entity/item/FallingBlockEntityRenderer
+	a (Lagi;)Lpy; getTexture

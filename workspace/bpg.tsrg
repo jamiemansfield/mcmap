@@ -1,0 +1,4 @@
+bpg bpg
+	b (Ljava/lang/String;)Ljava/util/Optional; parseString
+	c ()I calculateHashCode
+	d ()Ljava/util/Collection; getValues

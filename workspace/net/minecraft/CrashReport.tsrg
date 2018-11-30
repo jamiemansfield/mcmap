@@ -1,4 +1,6 @@
 b net/minecraft/CrashReport
+	b message
+	c cause
 	d systemDetails
 	e categories
 	a ()Ljava/lang/String; getMessage

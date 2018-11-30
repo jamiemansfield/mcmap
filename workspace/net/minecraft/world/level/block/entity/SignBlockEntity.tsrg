@@ -1,2 +1,3 @@
 bnj net/minecraft/world/level/block/entity/SignBlockEntity
 	j player
+	a (Lja;)V updateLastOutput

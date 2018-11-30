@@ -2,4 +2,5 @@ cni net/minecraft/client/Tesselator
 	a builder
 	c INSTANCE
 	a ()Lcni; getInstance
+	b ()V end
 	c ()Lcnf; getBuilder

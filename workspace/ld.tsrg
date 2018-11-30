@@ -2,6 +2,8 @@ ld ld
 	c gameMode
 	d dimensionType
 	e difficulty
+	a (Liq;)V read
+	b (Liq;)V write
 	d ()Lban; getGameMode
 	e ()Lbrc; getDimensionType
 	f ()Laez; getDifficulty

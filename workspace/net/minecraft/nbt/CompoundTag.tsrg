@@ -1,5 +1,8 @@
 hp net/minecraft/nbt/CompoundTag
 	h tags
+	a ()B getType
+	a (Ljava/io/DataInput;ILhy;)V read
+	a (Ljava/io/DataOutput;)V write
 	a (Ljava/lang/String;)Ljava/util/UUID; getUuid
 	a (Ljava/lang/String;B)V putByte
 	a (Ljava/lang/String;D)V putDouble

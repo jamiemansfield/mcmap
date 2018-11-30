@@ -1,1 +1,2 @@
 dek net/minecraft/client/renderer/block/SkullBlockEntityRenderer
+	a (Ldec;)V setDispatcher

@@ -1,2 +1,3 @@
 dhs net/minecraft/client/renderer/entity/animal/horse/LlamaRenderer
 	a TEXTURES
+	a (Lagi;)Lpy; getTexture

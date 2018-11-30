@@ -1,2 +1,4 @@
 alu net/minecraft/world/entity/animal/IronGolem
+	a (Lhp;)V read
 	a (Z)V setTrackOutput
+	b (Lhp;)V write

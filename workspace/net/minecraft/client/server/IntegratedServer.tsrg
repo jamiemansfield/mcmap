@@ -1,3 +1,7 @@
 dog net/minecraft/client/server/IntegratedServer
 	h client
 	l lanPinger
+	a (Z)V setTrackOutput
+	d ()Z start
+	g ()Lban; getGameMode
+	h ()Laez; getDifficulty

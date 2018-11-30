@@ -1,1 +1,4 @@
 anw net/minecraft/world/entity/boss/wither/WitherBoss
+	a (Lhp;)V read
+	b (Lhp;)V write
+	b (Lja;)V setCustomName

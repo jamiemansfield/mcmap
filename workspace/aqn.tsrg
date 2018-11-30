@@ -1,3 +1,6 @@
 aqn aqn
 	a (I)V setSuccessCount
+	a (Lhp;)V read
 	a (Z)V setTrackOutput
+	am ()Z isGrounded
+	b (Lhp;)V write

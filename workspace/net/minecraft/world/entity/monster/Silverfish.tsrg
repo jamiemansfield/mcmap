@@ -1,1 +1,2 @@
 app net/minecraft/world/entity/monster/Silverfish
+	am ()Z isGrounded

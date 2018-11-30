@@ -1,1 +1,3 @@
 art net/minecraft/world/entity/vehicle/FurnaceMinecart
+	a (Lhp;)V read
+	b (Lhp;)V write

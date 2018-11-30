@@ -1,2 +1,4 @@
 aoa net/minecraft/world/entity/decoration/ItemFrame
 	a (I)V setSuccessCount
+	a (Lhp;)V read
+	b (Lhp;)V write

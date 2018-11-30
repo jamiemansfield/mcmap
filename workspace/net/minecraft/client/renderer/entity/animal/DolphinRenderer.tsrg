@@ -1,2 +1,3 @@
 dgk net/minecraft/client/renderer/entity/animal/DolphinRenderer
 	a TEXTURE
+	a (Lagi;)Lpy; getTexture

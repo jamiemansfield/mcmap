@@ -1,2 +1,5 @@
 tn net/minecraft/server/dedicated/DedicatedServer
 	n gameMode
+	d ()Z start
+	g ()Lban; getGameMode
+	h ()Laez; getDifficulty

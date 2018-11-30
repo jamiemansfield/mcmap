@@ -1,1 +1,4 @@
 apl net/minecraft/world/entity/monster/Pillager
+	a (Lhp;)V read
+	a (Z)V setTrackOutput
+	b (Lhp;)V write

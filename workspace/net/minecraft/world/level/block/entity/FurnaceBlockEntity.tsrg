@@ -1,1 +1,3 @@
 bmz net/minecraft/world/level/block/entity/FurnaceBlockEntity
+	f ()I getScrollbarPosition
+	h ()I y1

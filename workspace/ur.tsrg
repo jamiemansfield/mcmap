@@ -1,2 +1,10 @@
 ur ur
 	k dimension
+	a (IILbqb;)Lbpw; createChunk
+	a (Let;Lboj;I)Z setBlock
+	b (Let;)Lboj; getBlockState
+	d (Let;)Z isEmptyBlock
+	f ()Lbaq; getLevel
+	g ()Lcgu; getData
+	m ()Ljava/util/Random; getRandom
+	o ()Lbrb; getDimension

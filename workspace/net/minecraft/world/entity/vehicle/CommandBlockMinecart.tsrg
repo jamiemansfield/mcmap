@@ -1,1 +1,5 @@
 ars net/minecraft/world/entity/vehicle/CommandBlockMinecart
+	a (Lhp;)V read
+	b (Lhp;)V write
+ars$a net/minecraft/world/entity/vehicle/CommandBlockMinecart$a
+	d ()Luj; getLevel

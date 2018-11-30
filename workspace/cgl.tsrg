@@ -8,3 +8,5 @@ cgl cgl
 	g colors
 	k banners
 	l frames
+	a (Lhp;)V read
+	b (Lhp;)Lhp; write

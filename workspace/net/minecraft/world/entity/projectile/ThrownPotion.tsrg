@@ -1,2 +1,4 @@
 arg net/minecraft/world/entity/projectile/ThrownPotion
+	a (Lhp;)V read
+	b (Lhp;)V write
 	m ()Z isVisible

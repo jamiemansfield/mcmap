@@ -1,0 +1,10 @@
+g net/minecraft/MinecraftVersion
+	b id
+	c name
+	d stable
+	e worldVersion
+	f protocolVersion
+	g packVersion
+	h buildTime
+	i releaseTarget
+	a ()Lcom/mojang/bridge/game/GameVersion; get

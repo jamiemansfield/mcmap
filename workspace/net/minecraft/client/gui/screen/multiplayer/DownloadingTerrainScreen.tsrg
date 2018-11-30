@@ -1,1 +1,2 @@
 csa net/minecraft/client/gui/screen/multiplayer/DownloadingTerrainScreen
+	e ()Z isPauseScreen

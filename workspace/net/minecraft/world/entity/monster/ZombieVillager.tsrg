@@ -1,2 +1,5 @@
 aqa net/minecraft/world/entity/monster/ZombieVillager
 	a (I)V setSuccessCount
+	a (Lhp;)V read
+	b (Lhp;)V write
+	dD ()Z mayBuild

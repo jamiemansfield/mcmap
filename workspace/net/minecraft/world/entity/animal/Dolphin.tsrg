@@ -1,2 +1,5 @@
 als net/minecraft/world/entity/animal/Dolphin
+	a (I)V setSuccessCount
+	a (Lhp;)V read
 	a (Z)V setTrackOutput
+	b (Lhp;)V write

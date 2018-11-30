@@ -1,0 +1,12 @@
+np np
+	a (Liq;)V read
+	b (Liq;)V write
+np$a np$a
+	a (Liq;)V read
+	b (Liq;)V write
+np$b np$b
+	a (Liq;)V read
+	b (Liq;)V write
+np$c np$c
+	a (Liq;)V read
+	b (Liq;)V write

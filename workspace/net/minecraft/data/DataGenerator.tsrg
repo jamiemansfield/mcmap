@@ -1,6 +1,8 @@
 fy net/minecraft/data/DataGenerator
-	c root
+	b inputs
+	c output
 	d providers
+	a ()Ljava/util/Collection; getInputs
 	a (Lfz;)V install
-	b ()Ljava/nio/file/Path; getRoot
+	b ()Ljava/nio/file/Path; getOutput
 	c ()V run

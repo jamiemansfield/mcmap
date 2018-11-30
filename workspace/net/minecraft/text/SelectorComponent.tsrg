@@ -1,2 +1,3 @@
 jh net/minecraft/text/SelectorComponent
 	c pattern
+	d ()Ljava/lang/String; getValue

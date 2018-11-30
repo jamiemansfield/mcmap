@@ -1,1 +1,2 @@
 dir net/minecraft/client/renderer/entity/projectile/SpectralArrowRenderer
+	a (Lagi;)Lpy; getTexture

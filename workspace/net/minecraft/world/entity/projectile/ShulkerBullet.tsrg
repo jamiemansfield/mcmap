@@ -1,1 +1,3 @@
 aqy net/minecraft/world/entity/projectile/ShulkerBullet
+	a (Lhp;)V read
+	b (Lhp;)V write

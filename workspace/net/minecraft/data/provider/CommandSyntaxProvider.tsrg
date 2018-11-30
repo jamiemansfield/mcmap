@@ -1,2 +1,4 @@
 gj net/minecraft/data/provider/CommandSyntaxProvider
 	b generator
+	a ()Ljava/lang/String; getName
+	a (Lga;)V run

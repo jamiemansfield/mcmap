@@ -1,3 +1,4 @@
 avn net/minecraft/world/item/Item
 	b (I)Lavn; byId
+	h ()Lavn; getItem
 	r ()Lavs; createInstance

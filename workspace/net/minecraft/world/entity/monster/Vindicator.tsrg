@@ -1,2 +1,5 @@
 apw net/minecraft/world/entity/monster/Vindicator
+	a (Lhp;)V read
 	a (Z)V setTrackOutput
+	b (Lhp;)V write
+	b (Lja;)V setCustomName

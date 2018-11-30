@@ -1,1 +1,3 @@
 alz net/minecraft/world/entity/animal/Pig
+	a (Lhp;)V read
+	b (Lhp;)V write

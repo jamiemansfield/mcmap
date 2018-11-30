@@ -1,2 +1,3 @@
 dgl net/minecraft/client/renderer/entity/projectile/DragonFireballRenderer
 	a TEXTURE
+	a (Lagi;)Lpy; getTexture

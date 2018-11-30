@@ -1,0 +1,2 @@
+dlv dlv
+	a (Ljava/lang/String;)Ljava/io/InputStream; getInputStream

@@ -1,1 +1,2 @@
 ayg net/minecraft/world/item/recipe/SmeltingRecipe
+	b ()Lpy; getId

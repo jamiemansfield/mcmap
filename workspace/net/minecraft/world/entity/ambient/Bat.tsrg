@@ -1,2 +1,5 @@
 ali net/minecraft/world/entity/ambient/Bat
+	a (Lhp;)V read
 	a (Z)V setTrackOutput
+	am ()Z isGrounded
+	b (Lhp;)V write

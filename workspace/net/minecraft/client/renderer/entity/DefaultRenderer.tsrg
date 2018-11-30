@@ -1,1 +1,2 @@
 dgi net/minecraft/client/renderer/entity/DefaultRenderer
+	a (Lagi;)Lpy; getTexture

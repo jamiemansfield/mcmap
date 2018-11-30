@@ -1,1 +1,4 @@
 arp net/minecraft/world/entity/vehicle/Boat
+	a (Lhp;)V read
+	am ()Z isGrounded
+	b (Lhp;)V write

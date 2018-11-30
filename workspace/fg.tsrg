@@ -1,0 +1,6 @@
+fg fg
+	a (I)Ljava/lang/Object; byId
+	a (Lpy;)Ljava/lang/Object; get
+	b (Ljava/lang/Object;)Lpy; getKey
+	b (Lpy;)Z containsKey
+	c ()Z isEmpty

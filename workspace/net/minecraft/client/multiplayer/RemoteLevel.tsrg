@@ -1,2 +1,5 @@
 czk net/minecraft/client/multiplayer/RemoteLevel
 	d client
+	A ()Laxz; getRecipeManager
+	B ()Lxz; getTagManager
+	a (Lb;)Lc; populateCrashReport

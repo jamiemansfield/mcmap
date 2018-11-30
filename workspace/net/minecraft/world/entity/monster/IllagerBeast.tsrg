@@ -1,1 +1,3 @@
 ape net/minecraft/world/entity/monster/IllagerBeast
+	a (Lhp;)V read
+	b (Lhp;)V write

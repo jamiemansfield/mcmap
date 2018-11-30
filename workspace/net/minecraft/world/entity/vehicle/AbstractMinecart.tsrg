@@ -1,3 +1,6 @@
 arn net/minecraft/world/entity/vehicle/AbstractMinecart
 	a (Lbaq;DDDLarn$a;)Larn; create
+	a (Lhp;)V read
 	a (Z)V setTrackOutput
+	am ()Z isGrounded
+	b (Lhp;)V write

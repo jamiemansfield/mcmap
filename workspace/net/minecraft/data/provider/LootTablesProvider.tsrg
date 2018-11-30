@@ -1,2 +1,4 @@
 gr net/minecraft/data/provider/LootTablesProvider
 	d generator
+	a ()Ljava/lang/String; getName
+	a (Lga;)V run

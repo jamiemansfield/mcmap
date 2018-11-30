@@ -1,2 +1,10 @@
 cqz cqz
+	a ()V renderItem
+	a (I)Z isSelectedItem
+	a (IIDD)Z selectItem
+	a (IIF)V render
+	a (IIIIIIF)V renderItem
 	c ()I width
+	d ()I getItemCount
+	f ()I getScrollbarPosition
+	n ()I getMaxPosition

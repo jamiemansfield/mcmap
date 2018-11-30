@@ -3,5 +3,6 @@ jg net/minecraft/text/ScoreComponent
 	d objective
 	e value
 	b (Ljava/lang/String;)V setValue
+	d ()Ljava/lang/String; getValue
 	i ()Ljava/lang/String; getName
 	k ()Ljava/lang/String; getObjective

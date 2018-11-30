@@ -1,2 +1,22 @@
 cgq net/minecraft/world/level/storage/ProxiedLevelData
 	b data
+	a (I)V setSpawnX
+	a (J)V setTime
+	a (Laez;)V setDifficulty
+	a (Lbaz;)V setGeneratorType
+	a (Let;)V setSpawn
+	a (Ljava/lang/String;)V setName
+	b ()I getSpawnX
+	b (I)V setSpawnY
+	c ()I getSpawnY
+	c (I)V setSpawnZ
+	d ()I getSpawnZ
+	e ()J getTime
+	g ()J getSizeOnDisk
+	j ()Ljava/lang/String; getName
+	l ()J getLastPlayed
+	q ()Lban; getGameMode
+	s ()Z isHardcore
+	t ()Lbaz; getGeneratorType
+	u ()Z isCheats
+	x ()Laez; getDifficulty

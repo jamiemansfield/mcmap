@@ -1,3 +1,8 @@
 csv csv
 	a (Ljava/lang/String;)V setValue
+	c ()V init
 	i ()I headerHeight
+csv$4 csv$4
+	c (Z)V active
+csv$5 csv$5
+	c (Z)V active

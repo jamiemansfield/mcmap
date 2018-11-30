@@ -4,4 +4,6 @@ ddo net/minecraft/client/renderer/Variant
 	c uvLock
 	d weight
 	a ()Lpy; getModelLocation
+	b ()Ldmv; getRotation
+	c ()Z getUvLock
 	d ()I getWeight

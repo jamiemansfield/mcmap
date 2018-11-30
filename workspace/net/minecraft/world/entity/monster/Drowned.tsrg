@@ -1,2 +1,3 @@
 aou net/minecraft/world/entity/monster/Drowned
 	a (Z)V setTrackOutput
+	dD ()Z mayBuild

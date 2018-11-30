@@ -3,7 +3,11 @@ aqj net/minecraft/world/entity/player/Player
 	a (Lbmr;)V openCommandBlcok
 	a (Lbnj;)V openSign
 	a (Lbnn;)V openStructureBlock
+	a (Lhp;)V read
+	am ()Z isGrounded
+	b (Lhp;)V write
+	dC ()Z mayBuild
 	dD ()Z mayBuild
 	dt ()Lcom/mojang/authlib/GameProfile; getProfile
-	t ()Z isSpectator
+	t ()Z isCreative
 	u ()Z isCreative

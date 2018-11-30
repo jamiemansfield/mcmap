@@ -3,3 +3,5 @@ csg net/minecraft/client/gui/screen/TitleScreen
 	E MINECRAFT_LOGO
 	F MINECRAFT_EDITION
 	f RANDOM
+	c ()V init
+	e ()Z isPauseScreen

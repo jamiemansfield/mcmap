@@ -1,3 +1,5 @@
 aqr net/minecraft/world/entity/projectile/EvokerFangs
 	a warmup
 	f ownerId
+	a (Lhp;)V read
+	b (Lhp;)V write

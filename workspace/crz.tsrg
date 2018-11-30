@@ -1,0 +1,5 @@
+crz crz
+	a (I)V setSuccessCount
+	a (Lja;)V updateLastOutput
+	b (Lja;)V setCustomName
+	c (Lja;)V setLastOutput

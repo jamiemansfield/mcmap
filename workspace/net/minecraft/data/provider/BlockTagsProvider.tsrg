@@ -1,1 +1,2 @@
 he net/minecraft/data/provider/BlockTagsProvider
+	a ()Ljava/lang/String; getName

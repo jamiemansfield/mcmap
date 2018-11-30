@@ -1,4 +1,6 @@
 agf agf
 	a (I)V setSuccessCount
+	a (Lhp;)V read
 	a (Z)V setTrackOutput
+	b (Lhp;)V write
 	i ()I headerHeight

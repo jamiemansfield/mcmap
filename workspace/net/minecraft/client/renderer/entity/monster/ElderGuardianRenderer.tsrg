@@ -1,2 +1,3 @@
 dgn net/minecraft/client/renderer/entity/monster/ElderGuardianRenderer
 	a TEXTURE
+	a (Lagi;)Lpy; getTexture

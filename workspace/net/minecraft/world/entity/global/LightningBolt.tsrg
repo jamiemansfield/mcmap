@@ -1,2 +1,4 @@
 aoi net/minecraft/world/entity/global/LightningBolt
 	a (I)V setSuccessCount
+	a (Lhp;)V read
+	b (Lhp;)V write

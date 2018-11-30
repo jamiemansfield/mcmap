@@ -1,1 +1,3 @@
 amt net/minecraft/world/entity/animal/horse/SkeletonHorse
+	a (Lhp;)V read
+	b (Lhp;)V write

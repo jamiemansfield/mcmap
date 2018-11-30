@@ -1,2 +1,6 @@
 ago net/minecraft/world/entity/ExperienceOrb
+	a (Lhp;)V read
+	am ()Z isGrounded
+	b (Lhp;)V write
+	g (I)V setMaxLength
 	i ()I headerHeight

@@ -1,1 +1,3 @@
 arb net/minecraft/world/entity/projectile/SpectralArrow
+	a (Lhp;)V read
+	b (Lhp;)V write

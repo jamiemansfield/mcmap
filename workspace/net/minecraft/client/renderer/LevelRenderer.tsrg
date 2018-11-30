@@ -4,4 +4,5 @@ dcg net/minecraft/client/renderer/LevelRenderer
 	j entityRenderDispatcher
 	k level
 	a (Laqj;Lckm;IF)V renderHitOutline
+	a (Lwc;)V reload
 	b (Lclj;DDDFFFF)V renderLineBox

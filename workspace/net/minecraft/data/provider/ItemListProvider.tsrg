@@ -1,2 +1,4 @@
 gk net/minecraft/data/provider/ItemListProvider
 	b generator
+	a ()Ljava/lang/String; getName
+	a (Lga;)V run

@@ -1,2 +1,4 @@
 gv net/minecraft/data/provider/RecipesProvider
 	d generator
+	a ()Ljava/lang/String; getName
+	a (Lga;)V run

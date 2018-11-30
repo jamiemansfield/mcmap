@@ -6,3 +6,6 @@ csz net/minecraft/client/gui/screen/BookScreen
 	x title
 	a (Z)V setTrackOutput
 	b (Ljava/lang/String;)V setValue
+	c ()V init
+csz$a net/minecraft/client/gui/screen/BookScreen$a
+	a (IIF)V render

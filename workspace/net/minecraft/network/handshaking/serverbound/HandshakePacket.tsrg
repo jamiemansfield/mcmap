@@ -3,6 +3,8 @@ oq net/minecraft/network/handshaking/serverbound/HandshakePacket
 	b address
 	c port
 	d nextProtocol
+	a (Liq;)V read
 	a (Lor;)V accept
 	b ()Lip; getNextProtocol
+	b (Liq;)V write
 	c ()I getProtocolVersion

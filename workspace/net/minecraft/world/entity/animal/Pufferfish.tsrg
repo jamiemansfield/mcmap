@@ -1,1 +1,3 @@
 amb net/minecraft/world/entity/animal/Pufferfish
+	a (Lhp;)V read
+	b (Lhp;)V write

@@ -1,2 +1,5 @@
 amn amn
 	bC JUMP_STRENGTH
+	a (Lhp;)V read
+	a (Z)V setTrackOutput
+	b (Lhp;)V write

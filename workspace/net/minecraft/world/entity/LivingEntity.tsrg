@@ -1,1 +1,3 @@
 agr net/minecraft/world/entity/LivingEntity
+	a (Lhp;)V read
+	b (Lhp;)V write

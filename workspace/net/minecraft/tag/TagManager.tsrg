@@ -4,6 +4,7 @@ xz net/minecraft/tag/TagManager
 	c FLUIDS
 	d ENTITY_TYPES
 	a ()Lxw; blocks
+	a (Lwc;)V reload
 	b ()Lxw; items
 	c ()Lxw; fluids
 	d ()Lxw; entityTypes

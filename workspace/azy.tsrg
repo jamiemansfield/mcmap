@@ -10,6 +10,7 @@ azy azy
 	a (I)V setSuccessCount
 	a (Lbaq;)Z execute
 	a (Lhp;)Lhp; writeToTag
+	a (Lja;)V updateLastOutput
 	a (Ljava/lang/String;)V setValue
 	a (Z)V setTrackOutput
 	b (Lhp;)V write

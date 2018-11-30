@@ -1,6 +1,9 @@
 cqv cqv
 	a (Ljava/lang/String;)V setValue
+	b ()I getSuccessCount
 	c ()I id
 	c (Z)V active
 	d ()Z active
+	d (Z)I getYImage
+	e ()I y
 	g ()I getHeight
