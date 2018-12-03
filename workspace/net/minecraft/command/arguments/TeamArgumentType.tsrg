@@ -1,2 +1,3 @@
 cz net/minecraft/command/arguments/TeamArgumentType
+	a EXAMPLES
 	a ()Lcz; create

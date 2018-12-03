@@ -1,2 +1,3 @@
 cv net/minecraft/command/arguments/ResourceLocationArgumentType
+	d EXAMPLES
 	a ()Lcv; create

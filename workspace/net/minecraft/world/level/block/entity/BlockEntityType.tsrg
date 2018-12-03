@@ -4,6 +4,7 @@ bmo net/minecraft/world/level/block/entity/BlockEntityType
 	C LECTERN
 	D BELL
 	G factory
+	H type
 	a FURNACE
 	b CHEST
 	c TRAPPED_CHEST
@@ -33,3 +34,7 @@ bmo net/minecraft/world/level/block/entity/BlockEntityType
 	a ()Lbmn; create
 	a (Lbmo;)Lpy; getKey
 	a (Ljava/lang/String;Lbmo$a;)Lbmo; register
+bmo$a net/minecraft/world/level/block/entity/BlockEntityType$Builder
+	a factory
+	a (Lcom/mojang/datafixers/types/Type;)Lbmo; build
+	a (Ljava/util/function/Supplier;)Lbmo$a; builder

@@ -1,2 +1,3 @@
 dk net/minecraft/command/arguments/RotationArgumentType
+	b EXAMPLES
 	a ()Ldk; create

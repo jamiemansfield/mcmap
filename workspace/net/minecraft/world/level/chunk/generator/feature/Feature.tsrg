@@ -43,6 +43,7 @@ btz net/minecraft/world/level/chunk/generator/feature/Feature
 	ae BLUE_ICE
 	af ICEBERG
 	ag FOREST_ROCK
+	ah HAY_PILE
 	ai BUSH
 	aj DISK
 	ak DOUBLE_PLANT
@@ -62,6 +63,7 @@ btz net/minecraft/world/level/chunk/generator/feature/Feature
 	ay END_GATEWAY
 	az SEAGRASS
 	b VILLAGE
+	c PILLAGER_OUTPOST
 	d MINESHAFT
 	e WOODLAND_MANSION
 	f JUNGLE_TEMPLE
@@ -75,6 +77,7 @@ btz net/minecraft/world/level/chunk/generator/feature/Feature
 	n NETHER_BRIDGE
 	o END_CITY
 	p BURIED_TREASURE
+	q NEW_VILLAGE
 	r FANCY_TREE
 	s BIRCH_TREE
 	t SUPER_BIRCH_TREE

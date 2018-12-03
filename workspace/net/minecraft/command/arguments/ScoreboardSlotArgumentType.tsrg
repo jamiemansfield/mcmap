@@ -1,2 +1,3 @@
 cx net/minecraft/command/arguments/ScoreboardSlotArgumentType
+	b EXAMPLES
 	a ()Lcx; create

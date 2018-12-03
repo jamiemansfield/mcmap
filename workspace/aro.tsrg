@@ -1,5 +1,6 @@
 aro aro
 	a (Lhp;)V read
 	b (Lhp;)V write
+	b (Z)V setTrackOutput
 	f ()I getScrollbarPosition
 	h ()I y1

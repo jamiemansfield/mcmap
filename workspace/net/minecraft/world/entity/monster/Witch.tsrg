@@ -1,2 +1,3 @@
 apx net/minecraft/world/entity/monster/Witch
 	a (Z)V setTrackOutput
+	dC ()Z mayBuild

@@ -1,5 +1,6 @@
 dcc net/minecraft/client/renderer/GameRenderer
 	f client
 	h random
+	a (Lpy;)V loadShader
 	a (Lwc;)V reload
 	l ()Lcnv; getClient

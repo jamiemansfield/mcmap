@@ -1,2 +1,3 @@
 dl net/minecraft/command/arguments/SwizzleArgumentType
+	a EXAMPLES
 	a ()Ldl; create

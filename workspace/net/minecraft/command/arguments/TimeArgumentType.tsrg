@@ -1,2 +1,3 @@
 da net/minecraft/command/arguments/TimeArgumentType
+	a EXAMPLES
 	a ()Lda; create

@@ -1,2 +1,3 @@
 cy net/minecraft/command/arguments/TeamSlotArgumentType
+	a EXAMPLES
 	a ()Lcy; create

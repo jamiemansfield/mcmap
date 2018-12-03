@@ -3,6 +3,7 @@ agd net/minecraft/world/entity/MobEffects
 	B SLOW_FALLING
 	C CONDUIT_POWER
 	D DOLPHINS_GRACE
+	E BAD_OMEN
 	a SPEED
 	b SLOWNESS
 	c HASTE

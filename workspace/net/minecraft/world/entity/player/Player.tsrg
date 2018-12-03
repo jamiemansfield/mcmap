@@ -9,5 +9,5 @@ aqj net/minecraft/world/entity/player/Player
 	dC ()Z mayBuild
 	dD ()Z mayBuild
 	dt ()Lcom/mojang/authlib/GameProfile; getProfile
-	t ()Z isCreative
+	t ()Z isSpectator
 	u ()Z isCreative

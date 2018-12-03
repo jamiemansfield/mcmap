@@ -26,6 +26,7 @@ cnv net/minecraft/client/Minecraft
 	b (Lja;)V setCustomName
 	c (Z)V active
 	d (Z)V render
+	e (Z)V render
 	i ()V stop
 	s ()Z isSpectator
 	t ()Z isCreative

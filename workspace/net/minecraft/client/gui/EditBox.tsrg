@@ -5,9 +5,11 @@ coy net/minecraft/client/gui/EditBox
 	a (Ljava/lang/String;)V setValue
 	a (Z)V setTrackOutput
 	b ()Ljava/lang/String; getValue
+	b (Z)V setTrackOutput
 	c (Z)V active
 	d (Z)V render
 	e (I)V scroll
+	e (Z)V render
 	g (I)V setMaxLength
 	h ()I y1
 	m ()Z isVisible

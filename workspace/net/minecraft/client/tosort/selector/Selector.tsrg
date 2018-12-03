@@ -1,0 +1,5 @@
+ddu net/minecraft/client/tosort/selector/Selector
+	a condition
+	b variant
+	a ()Lddn; getVariant
+ddu$a net/minecraft/client/tosort/selector/Selector$Serializer

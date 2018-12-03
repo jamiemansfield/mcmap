@@ -1,1 +1,2 @@
 cpr net/minecraft/client/gui/GuiEventListener
+	b (Z)V setTrackOutput

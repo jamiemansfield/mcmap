@@ -1,3 +1,4 @@
 aly net/minecraft/world/entity/animal/Parrot
 	a (Lhp;)V read
+	aj ()Z trackOutput
 	b (Lhp;)V write
