@@ -1,5 +1,6 @@
 aqj net/minecraft/world/entity/player/Player
 	bT abilities
+	X ()V tick
 	a (Lbmr;)V openCommandBlcok
 	a (Lbnj;)V openSign
 	a (Lbnn;)V openStructureBlock

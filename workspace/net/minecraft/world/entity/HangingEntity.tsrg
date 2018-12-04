@@ -1,0 +1,3 @@
+anz net/minecraft/world/entity/HangingEntity
+	a (Lhp;)V read
+	b (Lhp;)V write

@@ -1,3 +1,7 @@
 agr net/minecraft/world/entity/LivingEntity
+	aC deathTime
+	az hurtTime
+	bF hurtByTimestamp
 	a (Lhp;)V read
 	b (Lhp;)V write
+	l (F)V setHealth

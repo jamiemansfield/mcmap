@@ -1,4 +1,8 @@
 agi net/minecraft/world/entity/Entity
+	o x
+	p y
+	q z
+	X ()V tick
 	a (Lhp;)V read
 	a (Lja;)V updateLastOutput
 	aj ()Z trackOutput

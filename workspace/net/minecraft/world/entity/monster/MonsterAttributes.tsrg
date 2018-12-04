@@ -10,9 +10,9 @@ apn net/minecraft/world/entity/monster/MonsterAttributes
 	i ARMOR
 	j ARMOR_TOUGHNESS
 	k LUCK
-	a (Lahg;)Lhp; writeToTag
-	a (Lahg;Lhp;)V readFromTag
-	a (Lahh;)Lhp; writeToTag
-	a (Lahj;)Lhv; writeToTag
-	a (Lahj;Lhv;)V readFromTag
-	a (Lhp;)Lahh; readFromTag
+	a (Lahg;)Lhp; write
+	a (Lahg;Lhp;)V read
+	a (Lahh;)Lhp; write
+	a (Lahj;)Lhv; write
+	a (Lahj;Lhv;)V read
+	a (Lhp;)Lahh; read

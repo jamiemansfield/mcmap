@@ -1,4 +1,5 @@
 aro aro
+	X ()V tick
 	a (Lhp;)V read
 	b (Lhp;)V write
 	b (Z)V setTrackOutput

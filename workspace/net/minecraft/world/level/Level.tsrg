@@ -11,6 +11,7 @@ baq net/minecraft/world/level/Level
 	T ()J getTime
 	a (IILbqb;)Lbpw; createChunk
 	a (J)V setTime
+	a (Lagi;Z)V tick
 	a (Lb;)Lc; populateCrashReport
 	a (Lbat;)V addListener
 	a (Let;Lboj;I)Z setBlock
@@ -22,7 +23,9 @@ baq net/minecraft/world/level/Level
 	f ()Lbaq; getLevel
 	g ()Lcgu; getData
 	m ()Ljava/util/Random; getRandom
+	m_ ()V tickEntities
 	n (Let;)Lbqi; createChunk
+	n_ ()V tickPlayers
 	o ()Lbrb; getDimension
 	w ()Lnet/minecraft/server/MinecraftServer; getServer
 	y (Let;)V setSpawn

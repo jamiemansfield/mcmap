@@ -1,3 +1,4 @@
 apr net/minecraft/world/entity/monster/Slime
+	X ()V tick
 	a (Lhp;)V read
 	b (Lhp;)V write

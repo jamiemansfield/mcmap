@@ -1,4 +1,5 @@
 aof net/minecraft/world/entity/fishing/FishingHook
+	X ()V tick
 	a (I)V setSuccessCount
 	a (Lhp;)V read
 	am ()Z isGrounded
