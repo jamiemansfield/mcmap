@@ -1,4 +1,4 @@
-bov bov
+bov net/minecraft/world/level/block/state/property/AbstractProperty
 	a clazz
 	b name
 	c hash

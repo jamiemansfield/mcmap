@@ -1,0 +1,6 @@
+cdv net/minecraft/world/level/map/MapColour
+	j WHITE
+	q ORANGE
+	r MAGENTA
+	s LIGHT_BLUE
+	t YELLOW

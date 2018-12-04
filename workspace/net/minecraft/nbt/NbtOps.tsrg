@@ -1,4 +1,4 @@
-ia net/minecraft/datafixers/types/NbtOps
+ia net/minecraft/nbt/NbtOps
 	a INSTANCE
 	a (Lig;Lig;)Lig; mergeInto
 	b (Lig;Lig;)Lig; merge

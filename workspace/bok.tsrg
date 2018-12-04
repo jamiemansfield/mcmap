@@ -1,0 +1,5 @@
+bok bok
+	b block
+	c properties
+	c ()Ljava/lang/Object; getBlock
+	d ()Ljava/util/Collection; getProperties

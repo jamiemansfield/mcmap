@@ -1,0 +1,6 @@
+chg net/minecraft/world/level/storage/loot/ConstantLootTableRange
+	d value
+	a ()Lpy; getId
+	a (I)Lchg; of
+	a (Ljava/util/Random;)I nextInt
+chg$a net/minecraft/world/level/storage/loot/ConstantLootTableRange$Serialiser

@@ -1,0 +1,16 @@
+bqb net/minecraft/world/level/chunk/status/ChunkStatus
+	a EMPTY
+	b STRUCTURE_STARTS
+	c STRUCTURE_REFERENCES
+	d BIOMES
+	e NOISE
+	f SURFACE
+	g CARVERS
+	h LIQUID_CARVERS
+	i FEATURES
+	j LIGHT
+	k SPAWN
+	l HEIGHTMAPS
+	m FULL
+	a (Ljava/lang/String;Lbqb;IZLbqb$b;Lbqb$a;)Lbqb; register
+	a (Ljava/lang/String;Lbqb;IZLbqb$b;Lbqb$c;)Lbqb; register

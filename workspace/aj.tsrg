@@ -1,0 +1,22 @@
+aj aj
+	b isProjectile
+	c isExplosion
+	d bypassesArmor
+	e bypassesInvulnerability
+	f bypassesMagic
+	g isFire
+	h isMagic
+	i isLightning
+aj$a aj$Builder
+	a isProjectile
+	b isExplosion
+	c bypassesArmor
+	d bypassesInvulnerability
+	e bypassesMagic
+	f isFire
+	g isMagic
+	h isLightning
+	a ()Laj$a; builder
+	a (Ljava/lang/Boolean;)Laj$a; setProjectile
+	b ()Laj; build
+	h (Ljava/lang/Boolean;)Laj$a; setLightning

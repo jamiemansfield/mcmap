@@ -1,4 +1,4 @@
-cho cho
+cho net/minecraft/world/level/storage/loot/LootTableRange
 	a CONSTANT
 	b UNIFORM
 	c BINOMIAL

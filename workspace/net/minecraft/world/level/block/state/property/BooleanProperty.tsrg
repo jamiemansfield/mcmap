@@ -1,4 +1,4 @@
-bpa bpa
+bpa net/minecraft/world/level/block/state/property/BooleanProperty
 	a values
 	a (Ljava/lang/Boolean;)Ljava/lang/String; toString
 	a (Ljava/lang/String;)Lbpa; of

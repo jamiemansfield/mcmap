@@ -1,0 +1,9 @@
+ib net/minecraft/nbt/NbtUtils
+	a (Lboj;)Lhp; writeBlockState
+	a (Let;)Lhp; writeBlockPos
+	a (Lhp;)Lcom/mojang/authlib/GameProfile; readGameProfile
+	a (Lhp;Lcom/mojang/authlib/GameProfile;)Lhp; writeGameProfile
+	a (Ljava/util/UUID;)Lhp; writeUUID
+	b (Lhp;)Ljava/util/UUID; readUUID
+	c (Lhp;)Let; readBlockPos
+	d (Lhp;)Lboj; readBlockState

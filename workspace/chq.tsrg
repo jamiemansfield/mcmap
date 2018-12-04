@@ -1,9 +1,0 @@
-chq chq
-	d min
-	e max
-	a ()Lpy; getId
-	a (I)Z withinBounds
-	a (Ljava/util/Random;)I nextInt
-	b ()F getMin
-	b (Ljava/util/Random;)F nextFloat
-	c ()F getMax

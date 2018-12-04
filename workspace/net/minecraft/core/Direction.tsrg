@@ -1,2 +1,3 @@
 ey net/minecraft/core/Direction
 ey$a net/minecraft/core/Direction$Axis
+ey$c net/minecraft/core/Direction$Plane

@@ -1,0 +1,2 @@
+fb net/minecraft/core/Registry
+	a (I)Ljava/lang/Object; byId

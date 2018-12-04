@@ -1,0 +1,7 @@
+che net/minecraft/world/level/storage/loot/BinomialLootTableRange
+	d n
+	e p
+	a ()Lpy; getId
+	a (IF)Lche; of
+	a (Ljava/util/Random;)I nextInt
+che$a net/minecraft/world/level/storage/loot/BinomialLootTableRange$Serialiser
