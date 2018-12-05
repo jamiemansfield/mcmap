@@ -1,1 +1,3 @@
 xf net/minecraft/sound/SoundEvent
+	a id
+	a ()Lpy; getId

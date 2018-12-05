@@ -3,4 +3,4 @@ cal cal
 	f placedHiddenChest
 	g placedTrap1
 	h placedTrap2
-	a (Lhp;)V writeToTag
+	a (Lhp;)V write

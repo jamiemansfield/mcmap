@@ -1,0 +1,2 @@
+bxc net/minecraft/world/level/chunk/generator/feature/StructurePiece
+	a (Lbxc;Ljava/lang/String;)Lbxc; register

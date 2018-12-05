@@ -1,0 +1,8 @@
+cbu net/minecraft/world/level/chunk/generator/rule/RuleTest
+	b ALWAYS_TRUE
+	c BLOCK_MATCH
+	d BLOCKSTATE_MATCH
+	e TAG_MATCH
+	f RANDOM_BLOCK_MATCH
+	g RANDOM_BLOCKSTATE_MATCH
+	a (Ljava/lang/String;Lcbu;)Lcbu; register

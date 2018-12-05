@@ -1,0 +1,12 @@
+chf net/minecraft/world/level/storage/loot/BuiltinLootTables
+	U GAMEPLAY_FISHING
+	V GAMEPLAY_FISHING_JUNK
+	W GAMEPLAY_FISHING_TREASURE
+	X GAMEPLAY_FISHING_FISH
+	Z TABLES
+	a EMPTY
+	b CHESTS_SPAWN_BONUS_CHEST
+	c CHESTS_END_CITY_TREASURE
+	a ()Ljava/util/Set; getAll
+	a (Ljava/lang/String;)Lpy; register
+	a (Lpy;)Lpy; register

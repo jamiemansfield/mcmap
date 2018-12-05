@@ -1,2 +1,3 @@
 cat cat
-	a (Lhp;)V writeToTag
+	b pos
+	a (Lhp;)V write

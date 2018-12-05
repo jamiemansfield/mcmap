@@ -1,0 +1,9 @@
+azz azz
+	b delay
+	c spawnPotentials
+	g minSpawnDelay
+	h maxSpawnDelay
+	i spawnCount
+	k maxNearbyEntities
+	l requiredPlayerRange
+	m spawnRange

@@ -1,0 +1,18 @@
+cax net/minecraft/world/level/chunk/generator/feature/StructureFeatures
+	a MINESHAFT
+	b VILLAGE
+	c PILLAGER_OUTPOST
+	d FORTRESS
+	e STRONGHOLD
+	f JUNGLE_PYRAMID
+	g OCEAN_RUIN
+	h DESERT_PYRAMID
+	i IGLOO
+	j SWAMP_HUT
+	k MONUMENT
+	l END_CITY
+	m MANSION
+	n BURIED_TREASURE
+	o SHIPWRECK
+	p NEW_VILLAGE
+	a (Ljava/lang/String;Lbxb;)Lbxb; register

@@ -1,0 +1,2 @@
+cbo net/minecraft/world/level/chunk/generator/rule/NopProcessor
+	a INSTANCE

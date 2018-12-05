@@ -12,5 +12,6 @@ bqb net/minecraft/world/level/chunk/status/ChunkStatus
 	k SPAWN
 	l HEIGHTMAPS
 	m FULL
+	a (Ljava/lang/String;)Lbqb; get
 	a (Ljava/lang/String;Lbqb;IZLbqb$b;Lbqb$a;)Lbqb; register
 	a (Ljava/lang/String;Lbqb;IZLbqb$b;Lbqb$c;)Lbqb; register

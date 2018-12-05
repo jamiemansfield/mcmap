@@ -1,0 +1,2 @@
+cbn net/minecraft/world/level/chunk/generator/rule/JigsawReplacementProcessor
+	a INSTANCE

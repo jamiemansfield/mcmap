@@ -1,18 +1,32 @@
 caw$a caw$a
-	a (Lhp;)V writeToTag
+	a chest
+	a (Lhp;)V write
 caw$b caw$b
-	a (Lhp;)V writeToTag
+	a steps
+	a (Lhp;)V write
 caw$c caw$c
-	a (Lhp;)V writeToTag
+	a leftLow
+	b leftHigh
+	c rightLow
+	e rightHigh
+	a (Lhp;)V write
 caw$e caw$e
-	a (Lhp;)V writeToTag
+	a tall
+	a (Lhp;)V write
 caw$g caw$g
-	a (Lhp;)V writeToTag
+	a mob
+	a (Lhp;)V write
 caw$j caw$j
-	a (Lhp;)V writeToTag
+	a type
+	a (Lhp;)V write
 caw$l caw$l
-	a (Lhp;)V writeToTag
+	a source
+	a (Lhp;)V write
 caw$n caw$n
-	a (Lhp;)V writeToTag
+	a left
+	b right
+	a (Lhp;)V write
 caw$p caw$p
-	a (Lhp;)V writeToTag
+	d entryDoor
+	a (Lhp;)V write
+caw$p$a caw$p$EntryDoor

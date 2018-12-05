@@ -1,0 +1,8 @@
+cby net/minecraft/world/level/chunk/generator/rule/StructureProcessor
+	b BLOCK_IGNORE
+	c BLOCK_ROT
+	d GRAVITY
+	e JIGSAW_REPLACEMENT
+	f RULE
+	g NOP
+	a (Ljava/lang/String;Lcby;)Lcby; register

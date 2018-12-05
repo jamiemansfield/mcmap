@@ -1,4 +1,4 @@
-acb net/minecraft/datafixers/TypeReferences
+acb net/minecraft/datafixers/types/TypeReferences
 	a LEVEL
 	b PLAYER
 	c CHUNK

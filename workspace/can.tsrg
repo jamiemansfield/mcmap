@@ -1,8 +1,8 @@
 can$a can$a
-	a (Lhp;)V writeToTag
+	a (Lhp;)V write
 can$b can$b
-	a (Lhp;)V writeToTag
+	a (Lhp;)V write
 can$c can$c
-	a (Lhp;)V writeToTag
+	a (Lhp;)V write
 can$d can$d
-	a (Lhp;)V writeToTag
+	a (Lhp;)V write

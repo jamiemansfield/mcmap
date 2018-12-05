@@ -1,0 +1,6 @@
+bxx net/minecraft/world/level/chunk/generator/feature/structure/StructurePoolElement
+	b SINGLE_POOL_ELEMENT
+	c LIST_POOL_ELEMENT
+	d FEATURE_POOL_ELEMENT
+	e EMPTY_POOL_ELEMENT
+	a (Ljava/lang/String;Lbxx;)Lbxx; register
