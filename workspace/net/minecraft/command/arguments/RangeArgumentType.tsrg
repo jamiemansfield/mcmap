@@ -1,5 +1,7 @@
 cu net/minecraft/command/arguments/RangeArgumentType
 cu$a net/minecraft/command/arguments/RangeArgumentType$FloatRangeArgumentType
 	a EXAMPLES
+cu$a$a net/minecraft/command/arguments/RangeArgumentType$FloatRangeArgumentType$Serializer
 cu$b net/minecraft/command/arguments/RangeArgumentType$IntRangeArgumentType
 	a EXAMPLES
+cu$b$a net/minecraft/command/arguments/RangeArgumentType$IntRangeArgumentType$Serializer

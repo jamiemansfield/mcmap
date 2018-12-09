@@ -1,0 +1,2 @@
+bkh net/minecraft/world/level/block/ShulkerBox
+	a (Lboj;Lbac;Let;)Lclj; getOutlineAABB

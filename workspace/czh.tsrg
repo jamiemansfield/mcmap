@@ -1,8 +1,10 @@
 czh czh
 	e client
 	f level
+	k tagManager
 	o recipeManager
 	d ()Laxz; getRecipeManager
 	f ()Lcom/mojang/authlib/GameProfile; getProfile
 	h ()Lcom/mojang/brigadier/CommandDispatcher; getDispatcher
 	i ()Lczk; getLevel
+	j ()Lxz; getTagManager

@@ -4,6 +4,9 @@ bfs net/minecraft/world/level/block/Blocks
 	c GRANITE
 	cI PUMPKIN
 	d POLISHED_GRANITE
+	dC MELON
+	dE ATTACHED_MELON_STEM
+	dG MELON_STEM
 	e DIORITE
 	f POLISHED_DIORITE
 	g ANDESITE

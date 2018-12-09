@@ -1,0 +1,3 @@
+cdx net/minecraft/world/level/fluid/WaterFluid
+cdx$a net/minecraft/world/level/fluid/WaterFluid$Flowing
+cdx$b net/minecraft/world/level/fluid/WaterFluid$Still

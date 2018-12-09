@@ -1,0 +1,2 @@
+bhp net/minecraft/world/level/block/FenceGate
+	a (Lboj;Lbac;Let;)Lclj; getOutlineAABB

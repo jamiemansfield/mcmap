@@ -1,28 +1,34 @@
 {
-  "blacklist": [
-    "com/google/",
-    "com/mojang/authlib/",
-    "com/mojang/brigadier/",
-    "com/mojang/datafixers/",
-    "com/mojang/util/",
-    "io/netty/",
-    "it/unimi/dsi/fastutil/",
-    "javax/annotation/",
-    "joptsimple/",
-    "net/minecraftforge/api/distmarker/",
-    "org/apache/"
+  "contexts": [
+    {
+      "id": "libraries",
+      "blacklist": [
+        "com/google/",
+        "com/mojang/authlib/",
+        "com/mojang/brigadier/",
+        "com/mojang/datafixers/",
+        "com/mojang/util/",
+        "io/netty/",
+        "it/unimi/dsi/fastutil/",
+        "javax/annotation/",
+        "joptsimple/",
+        "net/minecraftforge/api/distmarker/",
+        "org/apache/"
+      ]
+    }
   ],
+  "default_context": "libraries",
   "mappers": [
     {
-      "id": "enum-constants",
-      "type": "enum-constants",
+      "id": "enum_constants",
+      "type": "enum_constants",
       "config": {
         "map_synthetic_values": true
       }
     },
     {
-      "id": "gson-field",
-      "type": "field-name",
+      "id": "gson_field",
+      "type": "field_name",
       "config": {
         "requirements": {
           "static": true,
@@ -34,8 +40,8 @@
       }
     },
     {
-      "id": "logger-field",
-      "type": "field-name",
+      "id": "logger_field",
+      "type": "field_name",
       "config": {
         "requirements": {
           "static": true,
@@ -47,8 +53,8 @@
       }
     },
     {
-      "id": "server-field",
-      "type": "field-name",
+      "id": "server_field",
+      "type": "field_name",
       "config": {
         "requirements": {
           "static": false,
@@ -59,8 +65,8 @@
       }
     },
     {
-      "id": "dispatcher-field",
-      "type": "field-name",
+      "id": "dispatcher_field",
+      "type": "field_name",
       "config": {
         "requirements": {
           "static": false,
@@ -71,8 +77,8 @@
       }
     },
     {
-      "id": "profile-field",
-      "type": "field-name",
+      "id": "profile_field",
+      "type": "field_name",
       "config": {
         "requirements": {
           "static": false,
@@ -83,8 +89,8 @@
       }
     },
     {
-      "id": "profile-repository-field",
-      "type": "field-name",
+      "id": "profile_repository_field",
+      "type": "field_name",
       "config": {
         "requirements": {
           "static": false,
@@ -95,8 +101,8 @@
       }
     },
     {
-      "id": "session-service-field",
-      "type": "field-name",
+      "id": "session_service_field",
+      "type": "field_name",
       "config": {
         "requirements": {
           "static": false,

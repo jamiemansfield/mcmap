@@ -1,0 +1,2 @@
+bmf net/minecraft/world/level/block/Carpet
+	a (Lboj;Lbac;Let;)Lclj; getOutlineAABB

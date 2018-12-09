@@ -1,6 +1,18 @@
 cdv net/minecraft/world/level/map/MapColour
+	A BLUE
+	B BROWN
+	C GREEN
+	D RED
+	E BLACK
+	ac id
 	j WHITE
 	q ORANGE
 	r MAGENTA
 	s LIGHT_BLUE
 	t YELLOW
+	u LIME
+	v PINK
+	w GREY
+	x LIGHT_GREY
+	y CYAN
+	z PURPLE

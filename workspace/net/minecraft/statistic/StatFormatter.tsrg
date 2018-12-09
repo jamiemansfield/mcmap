@@ -1,0 +1,6 @@
+xn net/minecraft/statistic/StatFormatter
+	a DECIMAL_FORMAT
+	b DEFAULT
+	c DIVIDE_BY_TEN
+	d DISTANCE
+	e TIME

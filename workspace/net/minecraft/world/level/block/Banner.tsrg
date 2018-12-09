@@ -1,0 +1,2 @@
+bfc net/minecraft/world/level/block/Banner
+	a (Lboj;Lbac;Let;)Lclj; getOutlineAABB

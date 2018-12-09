@@ -1,0 +1,2 @@
+bha net/minecraft/world/level/block/Door
+	a (Lboj;Lbac;Let;)Lclj; getOutlineAABB

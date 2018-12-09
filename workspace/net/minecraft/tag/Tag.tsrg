@@ -1,2 +1,4 @@
-xy net/minecraft/tag/Tag
-	a (Lwc;)V reload
+xx net/minecraft/tag/Tag
+xx$a net/minecraft/tag/Tag$Builder
+	a ()Lxx$a; builder
+	b (Lpy;)Lxx; build

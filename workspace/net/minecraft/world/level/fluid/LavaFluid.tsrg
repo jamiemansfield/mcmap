@@ -1,0 +1,3 @@
+cdt net/minecraft/world/level/fluid/LavaFluid
+cdt$a net/minecraft/world/level/fluid/LavaFluid$Flowing
+cdt$b net/minecraft/world/level/fluid/LavaFluid$Still

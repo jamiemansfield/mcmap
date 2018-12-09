@@ -1,2 +1,5 @@
 cav$a cav$a
+	d rot
+	e template
+	f isBeached
 	a (Lhp;)V write

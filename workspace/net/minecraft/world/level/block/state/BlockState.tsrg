@@ -1,3 +1,4 @@
 boj net/minecraft/world/level/block/state/BlockState
 	d ()Lbfr; getBlock
+	h ()Z isEmpty
 	k (Lbac;Let;)Lclj; getOutlineAABB
