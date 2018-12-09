@@ -1,3 +1,0 @@
-dig net/minecraft/client/renderer/entity/animal/PolarBearRenderer
-	a TEXTURE
-	a (Lagi;)Lpy; getTexture

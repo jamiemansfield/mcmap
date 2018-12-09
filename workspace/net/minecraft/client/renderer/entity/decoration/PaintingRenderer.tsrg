@@ -1,3 +1,0 @@
-dhz net/minecraft/client/renderer/entity/decoration/PaintingRenderer
-	a TEXTURE
-	a (Lagi;)Lpy; getTexture

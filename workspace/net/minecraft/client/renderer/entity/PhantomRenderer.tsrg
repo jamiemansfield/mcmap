@@ -1,0 +1,2 @@
+dic net/minecraft/client/renderer/entity/PhantomRenderer
+	a (Lagi;)Lpy; getTexture

@@ -1,0 +1,3 @@
+dil net/minecraft/client/renderer/entity/ShulkerBulletRenderer
+	a TEXTURE
+	a (Lagi;)Lpy; getTexture

@@ -1,0 +1,3 @@
+dho net/minecraft/client/renderer/entity/MagmaCubeRenderer
+	a TEXTURE
+	a (Lagi;)Lpy; getTexture

@@ -1,3 +1,0 @@
-dhc net/minecraft/client/renderer/entity/monster/GiantRenderer
-	a TEXTURE
-	a (Lagi;)Lpy; getTexture

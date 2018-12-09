@@ -1,3 +1,0 @@
-dhm net/minecraft/client/renderer/entity/decoration/ItemFrameRenderer
-	a TEXTURE
-	a (Lagi;)Lpy; getTexture

@@ -1,0 +1,2 @@
+dgu net/minecraft/client/renderer/entity/EvokerFangsRenderer
+	a (Lagi;)Lpy; getTexture

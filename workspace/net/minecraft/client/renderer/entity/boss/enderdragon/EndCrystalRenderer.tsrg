@@ -1,3 +1,0 @@
-dgo net/minecraft/client/renderer/entity/boss/enderdragon/EndCrystalRenderer
-	a TEXTURE
-	a (Lagi;)Lpy; getTexture

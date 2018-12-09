@@ -1,3 +1,0 @@
-dis net/minecraft/client/renderer/entity/monster/SpiderRenderer
-	a TEXTURE
-	a (Lagi;)Lpy; getTexture

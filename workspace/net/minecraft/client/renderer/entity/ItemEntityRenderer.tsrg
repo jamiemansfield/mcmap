@@ -1,0 +1,2 @@
+dhl net/minecraft/client/renderer/entity/ItemEntityRenderer
+	a (Lagi;)Lpy; getTexture

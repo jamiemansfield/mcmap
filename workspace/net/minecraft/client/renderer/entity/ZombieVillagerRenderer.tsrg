@@ -1,0 +1,2 @@
+djn net/minecraft/client/renderer/entity/ZombieVillagerRenderer
+	a (Lagi;)Lpy; getTexture

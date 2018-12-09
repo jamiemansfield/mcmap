@@ -1,0 +1,2 @@
+dgv net/minecraft/client/renderer/entity/EvokerRenderer
+	a (Lagi;)Lpy; getTexture

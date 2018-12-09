@@ -1,0 +1,3 @@
+dhy net/minecraft/client/renderer/entity/OcelotRenderer
+	a TEXTURE
+	a (Lagi;)Lpy; getTexture

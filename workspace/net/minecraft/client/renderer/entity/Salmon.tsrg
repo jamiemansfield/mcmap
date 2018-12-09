@@ -1,0 +1,3 @@
+dij net/minecraft/client/renderer/entity/Salmon
+	a TEXTURE
+	a (Lagi;)Lpy; getTexture

@@ -1,0 +1,3 @@
+dgn net/minecraft/client/renderer/entity/ElderGuardianRenderer
+	a TEXTURE
+	a (Lagi;)Lpy; getTexture

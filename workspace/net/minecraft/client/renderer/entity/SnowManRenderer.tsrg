@@ -1,0 +1,3 @@
+diq net/minecraft/client/renderer/entity/SnowManRenderer
+	a TEXTURE
+	a (Lagi;)Lpy; getTexture

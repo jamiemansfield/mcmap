@@ -1,0 +1,2 @@
+dia net/minecraft/client/renderer/entity/PandaRenderer
+	a (Lagi;)Lpy; getTexture

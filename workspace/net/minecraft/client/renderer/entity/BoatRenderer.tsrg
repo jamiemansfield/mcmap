@@ -1,0 +1,3 @@
+dga net/minecraft/client/renderer/entity/BoatRenderer
+	f TEXTURES
+	a (Lagi;)Lpy; getTexture

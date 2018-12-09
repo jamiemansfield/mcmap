@@ -1,0 +1,3 @@
+dhk net/minecraft/client/renderer/entity/IronGolemRenderer
+	a TEXTURE
+	a (Lagi;)Lpy; getTexture

@@ -1,0 +1,3 @@
+dhg net/minecraft/client/renderer/entity/HuskRenderer
+	a TEXTURE
+	a (Lagi;)Lpy; getTexture

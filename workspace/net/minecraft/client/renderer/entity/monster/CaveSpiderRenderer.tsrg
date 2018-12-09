@@ -1,3 +1,0 @@
-dgc net/minecraft/client/renderer/entity/monster/CaveSpiderRenderer
-	a TEXTURE
-	a (Lagi;)Lpy; getTexture

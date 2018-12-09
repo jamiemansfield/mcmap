@@ -1,0 +1,2 @@
+dhb net/minecraft/client/renderer/entity/GhastRenderer
+	a (Lagi;)Lpy; getTexture

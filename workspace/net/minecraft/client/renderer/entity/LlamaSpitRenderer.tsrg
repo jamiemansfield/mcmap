@@ -1,0 +1,3 @@
+dht net/minecraft/client/renderer/entity/LlamaSpitRenderer
+	a TEXTURE
+	a (Lagi;)Lpy; getTexture

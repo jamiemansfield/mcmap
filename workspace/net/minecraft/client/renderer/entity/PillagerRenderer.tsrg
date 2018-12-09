@@ -1,0 +1,2 @@
+dif net/minecraft/client/renderer/entity/PillagerRenderer
+	a (Lagi;)Lpy; getTexture

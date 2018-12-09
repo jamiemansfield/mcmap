@@ -1,0 +1,3 @@
+dhp net/minecraft/client/renderer/entity/LeashFenceKnotEntityRenderer
+	a TEXTURE
+	a (Lagi;)Lpy; getTexture

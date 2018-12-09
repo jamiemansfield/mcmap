@@ -1,0 +1,3 @@
+dha net/minecraft/client/renderer/entity/FishingHookRenderer
+	a TEXTURE
+	a (Lagi;)Lpy; getTexture

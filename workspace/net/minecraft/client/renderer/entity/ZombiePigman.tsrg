@@ -1,0 +1,3 @@
+die net/minecraft/client/renderer/entity/ZombiePigman
+	a TEXTURE
+	a (Lagi;)Lpy; getTexture

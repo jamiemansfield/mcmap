@@ -1,3 +1,0 @@
-dfy net/minecraft/client/renderer/entity/ambient/BatRenderer
-	a TEXTURE
-	a (Lagi;)Lpy; getTexture

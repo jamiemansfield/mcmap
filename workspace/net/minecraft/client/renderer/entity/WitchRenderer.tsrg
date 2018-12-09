@@ -1,0 +1,3 @@
+djh net/minecraft/client/renderer/entity/WitchRenderer
+	a TEXTURE
+	a (Lagi;)Lpy; getTexture

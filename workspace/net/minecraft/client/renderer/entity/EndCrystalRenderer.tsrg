@@ -1,0 +1,3 @@
+dgo net/minecraft/client/renderer/entity/EndCrystalRenderer
+	a TEXTURE
+	a (Lagi;)Lpy; getTexture

@@ -1,3 +1,0 @@
-dgr net/minecraft/client/renderer/entity/monster/EndermiteRenderer
-	a TEXTURE
-	a (Lagi;)Lpy; getTexture

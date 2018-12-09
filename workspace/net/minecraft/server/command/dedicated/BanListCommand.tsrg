@@ -1,2 +1,0 @@
-qv net/minecraft/server/command/dedicated/BanListCommand
-	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

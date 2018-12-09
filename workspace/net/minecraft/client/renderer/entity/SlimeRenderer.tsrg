@@ -1,0 +1,3 @@
+dip net/minecraft/client/renderer/entity/SlimeRenderer
+	a TEXTURE
+	a (Lagi;)Lpy; getTexture

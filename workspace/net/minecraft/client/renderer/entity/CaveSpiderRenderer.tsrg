@@ -1,0 +1,3 @@
+dgc net/minecraft/client/renderer/entity/CaveSpiderRenderer
+	a TEXTURE
+	a (Lagi;)Lpy; getTexture

@@ -1,0 +1,3 @@
+din net/minecraft/client/renderer/entity/SilverfishRenderer
+	a TEXTURE
+	a (Lagi;)Lpy; getTexture

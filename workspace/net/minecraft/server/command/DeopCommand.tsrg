@@ -1,0 +1,2 @@
+rb net/minecraft/server/command/DeopCommand
+	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

@@ -1,0 +1,2 @@
+dim net/minecraft/client/renderer/entity/ShulkerRenderer
+	a (Lagi;)Lpy; getTexture

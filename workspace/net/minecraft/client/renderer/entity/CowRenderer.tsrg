@@ -1,0 +1,3 @@
+dgg net/minecraft/client/renderer/entity/CowRenderer
+	a TEXTURE
+	a (Lagi;)Lpy; getTexture

@@ -1,2 +1,0 @@
-rx net/minecraft/server/command/dedicated/OpCommand
-	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

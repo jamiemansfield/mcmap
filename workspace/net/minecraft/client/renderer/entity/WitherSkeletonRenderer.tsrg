@@ -1,0 +1,3 @@
+djj net/minecraft/client/renderer/entity/WitherSkeletonRenderer
+	a TEXTURE
+	a (Lagi;)Lpy; getTexture

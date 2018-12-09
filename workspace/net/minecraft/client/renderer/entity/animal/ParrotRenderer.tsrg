@@ -1,3 +1,0 @@
-dib net/minecraft/client/renderer/entity/animal/ParrotRenderer
-	a TEXTURES
-	a (Lagi;)Lpy; getTexture

@@ -1,2 +1,0 @@
-sh net/minecraft/server/command/dedicated/SaveAllCommand
-	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

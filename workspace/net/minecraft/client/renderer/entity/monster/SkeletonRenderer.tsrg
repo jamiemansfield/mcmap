@@ -1,3 +1,0 @@
-dio net/minecraft/client/renderer/entity/monster/SkeletonRenderer
-	a TEXTURE
-	a (Lagi;)Lpy; getTexture

@@ -1,0 +1,3 @@
+dik net/minecraft/client/renderer/entity/SheepRenderer
+	a TEXTURE
+	a (Lagi;)Lpy; getTexture

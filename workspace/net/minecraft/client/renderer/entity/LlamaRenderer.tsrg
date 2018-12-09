@@ -1,0 +1,3 @@
+dhs net/minecraft/client/renderer/entity/LlamaRenderer
+	a TEXTURES
+	a (Lagi;)Lpy; getTexture

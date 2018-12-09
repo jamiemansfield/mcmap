@@ -1,0 +1,2 @@
+djg net/minecraft/client/renderer/entity/VindicatorRenderer
+	a (Lagi;)Lpy; getTexture

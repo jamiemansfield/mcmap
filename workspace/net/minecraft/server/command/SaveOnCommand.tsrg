@@ -1,0 +1,2 @@
+sj net/minecraft/server/command/SaveOnCommand
+	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

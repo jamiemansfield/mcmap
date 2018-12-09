@@ -1,0 +1,2 @@
+si net/minecraft/server/command/SaveOffCommand
+	a (Lcom/mojang/brigadier/CommandDispatcher;)V install
