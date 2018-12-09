@@ -1,0 +1,17 @@
+aq aq
+	b isOnFire
+	c isSneaking
+	d isSprinting
+	e isSwimming
+	f isBaby
+	a ()Lcom/google/gson/JsonElement; serialise
+	a (Lcom/google/gson/JsonElement;)Laq; deserialise
+aq$a aq$Builder
+	a isOnFire
+	b isSneaking
+	c isSprinting
+	d isSwimming
+	e isBaby
+	a ()Laq$a; builder
+	a (Ljava/lang/Boolean;)Laq$a; onFire
+	b ()Laq; build

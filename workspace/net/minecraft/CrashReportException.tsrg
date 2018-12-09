@@ -1,3 +1,0 @@
-j net/minecraft/CrashReportException
-	a report
-	a ()Lb; getReport

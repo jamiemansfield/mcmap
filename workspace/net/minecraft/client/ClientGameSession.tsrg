@@ -1,0 +1,6 @@
+coa net/minecraft/client/ClientGameSession
+	a playerCount
+	b remoteServer
+	c difficulty
+	d gameMode
+	e sessionId

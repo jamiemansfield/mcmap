@@ -1,0 +1,3 @@
+j net/minecraft/ReportedException
+	a report
+	a ()Lb; getReport

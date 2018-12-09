@@ -1,17 +1,17 @@
-m m
+m net/minecraft/SystemUtils
 	a NANO_TIME_SUPPLIER
 	b ()J currentTimeMillis
 	c ()J nanoTime
 	d ()J epochMIlli
 	e ()Lm$b; getOs
 	g ()Lit/unimi/dsi/fastutil/Hash$Strategy; getStrategy
-m$b m$OperatingSystem
+m$b net/minecraft/SystemUtils$OperatingSystem
 	a (Ljava/io/File;)V openUri
 	a (Ljava/lang/String;)V openUri
 	a (Ljava/net/URI;)V openUri
 	a (Ljava/net/URL;)V openUri
 	b (Ljava/net/URL;)[Ljava/lang/String; openUri
-m$b$1 m$OperatingSystem$1
+m$b$1 net/minecraft/SystemUtils$OperatingSystem$1
 	b (Ljava/net/URL;)[Ljava/lang/String; openUri
-m$b$2 m$OperatingSystem$2
+m$b$2 net/minecraft/SystemUtils$OperatingSystem$2
 	b (Ljava/net/URL;)[Ljava/lang/String; openUri
