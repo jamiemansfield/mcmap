@@ -1,3 +1,6 @@
 ey net/minecraft/core/Direction
+	e ()Ley; rotateY
+	o ()Ley; rotateX
+	q ()Ley; rotateZ
 ey$a net/minecraft/core/Direction$Axis
 ey$c net/minecraft/core/Direction$Plane

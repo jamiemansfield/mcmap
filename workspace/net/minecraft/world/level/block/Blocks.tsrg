@@ -1,6 +1,9 @@
 bfs net/minecraft/world/level/block/Blocks
 	a AIR
+	aV PISTON
+	aW PISTON_HEAD
 	b STONE
+	bG TNT
 	c GRANITE
 	cI PUMPKIN
 	d POLISHED_GRANITE

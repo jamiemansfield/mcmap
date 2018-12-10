@@ -1,0 +1,2 @@
+bgf net/minecraft/world/level/block/Chest
+	a (Lboj;Lbac;Let;)Lclj; getOutlineAABB
