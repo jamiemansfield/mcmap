@@ -1,5 +1,10 @@
 cou net/minecraft/client/gui/Button
 	f successCount
+	j value
+	a (DD)V onClick
 	a (I)V setSuccessCount
 	a (IIF)V render
+	a (Lcnv;II)V renderBg
+	a (Z)I getYImage
 	b ()I getSuccessCount
+	b (DD)V onRelease

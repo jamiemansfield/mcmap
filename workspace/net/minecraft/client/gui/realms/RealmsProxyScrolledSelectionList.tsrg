@@ -1,0 +1,9 @@
+cqy net/minecraft/client/gui/realms/RealmsProxyScrolledSelectionList
+	v realms
+	a ()V renderItem
+	a (I)Z isSelectedItem
+	a (IIDD)Z selectItem
+	a (IIIIIIF)V renderItem
+	d ()I getItemCount
+	f ()I getScrollbarPosition
+	n ()I getMaxPosition

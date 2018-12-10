@@ -4,4 +4,5 @@ agr net/minecraft/world/entity/LivingEntity
 	bF hurtByTimestamp
 	a (Lhp;)V read
 	b (Lhp;)V write
+	f ()V tick
 	l (F)V setHealth

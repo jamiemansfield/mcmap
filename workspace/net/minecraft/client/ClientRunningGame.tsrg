@@ -1,0 +1,11 @@
+cnq net/minecraft/client/ClientRunningGame
+	a minecraft
+	b launcher
+	c listener
+	a ()V start
+	b ()V leave
+cnq$a net/minecraft/client/ClientRunningGame$a
+	a minTime
+	b maxTime
+	c averageTime
+	d sampleCount

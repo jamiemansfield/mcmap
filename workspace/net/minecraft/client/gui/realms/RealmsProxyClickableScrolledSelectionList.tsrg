@@ -1,0 +1,20 @@
+cqw net/minecraft/client/gui/realms/RealmsProxyClickableScrolledSelectionList
+	v proxy
+	a ()V renderItem
+	a (D)Z mouseScrolled
+	a (DDI)Z mouseClicked
+	a (DDIDD)Z mouseDragged
+	a (I)Z isSelectedItem
+	a (IIDD)Z selectItem
+	a (IIIIIIF)V renderItem
+	a (IIILnet/minecraft/realms/Tezzelator;)V renderSelected
+	b (DDI)Z mouseReleased
+	c ()I width
+	d ()I getItemCount
+	f ()I getScrollbarPosition
+	g ()I y0
+	h ()I y1
+	i ()I headerHeight
+	j ()D yo
+	k ()I itemHeight
+	n ()I getMaxPosition

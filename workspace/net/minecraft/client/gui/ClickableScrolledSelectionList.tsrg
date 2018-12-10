@@ -1,0 +1,21 @@
+cpl net/minecraft/client/gui/ClickableScrolledSelectionList
+	a client
+	r visible
+	s active
+	a ()V renderItem
+	a (D)Z mouseScrolled
+	a (DDI)Z mouseClicked
+	a (DDIDD)Z mouseDragged
+	a (I)Z isSelectedItem
+	a (IIDD)Z selectItem
+	a (IIF)V render
+	a (IIIIIIF)V renderItem
+	b (DDI)Z mouseReleased
+	c (Z)V active
+	d ()I getItemCount
+	e (I)V scroll
+	f ()I getScrollbarPosition
+	f (I)V setLeftPos
+	m ()Z isVisible
+	n ()I getMaxPosition
+	q ()I getScroll

@@ -1,0 +1,4 @@
+net/minecraft/realms/RealmsButton$1 net/minecraft/realms/RealmsButton$1
+	a (DD)V onClick
+net/minecraft/realms/RealmsButton$2 net/minecraft/realms/RealmsButton$2
+	a (DD)V onClick

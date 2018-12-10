@@ -1,2 +1,4 @@
 csh net/minecraft/client/gui/screen/options/VideoOptionsScreen
+	f previousSCreen
+	g options
 	c ()V init

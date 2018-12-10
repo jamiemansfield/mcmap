@@ -1,0 +1,6 @@
+dmf net/minecraft/client/resources/metadata/language/LanguageDefinition
+	a code
+	b region
+	c name
+	d bidirectional
+	a ()Z isBidirectional

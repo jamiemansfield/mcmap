@@ -2,10 +2,13 @@ cnv net/minecraft/client/Minecraft
 	L instance
 	M dataFixer
 	T entityRenderDispatcher
+	aD fontManager
+	aK runningGame
 	aP trackOutput
 	ab server
 	ae version
 	as profiler
+	aw languageManager
 	h level
 	i levelRenderer
 	n currentScreen
@@ -20,7 +23,9 @@ cnv net/minecraft/client/Minecraft
 	a (Z)V setTrackOutput
 	ab ()Lcom/mojang/datafixers/DataFixer; getDataFixer
 	aj ()Z trackOutput
+	am ()Lcqf; getFontManager
 	an ()Laek; getProfiler
+	ao ()Lcnq; getRunningGame
 	ap ()V start
 	b ()V init
 	b (Lja;)V setCustomName

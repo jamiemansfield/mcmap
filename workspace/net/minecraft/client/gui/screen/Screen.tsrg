@@ -1,11 +1,14 @@
 csb net/minecraft/client/gui/screen/Screen
 	f PROTOCOLS
 	k client
+	a (IIF)V render
 	a (Lavs;II)V renderTooltip
 	a (Lcnv;II)V init
 	a (Ljava/lang/String;II)V renderTooltip
+	a (Ljava/net/URI;)V openUri
 	a (Ljava/util/List;II)V renderTooltip
 	c ()V init
 	c_ (I)V renderBackground
 	d ()V renderBackground
 	e ()Z isPauseScreen
+	f ()V tick

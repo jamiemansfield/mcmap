@@ -1,4 +1,5 @@
 cse net/minecraft/client/gui/screen/options/SnooperOptionsScreen
+	a previousScreen
 	f options
 	c ()V init
 cse$a net/minecraft/client/gui/screen/options/SnooperOptionsScreen$a

@@ -1,3 +1,0 @@
-abc net/minecraft/datafixers/world/item/ItemIdFix
-	a MAPPINGS
-	a (I)Ljava/lang/String; getModernId

@@ -1,0 +1,8 @@
+aek net/minecraft/util/profiler/Profiler
+	a ()V startTick
+	a (Ljava/lang/String;)V push
+	a (Ljava/util/function/Supplier;)V push
+	b ()V endTick
+	b (Ljava/lang/String;)V popAndPush
+	b (Ljava/util/function/Supplier;)V popAndPush
+	c ()V pop

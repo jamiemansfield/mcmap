@@ -1,0 +1,2 @@
+dmg net/minecraft/client/resources/metadata/language/LanguageMetadataSectionManager
+	a (Lwc;)V reload

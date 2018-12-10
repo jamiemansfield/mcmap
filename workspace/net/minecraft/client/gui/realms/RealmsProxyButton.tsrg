@@ -1,0 +1,14 @@
+cqv net/minecraft/client/gui/realms/RealmsProxyButton
+	o realms
+	a (DD)V onClick
+	a (Lcnv;II)V renderBg
+	a (Ljava/lang/String;)V setValue
+	a (Z)I getYImage
+	b ()I getSuccessCount
+	b (DD)V onRelease
+	c ()I id
+	c (Z)V active
+	d ()Z active
+	d (Z)I getYImage
+	e ()I y
+	g ()I getHeight

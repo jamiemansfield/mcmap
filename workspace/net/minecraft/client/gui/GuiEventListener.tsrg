@@ -1,2 +1,6 @@
 cpr net/minecraft/client/gui/GuiEventListener
+	a (D)Z mouseScrolled
+	a (DDI)Z mouseClicked
+	a (DDIDD)Z mouseDragged
+	b (DDI)Z mouseReleased
 	b (Z)V setTrackOutput
