@@ -1,8 +1,8 @@
-ix net/minecraft/text/BaseComponent
-	a siblings
-	b style
+ja net/minecraft/network/chat/Component
 	a ()Ljava/util/List; getSiblings
 	a (Lja;)Lja; addSibling
 	a (Lji;)Lja; setStyle
 	b ()Lji; getStyle
 	c ()Ljava/util/stream/Stream; stream
+	d ()Ljava/lang/String; getValue
+ja$a net/minecraft/network/chat/Component$Serializer

@@ -1,0 +1,6 @@
+iz net/minecraft/network/chat/ClickEvent
+	a action
+	b value
+	a ()Liz$a; getAction
+	b ()Ljava/lang/String; getValue
+iz$a net/minecraft/network/chat/ClickEvent$Action

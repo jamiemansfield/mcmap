@@ -1,2 +1,6 @@
 wm wm
+	i players
+	j playersByUuid
+	a (Ljava/util/UUID;)Lul; getPlayer
 	c ()Lnet/minecraft/server/MinecraftServer; getServer
+	u ()Ljava/util/List; getPlayers

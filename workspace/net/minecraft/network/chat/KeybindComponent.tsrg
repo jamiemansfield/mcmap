@@ -1,0 +1,3 @@
+je net/minecraft/network/chat/KeybindComponent
+	c keybind
+	d ()Ljava/lang/String; getValue

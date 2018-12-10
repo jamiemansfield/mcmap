@@ -5,3 +5,4 @@ py net/minecraft/resources/ResourceLocation
 	a (Ljava/lang/String;)Lpy; of
 	a (Ljava/lang/String;C)Lpy; of
 	b ()Ljava/lang/String; getNamespace
+py$a net/minecraft/resources/ResourceLocation$Serialiser

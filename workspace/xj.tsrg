@@ -1,0 +1,13 @@
+xj xj
+	c isGuiOpen
+	d isFilteringCraftable
+	e isFurnaceGuiOpen
+	f isFurnaceFilterableCraftable
+	a ()Z isGuiOpen
+	a (Z)V setGuiOpen
+	b ()Z isFilteringCraftable
+	b (Z)V setFilteringCraftable
+	c ()Z isFurnaceGuiOpen
+	c (Z)V setFurnaceGuiOpen
+	d ()Z isFurnaceFilterableCraftable
+	d (Z)V setFurnaceFilterableCraftable

@@ -1,4 +1,4 @@
-jj net/minecraft/text/TextComponent
+jj net/minecraft/network/chat/TextComponent
 	b text
 	d ()Ljava/lang/String; getValue
 	i ()Ljava/lang/String; getText

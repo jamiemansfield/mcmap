@@ -1,4 +1,4 @@
-yp net/minecraft/util/math/Mth
+yp net/minecraft/util/Mth
 	b SIN_TABLE
 	a (D)F sqrt
 	a (DD)D absMax

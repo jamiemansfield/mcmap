@@ -1,4 +1,0 @@
-yb net/minecraft/util/storage/BitStorage
-	a raw
-	a ()[J getRaw
-	b (II)V set

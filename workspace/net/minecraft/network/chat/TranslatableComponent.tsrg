@@ -1,4 +1,4 @@
-jk net/minecraft/text/TranslatableComponent
+jk net/minecraft/network/chat/TranslatableComponent
 	f key
 	g args
 	a (Lji;)Lja; setStyle

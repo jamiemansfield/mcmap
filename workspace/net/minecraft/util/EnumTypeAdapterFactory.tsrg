@@ -1,2 +1,2 @@
-yo net/minecraft/util/gson/EnumTypeAdapterFactory
+yo net/minecraft/util/EnumTypeAdapterFactory
 	a (Ljava/lang/Object;)Ljava/lang/String; fetchName

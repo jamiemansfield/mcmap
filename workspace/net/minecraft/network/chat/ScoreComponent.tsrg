@@ -1,4 +1,4 @@
-jg net/minecraft/text/ScoreComponent
+jg net/minecraft/network/chat/ScoreComponent
 	b name
 	d objective
 	e value

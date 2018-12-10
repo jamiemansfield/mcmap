@@ -1,4 +1,4 @@
-oq net/minecraft/network/handshaking/serverbound/HandshakePacket
+oq net/minecraft/network/packet/handshaking/HandshakePacket
 	a protocolVersion
 	b address
 	c port

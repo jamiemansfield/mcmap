@@ -1,0 +1,3 @@
+jo net/minecraft/network/packet/Packet
+	a (Liq;)V read
+	b (Liq;)V write

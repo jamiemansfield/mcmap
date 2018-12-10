@@ -1,6 +1,0 @@
-jf net/minecraft/text/NbtComponent
-	d ()Ljava/lang/String; getValue
-jf$a net/minecraft/text/NbtComponent$BlockPosArgument
-	e pos
-jf$b net/minecraft/text/NbtComponent$EntityNbtComponent
-	e selector

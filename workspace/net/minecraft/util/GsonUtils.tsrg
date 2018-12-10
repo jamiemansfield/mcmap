@@ -1,4 +1,4 @@
-yi net/minecraft/util/gson/GsonUtils
+yi net/minecraft/util/GsonUtils
 	a (Lcom/google/gson/Gson;Ljava/io/Reader;Ljava/lang/Class;)Ljava/lang/Object; read
 	a (Lcom/google/gson/Gson;Ljava/io/Reader;Ljava/lang/Class;Z)Ljava/lang/Object; read
 	a (Lcom/google/gson/Gson;Ljava/io/Reader;Ljava/lang/reflect/Type;)Ljava/lang/Object; read

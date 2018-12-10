@@ -1,0 +1,4 @@
+yb net/minecraft/util/BitStorage
+	a raw
+	a ()[J getRaw
+	b (II)V set

@@ -1,3 +1,0 @@
-je net/minecraft/text/KeybindComponent
-	c keybind
-	d ()Ljava/lang/String; getValue

@@ -14,6 +14,7 @@ net/minecraft/server/MinecraftServer net/minecraft/server/MinecraftServer
 	g ()Lban; getGameMode
 	g (Ljava/lang/String;)V setServerBrand
 	h ()Laez; getDifficulty
+	y ()Ljava/lang/Iterable; getLevels
 net/minecraft/server/MinecraftServer$1 net/minecraft/server/MinecraftServer$1
 	a (I)V setSuccessCount
 	a (Lja;)V updateLastOutput
