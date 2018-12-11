@@ -1,0 +1,3 @@
+cbt net/minecraft/world/level/chunk/generator/rule/AbstractRuleTest
+	a ()Lcbu; getRuleTest
+	a (Lboj;Ljava/util/Random;)Z test

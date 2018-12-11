@@ -1,4 +1,3 @@
-cbo net/minecraft/world/level/chunk/generator/rule/NopProcessor
-	a INSTANCE
+cbx net/minecraft/world/level/chunk/generator/rule/AbstractStructureProcessor
 	a ()Lcby; getStructureProcessor
 	a (Lbau;Let;Lcbz$b;Lcbz$b;Lcbw;)Lcbz$b; process

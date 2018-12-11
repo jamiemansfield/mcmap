@@ -1,1 +1,5 @@
 cbr net/minecraft/world/level/chunk/generator/rule/RandomBlockStateMatchRuleTest
+	a blockState
+	b probability
+	a ()Lcbu; getRuleTest
+	a (Lboj;Ljava/util/Random;)Z test

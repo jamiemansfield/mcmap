@@ -1,1 +1,4 @@
 cca net/minecraft/world/level/chunk/generator/rule/TagMatchRuleTest
+	a tag
+	a ()Lcbu; getRuleTest
+	a (Lboj;Ljava/util/Random;)Z test
