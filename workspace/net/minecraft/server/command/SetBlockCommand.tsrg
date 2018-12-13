@@ -1,2 +1,2 @@
-so net/minecraft/server/command/SetBlockCommand
+ss net/minecraft/server/command/SetBlockCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

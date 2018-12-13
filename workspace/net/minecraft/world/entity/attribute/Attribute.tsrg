@@ -1,3 +1,3 @@
-ahf net/minecraft/world/entity/attribute/Attribute
+ahs net/minecraft/world/entity/attribute/Attribute
 	a ()Ljava/lang/String; getName
 	b ()D getDefault

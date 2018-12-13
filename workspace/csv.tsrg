@@ -1,8 +1,8 @@
 csv csv
-	a (Ljava/lang/String;)V setValue
+	a (IIF)V render
 	c ()V init
-	i ()I headerHeight
-csv$4 csv$4
-	c (Z)V active
-csv$5 csv$5
-	c (Z)V active
+	f ()V tick
+csv$1 csv$1
+	a (DD)V onClick
+csv$2 csv$2
+	a (DD)V onClick

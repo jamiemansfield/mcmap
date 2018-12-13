@@ -1,4 +1,0 @@
-dlx dlx
-	a (Ljava/lang/String;)Ljava/io/File; get
-	a (Ljava/lang/String;ILjava/util/function/Predicate;)Ljava/util/Collection; get
-	a (Lpy;)Ljava/io/File; get

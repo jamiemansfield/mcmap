@@ -1,4 +1,4 @@
-arw net/minecraft/world/entity/vehicle/TntMinecart
-	a (Lhp;)V read
-	b (Lhp;)V write
-	i ()I headerHeight
+asr net/minecraft/world/entity/vehicle/TntMinecart
+	a (Lhs;)V read
+	b (Lhs;)V write
+	k ()I headerHeight

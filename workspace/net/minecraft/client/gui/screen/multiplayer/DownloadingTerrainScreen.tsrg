@@ -1,2 +1,3 @@
-csa net/minecraft/client/gui/screen/multiplayer/DownloadingTerrainScreen
+cto net/minecraft/client/gui/screen/multiplayer/DownloadingTerrainScreen
+	a (IIF)V render
 	e ()Z isPauseScreen

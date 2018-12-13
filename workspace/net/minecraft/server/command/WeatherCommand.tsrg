@@ -1,2 +1,2 @@
-td net/minecraft/server/command/WeatherCommand
+th net/minecraft/server/command/WeatherCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

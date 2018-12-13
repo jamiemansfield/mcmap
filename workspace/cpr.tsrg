@@ -1,0 +1,4 @@
+cpr cpr
+	a ()Ljava/lang/String; getSessionId
+	b ()Ljava/lang/String; getUuid
+	c ()Ljava/lang/String; getUserName

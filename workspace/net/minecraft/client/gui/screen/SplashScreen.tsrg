@@ -1,3 +1,4 @@
-cru net/minecraft/client/gui/screen/SplashScreen
+cti net/minecraft/client/gui/screen/SplashScreen
 	f MOJANG_LOGO
+	a (IIF)V render
 	c ()V init

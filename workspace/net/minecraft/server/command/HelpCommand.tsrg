@@ -1,2 +1,2 @@
-rq net/minecraft/server/command/HelpCommand
+ru net/minecraft/server/command/HelpCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

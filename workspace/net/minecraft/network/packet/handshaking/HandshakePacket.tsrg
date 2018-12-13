@@ -1,10 +1,10 @@
-oq net/minecraft/network/packet/handshaking/HandshakePacket
+ou net/minecraft/network/packet/handshaking/HandshakePacket
 	a protocolVersion
 	b address
 	c port
 	d nextProtocol
-	a (Liq;)V read
-	a (Lor;)V accept
-	b ()Lip; getNextProtocol
-	b (Liq;)V write
+	a (Lit;)V read
+	a (Lov;)V accept
+	b ()Lis; getNextProtocol
+	b (Lit;)V write
 	c ()I getProtocolVersion

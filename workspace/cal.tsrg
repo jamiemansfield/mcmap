@@ -1,6 +1,4 @@
 cal cal
-	e plaacedMainChest
-	f placedHiddenChest
-	g placedTrap1
-	h placedTrap2
-	a (Lhp;)V write
+	a step
+	b probability
+	a (Lcom/mojang/datafixers/Dynamic;)Lcal; create

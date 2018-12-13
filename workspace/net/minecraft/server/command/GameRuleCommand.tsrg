@@ -1,2 +1,2 @@
-ro net/minecraft/server/command/GameRuleCommand
+rs net/minecraft/server/command/GameRuleCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

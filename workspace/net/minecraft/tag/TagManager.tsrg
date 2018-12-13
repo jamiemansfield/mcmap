@@ -1,10 +1,10 @@
-xz net/minecraft/tag/TagManager
+yg net/minecraft/tag/TagManager
 	a BLOCKS
 	b ITEMS
 	c FLUIDS
 	d ENTITY_TYPES
-	a ()Lxw; blocks
-	a (Lwc;)V reload
-	b ()Lxw; items
-	c ()Lxw; fluids
-	d ()Lxw; entityTypes
+	a ()Lyd; blocks
+	a (Lwj;)V reload
+	b ()Lyd; items
+	c ()Lyd; fluids
+	d ()Lyd; entityTypes

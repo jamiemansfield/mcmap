@@ -1,5 +1,11 @@
 cuh cuh
-	a (Ljava/lang/String;)V setValue
-	a (Z)V setTrackOutput
-	c (Z)V active
-	d (Z)V render
+	a (DDI)Z mouseClicked
+	a (IIF)V render
+	b (DDI)Z mouseReleased
+	c ()V init
+cuh$1 cuh$1
+	a (DD)V onClick
+cuh$2 cuh$2
+	a (DD)V onClick
+cuh$3 cuh$3
+	a (DD)V onClick

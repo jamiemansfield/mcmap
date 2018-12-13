@@ -1,3 +1,3 @@
-aod net/minecraft/world/entity/decoration/Painting
-	a (Lhp;)V read
-	b (Lhp;)V write
+aoq net/minecraft/world/entity/decoration/Painting
+	a (Lhs;)V read
+	b (Lhs;)V write

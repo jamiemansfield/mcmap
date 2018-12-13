@@ -1,6 +1,6 @@
-iz net/minecraft/network/chat/ClickEvent
+jc net/minecraft/network/chat/ClickEvent
 	a action
 	b value
-	a ()Liz$a; getAction
+	a ()Ljc$a; getAction
 	b ()Ljava/lang/String; getValue
-iz$a net/minecraft/network/chat/ClickEvent$Action
+jc$a net/minecraft/network/chat/ClickEvent$Action

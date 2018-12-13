@@ -1,8 +1,13 @@
-cse net/minecraft/client/gui/screen/options/SnooperOptionsScreen
+cts net/minecraft/client/gui/screen/options/SnooperOptionsScreen
 	a previousScreen
 	f options
+	a (IIF)V render
 	c ()V init
-cse$a net/minecraft/client/gui/screen/options/SnooperOptionsScreen$a
+cts$1 net/minecraft/client/gui/screen/options/SnooperOptionsScreen$1
+	a (DD)V onClick
+cts$2 net/minecraft/client/gui/screen/options/SnooperOptionsScreen$2
+	a (DD)V onClick
+cts$a net/minecraft/client/gui/screen/options/SnooperOptionsScreen$a
 	a ()V renderItem
 	a (I)Z isSelectedItem
 	a (IIIIIIF)V renderItem

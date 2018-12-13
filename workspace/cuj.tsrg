@@ -1,2 +1,18 @@
 cuj cuj
+	a (D)Z mouseScrolled
+	a (DDI)Z mouseClicked
 	a (IIF)V render
+	a (Ljava/lang/String;)V setValue
+	c ()V init
+	f ()V tick
+	i ()I headerHeight
+cuj$1 cuj$1
+	a (DD)V onClick
+cuj$2 cuj$2
+	a (DD)V onClick
+cuj$3 cuj$3
+	a (DD)V onClick
+cuj$4 cuj$4
+	c (Z)V active
+cuj$5 cuj$5
+	c (Z)V active

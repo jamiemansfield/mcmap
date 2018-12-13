@@ -1,7 +1,7 @@
-ho net/minecraft/nbt/ArrayTag
-	a (ILig;)V put
+hr net/minecraft/nbt/ArrayTag
+	a (ILij;)V put
 	b (I)V remove
-	b (ILig;)V add
-	c (I)Lig; getTag
-	c (ILig;)Lig; put
-	d (I)Lig; get
+	b (ILij;)V add
+	c (I)Lij; getTag
+	c (ILij;)Lij; put
+	d (I)Lij; get

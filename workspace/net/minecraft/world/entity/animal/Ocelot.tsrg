@@ -1,3 +1,4 @@
-alw net/minecraft/world/entity/animal/Ocelot
-	a (Lhp;)V read
-	b (Lhp;)V write
+amj net/minecraft/world/entity/animal/Ocelot
+	a (Lhs;)V read
+	b (Lhs;)V write
+	dB ()Z mayBuild

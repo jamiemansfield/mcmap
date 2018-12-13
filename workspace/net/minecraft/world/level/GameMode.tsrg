@@ -1,4 +1,4 @@
-ban net/minecraft/world/level/GameMode
+bbm net/minecraft/world/level/GameMode
 	f id
 	g name
 	a ()I getId

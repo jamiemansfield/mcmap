@@ -1,4 +1,4 @@
-cbh net/minecraft/world/level/chunk/generator/rule/AlwaysTrueRuleTest
+ccu net/minecraft/world/level/chunk/generator/rule/AlwaysTrueRuleTest
 	a INSTANCE
-	a ()Lcbu; getRuleTest
-	a (Lboj;Ljava/util/Random;)Z test
+	a ()Lcdh; getRuleTest
+	a (Lbpm;Ljava/util/Random;)Z test

@@ -1,4 +1,5 @@
-apj net/minecraft/world/entity/monster/Phantom
+apw net/minecraft/world/entity/monster/Phantom
+	a (D)Z mouseScrolled
 	a (I)V setSuccessCount
-	a (Lhp;)V read
-	b (Lhp;)V write
+	a (Lhs;)V read
+	b (Lhs;)V write

@@ -1,3 +1,3 @@
-dis net/minecraft/client/renderer/entity/SpiderRenderer
+dkt net/minecraft/client/renderer/entity/SpiderRenderer
 	a TEXTURE
-	a (Lagi;)Lpy; getTexture
+	a (Lagv;)Lqc; getTexture

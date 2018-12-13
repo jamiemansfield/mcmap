@@ -1,0 +1,3 @@
+pe pe
+	a (Lit;)V read
+	b (Lit;)V write

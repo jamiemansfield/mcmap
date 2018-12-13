@@ -1,4 +1,4 @@
-apn net/minecraft/world/entity/monster/MonsterAttributes
+aqa net/minecraft/world/entity/monster/MonsterAttributes
 	a MAX_HEALTH
 	b FOLLOW_RANGE
 	c KNOCKBACK_RESISTANCE
@@ -10,9 +10,9 @@ apn net/minecraft/world/entity/monster/MonsterAttributes
 	i ARMOR
 	j ARMOR_TOUGHNESS
 	k LUCK
-	a (Lahg;)Lhp; write
-	a (Lahg;Lhp;)V read
-	a (Lahh;)Lhp; write
-	a (Lahj;)Lhv; write
-	a (Lahj;Lhv;)V read
-	a (Lhp;)Lahh; read
+	a (Laht;)Lhs; write
+	a (Laht;Lhs;)V read
+	a (Lahu;)Lhs; write
+	a (Lahw;)Lhy; write
+	a (Lahw;Lhy;)V read
+	a (Lhs;)Lahu; read

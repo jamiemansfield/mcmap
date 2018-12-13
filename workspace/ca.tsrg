@@ -1,6 +1,6 @@
 ca ca
 	e level
 	a (Lcom/mojang/brigadier/context/CommandContext;ZI)V onCommandComplete
-	a (Lja;)V updateLastOutput
-	e ()Luj; getLevel
+	a (Ljd;)V updateLastOutput
+	e ()Luq; getLevel
 	j ()Lnet/minecraft/server/MinecraftServer; getServer

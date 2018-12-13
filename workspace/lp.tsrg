@@ -1,3 +1,7 @@
 lp lp
-	a (Liq;)V read
-	b (Liq;)V write
+	a action
+	b entries
+	a (Lit;)V read
+	b ()Ljava/util/List; getEntries
+	b (Lit;)V write
+	c ()Llp$a; getAction

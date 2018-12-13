@@ -1,8 +1,8 @@
-xo net/minecraft/statistic/StatType
+xv net/minecraft/statistic/StatType
 	a registry
 	b stats
 	a ()Lfk; getRegistry
 	a (Ljava/lang/Object;)Z contains
-	a (Ljava/lang/Object;Lxn;)Lxm; get
+	a (Ljava/lang/Object;Lxu;)Lxt; get
 	b ()I size
-	b (Ljava/lang/Object;)Lxm; get
+	b (Ljava/lang/Object;)Lxt; get

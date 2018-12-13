@@ -1,2 +1,2 @@
-amh net/minecraft/world/entity/animal/Squid
+amu net/minecraft/world/entity/animal/Squid
 	am ()Z isGrounded

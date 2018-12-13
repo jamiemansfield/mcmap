@@ -1,4 +1,4 @@
-cnx net/minecraft/client/ClientOptions
+cpm net/minecraft/client/ClientOptions
 	Q currentStep
 	V forwardKey
 	W leftKey

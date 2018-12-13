@@ -1,2 +1,2 @@
-hf net/minecraft/data/provider/EntityTypeTagsProvider
+hi net/minecraft/data/provider/EntityTypeTagsProvider
 	a ()Ljava/lang/String; getName

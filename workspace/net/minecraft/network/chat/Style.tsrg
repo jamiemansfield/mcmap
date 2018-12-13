@@ -1,4 +1,4 @@
-ji net/minecraft/network/chat/Style
+jl net/minecraft/network/chat/Style
 	b colour
 	c bold
 	d italic

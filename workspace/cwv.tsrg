@@ -1,0 +1,24 @@
+cwv cwv
+	a (DDI)Z mouseClicked
+	a (IIF)V render
+	a (Z)V setTrackOutput
+	c ()V init
+	f ()V tick
+cwv$1 cwv$1
+	a (DD)V onClick
+cwv$2 cwv$2
+	a (DD)V onClick
+cwv$3 cwv$3
+	a (DD)V onClick
+cwv$4 cwv$4
+	a (DD)V onClick
+cwv$5 cwv$5
+	a (DD)V onClick
+cwv$6 cwv$6
+	a (DD)V onClick
+cwv$7 cwv$7
+	a (DD)V onClick
+cwv$8 cwv$8
+	a (DD)V onClick
+cwv$9 cwv$9
+	a (DD)V onClick

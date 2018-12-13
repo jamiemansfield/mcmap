@@ -1,8 +1,8 @@
-ja net/minecraft/network/chat/Component
+jd net/minecraft/network/chat/Component
 	a ()Ljava/util/List; getSiblings
-	a (Lja;)Lja; addSibling
-	a (Lji;)Lja; setStyle
-	b ()Lji; getStyle
+	a (Ljd;)Ljd; addSibling
+	a (Ljl;)Ljd; setStyle
+	b ()Ljl; getStyle
 	c ()Ljava/util/stream/Stream; stream
 	d ()Ljava/lang/String; getValue
-ja$a net/minecraft/network/chat/Component$Serializer
+jd$a net/minecraft/network/chat/Component$Serializer

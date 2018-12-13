@@ -1,0 +1,10 @@
+dbf dbf
+	e client
+	f level
+	k tagManager
+	o recipeManager
+	d ()Layx; getRecipeManager
+	f ()Lcom/mojang/authlib/GameProfile; getProfile
+	h ()Lcom/mojang/brigadier/CommandDispatcher; getDispatcher
+	i ()Ldbi; getLevel
+	j ()Lyg; getTagManager

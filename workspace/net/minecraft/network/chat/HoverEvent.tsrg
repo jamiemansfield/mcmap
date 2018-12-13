@@ -1,6 +1,6 @@
-jd net/minecraft/network/chat/HoverEvent
+jg net/minecraft/network/chat/HoverEvent
 	a action
 	b value
-	a ()Ljd$a; getAction
-	b ()Lja; getValue
-jd$a net/minecraft/network/chat/HoverEvent$Action
+	a ()Ljg$a; getAction
+	b ()Ljd; getValue
+jg$a net/minecraft/network/chat/HoverEvent$Action

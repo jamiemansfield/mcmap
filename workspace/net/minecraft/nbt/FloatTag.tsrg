@@ -1,9 +1,9 @@
-hs net/minecraft/nbt/FloatTag
+hv net/minecraft/nbt/FloatTag
 	f data
 	a ()B getType
-	a (Ljava/io/DataInput;ILhy;)V read
+	a (Ljava/io/DataInput;ILib;)V read
 	a (Ljava/io/DataOutput;)V write
-	c ()Lhs; copy
+	c ()Lhv; copy
 	d ()J asLong
 	e ()I asInt
 	f ()S asShort

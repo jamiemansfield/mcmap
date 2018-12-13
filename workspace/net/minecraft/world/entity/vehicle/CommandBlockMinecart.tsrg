@@ -1,5 +1,5 @@
-ars net/minecraft/world/entity/vehicle/CommandBlockMinecart
-	a (Lhp;)V read
-	b (Lhp;)V write
-ars$a net/minecraft/world/entity/vehicle/CommandBlockMinecart$a
-	d ()Luj; getLevel
+asn net/minecraft/world/entity/vehicle/CommandBlockMinecart
+	a (Lhs;)V read
+	b (Lhs;)V write
+asn$a net/minecraft/world/entity/vehicle/CommandBlockMinecart$a
+	d ()Luq; getLevel

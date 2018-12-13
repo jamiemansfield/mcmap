@@ -1,4 +1,4 @@
-agm net/minecraft/world/entity/EntityType
+agz net/minecraft/world/entity/EntityType
 	A FIREWORK_ROCKET
 	B GHAST
 	C GIANT
@@ -103,23 +103,23 @@ agm net/minecraft/world/entity/EntityType
 	y EYE_OF_ENDER
 	z FALLING_BLOCK
 	a ()Z canSerialize
-	a (ILbaq;)Lagi; create
-	a (Lagm;)Lpy; getKey
-	a (Lbaq;)Lagi; create
-	a (Lbaq;Lagm;)Lagi; create
-	a (Lbaq;Lpy;)Lagi; create
-	a (Lhp;Lbaq;)Lagi; create
-	a (Ljava/lang/String;)Lagm; byId
-	a (Ljava/lang/String;Lagm$a;)Lagm; register
+	a (ILbbp;)Lagv; create
+	a (Lagz;)Lqc; getKey
+	a (Lbbp;)Lagv; create
+	a (Lbbp;Lagz;)Lagv; create
+	a (Lbbp;Lqc;)Lagv; create
+	a (Lhs;Lbbp;)Lagv; create
+	a (Ljava/lang/String;)Lagz; byId
+	a (Ljava/lang/String;Lagz$a;)Lagz; register
 	b ()Z canSummon
 	c ()Ljava/lang/Class; getKlass
-agm$a net/minecraft/world/entity/EntityType$Builder
+agz$a net/minecraft/world/entity/EntityType$Builder
 	a klass
 	b factory
 	c serialize
 	d summon
-	a ()Lagm$a; noSummon
-	a (Ljava/lang/Class;)Lagm$a; createNothing
-	a (Ljava/lang/Class;Ljava/util/function/Function;)Lagm$a; of
-	a (Ljava/lang/String;)Lagm; build
-	b ()Lagm$a; noSave
+	a ()Lagz$a; noSummon
+	a (Ljava/lang/Class;)Lagz$a; createNothing
+	a (Ljava/lang/Class;Ljava/util/function/Function;)Lagz$a; of
+	a (Ljava/lang/String;)Lagz; build
+	b ()Lagz$a; noSave

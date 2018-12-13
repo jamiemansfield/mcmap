@@ -1,7 +1,7 @@
-axm net/minecraft/world/item/potion/Potions
+ayi net/minecraft/world/item/potion/Potions
 	a EMPTY
 	b WATER
 	c MUNDANE
 	d THICK
 	e AWKWARD
-	a (Ljava/lang/String;Laxj;)Laxj; register
+	a (Ljava/lang/String;Layf;)Layf; register

@@ -8,7 +8,7 @@ n net/minecraft/advancement/SimpleAdvancement
 	c ()Lw; getDisplay
 	d ()Lq; getRewards
 	f ()Ljava/util/Map; getCriteria
-	h ()Lpy; getId
+	h ()Lqc; getId
 	i ()[[Ljava/lang/String; getRequirements
 n$a net/minecraft/advancement/SimpleAdvancement$a
 	a parentId

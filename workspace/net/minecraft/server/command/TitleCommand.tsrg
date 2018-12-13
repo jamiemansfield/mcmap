@@ -1,2 +1,2 @@
-tb net/minecraft/server/command/TitleCommand
+tf net/minecraft/server/command/TitleCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

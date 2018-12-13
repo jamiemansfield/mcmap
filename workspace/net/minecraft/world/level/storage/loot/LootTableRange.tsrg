@@ -1,6 +1,6 @@
-cho net/minecraft/world/level/storage/loot/LootTableRange
+cjb net/minecraft/world/level/storage/loot/LootTableRange
 	a CONSTANT
 	b UNIFORM
 	c BINOMIAL
-	a ()Lpy; getId
+	a ()Lqc; getId
 	a (Ljava/util/Random;)I nextInt

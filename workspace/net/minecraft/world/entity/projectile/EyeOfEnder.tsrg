@@ -1,3 +1,4 @@
-aqs net/minecraft/world/entity/projectile/EyeOfEnder
-	a (Lhp;)V read
-	b (Lhp;)V write
+ark net/minecraft/world/entity/projectile/EyeOfEnder
+	a (D)Z mouseScrolled
+	a (Lhs;)V read
+	b (Lhs;)V write

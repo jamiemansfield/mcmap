@@ -1,0 +1,5 @@
+bus bus
+	a noiseLevel
+	b belowNoise
+	c aboveNoise
+	a (Lcom/mojang/datafixers/Dynamic;)Lbus; create

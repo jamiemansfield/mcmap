@@ -28,8 +28,8 @@ fk net/minecraft/core/MappedRegistry
 	z CUSTOM_STAT
 	a (Lfk;ILjava/lang/String;Ljava/lang/Object;)Ljava/lang/Object; register
 	a (Lfk;Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object; register
-	a (Lfk;Lpy;Ljava/lang/Object;)Ljava/lang/Object; register
-	a (Lpy;)Ljava/lang/Object; get
-	b (Ljava/lang/Object;)Lpy; getKey
-	b (Lpy;)Z containsKey
-	i ()Lpy; getDefault
+	a (Lfk;Lqc;Ljava/lang/Object;)Ljava/lang/Object; register
+	a (Lqc;)Ljava/lang/Object; get
+	b (Ljava/lang/Object;)Lqc; getKey
+	b (Lqc;)Z containsKey
+	k ()Lqc; getDefault

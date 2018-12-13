@@ -1,3 +1,12 @@
 li li
-	a (Liq;)V read
-	b (Liq;)V write
+	a (Lit;)V read
+	b (Lit;)V write
+li$a li$a
+	a (Lit;)V read
+	b (Lit;)V write
+li$b li$b
+	a (Lit;)V read
+	b (Lit;)V write
+li$c li$c
+	a (Lit;)V read
+	b (Lit;)V write

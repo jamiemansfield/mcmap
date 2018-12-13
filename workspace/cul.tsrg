@@ -1,0 +1,7 @@
+cul cul
+	a (DDI)Z mouseClicked
+	a (IIF)V render
+	c ()V init
+	f ()V tick
+cul$1 cul$1
+	a (DD)V onClick

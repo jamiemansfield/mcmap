@@ -1,1 +1,1 @@
-bpy net/minecraft/world/level/chunk/generator/ChunkGeneratorFactory
+brc net/minecraft/world/level/chunk/generator/ChunkGeneratorFactory

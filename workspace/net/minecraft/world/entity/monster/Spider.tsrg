@@ -1,2 +1,2 @@
-apt net/minecraft/world/entity/monster/Spider
+aqg net/minecraft/world/entity/monster/Spider
 	a (Z)V setTrackOutput

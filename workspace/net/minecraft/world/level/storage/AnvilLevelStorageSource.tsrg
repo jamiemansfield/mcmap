@@ -1,10 +1,10 @@
-cgp net/minecraft/world/level/storage/AnvilLevelStorageSource
+cic net/minecraft/world/level/storage/AnvilLevelStorageSource
 	a ()Ljava/lang/String; getName
-	a (Ljava/io/File;Ljava/io/File;Lbbq;IILyq;)V convertRegion
-	a (Ljava/io/File;Ljava/lang/Iterable;Lbbq;IILyq;)V convertRegions
+	a (Ljava/io/File;Ljava/io/File;Lbcq;IILyx;)V convertRegion
+	a (Ljava/io/File;Ljava/lang/Iterable;Lbcq;IILyx;)V convertRegions
 	a (Ljava/io/File;Ljava/util/Collection;)V addRegionFiles
 	a (Ljava/lang/String;)Z isConvertable
-	a (Ljava/lang/String;Lyq;)Z convertLevel
+	a (Ljava/lang/String;Lyx;)Z convertLevel
 	b ()Ljava/util/List; getLevelList
 	b (Ljava/lang/String;)Z requiresConversion
 	d ()V clearAll

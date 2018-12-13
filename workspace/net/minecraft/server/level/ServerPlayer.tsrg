@@ -1,12 +1,13 @@
-ul net/minecraft/server/level/ServerPlayer
-	cb locale
-	cv seenCredits
+us net/minecraft/server/level/ServerPlayer
+	cc locale
+	cw seenCredits
 	a (I)V setSuccessCount
-	a (Lbmr;)V openCommandBlcok
-	a (Lbnj;)V openSign
-	a (Lhp;)V read
-	a (Lja;)V updateLastOutput
-	b (Lhp;)V write
-	s ()Luj; getLevel
+	a (Lbnu;)V openCommandBlcok
+	a (Lbom;)V openSign
+	a (Lhs;)V read
+	a (Ljd;)V updateLastOutput
+	b (Lhs;)V write
+	s ()Luq; getLevel
 	t ()Z isSpectator
 	u ()Z isCreative
+	w_ ()V tick

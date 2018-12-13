@@ -1,0 +1,5 @@
+cue cue
+	a (DDI)Z mouseClicked
+	a (DDIDD)Z mouseDragged
+	a (IIF)V render
+	c ()V init

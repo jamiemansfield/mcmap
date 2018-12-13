@@ -1,4 +1,4 @@
-aqh net/minecraft/world/entity/player/PlayerAbilities
+aqz net/minecraft/world/entity/player/PlayerAbilities
 	a invulnerable
 	b flying
 	c mayfly
@@ -9,6 +9,6 @@ aqh net/minecraft/world/entity/player/PlayerAbilities
 	a ()F getFlySpeed
 	a (D)V setFlySpeed
 	a (F)V setWalkSpeed
-	a (Lhp;)V writeToTag
+	a (Lhs;)V writeToTag
 	b ()F getWalkSpeed
-	b (Lhp;)V readFromTag
+	b (Lhs;)V readFromTag

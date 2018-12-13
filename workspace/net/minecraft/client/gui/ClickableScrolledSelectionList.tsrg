@@ -1,4 +1,4 @@
-cpl net/minecraft/client/gui/ClickableScrolledSelectionList
+cqz net/minecraft/client/gui/ClickableScrolledSelectionList
 	a client
 	r visible
 	s active

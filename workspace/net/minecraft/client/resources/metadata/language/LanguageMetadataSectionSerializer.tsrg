@@ -1,4 +1,4 @@
-dmo net/minecraft/client/resources/metadata/language/LanguageMetadataSectionSerializer
+dos net/minecraft/client/resources/metadata/language/LanguageMetadataSectionSerializer
 	a ()Ljava/lang/String; getMetadataSectionName
 	a (Lcom/google/gson/JsonObject;)Ljava/lang/Object; deserialize
-	b (Lcom/google/gson/JsonObject;)Ldmn; deserialize
+	b (Lcom/google/gson/JsonObject;)Ldor; deserialize

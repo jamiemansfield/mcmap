@@ -1,0 +1,24 @@
+bax bax
+	a DATE_FORMAT
+	b lastExecution
+	c updateLastExecution
+	d successCount
+	e trackOutput
+	f lastOutput
+	g command
+	h customName
+	a (I)V setSuccessCount
+	a (Lbbp;)Z execute
+	a (Lhs;)Lhs; writeToTag
+	a (Ljava/lang/String;)V setValue
+	a (Ljd;)V updateLastOutput
+	a (Z)V setTrackOutput
+	b (Lhs;)V write
+	b (Ljd;)V setCustomName
+	c (Ljd;)V setLastOutput
+	d ()Luq; getLevel
+	i ()I headerHeight
+	j ()Ljd; getLastOutput
+	k ()Ljava/lang/String; getCommand
+	l ()Ljd; getCustomName
+	m ()Z isVisible

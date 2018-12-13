@@ -1,8 +1,8 @@
-bsi net/minecraft/world/level/chunk/generator/carver/Carver
+btm net/minecraft/world/level/chunk/generator/carver/Carver
 	a CAVE
 	b HELL_CAVE
 	c CANYON
 	d UNDERWATER_CANYON
 	e UNDERWATER_CAVE
 	m factory
-	a (Ljava/lang/String;Lbsi;)Lbsi; register
+	a (Ljava/lang/String;Lbtm;)Lbtm; register

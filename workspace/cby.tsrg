@@ -1,0 +1,6 @@
+cby cby
+	e plaacedMainChest
+	f placedHiddenChest
+	g placedTrap1
+	h placedTrap2
+	a (Lhs;)V write

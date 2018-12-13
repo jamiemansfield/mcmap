@@ -1,2 +1,2 @@
-bqv net/minecraft/world/level/chunk/storage/ChunkStorage
+brz net/minecraft/world/level/chunk/storage/ChunkStorage
 	a ()Z save

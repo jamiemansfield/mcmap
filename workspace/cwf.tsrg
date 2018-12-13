@@ -1,0 +1,4 @@
+cwf cwf
+	a (DDI)Z mouseClicked
+	a (IIF)V render
+	b ()I getSuccessCount

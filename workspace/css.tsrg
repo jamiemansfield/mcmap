@@ -1,2 +1,7 @@
 css css
-	f ()I getScrollbarPosition
+	a (D)Z mouseScrolled
+	a (DDI)Z mouseClicked
+	a (IIF)V render
+	c ()V init
+	e ()Z isPauseScreen
+	f ()V tick

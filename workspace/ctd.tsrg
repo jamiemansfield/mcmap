@@ -1,2 +1,14 @@
 ctd ctd
+	a (IIF)V render
 	c ()V init
+	f ()V tick
+ctd$1 ctd$1
+	a (DD)V onClick
+ctd$2 ctd$2
+	a (DD)V onClick
+ctd$3 ctd$3
+	a (DD)V onClick
+ctd$4 ctd$4
+	c (Z)V active
+ctd$5 ctd$5
+	c (Z)V active

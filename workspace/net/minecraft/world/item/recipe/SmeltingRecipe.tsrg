@@ -1,2 +1,2 @@
-ayg net/minecraft/world/item/recipe/SmeltingRecipe
-	b ()Lpy; getId
+ayk net/minecraft/world/item/recipe/SmeltingRecipe
+	f ()Lqc; getId

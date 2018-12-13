@@ -1,2 +1,2 @@
-dgb net/minecraft/client/renderer/entity/CatRenderer
-	a (Lagi;)Lpy; getTexture
+dic net/minecraft/client/renderer/entity/CatRenderer
+	a (Lagv;)Lqc; getTexture

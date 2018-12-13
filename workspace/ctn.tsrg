@@ -1,0 +1,6 @@
+ctn ctn
+	a (I)V setSuccessCount
+	a (IIF)V render
+	a (Ljd;)V updateLastOutput
+	b (Ljd;)V setCustomName
+	c (Ljd;)V setLastOutput

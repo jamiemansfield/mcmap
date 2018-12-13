@@ -1,0 +1,3 @@
+bpo bpo
+	a (Lbqp;Ljava/lang/Comparable;)Ljava/lang/Object; setValue
+	c (Lbqp;)Ljava/lang/Comparable; getValue

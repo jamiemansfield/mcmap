@@ -1,2 +1,2 @@
-doj net/minecraft/client/network/LanServerPinger
+dqn net/minecraft/client/network/LanServerPinger
 	d socket

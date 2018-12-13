@@ -1,6 +1,6 @@
-cyy net/minecraft/client/model/Box
+daw net/minecraft/client/model/Box
 	g name
 	h vertices
 	i polygons
-	a (Lcnf;F)V render
-	a (Ljava/lang/String;)Lcyy; setName
+	a (Lcou;F)V render
+	a (Ljava/lang/String;)Ldaw; setName

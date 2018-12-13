@@ -1,2 +1,2 @@
-dir net/minecraft/client/renderer/entity/SpectralArrowRenderer
-	a (Lagi;)Lpy; getTexture
+dks net/minecraft/client/renderer/entity/SpectralArrowRenderer
+	a (Lagv;)Lqc; getTexture

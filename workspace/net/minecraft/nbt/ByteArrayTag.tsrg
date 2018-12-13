@@ -1,10 +1,10 @@
-hm net/minecraft/nbt/ByteArrayTag
+hp net/minecraft/nbt/ByteArrayTag
 	f data
 	a ()B getType
-	a (ILig;)V put
-	a (Ljava/io/DataInput;ILhy;)V read
+	a (ILij;)V put
+	a (Ljava/io/DataInput;ILib;)V read
 	a (Ljava/io/DataOutput;)V write
 	b (I)V remove
-	b (ILig;)V add
+	b (ILij;)V add
 	c ()[B getArray
-	c (I)Lig; getTag
+	c (I)Lij; getTag

@@ -1,4 +1,4 @@
-cji net/minecraft/world/level/storage/loot/LootTableParameters
+ckw net/minecraft/world/level/storage/loot/LootTableParameters
 	a THIS_ENTITY
 	b LAST_DAMAGE_PLAYER
 	c DAMAGE_SOURCE
@@ -9,4 +9,4 @@ cji net/minecraft/world/level/storage/loot/LootTableParameters
 	h BLOCK_ENTITY
 	i TOOL
 	j EXPLOSION_RADIUS
-	a (Ljava/lang/String;)Lcjf; create
+	a (Ljava/lang/String;)Lckt; create

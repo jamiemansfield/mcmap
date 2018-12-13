@@ -1,2 +1,2 @@
-sf net/minecraft/server/command/ReloadCommand
+sj net/minecraft/server/command/ReloadCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

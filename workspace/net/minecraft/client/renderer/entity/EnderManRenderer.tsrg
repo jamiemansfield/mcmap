@@ -1,3 +1,3 @@
-dgq net/minecraft/client/renderer/entity/EnderManRenderer
+dir net/minecraft/client/renderer/entity/EnderManRenderer
 	a TEXTURE
-	a (Lagi;)Lpy; getTexture
+	a (Lagv;)Lqc; getTexture

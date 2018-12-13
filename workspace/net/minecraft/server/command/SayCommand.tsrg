@@ -1,2 +1,2 @@
-sk net/minecraft/server/command/SayCommand
+so net/minecraft/server/command/SayCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

@@ -1,2 +1,2 @@
-bre net/minecraft/world/level/dimension/OverworldDimension
-	p ()Lbrc; getType
+bsi net/minecraft/world/level/dimension/OverworldDimension
+	p ()Lbsg; getType

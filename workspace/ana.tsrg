@@ -1,3 +1,5 @@
 ana ana
-	a (Lhp;)V read
-	b (Lhp;)V write
+	bD JUMP_STRENGTH
+	a (Lhs;)V read
+	a (Z)V setTrackOutput
+	b (Lhs;)V write

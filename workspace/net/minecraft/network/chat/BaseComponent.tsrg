@@ -1,8 +1,8 @@
-ix net/minecraft/network/chat/BaseComponent
+ja net/minecraft/network/chat/BaseComponent
 	a siblings
 	b style
 	a ()Ljava/util/List; getSiblings
-	a (Lja;)Lja; addSibling
-	a (Lji;)Lja; setStyle
-	b ()Lji; getStyle
+	a (Ljd;)Ljd; addSibling
+	a (Ljl;)Ljd; setStyle
+	b ()Ljl; getStyle
 	c ()Ljava/util/stream/Stream; stream

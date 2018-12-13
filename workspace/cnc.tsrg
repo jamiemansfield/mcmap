@@ -1,0 +1,5 @@
+cnc cnc
+	b ()I getScore
+	d ()Lcna; getObjective
+	e ()Ljava/lang/String; getName
+	g ()Z isLocked

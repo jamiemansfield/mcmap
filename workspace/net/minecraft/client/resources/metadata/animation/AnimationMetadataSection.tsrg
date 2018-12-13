@@ -1,4 +1,4 @@
-dmk net/minecraft/client/resources/metadata/animation/AnimationMetadataSection
+dom net/minecraft/client/resources/metadata/animation/AnimationMetadataSection
 	a SERIALIZER
 	b frames
 	c frameWidth
@@ -11,6 +11,6 @@ dmk net/minecraft/client/resources/metadata/animation/AnimationMetadataSection
 	c ()I getFrameCount
 	c (I)I getFrameIndex
 	d ()I getDefaultFrameTime
-	d (I)Ldmj; getFrame
+	d (I)Ldol; getFrame
 	e ()Z isInterpolate
 	f ()Ljava/util/Set; getFrameIndexes

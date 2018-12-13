@@ -1,4 +1,5 @@
-alu net/minecraft/world/entity/animal/IronGolem
-	a (Lhp;)V read
+amh net/minecraft/world/entity/animal/IronGolem
+	a (Lhs;)V read
 	a (Z)V setTrackOutput
-	b (Lhp;)V write
+	b (Lhs;)V write
+	dB ()Z mayBuild

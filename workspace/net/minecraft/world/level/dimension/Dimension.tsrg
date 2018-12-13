@@ -1,4 +1,4 @@
-brb net/minecraft/world/level/dimension/Dimension
+bsf net/minecraft/world/level/dimension/Dimension
 	b level
 	f type
-	p ()Lbrc; getType
+	p ()Lbsg; getType

@@ -1,10 +1,10 @@
-czo net/minecraft/client/multiplayer/ServerList
+dbm net/minecraft/client/multiplayer/ServerList
 	b client
 	c servers
 	a ()V load
-	a (I)Lczn; get
-	a (ILczn;)V set
-	a (Lczn;)V add
+	a (I)Ldbl; get
+	a (ILdbl;)V set
+	a (Ldbl;)V add
 	b ()V save
 	b (I)V remove
 	c ()I size

@@ -1,6 +1,6 @@
-arn net/minecraft/world/entity/vehicle/AbstractMinecart
-	a (Lbaq;DDDLarn$a;)Larn; create
-	a (Lhp;)V read
+asi net/minecraft/world/entity/vehicle/AbstractMinecart
+	a (Lbbp;DDDLasi$a;)Lasi; create
+	a (Lhs;)V read
 	a (Z)V setTrackOutput
 	am ()Z isGrounded
-	b (Lhp;)V write
+	b (Lhs;)V write

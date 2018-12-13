@@ -1,4 +1,4 @@
-cml net/minecraft/client/Monitor
+cnz net/minecraft/client/Monitor
 	e width
 	f height
 	c ()I getWidth

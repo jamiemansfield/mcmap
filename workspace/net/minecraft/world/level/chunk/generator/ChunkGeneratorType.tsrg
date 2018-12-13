@@ -1,8 +1,8 @@
-bpz net/minecraft/world/level/chunk/generator/ChunkGeneratorType
+brd net/minecraft/world/level/chunk/generator/ChunkGeneratorType
 	a SURFACE
 	b CAVES
 	c FLOATING_ISLANDS
 	d DEBUG
 	e FLAT
 	f factory
-	a (Ljava/lang/String;Lbpy;Ljava/util/function/Supplier;Z)Lbpz; register
+	a (Ljava/lang/String;Lbrc;Ljava/util/function/Supplier;Z)Lbrd; register

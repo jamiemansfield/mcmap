@@ -1,4 +1,4 @@
-xs net/minecraft/tag/BlockTags
+xz net/minecraft/tag/BlockTags
 	A RAILS
 	B LEAVES
 	C TRAPDOORS
@@ -45,4 +45,4 @@ xs net/minecraft/tag/BlockTags
 	x SLABS
 	y WALLS
 	z ANVIL
-	a (Ljava/lang/String;)Lxx; create
+	a (Ljava/lang/String;)Lye; create

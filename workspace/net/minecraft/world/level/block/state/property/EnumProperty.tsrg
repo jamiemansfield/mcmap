@@ -1,9 +1,9 @@
-bpg net/minecraft/world/level/block/state/property/EnumProperty
+bqk net/minecraft/world/level/block/state/property/EnumProperty
 	a values
-	a (Ljava/lang/String;Ljava/lang/Class;)Lbpg; of
-	a (Ljava/lang/String;Ljava/lang/Class;Ljava/util/Collection;)Lbpg; of
-	a (Ljava/lang/String;Ljava/lang/Class;Ljava/util/function/Predicate;)Lbpg; of
-	a (Ljava/lang/String;Ljava/lang/Class;[Ljava/lang/Enum;)Lbpg; of
+	a (Ljava/lang/String;Ljava/lang/Class;)Lbqk; of
+	a (Ljava/lang/String;Ljava/lang/Class;Ljava/util/Collection;)Lbqk; of
+	a (Ljava/lang/String;Ljava/lang/Class;Ljava/util/function/Predicate;)Lbqk; of
+	a (Ljava/lang/String;Ljava/lang/Class;[Ljava/lang/Enum;)Lbqk; of
 	b (Ljava/lang/String;)Ljava/util/Optional; parseString
 	c ()I calculateHashCode
 	d ()Ljava/util/Collection; getValues

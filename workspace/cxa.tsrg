@@ -1,0 +1,3 @@
+cxa cxa
+	a (I)Z isSelectedItem
+	f ()I getScrollbarPosition

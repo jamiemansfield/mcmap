@@ -1,8 +1,8 @@
-bqp net/minecraft/world/level/chunk/storage/PalettedContainer
+brt net/minecraft/world/level/chunk/storage/PalettedContainer
 	a storage
 	j lock
 	a ()V lock
-	a (Lhp;Ljava/lang/String;Ljava/lang/String;)V write
-	a (Lhv;[J)V read
+	a (Lhs;Ljava/lang/String;Ljava/lang/String;)V write
+	a (Lhy;[J)V read
 	b ()V unlock
 	b (I)V setBits

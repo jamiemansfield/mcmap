@@ -1,23 +1,24 @@
-agi net/minecraft/world/entity/Entity
+agv net/minecraft/world/entity/Entity
 	o x
 	p y
 	q z
 	X ()V tick
 	a (D)Z mouseScrolled
 	a (DD)V onClick
-	a (Lhp;)V read
-	a (Lja;)V updateLastOutput
+	a (Lhs;)V read
+	a (Ljd;)V updateLastOutput
 	aj ()Z trackOutput
 	al ()Z trackOutput
 	am ()Z isGrounded
-	b (Lhp;)V write
-	b (Lja;)V setCustomName
+	b (Lhs;)V write
+	b (Ljd;)V setCustomName
 	b (Z)V setTrackOutput
-	c (Lja;)V setLastOutput
+	c (Ljd;)V setLastOutput
 	c (Z)V active
 	d (Z)V active
 	e (I)V scroll
 	e (Z)V render
 	f (I)V setLeftPos
-	f (Lhp;)V load
+	f (Lhs;)V load
 	g (I)V setMaxLength
+	v ()Ljava/lang/String; getServerBrand

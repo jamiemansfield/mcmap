@@ -1,4 +1,4 @@
-ckp net/minecraft/tosort/math/Vector3d
+cmd net/minecraft/tosort/math/Vector3d
 	a ZERO
 	b x
 	c y

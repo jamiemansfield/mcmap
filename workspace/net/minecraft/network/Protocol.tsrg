@@ -1,2 +1,2 @@
-ip net/minecraft/network/Protocol
-	a (Ljp;Ljava/lang/Class;)Lip; register
+is net/minecraft/network/Protocol
+	a (Ljs;Ljava/lang/Class;)Lis; register

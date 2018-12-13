@@ -1,2 +1,2 @@
-ti net/minecraft/server/command/DataCommand
+tm net/minecraft/server/command/DataCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

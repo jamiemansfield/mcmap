@@ -1,4 +1,9 @@
 ctr ctr
-	c ()V init
-ctr$a ctr$a
 	a (IIF)V render
+	c ()V init
+ctr$1 ctr$1
+	a (DD)V onClick
+ctr$2 ctr$2
+	a (DD)V onClick
+ctr$a ctr$a
+	a (DD)V onClick

@@ -1,0 +1,10 @@
+ddl ddl
+	cx serverBrand
+	f client
+	a (I)V setSuccessCount
+	a (Lbnu;)V openCommandBlcok
+	a (Lbom;)V openSign
+	a (Lboq;)V openStructureBlock
+	a (Ljd;)V updateLastOutput
+	g (Ljava/lang/String;)V setServerBrand
+	v ()Ljava/lang/String; getServerBrand

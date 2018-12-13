@@ -1,3 +1,4 @@
-ame net/minecraft/world/entity/animal/Sheep
-	a (Lhp;)V read
-	b (Lhp;)V write
+amr net/minecraft/world/entity/animal/Sheep
+	a (Lhs;)V read
+	b (Lhs;)V write
+	dB ()Z mayBuild

@@ -1,2 +1,2 @@
-dek net/minecraft/client/renderer/block/SkullBlockEntityRenderer
-	a (Ldec;)V setDispatcher
+dgj net/minecraft/client/renderer/block/SkullBlockEntityRenderer
+	a (Ldgb;)V setDispatcher

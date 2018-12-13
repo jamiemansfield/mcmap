@@ -1,8 +1,8 @@
-uj net/minecraft/server/level/ServerLevel
-	A ()Laxz; getRecipeManager
-	B ()Lxz; getTagManager
+uq net/minecraft/server/level/ServerLevel
+	A ()Layx; getRecipeManager
+	B ()Lyg; getTagManager
 	a (J)V setTime
-	a (Lagi;Z)V tick
+	a (Lagv;Z)V tick
 	m_ ()V tickEntities
 	n_ ()V tickPlayers
 	w ()Lnet/minecraft/server/MinecraftServer; getServer

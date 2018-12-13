@@ -1,4 +1,4 @@
-cbl net/minecraft/world/level/chunk/generator/rule/BlockStateMatchRuleTest
+ccy net/minecraft/world/level/chunk/generator/rule/BlockStateMatchRuleTest
 	a blockState
-	a ()Lcbu; getRuleTest
-	a (Lboj;Ljava/util/Random;)Z test
+	a ()Lcdh; getRuleTest
+	a (Lbpm;Ljava/util/Random;)Z test

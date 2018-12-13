@@ -1,2 +1,2 @@
-ry net/minecraft/server/command/PardonCommand
+sc net/minecraft/server/command/PardonCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

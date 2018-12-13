@@ -1,2 +1,2 @@
-rg net/minecraft/server/command/ActionCommand
+rk net/minecraft/server/command/ActionCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

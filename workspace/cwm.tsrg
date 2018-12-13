@@ -1,0 +1,7 @@
+cwm cwm
+	a (IIF)V render
+	c ()V init
+cwm$1 cwm$1
+	a (DD)V onClick
+cwm$2 cwm$2
+	a (DD)V onClick

@@ -1,2 +1,2 @@
-bxc net/minecraft/world/level/chunk/generator/feature/StructurePiece
-	a (Lbxc;Ljava/lang/String;)Lbxc; register
+byo net/minecraft/world/level/chunk/generator/feature/StructurePiece
+	a (Lbyo;Ljava/lang/String;)Lbyo; register

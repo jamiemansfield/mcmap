@@ -1,6 +1,0 @@
-bqh bqh
-	a chunk
-	b (Let;)Lboj; getBlockState
-	b (Z)V setLightOn
-	r ()Z isLightOn
-	u ()Lbqi; getChunk

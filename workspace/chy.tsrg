@@ -1,0 +1,12 @@
+chy chy
+	a xCenter
+	b zCenter
+	c dimensionType
+	d trackingPosition
+	e unlimitedTracking
+	f scale
+	g colors
+	k banners
+	l frames
+	a (Lhs;)V read
+	b (Lhs;)Lhs; write

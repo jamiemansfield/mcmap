@@ -1,0 +1,9 @@
+cdm cdm
+	a blocks
+	b palettes
+	c size
+	a ()Let; getSize
+	a (Lhs;)Lhs; write
+	b (Lhs;)V read
+cdm$c cdm$c
+	c nbt

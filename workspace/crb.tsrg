@@ -1,2 +1,3 @@
 crb crb
-	c ()V init
+	a (IIF)V render
+	c (Z)V active

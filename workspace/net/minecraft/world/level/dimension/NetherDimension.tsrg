@@ -1,2 +1,2 @@
-brd net/minecraft/world/level/dimension/NetherDimension
-	p ()Lbrc; getType
+bsh net/minecraft/world/level/dimension/NetherDimension
+	p ()Lbsg; getType

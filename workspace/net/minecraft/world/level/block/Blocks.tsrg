@@ -1,4 +1,4 @@
-bfs net/minecraft/world/level/block/Blocks
+bgt net/minecraft/world/level/block/Blocks
 	a AIR
 	aV PISTON
 	aW PISTON_HEAD
@@ -15,4 +15,4 @@ bfs net/minecraft/world/level/block/Blocks
 	g ANDESITE
 	h POLISHED_ANDESITE
 	i GRASS
-	a (Ljava/lang/String;Lbfr;)Lbfr; register
+	a (Ljava/lang/String;Lbgs;)Lbgs; register

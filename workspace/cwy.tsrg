@@ -1,0 +1,20 @@
+cwy cwy
+	a (D)Z mouseScrolled
+	a (IIF)V render
+	a (Ljava/lang/String;)V setValue
+	c ()V init
+	f ()V tick
+cwy$1 cwy$1
+	c (Z)V active
+cwy$2 cwy$2
+	a (DD)V onClick
+cwy$3 cwy$3
+	a (DD)V onClick
+cwy$4 cwy$4
+	a (DD)V onClick
+cwy$5 cwy$5
+	a (DD)V onClick
+cwy$6 cwy$6
+	a (DD)V onClick
+cwy$7 cwy$7
+	a (DD)V onClick

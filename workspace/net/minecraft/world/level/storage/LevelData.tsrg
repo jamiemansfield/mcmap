@@ -1,4 +1,4 @@
-cgu net/minecraft/world/level/storage/LevelData
+cih net/minecraft/world/level/storage/LevelData
 	B gameMode
 	G difficulty
 	a DEFAULT_DIFFICULTY
@@ -18,9 +18,9 @@ cgu net/minecraft/world/level/storage/LevelData
 	N ()Ljava/lang/String; getVersionName
 	a (I)V setSpawnX
 	a (J)V setTime
-	a (Laez;)V setDifficulty
-	a (Lban;)V setGameMode
-	a (Lbaz;)V setGeneratorType
+	a (Lafm;)V setDifficulty
+	a (Lbbm;)V setGameMode
+	a (Lbby;)V setGeneratorType
 	a (Let;)V setSpawn
 	a (Ljava/lang/String;)V setName
 	b ()I getSpawnX
@@ -32,8 +32,8 @@ cgu net/minecraft/world/level/storage/LevelData
 	g ()J getSizeOnDisk
 	j ()Ljava/lang/String; getName
 	l ()J getLastPlayed
-	q ()Lban; getGameMode
+	q ()Lbbm; getGameMode
 	s ()Z isHardcore
-	t ()Lbaz; getGeneratorType
+	t ()Lbby; getGeneratorType
 	u ()Z isCheats
-	x ()Laez; getDifficulty
+	x ()Lafm; getDifficulty

@@ -1,0 +1,9 @@
+chx chx
+	a pos
+	b rotation
+	c entityId
+	a ()Lhs; writeToTag
+	a (Lhs;)Lchx; readFromTag
+	b ()Let; getPos
+	c ()I getRotation
+	d ()I getEntityId

@@ -1,12 +1,3 @@
 lf lf
-	a (Liq;)V read
-	b (Liq;)V write
-lf$a lf$a
-	a (Liq;)V read
-	b (Liq;)V write
-lf$b lf$b
-	a (Liq;)V read
-	b (Liq;)V write
-lf$c lf$c
-	a (Liq;)V read
-	b (Liq;)V write
+	a (Lit;)V read
+	b (Lit;)V write

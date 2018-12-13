@@ -1,11 +1,11 @@
-chq net/minecraft/world/level/storage/loot/UniformLootTableRange
+cjd net/minecraft/world/level/storage/loot/UniformLootTableRange
 	d min
 	e max
-	a ()Lpy; getId
-	a (FF)Lchq; of
+	a ()Lqc; getId
+	a (FF)Lcjd; of
 	a (I)Z withinBounds
 	a (Ljava/util/Random;)I nextInt
 	b ()F getMin
 	b (Ljava/util/Random;)F nextFloat
 	c ()F getMax
-chq$a net/minecraft/world/level/storage/loot/UniformLootTableRange$Serializer
+cjd$a net/minecraft/world/level/storage/loot/UniformLootTableRange$Serializer

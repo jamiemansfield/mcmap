@@ -1,4 +1,0 @@
-dma dma
-	a ()Ljava/lang/String; getName
-	a (Lvj;Lpy;)Ljava/io/InputStream; getInputStream
-	a (Lvm;)Ljava/lang/Object; loadPackMetadata

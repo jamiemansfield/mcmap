@@ -1,2 +1,2 @@
-sy net/minecraft/server/command/TeleportCommand
+tc net/minecraft/server/command/TeleportCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

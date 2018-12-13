@@ -1,4 +1,4 @@
-agd net/minecraft/world/entity/MobEffects
+agq net/minecraft/world/entity/MobEffects
 	A UNLUCK
 	B SLOW_FALLING
 	C CONDUIT_POWER
@@ -30,4 +30,4 @@ agd net/minecraft/world/entity/MobEffects
 	x GLOWING
 	y LEVITATION
 	z LUCK
-	a (ILjava/lang/String;Laga;)Laga; register
+	a (ILjava/lang/String;Lagn;)Lagn; register

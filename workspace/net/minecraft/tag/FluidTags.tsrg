@@ -1,4 +1,4 @@
-xu net/minecraft/tag/FluidTags
+yb net/minecraft/tag/FluidTags
 	a WATER
 	b LAVA
-	a (Ljava/lang/String;)Lxx; create
+	a (Ljava/lang/String;)Lye; create

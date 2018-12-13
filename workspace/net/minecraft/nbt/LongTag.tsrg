@@ -1,9 +1,9 @@
-hx net/minecraft/nbt/LongTag
+ia net/minecraft/nbt/LongTag
 	f data
 	a ()B getType
-	a (Ljava/io/DataInput;ILhy;)V read
+	a (Ljava/io/DataInput;ILib;)V read
 	a (Ljava/io/DataOutput;)V write
-	c ()Lhx; copy
+	c ()Lia; copy
 	d ()J asLong
 	e ()I asInt
 	f ()S asShort

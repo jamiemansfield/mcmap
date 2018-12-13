@@ -1,5 +1,5 @@
-hr net/minecraft/nbt/EndTag
+hu net/minecraft/nbt/EndTag
 	a ()B getType
-	a (Ljava/io/DataInput;ILhy;)V read
+	a (Ljava/io/DataInput;ILib;)V read
 	a (Ljava/io/DataOutput;)V write
-	c ()Lhr; copy
+	c ()Lhu; copy

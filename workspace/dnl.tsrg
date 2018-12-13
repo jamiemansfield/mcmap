@@ -1,0 +1,13 @@
+dnl$a dnl$Holder
+	b width
+	c height
+dnl$b dnl$Slot
+	a originX
+	b originY
+	c width
+	d height
+	e subSlots
+	f texture
+	a ()Ldnl$a; getTexture
+	b ()I getOriginX
+	c ()I getOriginY

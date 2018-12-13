@@ -1,0 +1,10 @@
+cvi cvi
+	a (IIF)V render
+	c ()V init
+	f ()V tick
+cvi$1 cvi$1
+	a (DD)V onClick
+cvi$2 cvi$2
+	a (DD)V onClick
+cvi$a cvi$a
+	a (IIF)V render

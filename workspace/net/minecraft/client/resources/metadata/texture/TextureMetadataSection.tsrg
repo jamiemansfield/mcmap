@@ -1,4 +1,4 @@
-dmr net/minecraft/client/resources/metadata/texture/TextureMetadataSection
+dov net/minecraft/client/resources/metadata/texture/TextureMetadataSection
 	a SERIALIZER
 	b blur
 	c clamp

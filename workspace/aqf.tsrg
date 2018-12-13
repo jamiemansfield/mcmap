@@ -1,0 +1,4 @@
+aqf aqf
+	a (Lhs;)V read
+	b (Lhs;)V write
+	dB ()Z mayBuild

@@ -1,1 +1,1 @@
-brn net/minecraft/world/level/chunk/generator/FlatChunkGenerator
+bsr net/minecraft/world/level/chunk/generator/FlatChunkGenerator

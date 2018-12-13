@@ -1,2 +1,5 @@
-cap$r cap$r
-	a (Lhp;)V write
+cap cap
+	a count
+	b extraChance
+	c extraCount
+	a (Lcom/mojang/datafixers/Dynamic;)Lcap; create

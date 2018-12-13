@@ -1,14 +1,14 @@
-hp net/minecraft/nbt/CompoundTag
+hs net/minecraft/nbt/CompoundTag
 	h tags
 	a ()B getType
-	a (Ljava/io/DataInput;ILhy;)V read
+	a (Ljava/io/DataInput;ILib;)V read
 	a (Ljava/io/DataOutput;)V write
 	a (Ljava/lang/String;)Ljava/util/UUID; getUuid
 	a (Ljava/lang/String;B)V putByte
 	a (Ljava/lang/String;D)V putDouble
 	a (Ljava/lang/String;F)V putFloat
 	a (Ljava/lang/String;J)V putLong
-	a (Ljava/lang/String;Lig;)V put
+	a (Ljava/lang/String;Lij;)V put
 	a (Ljava/lang/String;Ljava/lang/String;)V putString
 	a (Ljava/lang/String;Ljava/util/UUID;)V putUuid
 	a (Ljava/lang/String;S)V putShort
@@ -18,11 +18,11 @@ hp net/minecraft/nbt/CompoundTag
 	a (Ljava/lang/String;[J)V putLongArray
 	b (Ljava/lang/String;I)V putInt
 	c ()Ljava/util/Set; keySet
-	c (Ljava/lang/String;)Lig; get
+	c (Ljava/lang/String;)Lij; get
 	c (Ljava/lang/String;I)Z has
 	d ()I size
 	d (Ljava/lang/String;)B getTagType
-	d (Ljava/lang/String;I)Lhv; getList
+	d (Ljava/lang/String;I)Lhy; getList
 	e (Ljava/lang/String;)Z contains
 	f (Ljava/lang/String;)B getByte
 	g (Ljava/lang/String;)S getShort
@@ -34,6 +34,6 @@ hp net/minecraft/nbt/CompoundTag
 	m (Ljava/lang/String;)[B getByteArray
 	n (Ljava/lang/String;)[I getIntArray
 	o (Ljava/lang/String;)[J getLongArray
-	p (Ljava/lang/String;)Lhp; getCompound
+	p (Ljava/lang/String;)Lhs; getCompound
 	q (Ljava/lang/String;)Z getBoolean
 	r (Ljava/lang/String;)V remove

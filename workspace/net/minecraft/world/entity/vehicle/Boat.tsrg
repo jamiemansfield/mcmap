@@ -1,4 +1,4 @@
-arp net/minecraft/world/entity/vehicle/Boat
-	a (Lhp;)V read
+ask net/minecraft/world/entity/vehicle/Boat
+	a (Lhs;)V read
 	am ()Z isGrounded
-	b (Lhp;)V write
+	b (Lhs;)V write

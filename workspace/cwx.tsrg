@@ -1,0 +1,6 @@
+cwx cwx
+	a (IIF)V render
+	c ()V init
+	f ()V tick
+cwx$1 cwx$1
+	a (DD)V onClick

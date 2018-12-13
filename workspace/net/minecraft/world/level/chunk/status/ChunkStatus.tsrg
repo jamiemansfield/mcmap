@@ -1,4 +1,4 @@
-bqb net/minecraft/world/level/chunk/status/ChunkStatus
+brf net/minecraft/world/level/chunk/status/ChunkStatus
 	a EMPTY
 	b STRUCTURE_STARTS
 	c STRUCTURE_REFERENCES
@@ -12,6 +12,6 @@ bqb net/minecraft/world/level/chunk/status/ChunkStatus
 	k SPAWN
 	l HEIGHTMAPS
 	m FULL
-	a (Ljava/lang/String;)Lbqb; get
-	a (Ljava/lang/String;Lbqb;IZLbqb$b;Lbqb$a;)Lbqb; register
-	a (Ljava/lang/String;Lbqb;IZLbqb$b;Lbqb$c;)Lbqb; register
+	a (Ljava/lang/String;)Lbrf; get
+	a (Ljava/lang/String;Lbrf;IZLbrf$b;Lbrf$a;)Lbrf; register
+	a (Ljava/lang/String;Lbrf;IZLbrf$b;Lbrf$c;)Lbrf; register

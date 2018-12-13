@@ -1,4 +1,4 @@
-doo net/minecraft/client/sound/SoundSystem
+dqr net/minecraft/client/sound/SoundSystem
 	e options
 	g started
 	h ()V start

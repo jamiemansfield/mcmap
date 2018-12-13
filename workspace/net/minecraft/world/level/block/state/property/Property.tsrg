@@ -1,4 +1,4 @@
-bpl net/minecraft/world/level/block/state/property/Property
+bqp net/minecraft/world/level/block/state/property/Property
 	a ()Ljava/lang/String; getName
 	b ()Ljava/lang/Class; getClazz
 	b (Ljava/lang/String;)Ljava/util/Optional; parseString

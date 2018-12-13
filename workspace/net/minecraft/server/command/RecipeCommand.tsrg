@@ -1,2 +1,2 @@
-se net/minecraft/server/command/RecipeCommand
+si net/minecraft/server/command/RecipeCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

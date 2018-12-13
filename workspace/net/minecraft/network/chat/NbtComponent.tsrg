@@ -1,6 +1,6 @@
-jf net/minecraft/network/chat/NbtComponent
+ji net/minecraft/network/chat/NbtComponent
 	d ()Ljava/lang/String; getValue
-jf$a net/minecraft/network/chat/NbtComponent$BlockPosArgument
+ji$a net/minecraft/network/chat/NbtComponent$BlockPosArgument
 	e pos
-jf$b net/minecraft/network/chat/NbtComponent$EntityNbtComponent
+ji$b net/minecraft/network/chat/NbtComponent$EntityNbtComponent
 	e selector

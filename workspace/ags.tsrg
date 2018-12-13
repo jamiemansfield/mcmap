@@ -1,0 +1,6 @@
+ags ags
+	a (I)V setSuccessCount
+	a (Lhs;)V read
+	a (Z)V setTrackOutput
+	b (Lhs;)V write
+	i ()I headerHeight

@@ -1,7 +1,26 @@
-csg net/minecraft/client/gui/screen/TitleScreen
+ctu net/minecraft/client/gui/screen/TitleScreen
 	D SPLASHES
 	E MINECRAFT_LOGO
 	F MINECRAFT_EDITION
 	f RANDOM
+	a (DDI)Z mouseClicked
+	a (IIF)V render
 	c ()V init
 	e ()Z isPauseScreen
+	f ()V tick
+ctu$1 net/minecraft/client/gui/screen/TitleScreen$1
+	a (DD)V onClick
+ctu$2 net/minecraft/client/gui/screen/TitleScreen$2
+	a (DD)V onClick
+ctu$3 net/minecraft/client/gui/screen/TitleScreen$3
+	a (DD)V onClick
+ctu$4 net/minecraft/client/gui/screen/TitleScreen$4
+	a (DD)V onClick
+ctu$5 net/minecraft/client/gui/screen/TitleScreen$5
+	a (DD)V onClick
+ctu$6 net/minecraft/client/gui/screen/TitleScreen$6
+	a (DD)V onClick
+ctu$7 net/minecraft/client/gui/screen/TitleScreen$7
+	a (DD)V onClick
+ctu$8 net/minecraft/client/gui/screen/TitleScreen$8
+	a (DD)V onClick

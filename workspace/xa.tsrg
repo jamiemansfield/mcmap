@@ -1,5 +1,0 @@
-xa xa
-	a (Ljava/net/DatagramSocket;)V registerSocket
-	a (Ljava/net/DatagramSocket;Z)Z closeSocket
-	a (Ljava/net/ServerSocket;Z)Z closeSocket
-	b (Ljava/net/ServerSocket;)Z closeSocket

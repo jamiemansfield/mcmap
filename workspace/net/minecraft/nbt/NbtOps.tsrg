@@ -1,4 +1,4 @@
-ia net/minecraft/nbt/NbtOps
+id net/minecraft/nbt/NbtOps
 	a INSTANCE
-	a (Lig;Lig;)Lig; mergeInto
-	b (Lig;Lig;)Lig; merge
+	a (Lij;Lij;)Lij; mergeInto
+	b (Lij;Lij;)Lij; merge

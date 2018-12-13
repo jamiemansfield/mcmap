@@ -1,10 +1,10 @@
-ago net/minecraft/world/entity/ExperienceOrb
+ahb net/minecraft/world/entity/ExperienceOrb
 	b age
 	d health
 	e value
-	a (Lhp;)V read
+	a (Lhs;)V read
 	am ()Z isGrounded
-	b (Lhp;)V write
-	f ()I getValue
+	b (Lhs;)V write
 	g (I)V setMaxLength
-	i ()I headerHeight
+	i ()I getValue
+	k ()I headerHeight

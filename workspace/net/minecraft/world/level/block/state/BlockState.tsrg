@@ -1,4 +1,4 @@
-boj net/minecraft/world/level/block/state/BlockState
-	d ()Lbfr; getBlock
+bpm net/minecraft/world/level/block/state/BlockState
+	d ()Lbgs; getBlock
 	h ()Z isEmpty
-	k (Lbac;Let;)Lclj; getOutlineAABB
+	k (Lbbb;Let;)Lcmx; getOutlineAABB

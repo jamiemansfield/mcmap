@@ -1,4 +1,4 @@
-ccn net/minecraft/world/level/chunk/generator/surfacebuilder/SurfaceBuilder
+cea net/minecraft/world/level/chunk/generator/surfacebuilder/SurfaceBuilder
 	G DEFAULT
 	H MOUNTAIN
 	I SHATTERED_SAVANNA
@@ -12,4 +12,4 @@ ccn net/minecraft/world/level/chunk/generator/surfacebuilder/SurfaceBuilder
 	Q NETHER
 	R NOPE
 	a factory
-	a (Ljava/lang/String;Lccn;)Lccn; register
+	a (Ljava/lang/String;Lcea;)Lcea; register

@@ -1,3 +1,3 @@
-amp net/minecraft/world/entity/animal/horse/Horse
-	a (Lhp;)V read
-	b (Lhp;)V write
+anc net/minecraft/world/entity/animal/horse/Horse
+	a (Lhs;)V read
+	b (Lhs;)V write

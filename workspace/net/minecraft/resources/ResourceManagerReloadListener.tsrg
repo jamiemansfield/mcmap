@@ -1,2 +1,2 @@
-wd net/minecraft/resources/ResourceManagerReloadListener
-	a (Lwc;)V reload
+wk net/minecraft/resources/ResourceManagerReloadListener
+	a (Lwj;)V reload

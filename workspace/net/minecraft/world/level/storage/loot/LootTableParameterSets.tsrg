@@ -1,4 +1,4 @@
-cjh net/minecraft/world/level/storage/loot/LootTableParameterSets
+ckv net/minecraft/world/level/storage/loot/LootTableParameterSets
 	a EMPTY
 	b CHEST
 	c FISHING
@@ -7,6 +7,6 @@ cjh net/minecraft/world/level/storage/loot/LootTableParameterSets
 	f ADVANCEMENT_REWARD
 	g GENERIC
 	h BLOCK
-	a (Lcjg;)Lpy; getKey
-	a (Ljava/lang/String;Ljava/util/function/Consumer;)Lcjg; register
-	a (Lpy;)Lcjg; byId
+	a (Lcku;)Lqc; getKey
+	a (Ljava/lang/String;Ljava/util/function/Consumer;)Lcku; register
+	a (Lqc;)Lcku; byId

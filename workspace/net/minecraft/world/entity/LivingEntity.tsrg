@@ -1,8 +1,8 @@
-agr net/minecraft/world/entity/LivingEntity
-	aC deathTime
-	az hurtTime
-	bF hurtByTimestamp
-	a (Lhp;)V read
-	b (Lhp;)V write
-	f ()V tick
+ahe net/minecraft/world/entity/LivingEntity
+	aA hurtTime
+	aD deathTime
+	bG hurtByTimestamp
+	a (Lhs;)V read
+	b (Lhs;)V write
 	l (F)V setHealth
+	w_ ()V tick

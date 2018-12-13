@@ -5,9 +5,9 @@ ej net/minecraft/command/suggestion/SuggestionProviders
 	d SUMMONABLE_ENTITIES
 	e REGISTRY
 	f ASK_SERVER_NAME
-	a (Lcom/mojang/brigadier/suggestion/SuggestionProvider;)Lpy; getLocalName
-	a (Lpy;)Lcom/mojang/brigadier/suggestion/SuggestionProvider; byName
-	a (Lpy;Lcom/mojang/brigadier/suggestion/SuggestionProvider;)Lcom/mojang/brigadier/suggestion/SuggestionProvider; register
+	a (Lcom/mojang/brigadier/suggestion/SuggestionProvider;)Lqc; getLocalName
+	a (Lqc;)Lcom/mojang/brigadier/suggestion/SuggestionProvider; byName
+	a (Lqc;Lcom/mojang/brigadier/suggestion/SuggestionProvider;)Lcom/mojang/brigadier/suggestion/SuggestionProvider; register
 	b (Lcom/mojang/brigadier/suggestion/SuggestionProvider;)Lcom/mojang/brigadier/suggestion/SuggestionProvider; getLocalProvider
 ej$a net/minecraft/command/suggestion/SuggestionProviders$LocalProvider
 	a provider

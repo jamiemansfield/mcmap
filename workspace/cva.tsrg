@@ -1,4 +1,4 @@
 cva cva
-	c ()V init
-cva$5 cva$5
-	c (Z)V active
+	a (DDI)Z mouseClicked
+	a (IIF)V render
+	f ()V tick

@@ -1,6 +1,6 @@
 ex net/minecraft/core/DefaultedMappedRegistry
-	H default
-	a ()Lpy; getDefault
+	J default
+	a ()Lqc; getDefault
 	a (I)Ljava/lang/Object; byId
-	a (Lpy;)Ljava/lang/Object; get
-	b (Ljava/lang/Object;)Lpy; getKey
+	a (Lqc;)Ljava/lang/Object; get
+	b (Ljava/lang/Object;)Lqc; getKey

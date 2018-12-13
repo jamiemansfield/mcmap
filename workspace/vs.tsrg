@@ -1,0 +1,5 @@
+vs vs
+	a ()Ljava/lang/String; getName
+	a (Ljava/lang/String;)Ljava/io/InputStream; getInputStream
+	a (Lvq;Lqc;)Ljava/io/InputStream; getInputStream
+	a (Lvt;)Ljava/lang/Object; loadPackMetadata

@@ -1,2 +1,9 @@
 uy uy
-	d ()Lnet/minecraft/server/MinecraftServer; getServer
+	k dimension
+	a (Let;Lbpm;I)Z setBlock
+	b (Let;)Lbpm; getBlockState
+	d (Let;)Z isEmptyBlock
+	f ()Lbbp; getLevel
+	g ()Lcih; getData
+	m ()Ljava/util/Random; getRandom
+	o ()Lbsf; getDimension

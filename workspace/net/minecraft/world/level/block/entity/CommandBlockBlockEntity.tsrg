@@ -1,4 +1,4 @@
-bmr net/minecraft/world/level/block/entity/CommandBlockBlockEntity
-bmr$1 net/minecraft/world/level/block/entity/CommandBlockBlockEntity$1
+bnu net/minecraft/world/level/block/entity/CommandBlockBlockEntity
+bnu$1 net/minecraft/world/level/block/entity/CommandBlockBlockEntity$1
 	a (Ljava/lang/String;)V setValue
-	d ()Luj; getLevel
+	d ()Luq; getLevel

@@ -1,5 +1,0 @@
-cpq cpq
-	a (DDI)Z mouseClicked
-	a (DDIDD)Z mouseDragged
-	b (DDI)Z mouseReleased
-	e (Z)V render

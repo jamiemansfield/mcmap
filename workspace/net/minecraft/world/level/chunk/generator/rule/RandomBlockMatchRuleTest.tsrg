@@ -1,5 +1,5 @@
-cbq net/minecraft/world/level/chunk/generator/rule/RandomBlockMatchRuleTest
+cdd net/minecraft/world/level/chunk/generator/rule/RandomBlockMatchRuleTest
 	a block
 	b probability
-	a ()Lcbu; getRuleTest
-	a (Lboj;Ljava/util/Random;)Z test
+	a ()Lcdh; getRuleTest
+	a (Lbpm;Ljava/util/Random;)Z test

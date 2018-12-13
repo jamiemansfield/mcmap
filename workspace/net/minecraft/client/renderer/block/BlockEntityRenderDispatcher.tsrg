@@ -1,5 +1,5 @@
-dec net/minecraft/client/renderer/block/BlockEntityRenderDispatcher
+dgb net/minecraft/client/renderer/block/BlockEntityRenderDispatcher
 	a INSTANCE
 	f level
 	n renderers
-	a (Ljava/lang/Class;)Lded; getRenderer
+	a (Ljava/lang/Class;)Ldgc; getRenderer

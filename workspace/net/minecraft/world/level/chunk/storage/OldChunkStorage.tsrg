@@ -1,7 +1,7 @@
-bqx net/minecraft/world/level/chunk/storage/OldChunkStorage
-	a (Lbqx$a;Lhp;Lbbq;)V convertToAnvilFormat
-	a (Lhp;)Lbqx$a; load
-bqx$a net/minecraft/world/level/chunk/storage/OldChunkStorage$OldLevelChunk
+bsb net/minecraft/world/level/chunk/storage/OldChunkStorage
+	a (Lbsb$a;Lhs;Lbcq;)V convertToAnvilFormat
+	a (Lhs;)Lbsb$a; load
+bsb$a net/minecraft/world/level/chunk/storage/OldChunkStorage$OldLevelChunk
 	a lastUpdated
 	b terrainPopulated
 	c heightMap

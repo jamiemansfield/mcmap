@@ -1,2 +1,2 @@
-ri net/minecraft/server/command/ExecuteCommand
+rm net/minecraft/server/command/ExecuteCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

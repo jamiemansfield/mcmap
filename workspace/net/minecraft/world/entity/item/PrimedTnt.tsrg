@@ -1,6 +1,6 @@
-aom net/minecraft/world/entity/item/PrimedTnt
+aoz net/minecraft/world/entity/item/PrimedTnt
 	a (I)V setSuccessCount
-	a (Lhp;)V read
+	a (Lhs;)V read
 	am ()Z isGrounded
-	b (Lhp;)V write
-	i ()I headerHeight
+	b (Lhs;)V write
+	k ()I headerHeight

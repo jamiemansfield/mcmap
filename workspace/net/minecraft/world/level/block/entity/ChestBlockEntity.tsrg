@@ -1,2 +1,1 @@
-bmq net/minecraft/world/level/block/entity/ChestBlockEntity
-	f ()I getScrollbarPosition
+bnt net/minecraft/world/level/block/entity/ChestBlockEntity

@@ -1,5 +1,5 @@
-amj net/minecraft/world/entity/animal/Turtle
-	a (Lhp;)V read
+amw net/minecraft/world/entity/animal/Turtle
+	a (Lhs;)V read
 	a (Z)V setTrackOutput
-	b (Lhp;)V write
+	b (Lhs;)V write
 	dD ()Z mayBuild

@@ -1,2 +1,2 @@
-bfn net/minecraft/world/level/block/Bed
-	a (Lboj;Lbac;Let;)Lclj; getOutlineAABB
+bgo net/minecraft/world/level/block/Bed
+	a (Lbpm;Lbbb;Let;)Lcmx; getOutlineAABB

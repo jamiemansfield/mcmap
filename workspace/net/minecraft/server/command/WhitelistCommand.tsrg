@@ -1,2 +1,2 @@
-te net/minecraft/server/command/WhitelistCommand
+ti net/minecraft/server/command/WhitelistCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

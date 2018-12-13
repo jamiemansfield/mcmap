@@ -1,6 +1,6 @@
-aol net/minecraft/world/entity/item/ItemEntity
+aoy net/minecraft/world/entity/item/ItemEntity
 	a (I)V setSuccessCount
-	a (Lhp;)V read
+	a (Lhs;)V read
 	am ()Z isGrounded
-	b (Lhp;)V write
+	b (Lhs;)V write
 	g (I)V setMaxLength

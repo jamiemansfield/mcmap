@@ -1,4 +1,5 @@
-aoa net/minecraft/world/entity/decoration/ItemFrame
+aon net/minecraft/world/entity/decoration/ItemFrame
+	a (D)Z mouseScrolled
 	a (I)V setSuccessCount
-	a (Lhp;)V read
-	b (Lhp;)V write
+	a (Lhs;)V read
+	b (Lhs;)V write

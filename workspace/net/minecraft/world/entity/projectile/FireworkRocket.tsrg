@@ -1,3 +1,4 @@
-aqt net/minecraft/world/entity/projectile/FireworkRocket
-	a (Lhp;)V read
-	b (Lhp;)V write
+arm net/minecraft/world/entity/projectile/FireworkRocket
+	a (D)Z mouseScrolled
+	a (Lhs;)V read
+	b (Lhs;)V write

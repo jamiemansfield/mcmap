@@ -1,2 +1,7 @@
 ctk ctk
+	a (IIF)V render
 	c ()V init
+ctk$1 ctk$1
+	a (DD)V onClick
+ctk$2 ctk$2
+	a (DD)V onClick

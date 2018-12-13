@@ -1,6 +1,6 @@
-bmn net/minecraft/world/level/block/entity/BlockEntity
-	c_ level
-	e type
-	C ()Lbmo; getType
-	F ()Lbaq; getLevel
-	a (Lbaq;)V setLevel
+bnq net/minecraft/world/level/block/entity/BlockEntity
+	b type
+	d level
+	A ()Lbnr; getType
+	C ()Lbbp; getLevel
+	a (Lbbp;)V setLevel

@@ -1,4 +1,4 @@
-ckl net/minecraft/util/phys/BoundingBox
+clz net/minecraft/util/phys/BoundingBox
 	a x0
 	b y0
 	c z0

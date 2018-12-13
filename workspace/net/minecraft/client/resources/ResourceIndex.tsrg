@@ -1,5 +1,5 @@
-dlt net/minecraft/client/resources/ResourceIndex
+dnv net/minecraft/client/resources/ResourceIndex
 	b resources
 	a (Ljava/lang/String;)Ljava/io/File; get
 	a (Ljava/lang/String;ILjava/util/function/Predicate;)Ljava/util/Collection; get
-	a (Lpy;)Ljava/io/File; get
+	a (Lqc;)Ljava/io/File; get

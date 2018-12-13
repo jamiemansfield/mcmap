@@ -1,10 +1,10 @@
-brc net/minecraft/world/level/dimension/DimensionType
+bsg net/minecraft/world/level/dimension/DimensionType
 	a OVERWORLD
 	b NETHER
 	c END
 	g factory
 	a ()Ljava/lang/Iterable; types
-	a (Lbaq;)Lbrb; create
-	a (Lbrc;)Lpy; getKey
-	a (Ljava/lang/String;Lbrc;)Lbrc; register
-	a (Lpy;)Lbrc; byId
+	a (Lbbp;)Lbsf; create
+	a (Lbsg;)Lqc; getKey
+	a (Ljava/lang/String;Lbsg;)Lbsg; register
+	a (Lqc;)Lbsg; byId

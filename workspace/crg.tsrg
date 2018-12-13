@@ -1,0 +1,5 @@
+crg crg
+	a (D)Z mouseScrolled
+	a (DDI)Z mouseClicked
+	a (DDIDD)Z mouseDragged
+	b (DDI)Z mouseReleased

@@ -1,9 +1,9 @@
-hq net/minecraft/nbt/DoubleTag
+ht net/minecraft/nbt/DoubleTag
 	f data
 	a ()B getType
-	a (Ljava/io/DataInput;ILhy;)V read
+	a (Ljava/io/DataInput;ILib;)V read
 	a (Ljava/io/DataOutput;)V write
-	c ()Lhq; copy
+	c ()Lht; copy
 	d ()J asLong
 	e ()I asInt
 	f ()S asShort

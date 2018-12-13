@@ -1,3 +1,8 @@
 cuk cuk
+	a (DDI)Z mouseClicked
+	a (DDIDD)Z mouseDragged
 	a (IIF)V render
-	b ()I getSuccessCount
+	b (DDI)Z mouseReleased
+	c ()V init
+	e ()Z isPauseScreen
+	f ()V tick

@@ -1,4 +1,4 @@
-cnv net/minecraft/client/Minecraft
+cpk net/minecraft/client/Minecraft
 	L instance
 	M dataFixer
 	T entityRenderDispatcher
@@ -14,25 +14,25 @@ cnv net/minecraft/client/Minecraft
 	n currentScreen
 	o gameRenderer
 	u options
-	A ()Ldog; getIntegratedServer
+	A ()Ldqk; getIntegratedServer
 	E ()Ljava/net/Proxy; getProxy
 	Q ()Lcom/mojang/authlib/minecraft/MinecraftSessionService; getSessionService
-	V ()Ldgs; getEntityRenderDispatcher
+	V ()Ldit; getEntityRenderDispatcher
 	a (I)V setSuccessCount
-	a (Lcsb;)V setScreen
+	a (Lctp;)V setScreen
 	a (Z)V setTrackOutput
 	ab ()Lcom/mojang/datafixers/DataFixer; getDataFixer
 	aj ()Z trackOutput
-	am ()Lcqf; getFontManager
-	an ()Laek; getProfiler
-	ao ()Lcnq; getRunningGame
+	am ()Lcrt; getFontManager
+	an ()Laeu; getProfiler
+	ao ()Lcpf; getRunningGame
 	ap ()V start
 	b ()V init
-	b (Lja;)V setCustomName
+	b (Ljd;)V setCustomName
 	c (Z)V active
 	d (Z)V render
 	e (Z)V render
 	i ()V stop
 	s ()Z isSpectator
 	t ()Z isCreative
-	u ()Lcnv; get
+	u ()Lcpk; get

@@ -1,2 +1,6 @@
 bur bur
-	a state
+	a count
+	b bottomOffset
+	c topOffset
+	d maximum
+	a (Lcom/mojang/datafixers/Dynamic;)Lbur; create

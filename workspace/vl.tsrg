@@ -1,5 +1,0 @@
-vl vl
-	a ()Ljava/lang/String; getName
-	a (Ljava/lang/String;)Ljava/io/InputStream; getInputStream
-	a (Lvj;Lpy;)Ljava/io/InputStream; getInputStream
-	a (Lvm;)Ljava/lang/Object; loadPackMetadata

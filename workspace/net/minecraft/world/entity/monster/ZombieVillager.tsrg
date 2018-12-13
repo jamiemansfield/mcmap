@@ -1,5 +1,4 @@
-aqa net/minecraft/world/entity/monster/ZombieVillager
-	a (I)V setSuccessCount
-	a (Lhp;)V read
-	b (Lhp;)V write
+aqn net/minecraft/world/entity/monster/ZombieVillager
+	a (Lhs;)V read
+	b (Lhs;)V write
 	dD ()Z mayBuild

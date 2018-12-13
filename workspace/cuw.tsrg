@@ -1,0 +1,12 @@
+cuw cuw
+	a (D)Z mouseScrolled
+	a (DDI)Z mouseClicked
+	a (DDIDD)Z mouseDragged
+	a (IIF)V render
+	a (Lawo;II)V renderTooltip
+	a (Ljava/lang/String;)V setValue
+	b (DDI)Z mouseReleased
+	c ()V init
+	f ()V tick
+	i ()I headerHeight
+	m ()Z isVisible

@@ -1,2 +1,2 @@
-brh net/minecraft/world/level/dimension/EndDimension
-	p ()Lbrc; getType
+bsl net/minecraft/world/level/dimension/EndDimension
+	p ()Lbsg; getType

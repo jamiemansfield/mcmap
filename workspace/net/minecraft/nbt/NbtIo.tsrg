@@ -1,11 +1,11 @@
-hz net/minecraft/nbt/NbtIo
-	a (Lhp;Ljava/io/DataOutput;)V write
-	a (Lhp;Ljava/io/File;)V safeWrite
-	a (Lhp;Ljava/io/OutputStream;)V writeCompressed
-	a (Lig;Ljava/io/DataOutput;)V write
-	a (Ljava/io/DataInput;ILhy;)Lig; read
-	a (Ljava/io/DataInput;Lhy;)Lhp; read
-	a (Ljava/io/DataInputStream;)Lhp; read
-	a (Ljava/io/File;)Lhp; read
-	a (Ljava/io/InputStream;)Lhp; readCompressed
-	b (Lhp;Ljava/io/File;)V write
+ic net/minecraft/nbt/NbtIo
+	a (Lhs;Ljava/io/DataOutput;)V write
+	a (Lhs;Ljava/io/File;)V safeWrite
+	a (Lhs;Ljava/io/OutputStream;)V writeCompressed
+	a (Lij;Ljava/io/DataOutput;)V write
+	a (Ljava/io/DataInput;ILib;)Lij; read
+	a (Ljava/io/DataInput;Lib;)Lhs; read
+	a (Ljava/io/DataInputStream;)Lhs; read
+	a (Ljava/io/File;)Lhs; read
+	a (Ljava/io/InputStream;)Lhs; readCompressed
+	b (Lhs;Ljava/io/File;)V write

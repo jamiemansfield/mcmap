@@ -1,4 +1,4 @@
-aqk net/minecraft/world/entity/player/PlayerModelPart
+arc net/minecraft/world/entity/player/PlayerModelPart
 	h id
 	j name
 	b ()I getId

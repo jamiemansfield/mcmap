@@ -1,2 +1,2 @@
-or net/minecraft/network/packet/handshaking/HandshakingListener
-	a (Loq;)V onHandshake
+ov net/minecraft/network/packet/handshaking/HandshakingListener
+	a (Lou;)V onHandshake

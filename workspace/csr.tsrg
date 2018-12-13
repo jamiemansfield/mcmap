@@ -1,0 +1,7 @@
+csr csr
+	a (IIF)V render
+	c ()V init
+csr$1 csr$1
+	a (DD)V onClick
+csr$2 csr$2
+	a (DD)V onClick

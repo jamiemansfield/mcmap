@@ -1,4 +1,4 @@
-cdv net/minecraft/world/level/map/MapColour
+cfi net/minecraft/world/level/map/MapColour
 	A BLUE
 	B BROWN
 	C GREEN

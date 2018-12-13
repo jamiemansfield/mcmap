@@ -1,0 +1,5 @@
+ctc ctc
+	a (IIF)V render
+	c ()V init
+ctc$1 ctc$1
+	a (DD)V onClick

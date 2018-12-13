@@ -1,4 +1,4 @@
-bpd net/minecraft/world/level/block/state/property/DirectionProperty
-	a (Ljava/lang/String;Ljava/util/Collection;)Lbpd; of
-	a (Ljava/lang/String;Ljava/util/function/Predicate;)Lbpd; of
-	a (Ljava/lang/String;[Ley;)Lbpd; of
+bqh net/minecraft/world/level/block/state/property/DirectionProperty
+	a (Ljava/lang/String;Ljava/util/Collection;)Lbqh; of
+	a (Ljava/lang/String;Ljava/util/function/Predicate;)Lbqh; of
+	a (Ljava/lang/String;[Ley;)Lbqh; of

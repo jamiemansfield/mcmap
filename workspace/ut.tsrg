@@ -1,0 +1,7 @@
+ut ut
+	a level
+	b player
+	c gameMode
+	a (Lbbm;)V setGameMode
+	a (Luq;)V setLevel
+	b ()Lbbm; getGameMode

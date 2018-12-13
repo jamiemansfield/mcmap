@@ -1,3 +1,3 @@
-jh net/minecraft/network/chat/SelectorComponent
+jk net/minecraft/network/chat/SelectorComponent
 	c pattern
 	d ()Ljava/lang/String; getValue

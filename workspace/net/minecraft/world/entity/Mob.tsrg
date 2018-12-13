@@ -1,4 +1,4 @@
-ags net/minecraft/world/entity/Mob
-	bK leashed
-	a (Lhp;)V read
-	b (Lhp;)V write
+ahf net/minecraft/world/entity/Mob
+	bL leashed
+	a (Lhs;)V read
+	b (Lhs;)V write

@@ -1,2 +1,2 @@
-su net/minecraft/server/command/StopSoundCommand
+sy net/minecraft/server/command/StopSoundCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

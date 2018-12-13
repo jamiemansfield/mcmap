@@ -1,0 +1,34 @@
+cvo cvo
+	a (DDI)Z mouseClicked
+	a (IIF)V render
+	c ()V init
+	e ()Z isPauseScreen
+	f ()V tick
+cvo$1 cvo$1
+	a (DD)V onClick
+cvo$2 cvo$2
+	a (DD)V onClick
+cvo$3 cvo$3
+	a (DD)V onClick
+cvo$4 cvo$4
+	a (DD)V onClick
+cvo$5 cvo$5
+	a (DD)V onClick
+cvo$6 cvo$6
+	a (DD)V onClick
+cvo$9 cvo$9
+	a (DD)V onClick
+cvo$10 cvo$10
+	a (DD)V onClick
+cvo$11 cvo$11
+	a (DD)V onClick
+cvo$12 cvo$12
+	a (DD)V onClick
+cvo$13 cvo$13
+	a (DD)V onClick
+cvo$14 cvo$14
+	a (DD)V onClick
+cvo$15 cvo$15
+	a (DD)V onClick
+cvo$16 cvo$16
+	a (DD)V onClick

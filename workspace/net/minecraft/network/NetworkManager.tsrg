@@ -1,12 +1,12 @@
-io net/minecraft/network/NetworkManager
+ir net/minecraft/network/NetworkManager
 	h destination
 	k channel
 	l address
 	m packetListener
-	a (Lit;)V setPacketListener
+	a (Liw;)V setPacketListener
 	b ()Ljava/net/SocketAddress; getAddress
 	g ()Z isChannelOpen
-	i ()Lit; getPacketListener
+	i ()Liw; getPacketListener
 	l ()V handleDisconnection
-io$a net/minecraft/network/NetworkManager$a
+ir$a net/minecraft/network/NetworkManager$a
 	a packet

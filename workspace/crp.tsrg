@@ -1,6 +1,0 @@
-crp crp
-	c ()V init
-crp$4 crp$4
-	c (Z)V active
-crp$5 crp$5
-	c (Z)V active

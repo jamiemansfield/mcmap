@@ -1,6 +1,6 @@
-cni net/minecraft/client/Tesselator
+cox net/minecraft/client/Tesselator
 	a builder
 	c INSTANCE
-	a ()Lcni; getInstance
+	a ()Lcox; getInstance
 	b ()V end
-	c ()Lcnf; getBuilder
+	c ()Lcou; getBuilder

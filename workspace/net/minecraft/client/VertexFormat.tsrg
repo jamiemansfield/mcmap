@@ -1,12 +1,12 @@
-cnl net/minecraft/client/VertexFormat
+cpa net/minecraft/client/VertexFormat
 	b elements
 	a ()V clear
 	a (I)Z hasUv
-	a (Lcnm;)Lcnl; addElement
+	a (Lcpb;)Lcpa; addElement
 	b ()Z hasNormal
 	b (I)I getUvOffset
 	c ()I getNormalOffset
-	c (I)Lcnm; getElement
+	c (I)Lcpb; getElement
 	d ()Z hasColor
 	d (I)I getOffset
 	e ()I getColorOffset

@@ -1,4 +1,4 @@
-col net/minecraft/client/gui/GuiComponent
+cqa net/minecraft/client/gui/GuiComponent
 	a (IIFFIIFF)V blit
 	a (IIFFIIIIFF)V blit
 	a (IIIIII)V fillGradient

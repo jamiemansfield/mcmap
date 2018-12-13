@@ -1,0 +1,5 @@
+asj asj
+	X ()V tick
+	a (Lhs;)V read
+	b (Lhs;)V write
+	b (Z)V setTrackOutput

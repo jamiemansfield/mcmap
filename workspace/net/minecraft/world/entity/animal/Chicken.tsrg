@@ -1,3 +1,3 @@
-alp net/minecraft/world/entity/animal/Chicken
-	a (Lhp;)V read
-	b (Lhp;)V write
+amc net/minecraft/world/entity/animal/Chicken
+	a (Lhs;)V read
+	b (Lhs;)V write

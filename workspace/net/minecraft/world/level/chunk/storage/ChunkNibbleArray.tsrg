@@ -1,8 +1,8 @@
-bqc net/minecraft/world/level/chunk/storage/ChunkNibbleArray
+brg net/minecraft/world/level/chunk/storage/ChunkNibbleArray
 	a data
 	a ()[B next
 	a (II)V set
 	a (IIII)V set
-	b ()Lbqc; clone
+	b ()Lbrg; clone
 	b (III)I get
 	c ()Z isValid

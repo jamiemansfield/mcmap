@@ -1,2 +1,10 @@
 cuq cuq
+	a (DDI)Z mouseClicked
+	a (IIF)V render
 	c ()V init
+cuq$1 cuq$1
+	a (DD)V onClick
+cuq$2 cuq$2
+	a (DD)V onClick
+cuq$3 cuq$3
+	a (DD)V onClick

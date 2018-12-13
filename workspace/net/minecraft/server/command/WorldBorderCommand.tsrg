@@ -1,2 +1,2 @@
-tf net/minecraft/server/command/WorldBorderCommand
+tj net/minecraft/server/command/WorldBorderCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

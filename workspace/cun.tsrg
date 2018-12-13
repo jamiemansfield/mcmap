@@ -1,0 +1,13 @@
+cun cun
+	a (IIF)V render
+	c ()V init
+	f ()V tick
+cun$a cun$a
+	a (DD)V onClick
+cun$b cun$b
+	a (DD)V onClick
+cun$c cun$c
+	a (DD)V onClick
+cun$d cun$d
+	a (IIF)V render
+	c (Z)V active

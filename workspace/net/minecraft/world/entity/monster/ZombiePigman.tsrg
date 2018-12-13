@@ -1,4 +1,4 @@
-apk net/minecraft/world/entity/monster/ZombiePigman
-	a (Lhp;)V read
-	b (Lhp;)V write
+apx net/minecraft/world/entity/monster/ZombiePigman
+	a (Lhs;)V read
+	b (Lhs;)V write
 	dD ()Z mayBuild

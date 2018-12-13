@@ -1,9 +1,9 @@
-ddo net/minecraft/client/renderer/Variant
+dfm net/minecraft/client/renderer/Variant
 	a modelLocation
 	b rotation
 	c uvLock
 	d weight
-	a ()Lpy; getModelLocation
-	b ()Ldmv; getRotation
+	a ()Lqc; getModelLocation
+	b ()Ldoz; getRotation
 	c ()Z getUvLock
 	d ()I getWeight

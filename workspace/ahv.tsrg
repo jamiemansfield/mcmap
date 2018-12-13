@@ -1,0 +1,5 @@
+ahv ahv
+	b name
+	c default
+	a ()Ljava/lang/String; getName
+	b ()D getDefault

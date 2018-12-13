@@ -1,2 +1,7 @@
 cuu cuu
-	f ()I getScrollbarPosition
+	a (DDI)Z mouseClicked
+	a (IIF)V render
+	c ()V init
+	f ()V tick
+cuu$1 cuu$1
+	a (DD)V onClick

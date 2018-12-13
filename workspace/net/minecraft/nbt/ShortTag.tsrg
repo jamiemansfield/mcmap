@@ -1,9 +1,9 @@
-id net/minecraft/nbt/ShortTag
+ih net/minecraft/nbt/ShortTag
 	f data
 	a ()B getType
-	a (Ljava/io/DataInput;ILhy;)V read
+	a (Ljava/io/DataInput;ILib;)V read
 	a (Ljava/io/DataOutput;)V write
-	c ()Lid; copy
+	c ()Lih; copy
 	d ()J asLong
 	e ()I asInt
 	f ()S asShort

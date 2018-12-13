@@ -1,5 +1,6 @@
-alx net/minecraft/world/entity/animal/Panda
-	a (Lhp;)V read
-	b (Lhp;)V write
+amk net/minecraft/world/entity/animal/Panda
+	a (Lhs;)V read
+	b (Lhs;)V write
+	dB ()Z mayBuild
 	dC ()Z mayBuild
 	dD ()Z mayBuild

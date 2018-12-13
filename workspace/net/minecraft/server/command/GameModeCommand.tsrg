@@ -1,2 +1,2 @@
-rn net/minecraft/server/command/GameModeCommand
+rr net/minecraft/server/command/GameModeCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

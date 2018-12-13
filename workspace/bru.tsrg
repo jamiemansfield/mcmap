@@ -1,0 +1,7 @@
+bru bru
+	q blocks
+	r fluids
+	u lightOn
+	b (Let;)Lbpm; getBlockState
+	b (Z)V setLightOn
+	r ()Z isLightOn

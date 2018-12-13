@@ -1,3 +1,4 @@
-aob net/minecraft/world/entity/decoration/LeashFenceKnotEntity
-	a (Lhp;)V read
-	b (Lhp;)V write
+aoo net/minecraft/world/entity/decoration/LeashFenceKnotEntity
+	a (D)Z mouseScrolled
+	a (Lhs;)V read
+	b (Lhs;)V write

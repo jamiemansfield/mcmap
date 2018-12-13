@@ -1,0 +1,9 @@
+cvg cvg
+	a (DDI)Z mouseClicked
+	a (IIF)V render
+	c ()V init
+	f ()V tick
+cvg$1 cvg$1
+	a (DD)V onClick
+cvg$2 cvg$2
+	a (DD)V onClick

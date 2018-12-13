@@ -1,2 +1,1 @@
-bnb net/minecraft/world/level/block/entity/HopperBlockEntity
-	f ()I getScrollbarPosition
+boe net/minecraft/world/level/block/entity/HopperBlockEntity

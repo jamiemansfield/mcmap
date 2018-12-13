@@ -1,4 +1,4 @@
-ic net/minecraft/nbt/PrimitiveTag
+ig net/minecraft/nbt/PrimitiveTag
 	d ()J asLong
 	e ()I asInt
 	f ()S asShort

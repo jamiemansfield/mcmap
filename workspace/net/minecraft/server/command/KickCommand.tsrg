@@ -1,2 +1,2 @@
-rr net/minecraft/server/command/KickCommand
+rv net/minecraft/server/command/KickCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

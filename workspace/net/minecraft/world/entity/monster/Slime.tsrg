@@ -1,4 +1,4 @@
-apr net/minecraft/world/entity/monster/Slime
+aqe net/minecraft/world/entity/monster/Slime
 	X ()V tick
-	a (Lhp;)V read
-	b (Lhp;)V write
+	a (Lhs;)V read
+	b (Lhs;)V write

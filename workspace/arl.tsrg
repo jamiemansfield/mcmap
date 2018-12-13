@@ -1,4 +1,3 @@
 arl arl
-	a (Lhp;)V read
-	b (Lhp;)V write
-	dC ()Z mayBuild
+	a (Lhs;)V read
+	b (Lhs;)V write

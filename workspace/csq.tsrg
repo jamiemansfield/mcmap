@@ -1,2 +1,9 @@
 csq csq
+	a (IIF)V render
 	c ()V init
+csq$1 csq$1
+	a (DD)V onClick
+csq$2 csq$2
+	a (DD)V onClick
+csq$3 csq$3
+	a (DD)V onClick

@@ -1,7 +1,7 @@
-boi net/minecraft/world/level/block/state/AbstractBlockState
+bpl net/minecraft/world/level/block/state/AbstractBlockState
 	d values
 	a ()Ljava/util/Collection; getPropertyValues
-	a (Lbpl;)Ljava/lang/Object; setValue
-	a (Lbpl;Ljava/lang/Comparable;)Ljava/lang/Object; setValue
-	b (Lbpl;)Z contains
-	c (Lbpl;)Ljava/lang/Comparable; getValue
+	a (Lbqp;)Ljava/lang/Object; setValue
+	a (Lbqp;Ljava/lang/Comparable;)Ljava/lang/Object; setValue
+	b (Lbqp;)Z contains
+	c (Lbqp;)Ljava/lang/Comparable; getValue

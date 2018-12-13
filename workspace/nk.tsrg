@@ -1,4 +1,3 @@
 nk nk
-	a BRAND
-	a (Liq;)V read
-	b (Liq;)V write
+	a (Lit;)V read
+	b (Lit;)V write

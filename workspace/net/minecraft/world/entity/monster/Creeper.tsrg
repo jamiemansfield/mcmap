@@ -1,5 +1,6 @@
-aos net/minecraft/world/entity/monster/Creeper
+apf net/minecraft/world/entity/monster/Creeper
 	a (I)V setSuccessCount
-	a (Lhp;)V read
-	b (Lhp;)V write
+	a (Lhs;)V read
+	b (Lhs;)V write
+	dB ()Z mayBuild
 	dD ()Z mayBuild

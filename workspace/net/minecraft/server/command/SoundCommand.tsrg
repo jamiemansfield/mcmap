@@ -1,2 +1,2 @@
-sb net/minecraft/server/command/SoundCommand
+sf net/minecraft/server/command/SoundCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

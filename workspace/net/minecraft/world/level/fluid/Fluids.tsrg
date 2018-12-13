@@ -1,7 +1,7 @@
-cds net/minecraft/world/level/fluid/Fluids
+cff net/minecraft/world/level/fluid/Fluids
 	a EMPTY
 	b FLOWING_WATER
 	c WATER
 	d FLOWING_LAVA
 	e LAVA
-	a (Ljava/lang/String;Lcdp;)Lcdp; register
+	a (Ljava/lang/String;Lcfc;)Lcfc; register

@@ -1,0 +1,20 @@
+ctl ctl
+	a (IIF)V render
+	c ()V init
+	f ()V tick
+ctl$1 ctl$1
+	a (DD)V onClick
+ctl$2 ctl$2
+	a (DD)V onClick
+ctl$3 ctl$3
+	a (DD)V onClick
+ctl$4 ctl$4
+	a (DD)V onClick
+ctl$5 ctl$5
+	a (DD)V onClick
+ctl$6 ctl$6
+	a (DD)V onClick
+ctl$7 ctl$7
+	a (DD)V onClick
+ctl$8 ctl$8
+	a (DD)V onClick

@@ -1,0 +1,19 @@
+cvr cvr
+	a (IIF)V render
+	a (Ljava/lang/String;)V setValue
+	c ()V init
+	f ()V tick
+cvr$1 cvr$1
+	a (DD)V onClick
+cvr$2 cvr$2
+	a (DD)V onClick
+cvr$3 cvr$3
+	a (DD)V onClick
+cvr$4 cvr$4
+	a (DD)V onClick
+cvr$5 cvr$5
+	a (DD)V onClick
+cvr$6 cvr$6
+	a (DD)V onClick
+cvr$7 cvr$7
+	a (DD)V onClick

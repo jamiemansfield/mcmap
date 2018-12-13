@@ -1,0 +1,7 @@
+cqw cqw
+	f ()I getScrollbarPosition
+cqw$1 cqw$1
+	a (DD)V onClick
+cqw$a cqw$a
+	a (DDI)Z mouseClicked
+	b (DDI)Z mouseReleased

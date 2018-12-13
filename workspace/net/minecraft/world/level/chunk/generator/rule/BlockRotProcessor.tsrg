@@ -1,4 +1,4 @@
-cbk net/minecraft/world/level/chunk/generator/rule/BlockRotProcessor
+ccx net/minecraft/world/level/chunk/generator/rule/BlockRotProcessor
 	a integrity
-	a ()Lcby; getStructureProcessor
-	a (Lbau;Let;Lcbz$b;Lcbz$b;Lcbw;)Lcbz$b; process
+	a ()Lcdl; getStructureProcessor
+	a (Lbbt;Let;Lcdm$b;Lcdm$b;Lcdj;)Lcdm$b; process

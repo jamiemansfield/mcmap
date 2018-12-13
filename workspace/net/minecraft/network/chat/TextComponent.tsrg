@@ -1,5 +1,5 @@
-jj net/minecraft/network/chat/TextComponent
+jm net/minecraft/network/chat/TextComponent
 	b text
 	d ()Ljava/lang/String; getValue
 	i ()Ljava/lang/String; getText
-	j ()Ljj; clone
+	j ()Ljm; clone

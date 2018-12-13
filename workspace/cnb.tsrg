@@ -1,0 +1,7 @@
+cnb cnb
+	d name
+	k format
+	a (La;)V setFormat
+	a (Ljd;)V setName
+	c ()Ljd; getName
+	n ()La; getFormat

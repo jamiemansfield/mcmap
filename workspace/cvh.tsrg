@@ -1,0 +1,6 @@
+cvh cvh
+	a (D)Z mouseScrolled
+	a (DDI)Z mouseClicked
+	a (DDIDD)Z mouseDragged
+	a (IIF)V render
+	f ()V tick

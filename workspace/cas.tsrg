@@ -1,0 +1,5 @@
+cas cas
+	a count
+	b baseline
+	c spread
+	a (Lcom/mojang/datafixers/Dynamic;)Lcas; create

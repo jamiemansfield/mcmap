@@ -1,4 +1,4 @@
-qg net/minecraft/server/dedicated/EulaReader
+qk net/minecraft/server/dedicated/EulaReader
 	b file
 	c accepted
 	c ()V save

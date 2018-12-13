@@ -1,0 +1,19 @@
+cww cww
+	a (IIF)V render
+	c ()V init
+	f ()V tick
+cww$1 cww$1
+	a (DD)V onClick
+cww$2 cww$2
+	a (DD)V onClick
+cww$3 cww$3
+	a (DD)V onClick
+cww$4 cww$4
+	a (DD)V onClick
+cww$5 cww$5
+	a (DD)V onClick
+	c (Z)V active
+cww$6 cww$6
+	a (DD)V onClick
+cww$7 cww$7
+	a (DD)V onClick

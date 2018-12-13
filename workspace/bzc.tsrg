@@ -1,5 +1,0 @@
-bzc bzc
-	a count
-	b extraChance
-	c extraCount
-	a (Lcom/mojang/datafixers/Dynamic;)Lbzc; create

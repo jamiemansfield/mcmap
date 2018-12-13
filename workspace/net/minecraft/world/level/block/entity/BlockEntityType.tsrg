@@ -1,4 +1,4 @@
-bmo net/minecraft/world/level/block/entity/BlockEntityType
+bnr net/minecraft/world/level/block/entity/BlockEntityType
 	A SMOKER
 	B BLAST_FURNACE
 	C LECTERN
@@ -31,10 +31,10 @@ bmo net/minecraft/world/level/block/entity/BlockEntityType
 	x BED
 	y CONDUIT
 	z BARREL
-	a ()Lbmn; create
-	a (Lbmo;)Lpy; getKey
-	a (Ljava/lang/String;Lbmo$a;)Lbmo; register
-bmo$a net/minecraft/world/level/block/entity/BlockEntityType$Builder
+	a ()Lbnq; create
+	a (Lbnr;)Lqc; getKey
+	a (Ljava/lang/String;Lbnr$a;)Lbnr; register
+bnr$a net/minecraft/world/level/block/entity/BlockEntityType$Builder
 	a factory
-	a (Lcom/mojang/datafixers/types/Type;)Lbmo; build
-	a (Ljava/util/function/Supplier;)Lbmo$a; builder
+	a (Lcom/mojang/datafixers/types/Type;)Lbnr; build
+	a (Ljava/util/function/Supplier;)Lbnr$a; builder

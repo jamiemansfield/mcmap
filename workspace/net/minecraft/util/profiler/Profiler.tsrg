@@ -1,4 +1,4 @@
-aek net/minecraft/util/profiler/Profiler
+aeu net/minecraft/util/profiler/Profiler
 	a ()V startTick
 	a (Ljava/lang/String;)V push
 	a (Ljava/util/function/Supplier;)V push

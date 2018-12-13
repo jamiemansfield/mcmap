@@ -1,4 +1,4 @@
-anc net/minecraft/world/entity/boss/enderdragon/EnderDragon
+anp net/minecraft/world/entity/boss/enderdragon/EnderDragon
 	a (I)V setSuccessCount
-	a (Lhp;)V read
-	b (Lhp;)V write
+	a (Lhs;)V read
+	b (Lhs;)V write

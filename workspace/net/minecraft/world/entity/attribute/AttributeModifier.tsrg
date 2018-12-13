@@ -1,12 +1,12 @@
-ahh net/minecraft/world/entity/attribute/AttributeModifier
+ahu net/minecraft/world/entity/attribute/AttributeModifier
 	a amount
 	b operation
 	c name
 	d id
 	e serialize
 	a ()Ljava/util/UUID; getId
-	a (Z)Lahh; serialize
+	a (Z)Lahu; serialize
 	b ()Ljava/lang/String; getName
-	c ()Lahh$a; getOperation
+	c ()Lahu$a; getOperation
 	d ()D getAmount
 	e ()Z serialize

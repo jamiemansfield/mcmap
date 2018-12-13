@@ -1,4 +1,4 @@
-xn net/minecraft/statistic/StatFormatter
+xu net/minecraft/statistic/StatFormatter
 	a DECIMAL_FORMAT
 	b DEFAULT
 	c DIVIDE_BY_TEN

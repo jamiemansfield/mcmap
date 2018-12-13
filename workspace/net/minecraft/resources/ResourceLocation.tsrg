@@ -1,8 +1,8 @@
-py net/minecraft/resources/ResourceLocation
+qc net/minecraft/resources/ResourceLocation
 	a namespace
 	b path
 	a ()Ljava/lang/String; getPath
-	a (Ljava/lang/String;)Lpy; of
-	a (Ljava/lang/String;C)Lpy; of
+	a (Ljava/lang/String;)Lqc; of
+	a (Ljava/lang/String;C)Lqc; of
 	b ()Ljava/lang/String; getNamespace
-py$a net/minecraft/resources/ResourceLocation$Serialiser
+qc$a net/minecraft/resources/ResourceLocation$Serialiser

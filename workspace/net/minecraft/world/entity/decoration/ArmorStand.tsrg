@@ -1,4 +1,5 @@
-any net/minecraft/world/entity/decoration/ArmorStand
-	a (Lhp;)V read
+aol net/minecraft/world/entity/decoration/ArmorStand
+	a (D)Z mouseScrolled
+	a (Lhs;)V read
 	a (Z)V setTrackOutput
-	b (Lhp;)V write
+	b (Lhs;)V write

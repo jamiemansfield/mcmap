@@ -1,4 +1,5 @@
-anw net/minecraft/world/entity/boss/wither/WitherBoss
-	a (Lhp;)V read
-	b (Lhp;)V write
-	b (Lja;)V setCustomName
+aoj net/minecraft/world/entity/boss/wither/WitherBoss
+	a (Lhs;)V read
+	b (Lhs;)V write
+	b (Ljd;)V setCustomName
+	dB ()Z mayBuild

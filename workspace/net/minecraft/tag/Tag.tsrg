@@ -1,4 +1,4 @@
-xx net/minecraft/tag/Tag
-xx$a net/minecraft/tag/Tag$Builder
-	a ()Lxx$a; builder
-	b (Lpy;)Lxx; build
+ye net/minecraft/tag/Tag
+ye$a net/minecraft/tag/Tag$Builder
+	a ()Lye$a; builder
+	b (Lqc;)Lye; build

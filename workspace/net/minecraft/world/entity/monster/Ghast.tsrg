@@ -1,4 +1,4 @@
-apa net/minecraft/world/entity/monster/Ghast
-	a (Lhp;)V read
+apn net/minecraft/world/entity/monster/Ghast
+	a (Lhs;)V read
 	a (Z)V setTrackOutput
-	b (Lhp;)V write
+	b (Lhs;)V write

@@ -1,7 +1,0 @@
-um um
-	a level
-	b player
-	c gameMode
-	a (Lban;)V setGameMode
-	a (Luj;)V setLevel
-	b ()Lban; getGameMode

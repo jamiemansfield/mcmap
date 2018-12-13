@@ -1,5 +1,6 @@
-anb net/minecraft/world/entity/boss/enderdragon/EndCrystal
-	a (Lhp;)V read
+ano net/minecraft/world/entity/boss/enderdragon/EndCrystal
+	a (D)Z mouseScrolled
+	a (Lhs;)V read
 	a (Z)V setTrackOutput
 	am ()Z isGrounded
-	b (Lhp;)V write
+	b (Lhs;)V write

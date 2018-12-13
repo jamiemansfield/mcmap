@@ -1,3 +1,2 @@
-bmv net/minecraft/world/level/block/entity/DispenserBlockEntity
+bny net/minecraft/world/level/block/entity/DispenserBlockEntity
 	a RANDOM
-	f ()I getScrollbarPosition

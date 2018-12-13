@@ -1,4 +1,4 @@
-xg net/minecraft/sound/SoundEvents
+xn net/minecraft/sound/SoundEvents
 	a AMBIENT_CAVE
 	b AMBIENT_UNDERWATER_ENTER
 	c AMBIENT_UNDERWATER_EXIT
@@ -14,4 +14,4 @@ xg net/minecraft/sound/SoundEvents
 	m BLOCK_ANVIL_PLACE
 	n BLOCK_ANVIL_STEP
 	o BLOCK_ANVIL_USE
-	a (Ljava/lang/String;)Lxf; register
+	a (Ljava/lang/String;)Lxm; register

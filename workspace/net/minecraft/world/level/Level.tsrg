@@ -1,31 +1,30 @@
-baq net/minecraft/world/level/Level
-	F profiler
+bbp net/minecraft/world/level/Level
+	G profiler
 	j players
 	s random
 	t dimension
 	v listeners
 	y data
-	A ()Laxz; getRecipeManager
-	B ()Lxz; getTagManager
-	Q ()Lbaz; getGeneratorType
+	A ()Layx; getRecipeManager
+	B ()Lyg; getTagManager
+	Q ()Lbby; getGeneratorType
 	T ()J getTime
-	a (IILbqb;)Lbpw; createChunk
 	a (J)V setTime
-	a (Lagi;Z)V tick
+	a (Lagv;Z)V tick
 	a (Lb;)Lc; populateCrashReport
-	a (Lbat;)V addListener
-	a (Let;Lboj;I)Z setBlock
-	af ()Laek; getProfiler
-	b (Lbat;)V removeListener
-	b (Let;)Lboj; getBlockState
-	d (II)Lbqi; createChunk
+	a (Lbbs;)V addListener
+	a (Let;Lbpm;I)Z setBlock
+	af ()Laeu; getProfiler
+	b (Lbbs;)V removeListener
+	b (Let;)Lbpm; getBlockState
+	c (II)Lbrm; createChunk
 	d (Let;)Z isEmptyBlock
-	f ()Lbaq; getLevel
-	g ()Lcgu; getData
+	f ()Lbbp; getLevel
+	g ()Lcih; getData
 	m ()Ljava/util/Random; getRandom
 	m_ ()V tickEntities
-	n (Let;)Lbqi; createChunk
+	n (Let;)Lbrm; createChunk
 	n_ ()V tickPlayers
-	o ()Lbrb; getDimension
+	o ()Lbsf; getDimension
 	w ()Lnet/minecraft/server/MinecraftServer; getServer
 	y (Let;)V setSpawn

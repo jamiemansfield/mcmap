@@ -1,4 +1,5 @@
-apl net/minecraft/world/entity/monster/Pillager
-	a (Lhp;)V read
+apy net/minecraft/world/entity/monster/Pillager
+	a (Lhs;)V read
 	a (Z)V setTrackOutput
-	b (Lhp;)V write
+	b (Lhs;)V write
+	dB ()Z mayBuild

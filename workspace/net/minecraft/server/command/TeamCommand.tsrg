@@ -1,2 +1,2 @@
-sx net/minecraft/server/command/TeamCommand
+tb net/minecraft/server/command/TeamCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

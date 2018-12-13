@@ -1,4 +1,9 @@
-csh net/minecraft/client/gui/screen/options/VideoOptionsScreen
+ctv net/minecraft/client/gui/screen/options/VideoOptionsScreen
 	f previousSCreen
 	g options
+	a (DDI)Z mouseClicked
+	a (IIF)V render
+	b (DDI)Z mouseReleased
 	c ()V init
+ctv$1 net/minecraft/client/gui/screen/options/VideoOptionsScreen$1
+	a (DD)V onClick

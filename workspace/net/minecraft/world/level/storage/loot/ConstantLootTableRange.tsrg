@@ -1,6 +1,6 @@
-chg net/minecraft/world/level/storage/loot/ConstantLootTableRange
+cit net/minecraft/world/level/storage/loot/ConstantLootTableRange
 	d value
-	a ()Lpy; getId
-	a (I)Lchg; of
+	a ()Lqc; getId
+	a (I)Lcit; of
 	a (Ljava/util/Random;)I nextInt
-chg$a net/minecraft/world/level/storage/loot/ConstantLootTableRange$Serialiser
+cit$a net/minecraft/world/level/storage/loot/ConstantLootTableRange$Serialiser

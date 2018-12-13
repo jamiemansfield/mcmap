@@ -1,6 +1,6 @@
-bpi net/minecraft/world/level/block/state/property/IntegerProperty
+bqm net/minecraft/world/level/block/state/property/IntegerProperty
 	a values
-	a (Ljava/lang/String;II)Lbpi; of
+	a (Ljava/lang/String;II)Lbqm; of
 	b (Ljava/lang/String;)Ljava/util/Optional; parseString
 	c ()I calculateHashCode
 	d ()Ljava/util/Collection; getValues

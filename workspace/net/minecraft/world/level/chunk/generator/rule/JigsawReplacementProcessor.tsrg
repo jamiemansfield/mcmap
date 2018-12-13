@@ -1,4 +1,4 @@
-cbn net/minecraft/world/level/chunk/generator/rule/JigsawReplacementProcessor
+cda net/minecraft/world/level/chunk/generator/rule/JigsawReplacementProcessor
 	a INSTANCE
-	a ()Lcby; getStructureProcessor
-	a (Lbau;Let;Lcbz$b;Lcbz$b;Lcbw;)Lcbz$b; process
+	a ()Lcdl; getStructureProcessor
+	a (Lbbt;Let;Lcdm$b;Lcdm$b;Lcdj;)Lcdm$b; process

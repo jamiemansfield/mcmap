@@ -1,5 +1,0 @@
-clo clo
-	b ()I getScore
-	d ()Lclm; getObjective
-	e ()Ljava/lang/String; getName
-	g ()Z isLocked

@@ -1,2 +1,9 @@
 cst cst
+	a (IIF)V render
 	c ()V init
+cst$1 cst$1
+	a (DD)V onClick
+cst$2 cst$2
+	a (DD)V onClick
+cst$3 cst$3
+	a (DD)V onClick

@@ -1,4 +1,4 @@
-aow net/minecraft/world/entity/monster/EnderMan
-	a (Lhp;)V read
-	b (Lhp;)V write
+apj net/minecraft/world/entity/monster/EnderMan
+	a (Lhs;)V read
+	b (Lhs;)V write
 	dC ()Z mayBuild

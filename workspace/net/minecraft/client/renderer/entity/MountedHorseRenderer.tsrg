@@ -1,3 +1,3 @@
-djd net/minecraft/client/renderer/entity/MountedHorseRenderer
+dld net/minecraft/client/renderer/entity/MountedHorseRenderer
 	a TEXTURES
-	a (Lagi;)Lpy; getTexture
+	a (Lagv;)Lqc; getTexture

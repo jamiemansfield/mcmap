@@ -1,4 +1,4 @@
-cza net/minecraft/client/model/Cube
+day net/minecraft/client/model/Cube
 	c x
 	d y
 	e z
@@ -9,14 +9,11 @@ cza net/minecraft/client/model/Cube
 	s yTexOffs
 	t compiled
 	u list
-	v parent
 	a (FFF)V setPos
-	a (FFFIII)Lcza; addBox
+	a (FFFIII)Lday; addBox
 	a (FFFIIIF)V addBox
 	a (FFFIIIFZ)V addBox
-	a (FFFIIIZ)Lcza; addBox
-	a (II)Lcza; setTexOffs
-	a (Lcza;)V addChild
-	a (Ljava/lang/String;FFFIII)Lcza; addBox
-	a (Ljava/lang/String;FFFIIIF)Lcza; addBox
+	a (FFFIIIZ)Lday; addBox
+	a (II)Lday; setTexOffs
+	b (Lday;)V addChild
 	d (F)V compile

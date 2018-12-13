@@ -1,2 +1,2 @@
-cqf net/minecraft/client/gui/FontManager
-	a (Lwc;)V reload
+crt net/minecraft/client/gui/FontManager
+	a (Lwj;)V reload

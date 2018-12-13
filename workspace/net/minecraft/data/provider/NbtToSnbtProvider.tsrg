@@ -1,4 +1,4 @@
-hb net/minecraft/data/provider/NbtToSnbtProvider
+hd net/minecraft/data/provider/NbtToSnbtProvider
 	c generator
 	a ()Ljava/lang/String; getName
 	a (Lga;)V run

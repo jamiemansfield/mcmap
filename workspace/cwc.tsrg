@@ -1,0 +1,6 @@
+cwc cwc
+	a (DDI)Z mouseClicked
+	a (Ljava/lang/String;)V setValue
+	a (Z)V render
+	c (Z)V active
+	e (Z)V setTrackOutput

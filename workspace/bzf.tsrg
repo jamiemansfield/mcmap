@@ -1,5 +1,0 @@
-bzf bzf
-	a count
-	b baseline
-	c spread
-	a (Lcom/mojang/datafixers/Dynamic;)Lbzf; create

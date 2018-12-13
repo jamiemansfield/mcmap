@@ -1,0 +1,4 @@
+qp qp
+	a ()Lnet/minecraft/server/MinecraftServer; getServer
+	a (Lwj;)V reload
+	d ()Lcom/mojang/brigadier/CommandDispatcher; getCommandDispatcher

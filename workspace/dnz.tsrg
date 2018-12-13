@@ -1,0 +1,4 @@
+dnz dnz
+	a (Ljava/lang/String;)Ljava/io/File; get
+	a (Ljava/lang/String;ILjava/util/function/Predicate;)Ljava/util/Collection; get
+	a (Lqc;)Ljava/io/File; get

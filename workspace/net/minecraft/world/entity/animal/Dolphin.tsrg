@@ -1,5 +1,6 @@
-als net/minecraft/world/entity/animal/Dolphin
+amf net/minecraft/world/entity/animal/Dolphin
 	a (I)V setSuccessCount
-	a (Lhp;)V read
+	a (Lhs;)V read
 	a (Z)V setTrackOutput
-	b (Lhp;)V write
+	b (Lhs;)V write
+	dB ()Z mayBuild

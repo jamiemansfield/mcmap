@@ -1,0 +1,5 @@
+dbj dbj
+	c gameMode
+	a ()Lcom/mojang/authlib/GameProfile; getProfile
+	a (Lbbm;)V setGameMode
+	b ()Lbbm; getGameMode

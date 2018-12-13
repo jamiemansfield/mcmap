@@ -1,3 +1,10 @@
-crl net/minecraft/client/gui/screen/DeathScreen
+csz net/minecraft/client/gui/screen/DeathScreen
+	a (DDI)Z mouseClicked
+	a (IIF)V render
 	c ()V init
 	e ()Z isPauseScreen
+	f ()V tick
+csz$1 net/minecraft/client/gui/screen/DeathScreen$1
+	a (DD)V onClick
+csz$2 net/minecraft/client/gui/screen/DeathScreen$2
+	a (DD)V onClick

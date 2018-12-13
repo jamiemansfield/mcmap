@@ -1,4 +1,4 @@
-dmn net/minecraft/client/resources/metadata/language/LanguageMetadataSection
+dor net/minecraft/client/resources/metadata/language/LanguageMetadataSection
 	a SERIALIZER
 	b languages
 	a ()Ljava/util/Collection; getLanguages

@@ -1,3 +1,3 @@
-dhx net/minecraft/client/renderer/entity/MushroomCowRenderer
+djx net/minecraft/client/renderer/entity/MushroomCowRenderer
 	a TEXTURE
-	a (Lagi;)Lpy; getTexture
+	a (Lagv;)Lqc; getTexture

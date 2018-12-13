@@ -1,2 +1,2 @@
-sm net/minecraft/server/command/ScoreboardCommand
+sq net/minecraft/server/command/ScoreboardCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

@@ -1,4 +1,4 @@
-cbj net/minecraft/world/level/chunk/generator/rule/BlockMatchRuleTest
+ccw net/minecraft/world/level/chunk/generator/rule/BlockMatchRuleTest
 	a block
-	a ()Lcbu; getRuleTest
-	a (Lboj;Ljava/util/Random;)Z test
+	a ()Lcdh; getRuleTest
+	a (Lbpm;Ljava/util/Random;)Z test

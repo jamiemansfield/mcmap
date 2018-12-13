@@ -1,4 +1,4 @@
-dox net/minecraft/client/tutorial/MovementTutorialStep
+dra net/minecraft/client/tutorial/MovementTutorialStep
 	a MOVE_TITLE
 	b MOVE_DESCRIPTION
 	c LOOK_TITLE

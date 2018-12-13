@@ -1,2 +1,2 @@
-blv net/minecraft/world/level/block/WallSkull
-	a (Lboj;Lbac;Let;)Lclj; getOutlineAABB
+bmx net/minecraft/world/level/block/WallSkull
+	a (Lbpm;Lbbb;Let;)Lcmx; getOutlineAABB

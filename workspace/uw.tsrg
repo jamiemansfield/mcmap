@@ -1,0 +1,9 @@
+uw uw
+	a START
+	c PLAYER
+	d FORCED
+	e UNKNOWN
+	f id
+	g comparator
+	a ()Ljava/util/Comparator; getComparator
+	a (Ljava/lang/String;Ljava/util/Comparator;)Luw; create

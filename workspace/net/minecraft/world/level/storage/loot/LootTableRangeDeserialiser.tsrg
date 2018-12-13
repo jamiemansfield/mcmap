@@ -1,4 +1,4 @@
-chp net/minecraft/world/level/storage/loot/LootTableRangeDeserialiser
+cjc net/minecraft/world/level/storage/loot/LootTableRangeDeserialiser
 	a GENERATORS
-	a (Lcho;Lcom/google/gson/JsonSerializationContext;)Lcom/google/gson/JsonElement; serialise
-	a (Lcom/google/gson/JsonElement;Lcom/google/gson/JsonDeserializationContext;)Lcho; deserialise
+	a (Lcjb;Lcom/google/gson/JsonSerializationContext;)Lcom/google/gson/JsonElement; serialise
+	a (Lcom/google/gson/JsonElement;Lcom/google/gson/JsonDeserializationContext;)Lcjb; deserialise

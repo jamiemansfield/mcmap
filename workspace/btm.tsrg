@@ -1,5 +1,0 @@
-btm btm
-	a noiseLevel
-	b belowNoise
-	c aboveNoise
-	a (Lcom/mojang/datafixers/Dynamic;)Lbtm; create

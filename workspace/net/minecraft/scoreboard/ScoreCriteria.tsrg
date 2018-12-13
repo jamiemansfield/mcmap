@@ -1,4 +1,4 @@
-cls net/minecraft/scoreboard/ScoreCriteria
+cng net/minecraft/scoreboard/ScoreCriteria
 	b DUMMY
 	c TRIGGER
 	d DEATH_COUNT
@@ -15,9 +15,9 @@ cls net/minecraft/scoreboard/ScoreCriteria
 	q displayType
 	c ()Ljava/lang/String; getName
 	d ()Z isMutable
-	e ()Lcls$a; getDisplayType
-cls$a net/minecraft/scoreboard/ScoreCriteria$DisplayType
+	e ()Lcng$a; getDisplayType
+cng$a net/minecraft/scoreboard/ScoreCriteria$DisplayType
 	c id
 	d TYPES
 	a ()Ljava/lang/String; getId
-	a (Ljava/lang/String;)Lcls$a; byId
+	a (Ljava/lang/String;)Lcng$a; byId

@@ -1,6 +1,6 @@
-dpc net/minecraft/client/tutorial/TutorialStepType
+drf net/minecraft/client/tutorial/TutorialStepType
 	g id
 	h factory
 	a ()Ljava/lang/String; getId
-	a (Ldpa;)Ldpb; create
-	a (Ljava/lang/String;)Ldpc; byId
+	a (Ldrd;)Ldre; create
+	a (Ljava/lang/String;)Ldrf; byId

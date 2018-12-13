@@ -1,5 +1,5 @@
-apz net/minecraft/world/entity/monster/Zombie
+aqm net/minecraft/world/entity/monster/Zombie
 	a (I)V setSuccessCount
-	a (Lhp;)V read
-	b (Lhp;)V write
+	a (Lhs;)V read
+	b (Lhs;)V write
 	dD ()Z mayBuild

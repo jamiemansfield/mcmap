@@ -1,5 +1,9 @@
 cug cug
-	j client
-	a (Z)V setTrackOutput
-cug$a cug$a
-	a (IIF)V render
+	f ()I getScrollbarPosition
+cug$c cug$c
+	a (DDI)Z mouseClicked
+	b (DDI)Z mouseReleased
+cug$c$1 cug$c$1
+	a (DD)V onClick
+cug$c$2 cug$c$2
+	a (DD)V onClick

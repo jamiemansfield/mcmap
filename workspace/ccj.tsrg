@@ -1,0 +1,32 @@
+ccj$a ccj$a
+	a chest
+	a (Lhs;)V write
+ccj$b ccj$b
+	a steps
+	a (Lhs;)V write
+ccj$c ccj$c
+	a leftLow
+	b leftHigh
+	c rightLow
+	e rightHigh
+	a (Lhs;)V write
+ccj$e ccj$e
+	a tall
+	a (Lhs;)V write
+ccj$g ccj$g
+	a mob
+	a (Lhs;)V write
+ccj$j ccj$j
+	a type
+	a (Lhs;)V write
+ccj$l ccj$l
+	a source
+	a (Lhs;)V write
+ccj$n ccj$n
+	a left
+	b right
+	a (Lhs;)V write
+ccj$p ccj$p
+	d entryDoor
+	a (Lhs;)V write
+ccj$p$a ccj$p$EntryDoor

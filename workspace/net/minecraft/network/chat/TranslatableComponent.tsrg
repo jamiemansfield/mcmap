@@ -1,7 +1,7 @@
-jk net/minecraft/network/chat/TranslatableComponent
+jn net/minecraft/network/chat/TranslatableComponent
 	f key
 	g args
-	a (Lji;)Lja; setStyle
+	a (Ljl;)Ljd; setStyle
 	c ()Ljava/util/stream/Stream; stream
 	d ()Ljava/lang/String; getValue
 	k ()Ljava/lang/String; getKey

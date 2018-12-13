@@ -1,5 +1,6 @@
-coy net/minecraft/client/gui/EditBox
-	a ()V tick
+cqm net/minecraft/client/gui/EditBox
+	a ()V renderItem
+	a (DDI)Z mouseClicked
 	a (I)V setSuccessCount
 	a (IIF)V render
 	a (Ljava/lang/String;)V setValue
@@ -10,6 +11,7 @@ coy net/minecraft/client/gui/EditBox
 	d (Z)V render
 	e (I)V scroll
 	e (Z)V render
+	f (I)V setLeftPos
 	g (I)V setMaxLength
 	h ()I y1
 	m ()Z isVisible

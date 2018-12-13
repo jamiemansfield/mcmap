@@ -1,7 +1,0 @@
-bqq bqq
-	q blocks
-	r fluids
-	u lightOn
-	b (Let;)Lboj; getBlockState
-	b (Z)V setLightOn
-	r ()Z isLightOn

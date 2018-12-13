@@ -1,0 +1,6 @@
+dgu dgu
+	d level
+	e levelRenderer
+	f lock
+	d ()Ljava/util/concurrent/locks/ReentrantLock; getLock
+	p ()Lbbp; getLevel

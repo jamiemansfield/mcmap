@@ -1,2 +1,4 @@
-car$a car$a
-	a (Lhp;)V write
+car car
+	a min
+	b max
+	a (Lcom/mojang/datafixers/Dynamic;)Lcar; create

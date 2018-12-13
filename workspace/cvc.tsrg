@@ -1,5 +1,2 @@
 cvc cvc
-	a (Ljava/lang/String;)V setValue
-	c ()V init
-cvc$1 cvc$1
-	c (Z)V active
+	a (IIF)V render

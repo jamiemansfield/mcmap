@@ -1,4 +1,4 @@
-cax net/minecraft/world/level/chunk/generator/feature/StructureFeatures
+cck net/minecraft/world/level/chunk/generator/feature/StructureFeatures
 	a MINESHAFT
 	b VILLAGE
 	c PILLAGER_OUTPOST
@@ -15,4 +15,4 @@ cax net/minecraft/world/level/chunk/generator/feature/StructureFeatures
 	n BURIED_TREASURE
 	o SHIPWRECK
 	p NEW_VILLAGE
-	a (Ljava/lang/String;Lbxb;)Lbxb; register
+	a (Ljava/lang/String;Lbyn;)Lbyn; register

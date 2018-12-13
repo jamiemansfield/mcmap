@@ -1,2 +1,2 @@
-re net/minecraft/server/command/DifficultyCommand
+ri net/minecraft/server/command/DifficultyCommand
 	a (Lcom/mojang/brigadier/CommandDispatcher;)V install

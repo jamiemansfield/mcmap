@@ -5,9 +5,9 @@ w w
 	f showToast
 	g announceToChat
 	h hidden
-	a ()Lja; getTitle
-	b ()Lja; getDescription
-	d ()Lpy; getBackground
+	a ()Ljd; getTitle
+	b ()Ljd; getDescription
+	d ()Lqc; getBackground
 	h ()Z shouldShowToast
 	i ()Z shouldAnnounceToChat
 	j ()Z isHidden

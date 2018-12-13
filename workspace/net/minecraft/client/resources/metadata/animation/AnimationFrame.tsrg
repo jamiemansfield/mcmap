@@ -1,4 +1,4 @@
-dmj net/minecraft/client/resources/metadata/animation/AnimationFrame
+dol net/minecraft/client/resources/metadata/animation/AnimationFrame
 	a index
 	b time
 	a ()Z isTimeUnknown

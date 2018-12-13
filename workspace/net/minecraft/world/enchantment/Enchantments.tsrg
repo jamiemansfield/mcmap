@@ -1,4 +1,4 @@
-ayx net/minecraft/world/enchantment/Enchantments
+azw net/minecraft/world/enchantment/Enchantments
 	A LUCK_OF_THE_SEA
 	B LURE
 	C LOYALTY
@@ -36,4 +36,4 @@ ayx net/minecraft/world/enchantment/Enchantments
 	x PUNCH
 	y FLAME
 	z INFINITY
-	a (Ljava/lang/String;Layt;)Layt; register
+	a (Ljava/lang/String;Lazs;)Lazs; register

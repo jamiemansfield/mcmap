@@ -1,4 +1,4 @@
-cpr net/minecraft/client/gui/GuiEventListener
+crf net/minecraft/client/gui/GuiEventListener
 	a (D)Z mouseScrolled
 	a (DDI)Z mouseClicked
 	a (DDIDD)Z mouseDragged

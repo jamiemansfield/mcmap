@@ -1,5 +1,5 @@
-yq net/minecraft/util/ProgressListener
+yx net/minecraft/util/ProgressListener
 	a (I)V setSuccessCount
-	a (Lja;)V updateLastOutput
-	b (Lja;)V setCustomName
-	c (Lja;)V setLastOutput
+	a (Ljd;)V updateLastOutput
+	b (Ljd;)V setCustomName
+	c (Ljd;)V setLastOutput

@@ -1,4 +1,4 @@
-bqu net/minecraft/world/level/chunk/storage/ThreadedAnvilChunkStorage
+bry net/minecraft/world/level/chunk/storage/ThreadedAnvilChunkStorage
 	d fixer
 	a ()Z save
-	a (Lhp;Lbaq;)Lagi; loadEntity
+	a (Lhs;Lbbp;)Lagv; loadEntity

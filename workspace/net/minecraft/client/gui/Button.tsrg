@@ -1,10 +1,13 @@
-cou net/minecraft/client/gui/Button
+cqi net/minecraft/client/gui/Button
 	f successCount
 	j value
 	a (DD)V onClick
+	a (DDI)Z mouseClicked
+	a (DDIDD)Z mouseDragged
 	a (I)V setSuccessCount
 	a (IIF)V render
-	a (Lcnv;II)V renderBg
+	a (Lcpk;II)V renderBg
 	a (Z)I getYImage
 	b ()I getSuccessCount
 	b (DD)V onRelease
+	b (DDI)Z mouseReleased

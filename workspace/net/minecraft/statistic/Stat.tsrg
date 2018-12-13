@@ -1,5 +1,5 @@
-xm net/minecraft/statistic/Stat
+xt net/minecraft/statistic/Stat
 	o formatter
 	q type
-	a ()Lxo; getType
+	a ()Lxv; getType
 	a (I)Ljava/lang/String; format

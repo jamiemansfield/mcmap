@@ -1,6 +1,7 @@
-aof net/minecraft/world/entity/fishing/FishingHook
+aos net/minecraft/world/entity/fishing/FishingHook
 	X ()V tick
+	a (D)Z mouseScrolled
 	a (I)V setSuccessCount
-	a (Lhp;)V read
+	a (Lhs;)V read
 	am ()Z isGrounded
-	b (Lhp;)V write
+	b (Lhs;)V write

@@ -1,6 +1,0 @@
-bzd bzd
-	a noiseToCountRatio
-	b noiseFactor
-	c noiseOffset
-	d heightmap
-	a (Lcom/mojang/datafixers/Dynamic;)Lbzd; create

@@ -1,4 +1,4 @@
-tt net/minecraft/server/dedicated/DedicatedServerGui
+tx net/minecraft/server/dedicated/DedicatedServerGui
 	a FONT
 	c server
 	d thread

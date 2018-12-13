@@ -1,0 +1,6 @@
+brl brl
+	a chunk
+	b (Let;)Lbpm; getBlockState
+	b (Z)V setLightOn
+	r ()Z isLightOn
+	u ()Lbrm; getChunk

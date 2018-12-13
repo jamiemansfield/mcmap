@@ -1,2 +1,2 @@
-bkc net/minecraft/world/level/block/Sapling
-	a (Lboj;Lbac;Let;)Lclj; getOutlineAABB
+bld net/minecraft/world/level/block/Sapling
+	a (Lbpm;Lbbb;Let;)Lcmx; getOutlineAABB

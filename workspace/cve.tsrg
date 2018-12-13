@@ -1,3 +1,2 @@
 cve cve
-	a (I)Z isSelectedItem
-	f ()I getScrollbarPosition
+	a (IIF)V render

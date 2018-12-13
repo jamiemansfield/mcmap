@@ -1,5 +1,5 @@
-bqi net/minecraft/world/level/chunk/storage/AnvilChunk
+brm net/minecraft/world/level/chunk/storage/AnvilChunk
 	g level
-	b (Let;)Lboj; getBlockState
+	b (Let;)Lbpm; getBlockState
 	b (Z)V setLightOn
 	r ()Z isLightOn

@@ -1,4 +1,4 @@
-btz net/minecraft/world/level/chunk/generator/feature/Feature
+bvg net/minecraft/world/level/chunk/generator/feature/Feature
 	A SWAMP_TREE
 	B NORMAL_TREE
 	C MEGA_JUNGLE_TREE
@@ -26,16 +26,20 @@ btz net/minecraft/world/level/chunk/generator/feature/Feature
 	Y PUMPKIN
 	Z REED
 	a factory
-	aA KELP
-	aB CORAL_TREE
-	aC CORAL_MUSHROOM
-	aD CORAL_CLAW
-	aE SEA_PICKLE
-	aF SIMPLE_BLOCK
-	aG BAMBOO
-	aH DECORATED
-	aI DECORATED_FLOWER
-	aJ BONUS_CHEST
+	aA END_ISLAND
+	aB CHORUS_PLANT
+	aC END_GATEWAY
+	aD SEAGRASS
+	aE KELP
+	aF CORAL_TREE
+	aG CORAL_MUSHROOM
+	aH CORAL_CLAW
+	aI SEA_PICKLE
+	aJ SIMPLE_BLOCK
+	aK BAMBOO
+	aL DECORATED
+	aM DECORATED_FLOWER
+	aO BONUS_CHEST
 	aa FREEZE_TOP_LAYER
 	ab VINES
 	ac WATERLILY
@@ -44,24 +48,20 @@ btz net/minecraft/world/level/chunk/generator/feature/Feature
 	af ICEBERG
 	ag FOREST_ROCK
 	ah HAY_PILE
-	ai BUSH
-	aj DISK
-	ak DOUBLE_PLANT
-	al NETHER_SPRING
-	am ICE_PATCH
-	an LAKE
-	ao ORE
-	ap RANDOM_RANDOM_SELECTOR
-	aq RANDOM_SELECTOR
-	ar SIMPLE_RANDOM_SELECTOR
-	as RANDOM_BOOLEAN_SELECTOR
-	at EMERALD_ORE
-	au SPRING_FEATURE
-	av END_SPIKE
-	aw END_ISLAND
-	ax CHORUS_PLANT
-	ay END_GATEWAY
-	az SEAGRASS
+	am BUSH
+	an DISK
+	ao DOUBLE_PLANT
+	ap NETHER_SPRING
+	aq ICE_PATCH
+	ar LAKE
+	as ORE
+	at RANDOM_RANDOM_SELECTOR
+	au RANDOM_SELECTOR
+	av SIMPLE_RANDOM_SELECTOR
+	aw RANDOM_BOOLEAN_SELECTOR
+	ax EMERALD_ORE
+	ay SPRING_FEATURE
+	az END_SPIKE
 	b VILLAGE
 	c PILLAGER_OUTPOST
 	d MINESHAFT
@@ -87,5 +87,5 @@ btz net/minecraft/world/level/chunk/generator/feature/Feature
 	x DARK_OAK_TREE
 	y SAVANNA_TREE
 	z SPRUCE_TREE
-	a (Lcom/mojang/datafixers/Dynamic;)Lbua; create
-	a (Ljava/lang/String;Lbtz;)Lbtz; register
+	a (Lcom/mojang/datafixers/Dynamic;)Lbvh; create
+	a (Ljava/lang/String;Lbvg;)Lbvg; register

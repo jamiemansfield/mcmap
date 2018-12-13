@@ -1,3 +1,7 @@
 csw csw
+	a (IIF)V render
+	a (Ljd;)V updateLastOutput
 	c ()V init
-	e ()Z isPauseScreen
+	f ()V tick
+csw$2 csw$2
+	a (DD)V onClick

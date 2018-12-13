@@ -1,4 +1,4 @@
-bzj net/minecraft/world/level/chunk/generator/decorator/Decorator
+caw net/minecraft/world/level/chunk/generator/decorator/Decorator
 	A HELL_FIRE
 	B MAGMA
 	C EMERALD_ORE
@@ -38,5 +38,5 @@ bzj net/minecraft/world/level/chunk/generator/decorator/Decorator
 	x TOP_SOLID_HEIGHTMAP_NOISE_BIASED
 	y CARVING_MASK
 	z FOREST_ROCK
-	a (Lcom/mojang/datafixers/Dynamic;)Lbtk; create
-	a (Ljava/lang/String;Lbzj;)Lbzj; register
+	a (Lcom/mojang/datafixers/Dynamic;)Lbuq; create
+	a (Ljava/lang/String;Lcaw;)Lcaw; register

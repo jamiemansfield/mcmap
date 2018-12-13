@@ -1,11 +1,11 @@
-hw net/minecraft/nbt/LongArrayTag
+hz net/minecraft/nbt/LongArrayTag
 	f data
 	a ()B getType
-	a (ILig;)V put
-	a (Ljava/io/DataInput;ILhy;)V read
+	a (ILij;)V put
+	a (Ljava/io/DataInput;ILib;)V read
 	a (Ljava/io/DataOutput;)V write
 	b (I)V remove
-	b (ILig;)V add
-	c ()Lhw; copy
-	c (I)Lig; getTag
+	b (ILij;)V add
+	c ()Lhz; copy
+	c (I)Lij; getTag
 	f ()[J getArray

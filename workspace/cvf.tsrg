@@ -1,0 +1,8 @@
+cvf cvf
+	a (DDI)Z mouseClicked
+	a (IIF)V render
+	b (DDI)Z mouseReleased
+	c ()V init
+	f ()V tick
+cvf$1 cvf$1
+	a (DD)V onClick

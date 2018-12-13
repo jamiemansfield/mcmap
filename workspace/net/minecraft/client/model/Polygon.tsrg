@@ -1,5 +1,5 @@
-cxn net/minecraft/client/model/Polygon
+czl net/minecraft/client/model/Polygon
 	a vertices
 	b vertexCount
 	a ()V mirror
-	a (Lcnf;F)V render
+	a (Lcou;F)V render

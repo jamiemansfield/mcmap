@@ -1,2 +1,1 @@
-dgm net/minecraft/client/renderer/entity/DrownedRenderer
-	a (Lagi;)Lpy; getTexture
+din net/minecraft/client/renderer/entity/DrownedRenderer

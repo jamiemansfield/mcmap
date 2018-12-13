@@ -1,5 +1,5 @@
-dgt net/minecraft/client/renderer/entity/EntityRenderer
+diu net/minecraft/client/renderer/entity/EntityRenderer
 	a SHADOW_TEXTURE
 	b dispatcher
-	a (Lagi;)Lpy; getTexture
-	e ()Ldgs; getDispatcher
+	a (Lagv;)Lqc; getTexture
+	c ()Ldit; getDispatcher

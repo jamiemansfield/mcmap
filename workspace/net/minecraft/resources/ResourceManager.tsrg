@@ -1,4 +1,4 @@
-we net/minecraft/resources/ResourceManager
+wl net/minecraft/resources/ResourceManager
 	c listeners
 	e type
-	b (Lwd;)Ljava/lang/String; reload
+	b (Lwk;)Ljava/lang/String; reload

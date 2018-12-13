@@ -1,3 +1,2 @@
 cur cur
-	c client
-	m ()Z isVisible
+	a (IIF)V render

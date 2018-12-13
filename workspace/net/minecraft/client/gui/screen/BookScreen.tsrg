@@ -1,11 +1,22 @@
-csz net/minecraft/client/gui/screen/BookScreen
-	a TEXTURE
-	f author
-	u pageCount
-	w pages
-	x title
+cup net/minecraft/client/gui/screen/BookScreen
+	a author
+	u title
+	a (DDI)Z mouseClicked
+	a (DDIDD)Z mouseDragged
+	a (IIF)V render
 	a (Z)V setTrackOutput
 	b (Ljava/lang/String;)V setValue
 	c ()V init
-csz$a net/minecraft/client/gui/screen/BookScreen$a
-	a (IIF)V render
+	f ()V tick
+cup$1 net/minecraft/client/gui/screen/BookScreen$1
+	a (DD)V onClick
+cup$2 net/minecraft/client/gui/screen/BookScreen$2
+	a (DD)V onClick
+cup$3 net/minecraft/client/gui/screen/BookScreen$3
+	a (DD)V onClick
+cup$4 net/minecraft/client/gui/screen/BookScreen$4
+	a (DD)V onClick
+cup$5 net/minecraft/client/gui/screen/BookScreen$5
+	a (DD)V onClick
+cup$6 net/minecraft/client/gui/screen/BookScreen$6
+	a (DD)V onClick

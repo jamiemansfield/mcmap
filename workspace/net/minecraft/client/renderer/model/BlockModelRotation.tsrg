@@ -1,2 +1,2 @@
-dmv net/minecraft/client/renderer/model/BlockModelRotation
-	b ()Ldmv; getRotation
+doz net/minecraft/client/renderer/model/BlockModelRotation
+	b ()Ldoz; getRotation
