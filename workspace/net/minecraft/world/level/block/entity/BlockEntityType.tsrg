@@ -3,6 +3,7 @@ bnr net/minecraft/world/level/block/entity/BlockEntityType
 	B BLAST_FURNACE
 	C LECTERN
 	D BELL
+	E JIGSAW
 	G factory
 	H type
 	a FURNACE

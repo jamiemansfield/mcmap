@@ -10,5 +10,5 @@ arb net/minecraft/world/entity/player/Player
 	dB ()Z mayBuild
 	dC ()Z mayBuild
 	ds ()Lcom/mojang/authlib/GameProfile; getProfile
-	t ()Z isCreative
+	t ()Z isSpectator
 	u ()Z isCreative

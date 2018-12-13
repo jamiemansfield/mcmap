@@ -39,6 +39,7 @@ bvg net/minecraft/world/level/chunk/generator/feature/Feature
 	aK BAMBOO
 	aL DECORATED
 	aM DECORATED_FLOWER
+	aN SWEET_BERRY_BUSH
 	aO BONUS_CHEST
 	aa FREEZE_TOP_LAYER
 	ab VINES
@@ -48,6 +49,10 @@ bvg net/minecraft/world/level/chunk/generator/feature/Feature
 	af ICEBERG
 	ag FOREST_ROCK
 	ah HAY_PILE
+	ai SNOW_PILE
+	aj ICE_PILE
+	ak MELON_PILE
+	al PUMKIN_PILE
 	am BUSH
 	an DISK
 	ao DOUBLE_PLANT

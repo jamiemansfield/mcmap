@@ -1,4 +1,4 @@
-aop net/minecraft/world/entity/decoration/Motive
+aop net/minecraft/world/entity/decoration/PaintingMotive
 	a KEBAB
 	b AZTEC
 	c ALBAN

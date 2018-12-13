@@ -41,6 +41,9 @@ xw net/minecraft/statistic/CustomStats
 	am OPEN_CHEST
 	an SLEEP_IN_BED
 	ao OPEN_SHULKER_BOX
+	ap OPEN_BARREL
+	aq INTERACT_WITH_BLAST_FURNACE
+	ar INTERACT_WITH_SMOKER
 	b CRAFTED
 	c USED
 	d BROKEN

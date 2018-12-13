@@ -6,6 +6,8 @@ fk net/minecraft/core/MappedRegistry
 	E STRUCTURE_PROCESSOR
 	F STRUCTURE_POOL_ELEMENT
 	G STAT_TYPE
+	H VILLAGER_TYPE
+	I VILLAGER_PROFESSION
 	g SOUND_EVENT
 	h FLUID
 	i MOB_EFFECT
@@ -32,4 +34,5 @@ fk net/minecraft/core/MappedRegistry
 	a (Lqc;)Ljava/lang/Object; get
 	b (Ljava/lang/Object;)Lqc; getKey
 	b (Lqc;)Z containsKey
+	d ()Ljava/util/stream/Stream; stream
 	k ()Lqc; getDefault

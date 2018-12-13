@@ -1,0 +1,11 @@
+aqw net/minecraft/world/entity/npc/VillagerType
+	a DESERT
+	b JUNGLE
+	c PLAINS
+	d SAVANNA
+	e SNOW
+	f SWAMP
+	g TAIGA
+	h BIOME_MAP
+	a (Lbco;)Laqw; forBiome
+	a (Ljava/lang/String;)Laqw; register

@@ -8,6 +8,7 @@ cup net/minecraft/client/gui/screen/BookScreen
 	b (Ljava/lang/String;)V setValue
 	c ()V init
 	f ()V tick
+	v ()Ljava/lang/String; getServerBrand
 cup$1 net/minecraft/client/gui/screen/BookScreen$1
 	a (DD)V onClick
 cup$2 net/minecraft/client/gui/screen/BookScreen$2

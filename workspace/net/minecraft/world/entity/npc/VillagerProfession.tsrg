@@ -1,0 +1,17 @@
+aqu net/minecraft/world/entity/npc/VillagerProfession
+	a NONE
+	b ARMORER
+	c BUTCHER
+	d CARTOGRAPHER
+	e CLERIC
+	f FARMER
+	g FISHERMAN
+	h FLETCHER
+	i LEATHERWORKER
+	j LIBRARIAN
+	k MASON
+	l NITWIT
+	m SHEPHERD
+	n TOOLSMITH
+	o WEAPONSMITH
+	a (Ljava/lang/String;)Laqu; register
