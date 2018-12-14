@@ -1,0 +1,5 @@
+zf net/minecraft/util/data/DataFixerManager
+	c DATA_FIXER
+	a ()Lcom/mojang/datafixers/DataFixer; get
+	a (Lcom/mojang/datafixers/DataFixerBuilder;)V install
+	b ()Lcom/mojang/datafixers/DataFixer; create

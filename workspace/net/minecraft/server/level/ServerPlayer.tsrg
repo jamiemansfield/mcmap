@@ -8,7 +8,7 @@ us net/minecraft/server/level/ServerPlayer
 	a (Ljd;)V updateLastOutput
 	b (Lhs;)V write
 	s ()Luq; getLevel
-	t ()Z isCreative
+	t ()Z isSpectator
 	u ()Z isCreative
 	v ()Ljava/lang/String; getServerBrand
 	w_ ()V tick

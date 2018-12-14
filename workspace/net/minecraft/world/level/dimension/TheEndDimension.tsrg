@@ -1,0 +1,2 @@
+bsl net/minecraft/world/level/dimension/TheEndDimension
+	p ()Lbsg; getType
