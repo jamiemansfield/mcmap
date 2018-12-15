@@ -1,0 +1,2 @@
+bmv net/minecraft/world/level/block/WallBlock
+	a (Lbpm;Lbbb;Let;)Lcmx; getOutlineAABB

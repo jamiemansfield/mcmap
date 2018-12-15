@@ -1,0 +1,2 @@
+bmu net/minecraft/world/level/block/WallBannerBlock
+	a (Lbpm;Lbbb;Let;)Lcmx; getOutlineAABB

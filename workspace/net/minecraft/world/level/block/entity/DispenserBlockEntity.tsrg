@@ -1,2 +1,3 @@
 bny net/minecraft/world/level/block/entity/DispenserBlockEntity
 	a RANDOM
+	a (Lhs;)V read

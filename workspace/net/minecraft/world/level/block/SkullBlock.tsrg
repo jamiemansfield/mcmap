@@ -1,0 +1,2 @@
+bll net/minecraft/world/level/block/SkullBlock
+	a (Lbpm;Lbbb;Let;)Lcmx; getOutlineAABB

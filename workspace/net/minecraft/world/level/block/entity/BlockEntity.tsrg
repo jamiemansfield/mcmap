@@ -1,6 +1,13 @@
 bnq net/minecraft/world/level/block/entity/BlockEntity
 	b type
+	c state
 	d level
+	e pos
 	A ()Lbnr; getType
 	C ()Lbbp; getLevel
 	a (Lbbp;)V setLevel
+	a (Lc;)V populateCrashReport
+	a (Lhs;)V read
+	c (Lhs;)Lbnq; create
+	o ()Let; getPos
+	u ()Lbpm; getState

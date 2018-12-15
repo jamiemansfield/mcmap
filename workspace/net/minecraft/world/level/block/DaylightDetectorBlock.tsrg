@@ -1,0 +1,2 @@
+bhv net/minecraft/world/level/block/DaylightDetectorBlock
+	a (Lbpm;Lbbb;Let;)Lcmx; getOutlineAABB

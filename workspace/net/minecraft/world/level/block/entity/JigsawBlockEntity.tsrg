@@ -1,1 +1,2 @@
 bof net/minecraft/world/level/block/entity/JigsawBlockEntity
+	a (Lhs;)V read

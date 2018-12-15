@@ -1,1 +1,2 @@
 bor net/minecraft/world/level/block/entity/EndGatewayBlockEntity
+	a (Lhs;)V read

@@ -1,4 +1,5 @@
 tr net/minecraft/server/dedicated/DedicatedServer
+	l rconListener
 	n gameMode
 	d ()Z start
 	g ()Lbbm; getGameMode

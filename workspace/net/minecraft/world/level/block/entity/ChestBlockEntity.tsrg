@@ -1,1 +1,2 @@
 bnt net/minecraft/world/level/block/entity/ChestBlockEntity
+	a (Lhs;)V read

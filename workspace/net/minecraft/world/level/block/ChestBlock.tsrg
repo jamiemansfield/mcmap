@@ -1,0 +1,2 @@
+bhg net/minecraft/world/level/block/ChestBlock
+	a (Lbpm;Lbbb;Let;)Lcmx; getOutlineAABB

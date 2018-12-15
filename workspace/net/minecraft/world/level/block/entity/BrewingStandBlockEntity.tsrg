@@ -1,2 +1,3 @@
 bns net/minecraft/world/level/block/entity/BrewingStandBlockEntity
+	a (Lhs;)V read
 	i ()I y1

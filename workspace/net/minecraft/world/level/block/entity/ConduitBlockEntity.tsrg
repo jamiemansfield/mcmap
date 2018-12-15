@@ -1,1 +1,2 @@
 bnw net/minecraft/world/level/block/entity/ConduitBlockEntity
+	a (Lhs;)V read

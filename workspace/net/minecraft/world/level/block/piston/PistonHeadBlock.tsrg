@@ -1,0 +1,2 @@
+bph net/minecraft/world/level/block/piston/PistonHeadBlock
+	a (Lbpm;Lbbb;Let;)Lcmx; getOutlineAABB

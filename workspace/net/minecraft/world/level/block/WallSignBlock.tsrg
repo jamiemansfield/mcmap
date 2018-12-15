@@ -1,0 +1,2 @@
+bmw net/minecraft/world/level/block/WallSignBlock
+	a (Lbpm;Lbbb;Let;)Lcmx; getOutlineAABB

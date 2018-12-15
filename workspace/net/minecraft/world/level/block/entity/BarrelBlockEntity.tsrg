@@ -1,1 +1,2 @@
 bnl net/minecraft/world/level/block/entity/BarrelBlockEntity
+	a (Lhs;)V read

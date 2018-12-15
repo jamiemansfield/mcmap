@@ -1,4 +1,6 @@
 qk net/minecraft/server/dedicated/EulaReader
 	b file
 	c accepted
+	a ()Z hasAccepted
+	b ()Z load
 	c ()V save

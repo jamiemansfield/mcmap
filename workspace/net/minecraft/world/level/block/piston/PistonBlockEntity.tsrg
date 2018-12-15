@@ -1,0 +1,2 @@
+bpi net/minecraft/world/level/block/piston/PistonBlockEntity
+	a (Lhs;)V read

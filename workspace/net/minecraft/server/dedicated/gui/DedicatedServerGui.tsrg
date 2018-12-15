@@ -1,0 +1,5 @@
+tx net/minecraft/server/dedicated/gui/DedicatedServerGui
+	a FONT
+	c server
+	d thread
+	a ()V startThread

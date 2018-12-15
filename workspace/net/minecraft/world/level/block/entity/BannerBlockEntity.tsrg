@@ -1,1 +1,2 @@
 bnj net/minecraft/world/level/block/entity/BannerBlockEntity
+	a (Lhs;)V read

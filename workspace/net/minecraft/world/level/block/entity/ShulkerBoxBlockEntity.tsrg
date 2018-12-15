@@ -1,1 +1,2 @@
 bol net/minecraft/world/level/block/entity/ShulkerBoxBlockEntity
+	a (Lhs;)V read

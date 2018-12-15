@@ -1,2 +1,0 @@
-bpg net/minecraft/world/level/block/Piston
-	a (Lbpm;Lbbb;Let;)Lcmx; getOutlineAABB

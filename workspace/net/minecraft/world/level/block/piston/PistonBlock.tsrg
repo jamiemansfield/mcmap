@@ -1,0 +1,3 @@
+bpg net/minecraft/world/level/block/piston/PistonBlock
+	b EXTENDED_PROPERTY
+	a (Lbpm;Lbbb;Let;)Lcmx; getOutlineAABB

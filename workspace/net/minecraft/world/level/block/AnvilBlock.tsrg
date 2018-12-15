@@ -1,0 +1,2 @@
+bfz net/minecraft/world/level/block/AnvilBlock
+	a (Lbpm;Lbbb;Let;)Lcmx; getOutlineAABB

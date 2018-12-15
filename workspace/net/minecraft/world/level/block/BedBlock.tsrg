@@ -1,0 +1,2 @@
+bgo net/minecraft/world/level/block/BedBlock
+	a (Lbpm;Lbbb;Let;)Lcmx; getOutlineAABB

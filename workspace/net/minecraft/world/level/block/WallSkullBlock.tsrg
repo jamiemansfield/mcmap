@@ -1,0 +1,2 @@
+bmx net/minecraft/world/level/block/WallSkullBlock
+	a (Lbpm;Lbbb;Let;)Lcmx; getOutlineAABB

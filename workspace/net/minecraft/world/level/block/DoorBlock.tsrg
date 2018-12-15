@@ -1,0 +1,2 @@
+bib net/minecraft/world/level/block/DoorBlock
+	a (Lbpm;Lbbb;Let;)Lcmx; getOutlineAABB

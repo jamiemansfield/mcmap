@@ -1,0 +1,2 @@
+bld net/minecraft/world/level/block/SaplingBlock
+	a (Lbpm;Lbbb;Let;)Lcmx; getOutlineAABB

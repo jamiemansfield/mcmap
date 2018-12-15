@@ -1,3 +1,4 @@
 bom net/minecraft/world/level/block/entity/SignBlockEntity
 	j player
+	a (Lhs;)V read
 	a (Ljd;)V updateLastOutput

@@ -1,0 +1,5 @@
+tv tv
+	b properties
+	b (Ljava/nio/file/Path;)Ljava/util/Properties; load
+	c (Ljava/lang/String;)Ljava/lang/String; get
+	c (Ljava/nio/file/Path;)V save

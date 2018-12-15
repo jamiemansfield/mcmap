@@ -1,4 +1,5 @@
 bnu net/minecraft/world/level/block/entity/CommandBlockBlockEntity
+	a (Lhs;)V read
 bnu$1 net/minecraft/world/level/block/entity/CommandBlockBlockEntity$1
 	a (Ljava/lang/String;)V setValue
 	d ()Luq; getLevel
