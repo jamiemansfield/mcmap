@@ -1,2 +1,4 @@
 bph net/minecraft/world/level/block/piston/PistonHeadBlock
+	b TYPE
+	c SHORT
 	a (Lbpm;Lbbb;Let;)Lcmx; getOutlineAABB

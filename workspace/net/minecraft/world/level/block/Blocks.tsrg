@@ -1,5 +1,14 @@
 bgt net/minecraft/world/level/block/Blocks
+	A WATER
+	B LAVA
 	a AIR
+	aO STICKY_PISTON
+	aP COBWEB
+	aQ GRASS
+	aR FERN
+	aS DEAD_BUSH
+	aT SEAGRASS
+	aU TALL_SEAGRASS
 	aV PISTON
 	aW PISTON_HEAD
 	b STONE
@@ -14,5 +23,14 @@ bgt net/minecraft/world/level/block/Blocks
 	f POLISHED_DIORITE
 	g ANDESITE
 	h POLISHED_ANDESITE
-	i GRASS
+	i GRASS_BLOCK
+	j DIRT
+	k COARSE_DIRT
+	l PODZOL
+	m COBBLESTONE
+	n OAK_PLANKS
+	o SPRUCE_PLANKS
+	p BIRCH_PLANKS
+	q JUNGLE_PLANKS
+	r ACACIA_PLANKS
 	a (Ljava/lang/String;Lbgs;)Lbgs; register

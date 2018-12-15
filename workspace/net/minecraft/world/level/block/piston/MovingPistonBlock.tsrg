@@ -1,0 +1,3 @@
+bpf net/minecraft/world/level/block/piston/MovingPistonBlock
+	b TYPE
+	a (Lbpm;Lbbb;Let;)Lcmx; getOutlineAABB

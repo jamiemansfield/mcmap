@@ -1,0 +1,7 @@
+bpr$b bpr$b
+	a frontTopLeft
+	b forwards
+	c up
+	a ()Let; getFrontTopLeft
+	b ()Ley; getForwards
+	c ()Ley; getForwards

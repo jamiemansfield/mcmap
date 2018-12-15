@@ -1,1 +1,4 @@
 avl net/minecraft/world/enums/BedColour
+	u materialColour
+	e ()Lcfi; getMaterialColour
+	m ()Ljava/lang/String; getId

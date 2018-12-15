@@ -1,0 +1,4 @@
+cdq net/minecraft/world/level/chunk/generator/surfacebuilder/SurfaceBuilderInstance
+	a builder
+	b config
+	a ()Lcec; getConfig

@@ -1,0 +1,3 @@
+xo net/minecraft/sound/SoundSource
+	l id
+	a ()Ljava/lang/String; getId

@@ -1,0 +1,3 @@
+bqa net/minecraft/world/level/block/state/property/Leaves
+	d id
+	m ()Ljava/lang/String; getId

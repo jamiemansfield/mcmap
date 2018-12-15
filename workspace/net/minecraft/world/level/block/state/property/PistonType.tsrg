@@ -1,0 +1,3 @@
+bqo net/minecraft/world/level/block/state/property/PistonType
+	c id
+	m ()Ljava/lang/String; getId

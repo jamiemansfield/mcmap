@@ -1,2 +1,8 @@
 bpi net/minecraft/world/level/block/piston/PistonBlockEntity
+	a state
+	b direction
+	c extending
+	g source
+	j progress
 	a (Lhs;)V read
+	d ()Ley; getDirection

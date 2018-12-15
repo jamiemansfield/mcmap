@@ -1,9 +1,10 @@
-cfi net/minecraft/world/level/map/MapColour
+cfi net/minecraft/world/level/material/MaterialColour
 	A BLUE
 	B BROWN
 	C GREEN
 	D RED
 	E BLACK
+	a COLOURS
 	ac id
 	j WHITE
 	q ORANGE

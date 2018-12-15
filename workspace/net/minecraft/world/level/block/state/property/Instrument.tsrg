@@ -1,0 +1,6 @@
+bqn net/minecraft/world/level/block/state/property/Instrument
+	k id
+	l soundEvent
+	a ()Lxm; getSoundEvent
+	a (Lbpm;)Lbqn; for
+	m ()Ljava/lang/String; getId

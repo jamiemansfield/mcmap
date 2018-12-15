@@ -1,4 +1,4 @@
-bpl net/minecraft/world/level/block/state/AbstractBlockState
+bpl net/minecraft/world/level/block/state/AbstractBlockPropertyContainer
 	d values
 	a ()Ljava/util/Collection; getPropertyValues
 	a (Lbqp;)Ljava/lang/Object; setValue

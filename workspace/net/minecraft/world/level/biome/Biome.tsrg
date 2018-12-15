@@ -1,1 +1,53 @@
 bco net/minecraft/world/level/biome/Biome
+	g depth
+	h scale
+	i temperature
+	j downfall
+	k waterColour
+	l waterFogColour
+	m parent
+	n surfaceBuilder
+	o category
+	p precipitation
+	a ()Z hasParent
+	b ()Lbco$d; getPrecipitation
+	g ()F getDepth
+	h ()F getDownfall
+	k ()F getScale
+	l ()F getTemperature
+	m ()I getWaterColour
+	n ()I getWaterFogColour
+	o ()Lbco$b; getCategory
+	p ()Lcdq; getSurfaceBuilder
+	q ()Lcec; getSurfaceBuilderConfig
+	r ()Ljava/lang/String; getParent
+bco$a net/minecraft/world/level/biome/Biome$Builder
+	a surfaceBuilder
+	b precipitation
+	c category
+	d depth
+	e scale
+	f temperature
+	g downfall
+	h waterColour
+	i waterFogColour
+	j parent
+	a (F)Lbco$a; depth
+	a (I)Lbco$a; waterColour
+	a (Lbco$b;)Lbco$a; category
+	a (Lbco$d;)Lbco$a; precipitation
+	a (Lcdq;)Lbco$a; surfaceBuilder
+	a (Ljava/lang/String;)Lbco$a; parent
+	b (F)Lbco$a; scale
+	b (I)Lbco$a; waterFogColour
+	c (F)Lbco$a; temperature
+	d (F)Lbco$a; downfall
+bco$b net/minecraft/world/level/biome/Biome$Category
+	s id
+	a ()Ljava/lang/String; getId
+bco$c net/minecraft/world/level/biome/Biome$c
+	f id
+	a ()Ljava/lang/String; getId
+bco$d net/minecraft/world/level/biome/Biome$Precipitation
+	e id
+	a ()Ljava/lang/String; getId

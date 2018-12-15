@@ -1,6 +1,9 @@
 bqd net/minecraft/world/level/block/state/property/Properties
 	A WATERLOGGED
 	a ATTATCHED
+	aC LEAVES
+	ax INSTRUMENT
+	ay PISTON_TYPE
 	b BOTTOM
 	c CONDITIONAL
 	d DISARMED

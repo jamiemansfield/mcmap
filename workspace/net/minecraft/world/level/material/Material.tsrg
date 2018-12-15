@@ -1,0 +1,6 @@
+cfh net/minecraft/world/level/material/Material
+	Q colour
+	i ()Lcfi; getColour
+cfh$a net/minecraft/world/level/material/Material$Builder
+	h colour
+	i ()Lcfh; build

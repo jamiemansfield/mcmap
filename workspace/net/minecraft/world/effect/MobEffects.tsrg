@@ -1,4 +1,4 @@
-agq net/minecraft/world/entity/MobEffects
+agq net/minecraft/world/effect/MobEffects
 	A UNLUCK
 	B SLOW_FALLING
 	C CONDUIT_POWER

@@ -1,6 +1,8 @@
 ey net/minecraft/core/Direction
 	e ()Ley; rotateY
+	m ()Ljava/lang/String; getId
 	o ()Ley; rotateX
 	q ()Ley; rotateZ
 ey$a net/minecraft/core/Direction$Axis
+	m ()Ljava/lang/String; getId
 ey$c net/minecraft/core/Direction$Plane
