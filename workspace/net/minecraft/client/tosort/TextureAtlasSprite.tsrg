@@ -1,4 +1,4 @@
-dno net/minecraft/tosort/client/TextureAtlasSprite
+dno net/minecraft/client/tosort/TextureAtlasSprite
 	a width
 	b height
 	g rotated

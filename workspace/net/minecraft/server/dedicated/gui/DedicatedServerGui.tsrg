@@ -3,3 +3,6 @@ tx net/minecraft/server/dedicated/gui/DedicatedServerGui
 	c server
 	d thread
 	a ()V startThread
+	c ()Ljavax/swing/JComponent; createStatsComponent
+	d ()Ljavax/swing/JComponent; createsPlayersComponent
+	e ()Ljavax/swing/JComponent; createLogComponent

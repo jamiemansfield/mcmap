@@ -1,0 +1,3 @@
+dqh net/minecraft/client/tosort/SuffixArray
+	b PRINT_COMPARISIONS
+	c PRINT_ARRAY

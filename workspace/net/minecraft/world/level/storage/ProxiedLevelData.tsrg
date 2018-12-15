@@ -1,22 +1,41 @@
 cid net/minecraft/world/level/storage/ProxiedLevelData
 	b data
+	a ()J getRandomSeed
 	a (I)V setSpawnX
 	a (J)V setTime
 	a (Lafm;)V setDifficulty
 	a (Lbby;)V setGeneratorType
 	a (Let;)V setSpawn
 	a (Ljava/lang/String;)V setName
+	a (Z)V setThundering
 	b ()I getSpawnX
 	b (I)V setSpawnY
+	b (J)V setDayTime
+	b (Z)V setRaining
 	c ()I getSpawnY
 	c (I)V setSpawnZ
+	c (Z)V setCheats
 	d ()I getSpawnZ
+	d (I)V setVersion
+	d (Z)V setInitialised
 	e ()J getTime
+	e (I)V setThunderTime
+	e (Z)V setDifficultyLocked
+	f ()J getDayTime
+	f (I)V setRainTime
 	g ()J getSizeOnDisk
 	j ()Ljava/lang/String; getName
+	k ()I getVersion
 	l ()J getLastPlayed
+	m ()Z isThundering
+	n ()I getThunderTime
+	o ()Z isRaining
+	p ()I getRainTime
 	q ()Lbbm; getGameMode
+	r ()Z getMapFeatures
 	s ()Z isHardcore
 	t ()Lbby; getGeneratorType
 	u ()Z isCheats
+	v ()Z isInitialised
 	x ()Lafm; getDifficulty
+	y ()Z isDifficultyLocked

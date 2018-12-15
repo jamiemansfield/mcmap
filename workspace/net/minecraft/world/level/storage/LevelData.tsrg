@@ -1,39 +1,108 @@
 cih net/minecraft/world/level/storage/LevelData
+	A thunderTime
 	B gameMode
+	C mapFeatures
+	D hardcore
+	E allowCommands
+	F initialised
 	G difficulty
+	H difficultyLocked
+	I borderCentreX
+	J borderCentreZ
+	K borderSize
+	L borderSizeLerpTime
+	M borderSizeLerpTarget
+	N borderSafeZone
+	O borderDamagePerBlock
+	P borderWarningBlocks
+	Q borderWarningTime
+	U customBossEvents
 	a DEFAULT_DIFFICULTY
 	b versionName
 	c versionId
 	d versionSnapshot
+	e randomSeed
+	f generator
+	h legacyCustomOptions
 	i spawnX
 	j spawnY
 	k spawnZ
 	l time
+	m dayTime
 	n lastPlayed
 	o sizeOnDisk
 	p dataFixer
 	u name
+	v version
+	w clearWeatherTime
+	x raining
+	y rainTime
+	z thundering
+	A ()I getClearWeatherTime
+	C ()D getBorderCentreX
+	D ()D getBorderCentreZ
+	E ()D getBorderSize
+	F ()J getBorderSizeLerpTime
+	G ()D getBorderSizeLerpTarget
+	H ()D getBorderSafeZone
+	I ()D getBorderDamagePerBlock
+	J ()I getBorderWarningBlocks
+	K ()I getBorderWarningTime
 	L ()I getVersionId
 	M ()Z isVersionSnapshot
 	N ()Ljava/lang/String; getVersionName
+	Q ()Lhs; getCustomBossEvents
+	a ()J getRandomSeed
+	a (D)V setBorderSize
 	a (I)V setSpawnX
 	a (J)V setTime
 	a (Lafm;)V setDifficulty
 	a (Lbbm;)V setGameMode
 	a (Lbby;)V setGeneratorType
+	a (Lc;)V populateCrashReport
 	a (Let;)V setSpawn
 	a (Ljava/lang/String;)V setName
+	a (Z)V setThundering
 	b ()I getSpawnX
+	b (D)V setBorderSizeLerpTarget
 	b (I)V setSpawnY
+	b (J)V setDayTime
+	b (Z)V setRaining
 	c ()I getSpawnY
+	c (D)V setBorderCentreZ
 	c (I)V setSpawnZ
+	c (J)V setBorderSizeLerpTime
+	c (Lhs;)V setCustomBossEvents
+	c (Z)V setCheats
 	d ()I getSpawnZ
+	d (D)V setBorderCentreX
+	d (I)V setVersion
+	d (Z)V setInitialised
 	e ()J getTime
+	e (D)V setBorderSafeZone
+	e (I)V setThunderTime
+	e (Z)V setDifficultyLocked
+	f ()J getDayTime
+	f (D)V setBorderDamagePerBlock
+	f (I)V setRainTime
+	f (Z)V setMapFeatures
 	g ()J getSizeOnDisk
+	g (I)V setClearWeatherTime
+	g (Z)V setHardcore
+	h (I)V setBorderWarningBlocks
+	i (I)V setBorderWarningTime
 	j ()Ljava/lang/String; getName
+	k ()I getVersion
 	l ()J getLastPlayed
+	m ()Z isThundering
+	n ()I getThunderTime
+	o ()Z isRaining
+	p ()I getRainTime
 	q ()Lbbm; getGameMode
+	r ()Z getMapFeatures
 	s ()Z isHardcore
 	t ()Lbby; getGeneratorType
 	u ()Z isCheats
+	v ()Z isInitialised
 	x ()Lafm; getDifficulty
+	y ()Z isDifficultyLocked

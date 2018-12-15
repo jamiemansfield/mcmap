@@ -1,4 +1,8 @@
 cou net/minecraft/client/BufferBuilder
+	b buffer
+	f vertexCount
+	j drawMode
+	n vertexFormat
 	a (DD)Lcou; tex
 	a (DDD)V postProcessFacePosition
 	a (FFF)V sortQuads

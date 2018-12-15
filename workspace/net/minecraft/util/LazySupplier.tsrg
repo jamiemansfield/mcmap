@@ -1,4 +1,4 @@
-yt net/minecraft/util/CachingSupplier
+yt net/minecraft/util/LazySupplier
 	a supplier
 	b value
 	a ()Ljava/lang/Object; get
