@@ -1,5 +1,6 @@
 uy uy
 	k dimension
+	a (IILbrf;Z)Lbra; createChunk
 	a (Let;Lbpm;I)Z setBlock
 	b (Let;)Lbpm; getBlockState
 	d (Let;)Z isEmptyBlock
@@ -7,3 +8,4 @@ uy uy
 	g ()Lcih; getData
 	m ()Ljava/util/Random; getRandom
 	o ()Lbsf; getDimension
+	r_ ()J getRandomSeed

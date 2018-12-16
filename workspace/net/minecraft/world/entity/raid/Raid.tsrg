@@ -1,0 +1,23 @@
+asf net/minecraft/world/entity/raid/Raid
+	d ticksActive
+	f level
+	g markedForRemoval
+	i started
+	j ignoreDayRequirment
+	k id
+	l totalHealth
+	m badOmenLevel
+	n active
+	o groupsSpawned
+	q postRaidTicks
+	r preRaidTicks
+	a (Lbbp;)V setLevel
+	a (Lhs;)V read
+	b (Lhs;)Lhs; write
+	c ()Lbbp; getLevel
+	f ()Z isStarted
+	g ()I getGroupsSpawned
+	i ()I getBadOmenLevel
+	k ()Z isMarkedForRemoval
+	q ()I getId
+	r ()Z isActive

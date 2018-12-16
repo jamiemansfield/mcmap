@@ -1,4 +1,5 @@
 bbp net/minecraft/world/level/Level
+	A raidManager
 	G profiler
 	j players
 	s random
@@ -9,12 +10,17 @@ bbp net/minecraft/world/level/Level
 	B ()Lyg; getTagManager
 	Q ()Lbby; getGeneratorType
 	T ()J getTime
+	U ()J getDayTime
+	a (I)Z outsideHeightBounds
+	a (IILbrf;Z)Lbra; createChunk
 	a (J)V setTime
 	a (Lagv;Z)V tick
 	a (Lb;)Lc; populateCrashReport
 	a (Lbbs;)V addListener
 	a (Let;Lbpm;I)Z setBlock
+	ac ()Lash; getRaidManager
 	af ()Laeu; getProfiler
+	b (J)V setDayTime
 	b (Lbbs;)V removeListener
 	b (Let;)Lbpm; getBlockState
 	c (II)Lbrm; createChunk
@@ -22,9 +28,11 @@ bbp net/minecraft/world/level/Level
 	f ()Lbbp; getLevel
 	g ()Lcih; getData
 	m ()Ljava/util/Random; getRandom
+	m (Let;)Z outsideHeightBounds
 	m_ ()V tickEntities
 	n (Let;)Lbrm; createChunk
 	n_ ()V tickPlayers
 	o ()Lbsf; getDimension
+	r_ ()J getRandomSeed
 	w ()Lnet/minecraft/server/MinecraftServer; getServer
 	y (Let;)V setSpawn

@@ -3,3 +3,4 @@ bbq bbq
 	f ()Lbbp; getLevel
 	g ()Lcih; getData
 	m ()Ljava/util/Random; getRandom
+	r_ ()J getRandomSeed

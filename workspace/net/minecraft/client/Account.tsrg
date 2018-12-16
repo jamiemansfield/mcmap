@@ -1,0 +1,14 @@
+cpr net/minecraft/client/Account
+	a userName
+	b uuid
+	c token
+	d type
+	a ()Ljava/lang/String; getSessionId
+	b ()Ljava/lang/String; getUuid
+	c ()Ljava/lang/String; getUserName
+	d ()Ljava/lang/String; getToken
+	e ()Lcom/mojang/authlib/GameProfile; computeGameProfile
+cpr$a net/minecraft/client/Account$Type
+	c TYPES
+	d id
+	a (Ljava/lang/String;)Lcpr$a; of

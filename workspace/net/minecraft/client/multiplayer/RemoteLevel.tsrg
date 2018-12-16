@@ -3,3 +3,4 @@ dbi net/minecraft/client/multiplayer/RemoteLevel
 	A ()Layx; getRecipeManager
 	B ()Lyg; getTagManager
 	a (Lb;)Lc; populateCrashReport
+	b (J)V setDayTime

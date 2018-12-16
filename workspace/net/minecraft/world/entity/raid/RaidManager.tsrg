@@ -1,0 +1,10 @@
+ash net/minecraft/world/entity/raid/RaidManager
+	a raids
+	c level
+	d nextAvailableId
+	e tick
+	a (I)Lasf; getRaid
+	a (Lbbp;)V setLevel
+	a (Lhs;)V read
+	b (Lhs;)Lhs; write
+	c ()I getNextAvailableId
