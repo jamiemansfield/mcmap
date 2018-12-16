@@ -1,4 +1,5 @@
-avl net/minecraft/world/enums/BedColour
+avl net/minecraft/world/item/BedColour
+	t id
 	u materialColour
 	e ()Lcfi; getMaterialColour
 	m ()Ljava/lang/String; getId

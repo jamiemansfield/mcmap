@@ -20,4 +20,17 @@ age net/minecraft/world/damage/DamageSource
 	s DRAGON_BREATH
 	t FIREWORKS
 	u DRYOUT
+	v SWEET_BERRY_BUSH
 	a ()Lage; netherBed
+	a (Lagv;)Lage; thorns
+	a (Lagv;Lagv;)Lage; trident
+	a (Lagv;Lahe;)Lage; mob
+	a (Lahe;)Lage; mob
+	a (Larb;)Lage; player
+	a (Larf;Lagv;)Lage; arrow
+	a (Larg;Lagv;)Lage; fire
+	a (Lbbi;)Lage; explosion
+	b (Lagv;Lagv;)Lage; thrown
+	b (Lahe;)Lage; explosion
+	c (Lagv;Lagv;)Lage; indirectMagic
+	k ()Lagv; getSource

@@ -2,6 +2,13 @@ awp net/minecraft/world/item/Items
 	a AIR
 	b STONE
 	c GRANITE
+	oQ ELYTRA
+	pJ SWEET_BERRIES
+	po PHANTOM_MEMBRANE
+	pu FLOWER_BANNER_PATTERN
+	pv CREEPER_BANNER_PATTERN
+	pw SKULL_BANNER_PATTERN
+	px MOJANG_BANNER_PATTERN
 	a (Laur;)Lawj; register
 	a (Lbgs;)Lawj; register
 	a (Lbgs;Lavg;)Lawj; register

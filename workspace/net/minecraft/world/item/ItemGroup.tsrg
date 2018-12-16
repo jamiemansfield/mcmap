@@ -1,0 +1,39 @@
+avg net/minecraft/world/item/ItemGroup
+	a GROUPS
+	b BUILDING_BLOCKS
+	c DECORATIONS
+	d REDSTONE
+	e TRANSPORTATION
+	f MISC
+	g SEARCH
+	h FOOD
+	i TOOLS
+	j COMBAT
+	k BREWING
+	m HOTBAR
+	n INVENTORY
+	f ()Lawo; getGraphic
+avg$1 net/minecraft/world/item/ItemGroup$1
+	f ()Lawo; getGraphic
+avg$2 net/minecraft/world/item/ItemGroup$2
+	f ()Lawo; getGraphic
+avg$3 net/minecraft/world/item/ItemGroup$3
+	f ()Lawo; getGraphic
+avg$4 net/minecraft/world/item/ItemGroup$4
+	f ()Lawo; getGraphic
+avg$5 net/minecraft/world/item/ItemGroup$5
+	f ()Lawo; getGraphic
+avg$6 net/minecraft/world/item/ItemGroup$6
+	f ()Lawo; getGraphic
+avg$7 net/minecraft/world/item/ItemGroup$7
+	f ()Lawo; getGraphic
+avg$8 net/minecraft/world/item/ItemGroup$8
+	f ()Lawo; getGraphic
+avg$9 net/minecraft/world/item/ItemGroup$9
+	f ()Lawo; getGraphic
+avg$10 net/minecraft/world/item/ItemGroup$10
+	f ()Lawo; getGraphic
+avg$11 net/minecraft/world/item/ItemGroup$11
+	f ()Lawo; getGraphic
+avg$12 net/minecraft/world/item/ItemGroup$12
+	f ()Lawo; getGraphic

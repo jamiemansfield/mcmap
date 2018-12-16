@@ -1,0 +1,3 @@
+agf net/minecraft/world/damage/EntityDamageSource
+	x source
+	k ()Lagv; getSource

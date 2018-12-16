@@ -1,0 +1,3 @@
+aur net/minecraft/world/item/BlockItem
+	a block
+	d ()Lbgs; getBlock

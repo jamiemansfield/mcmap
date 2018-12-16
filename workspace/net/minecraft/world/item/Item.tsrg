@@ -1,4 +1,21 @@
 awj net/minecraft/world/item/Item
+	j group
+	l rarity
+	m maxStackSize
+	n maxDamage
 	b (I)Lawj; byId
 	h ()Lawj; getItem
-	r ()Lawo; createInstance
+	i ()I getMaxStackSize
+	j ()I getMaxDamage
+	k ()Z canDamage
+	q ()Lavg; getGroup
+	r ()Lawo; createStack
+awj$a net/minecraft/world/item/Item$Builder
+	a maxStackSize
+	b maxDamage
+	d group
+	e rarity
+	a (I)Lawj$a; maxStackSize
+	a (Lavg;)Lawj$a; group
+	a (Laxb;)Lawj$a; rarity
+	c (I)Lawj$a; maxDamage
