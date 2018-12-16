@@ -1,3 +1,1 @@
-dhu net/minecraft/client/renderer/entity/ZombieRenderer
-	a TEXTURE
-	a (Lagv;)Lqc; getTexture
+dlo net/minecraft/client/renderer/entity/ZombieRenderer

@@ -1,0 +1,2 @@
+bmi net/minecraft/world/level/block/SweetBerryBushBlock
+	a (Lbpm;Lbbb;Let;)Lcmx; getOutlineAABB

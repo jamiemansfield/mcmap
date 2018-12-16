@@ -1,0 +1,13 @@
+cuh net/minecraft/client/gui/screen/options/ControlsOptionsScreen
+	i previousScreen
+	s options
+	a (DDI)Z mouseClicked
+	a (IIF)V render
+	b (DDI)Z mouseReleased
+	c ()V init
+cuh$1 net/minecraft/client/gui/screen/options/ControlsOptionsScreen$1
+	a (DD)V onClick
+cuh$2 net/minecraft/client/gui/screen/options/ControlsOptionsScreen$2
+	a (DD)V onClick
+cuh$3 net/minecraft/client/gui/screen/options/ControlsOptionsScreen$3
+	a (DD)V onClick

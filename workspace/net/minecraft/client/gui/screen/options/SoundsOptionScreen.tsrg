@@ -1,0 +1,14 @@
+ctt net/minecraft/client/gui/screen/options/SoundsOptionScreen
+	f previousScreen
+	g options
+	a (IIF)V render
+	c ()V init
+ctt$1 net/minecraft/client/gui/screen/options/SoundsOptionScreen$1
+	a (DD)V onClick
+ctt$2 net/minecraft/client/gui/screen/options/SoundsOptionScreen$2
+	a (DD)V onClick
+ctt$a net/minecraft/client/gui/screen/options/SoundsOptionScreen$a
+	a (DD)V onClick
+	a (Lcpk;II)V renderBg
+	a (Z)I getYImage
+	b (DD)V onRelease

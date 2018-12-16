@@ -1,4 +1,4 @@
-arf arf
+arf net/minecraft/world/entity/projectile/AbstractArrow
 	a (D)Z mouseScrolled
 	a (I)V setSuccessCount
 	a (Lhs;)V read

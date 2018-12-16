@@ -1,0 +1,3 @@
+dhu net/minecraft/client/renderer/entity/AbstractZombieRenderer
+	a TEXTURE
+	a (Lagv;)Lqc; getTexture

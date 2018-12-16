@@ -1,0 +1,3 @@
+dkk net/minecraft/client/renderer/entity/SalmonRenderer
+	a TEXTURE
+	a (Lagv;)Lqc; getTexture

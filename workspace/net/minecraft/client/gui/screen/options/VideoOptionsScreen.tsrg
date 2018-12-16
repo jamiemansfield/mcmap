@@ -1,5 +1,5 @@
 ctv net/minecraft/client/gui/screen/options/VideoOptionsScreen
-	f previousSCreen
+	f previousScreen
 	g options
 	a (DDI)Z mouseClicked
 	a (IIF)V render

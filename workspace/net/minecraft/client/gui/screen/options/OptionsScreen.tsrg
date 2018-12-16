@@ -1,0 +1,31 @@
+ctj net/minecraft/client/gui/screen/options/OptionsScreen
+	g previousScreen
+	h options
+	a (IIF)V render
+	c ()V init
+ctj$1 net/minecraft/client/gui/screen/options/OptionsScreen$1
+	a (DD)V onClick
+ctj$2 net/minecraft/client/gui/screen/options/OptionsScreen$2
+	a (DD)V onClick
+ctj$3 net/minecraft/client/gui/screen/options/OptionsScreen$3
+	a (DD)V onClick
+ctj$4 net/minecraft/client/gui/screen/options/OptionsScreen$4
+	a (DD)V onClick
+ctj$5 net/minecraft/client/gui/screen/options/OptionsScreen$5
+	a (DD)V onClick
+ctj$6 net/minecraft/client/gui/screen/options/OptionsScreen$6
+	a (DD)V onClick
+ctj$7 net/minecraft/client/gui/screen/options/OptionsScreen$7
+	a (DD)V onClick
+ctj$8 net/minecraft/client/gui/screen/options/OptionsScreen$8
+	a (DD)V onClick
+ctj$9 net/minecraft/client/gui/screen/options/OptionsScreen$9
+	a (DD)V onClick
+ctj$10 net/minecraft/client/gui/screen/options/OptionsScreen$10
+	a (DD)V onClick
+ctj$11 net/minecraft/client/gui/screen/options/OptionsScreen$11
+	a (DD)V onClick
+ctj$12 net/minecraft/client/gui/screen/options/OptionsScreen$12
+	a (DD)V onClick
+ctj$13 net/minecraft/client/gui/screen/options/OptionsScreen$13
+	a (DD)V onClick

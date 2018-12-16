@@ -1,4 +1,5 @@
 ctx ctx
+	a previousScreen
 	a (IIF)V render
 	c ()V init
 	e ()Z isPauseScreen

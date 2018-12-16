@@ -1,6 +1,6 @@
 ctp net/minecraft/client/gui/screen/Screen
 	f PROTOCOLS
-	k client
+	k minecraft
 	a (IIF)V render
 	a (Lawo;II)V renderTooltip
 	a (Lcpk;II)V init

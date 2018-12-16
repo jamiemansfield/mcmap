@@ -1,4 +1,5 @@
 awo net/minecraft/world/item/ItemStack
+	a NULL
 	d count
 	f item
 	g tag
@@ -6,6 +7,7 @@ awo net/minecraft/world/item/ItemStack
 	a (Lhs;)Lawo; load
 	b ()Lawj; getItem
 	b (I)V setDamage
-	b (Lhs;)Lhs; writeToTag
+	b (Lhs;)Lhs; write
 	c (I)V setRepairCost
 	g ()I getDamage
+	h ()I getMaxDamage

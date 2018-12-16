@@ -1,0 +1,9 @@
+csr net/minecraft/client/gui/screen/options/ChatOptionsScreen
+	f previousScreen
+	g options
+	a (IIF)V render
+	c ()V init
+csr$1 net/minecraft/client/gui/screen/options/ChatOptionsScreen$1
+	a (DD)V onClick
+csr$2 net/minecraft/client/gui/screen/options/ChatOptionsScreen$2
+	a (DD)V onClick

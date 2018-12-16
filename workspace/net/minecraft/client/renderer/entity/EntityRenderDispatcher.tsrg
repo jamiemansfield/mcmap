@@ -4,3 +4,4 @@ dit net/minecraft/client/renderer/entity/EntityRenderDispatcher
 	k renderers
 	a (Lagv;)Ldiu; getRenderer
 	a (Ljava/lang/Class;)Ldiu; getRenderer
+	a (Ljava/lang/Class;Ldiu;)V register

@@ -1,0 +1,2 @@
+boq net/minecraft/world/level/block/entity/StructureBlockEntity
+	a (Lhs;)V read

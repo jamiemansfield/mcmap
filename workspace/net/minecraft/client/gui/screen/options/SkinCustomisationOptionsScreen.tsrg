@@ -1,0 +1,10 @@
+ctr net/minecraft/client/gui/screen/options/SkinCustomisationOptionsScreen
+	a previousScreen
+	a (IIF)V render
+	c ()V init
+ctr$1 net/minecraft/client/gui/screen/options/SkinCustomisationOptionsScreen$1
+	a (DD)V onClick
+ctr$2 net/minecraft/client/gui/screen/options/SkinCustomisationOptionsScreen$2
+	a (DD)V onClick
+ctr$a net/minecraft/client/gui/screen/options/SkinCustomisationOptionsScreen$a
+	a (DD)V onClick

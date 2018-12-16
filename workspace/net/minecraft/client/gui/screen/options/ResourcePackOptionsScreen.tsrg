@@ -1,0 +1,8 @@
+cwm net/minecraft/client/gui/screen/options/ResourcePackOptionsScreen
+	a previousScreen
+	a (IIF)V render
+	c ()V init
+cwm$1 net/minecraft/client/gui/screen/options/ResourcePackOptionsScreen$1
+	a (DD)V onClick
+cwm$2 net/minecraft/client/gui/screen/options/ResourcePackOptionsScreen$2
+	a (DD)V onClick
