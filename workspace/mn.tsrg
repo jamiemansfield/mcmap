@@ -1,3 +1,4 @@
 mn mn
 	a (Lit;)V read
+	a (Liw;)V accept
 	b (Lit;)V write

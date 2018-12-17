@@ -3,3 +3,4 @@ aqm net/minecraft/world/entity/monster/Zombie
 	a (Lhs;)V read
 	b (Lhs;)V write
 	dD ()Z mayBuild
+	u (Z)V setHasRaidGoal

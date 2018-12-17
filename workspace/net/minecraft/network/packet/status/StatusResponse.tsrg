@@ -1,0 +1,29 @@
+pm net/minecraft/network/packet/status/StatusResponse
+	a description
+	b players
+	c version
+	d favicon
+	a ()Ljd; getDescription
+	a (Ljava/lang/String;)V setFavicon
+	a (Ljd;)V setDescription
+	a (Lpm$a;)V setPlayers
+	a (Lpm$c;)V setVersion
+	b ()Lpm$a; getPlayers
+	c ()Lpm$c; getVersion
+	d ()Ljava/lang/String; getFavicon
+pm$a net/minecraft/network/packet/status/StatusResponse$Players
+	a max
+	b online
+	c players
+	a ()I getMax
+	a ([Lcom/mojang/authlib/GameProfile;)V setPlayers
+	b ()I getOnline
+	c ()[Lcom/mojang/authlib/GameProfile; getPlayers
+pm$a$a net/minecraft/network/packet/status/StatusResponse$Players$Serialiser
+pm$b net/minecraft/network/packet/status/StatusResponse$Serialiser
+pm$c net/minecraft/network/packet/status/StatusResponse$Version
+	a name
+	b protocol
+	a ()Ljava/lang/String; getName
+	b ()I getProtocol
+pm$c$a net/minecraft/network/packet/status/StatusResponse$Version$Serialiser

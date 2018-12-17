@@ -1,0 +1,7 @@
+pl net/minecraft/network/packet/status/CStatusResponsePacket
+	b response
+	a (Lit;)V read
+	a (Liw;)V accept
+	a (Lpj;)V accept
+	b ()Lpm; getResponse
+	b (Lit;)V write

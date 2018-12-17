@@ -7,3 +7,4 @@ dfm net/minecraft/client/renderer/Variant
 	b ()Ldoz; getRotation
 	c ()Z getUvLock
 	d ()I getWeight
+dfm$a net/minecraft/client/renderer/Variant$Serialiser

@@ -1,6 +1,6 @@
 dee net/minecraft/client/renderer/LevelRenderer
 	W chunkBatcher
-	h client
+	h minecraft
 	j entityRenderDispatcher
 	k level
 	a (Larb;Lcma;IF)V renderHitOutline

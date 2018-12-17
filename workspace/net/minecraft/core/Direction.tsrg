@@ -4,5 +4,17 @@ ey net/minecraft/core/Direction
 	o ()Ley; rotateX
 	q ()Ley; rotateZ
 ey$a net/minecraft/core/Direction$Axis
+	e id
+	a (DDD)D get
+	a (III)I get
 	m ()Ljava/lang/String; getId
+ey$a$1 net/minecraft/core/Direction$Axis$1
+	a (DDD)D get
+	a (III)I get
+ey$a$2 net/minecraft/core/Direction$Axis$2
+	a (DDD)D get
+	a (III)I get
+ey$a$3 net/minecraft/core/Direction$Axis$3
+	a (DDD)D get
+	a (III)I get
 ey$c net/minecraft/core/Direction$Plane

@@ -1,2 +1,3 @@
 cl net/minecraft/command/arguments/ItemEnchantmentArgumentType
+	b EXAMPLES
 	a ()Lcl; create

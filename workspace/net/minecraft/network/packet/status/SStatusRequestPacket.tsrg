@@ -1,0 +1,5 @@
+pp net/minecraft/network/packet/status/SStatusRequestPacket
+	a (Lit;)V read
+	a (Liw;)V accept
+	a (Lpn;)V accept
+	b (Lit;)V write

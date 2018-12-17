@@ -1,2 +1,3 @@
 ch net/minecraft/command/arguments/EntityAnchorArgumentType
+	a EXAMPLES
 	a ()Lch; create

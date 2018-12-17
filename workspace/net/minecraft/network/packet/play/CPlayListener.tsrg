@@ -1,0 +1,2 @@
+ju net/minecraft/network/packet/play/CPlayListener
+	a (Ljv;)V onSpawnObject

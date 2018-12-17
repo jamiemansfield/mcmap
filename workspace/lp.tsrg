@@ -2,6 +2,7 @@ lp lp
 	a action
 	b entries
 	a (Lit;)V read
+	a (Liw;)V accept
 	b ()Ljava/util/List; getEntries
 	b (Lit;)V write
 	c ()Llp$a; getAction

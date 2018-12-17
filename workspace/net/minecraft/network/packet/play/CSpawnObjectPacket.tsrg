@@ -1,0 +1,33 @@
+jv net/minecraft/network/packet/play/CSpawnObjectPacket
+	a entityId
+	b objectId
+	c x
+	d y
+	e z
+	f velocityX
+	g velocityY
+	h velocityZ
+	i pitch
+	j yaw
+	k objectType
+	l data
+	a (I)V setVelocityX
+	a (Lit;)V read
+	a (Liw;)V accept
+	a (Lju;)V accept
+	b ()I getEntityId
+	b (I)V setVelocityY
+	b (Lit;)V write
+	c ()Ljava/util/UUID; getObjectId
+	c (I)V setVelocityZ
+	d ()D getX
+	d (I)V setData
+	e ()D getY
+	f ()D getZ
+	g ()I getVelocityX
+	h ()I getVelocityY
+	i ()I getVelocityZ
+	j ()I getPitch
+	k ()I getYaw
+	l ()I getObjectType
+	m ()I getData

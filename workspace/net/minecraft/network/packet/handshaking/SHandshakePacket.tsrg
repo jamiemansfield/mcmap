@@ -1,9 +1,10 @@
-ou net/minecraft/network/packet/handshaking/HandshakePacket
+ou net/minecraft/network/packet/handshaking/SHandshakePacket
 	a protocolVersion
 	b address
 	c port
 	d nextProtocol
 	a (Lit;)V read
+	a (Liw;)V accept
 	a (Lov;)V accept
 	b ()Lis; getNextProtocol
 	b (Lit;)V write

@@ -1,3 +1,6 @@
 jw jw
 	a (Lit;)V read
+	a (Liw;)V accept
+	a (Lju;)V accept
+	b ()I getEntityId
 	b (Lit;)V write

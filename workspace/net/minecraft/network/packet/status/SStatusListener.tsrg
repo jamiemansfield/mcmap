@@ -1,0 +1,2 @@
+pn net/minecraft/network/packet/status/SStatusListener
+	a (Lpp;)V onStatusRequest

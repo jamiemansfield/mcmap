@@ -1,0 +1,2 @@
+ov net/minecraft/network/packet/handshaking/SHandshakingListener
+	a (Lou;)V onHandshake

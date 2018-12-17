@@ -1,12 +1,16 @@
 nt nt
 	a (Lit;)V read
+	a (Liw;)V accept
 	b (Lit;)V write
 nt$a nt$a
 	a (Lit;)V read
+	a (Liw;)V accept
 	b (Lit;)V write
 nt$b nt$b
 	a (Lit;)V read
+	a (Liw;)V accept
 	b (Lit;)V write
 nt$c nt$c
 	a (Lit;)V read
+	a (Liw;)V accept
 	b (Lit;)V write

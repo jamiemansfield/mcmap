@@ -1,3 +1,6 @@
 ccg ccg
 	b pos
+	d groundLevelDelta
 	a (Lhs;)V write
+	c ()Let; getPos
+	d ()I getGroundLevelDelta

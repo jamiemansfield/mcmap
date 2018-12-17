@@ -3,12 +3,18 @@ ccr$b ccr$b
 ccr$c ccr$c
 	a (Lhs;)V write
 ccr$g ccr$g
+	a terrace
 	a (Lhs;)V write
 ccr$h ccr$h
 	a (Lhs;)V write
 ccr$j ccr$j
 	a (Lhs;)V write
 ccr$l ccr$l
+	a length
 	a (Lhs;)V write
 ccr$o ccr$o
+	a vCount
+	f hPos
+	g type
+	h zombie
 	a (Lhs;)V write

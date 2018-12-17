@@ -1,2 +1,3 @@
 ds net/minecraft/command/arguments/FunctionArgumentType
+	a EXAMPLES
 	a ()Lds; create

@@ -5,3 +5,5 @@ clz net/minecraft/util/phys/BoundingBox
 	d x1
 	e y1
 	f z1
+	a (Ley$a;)D get0
+	b (Ley$a;)D get1

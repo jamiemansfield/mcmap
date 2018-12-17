@@ -2,7 +2,13 @@ c net/minecraft/CrashReportCategory
 	a handler
 	b name
 	c details
+	d stackTrace
+	a ()[Ljava/lang/StackTraceElement; getStackTrace
 	a (Ljava/lang/String;Ld;)V addDetail
 	a (Ljava/lang/String;Ljava/lang/Object;)V addDetail
 	a (Ljava/lang/String;Ljava/lang/Throwable;)V addDetail
 c$a net/minecraft/CrashReportCategory$Detail
+	a name
+	b value
+	a ()Ljava/lang/String; getName
+	b ()Ljava/lang/String; getValue

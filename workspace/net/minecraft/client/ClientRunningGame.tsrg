@@ -4,7 +4,7 @@ cpf net/minecraft/client/ClientRunningGame
 	c listener
 	a ()V start
 	b ()V leave
-cpf$a net/minecraft/client/ClientRunningGame$a
+cpf$a net/minecraft/client/ClientRunningGame$Metrics
 	a minTime
 	b maxTime
 	c averageTime

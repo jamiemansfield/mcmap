@@ -3,6 +3,7 @@ dbf dbf
 	f level
 	k tagManager
 	o recipeManager
+	a (Ljv;)V onSpawnObject
 	d ()Layx; getRecipeManager
 	f ()Lcom/mojang/authlib/GameProfile; getProfile
 	h ()Lcom/mojang/brigadier/CommandDispatcher; getDispatcher

@@ -1,0 +1,12 @@
+asg net/minecraft/world/entity/raid/Raider
+	b wave
+	bD hasRaidGoal
+	c raid
+	a (Lasf;)V setRaid
+	a (Lhs;)V read
+	b (I)V setWave
+	b (Lhs;)V write
+	dM ()Z hasRaidGoal
+	dN ()Lasf; getRaid
+	dP ()I getWave
+	u (Z)V setHasRaidGoal

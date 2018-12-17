@@ -1,6 +1,6 @@
 dea net/minecraft/client/renderer/GameRenderer
-	f client
+	f minecraft
 	h random
 	a (Lqc;)V loadShader
 	a (Lwj;)V reload
-	l ()Lcpk; getClient
+	l ()Lcpk; getMinecraft

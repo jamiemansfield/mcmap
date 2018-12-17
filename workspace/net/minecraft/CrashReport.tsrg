@@ -5,6 +5,7 @@ b net/minecraft/CrashReport
 	e categories
 	a ()Ljava/lang/String; getMessage
 	a (Ljava/io/File;)Z save
+	a (Ljava/lang/Throwable;Ljava/lang/String;)Lb; of
 	b ()Ljava/lang/Throwable; getCause
 	g ()Lc; getSystemDetails
 	h ()V populateSystemDetails

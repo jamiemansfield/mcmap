@@ -1,0 +1,3 @@
+coq net/minecraft/client/Quaternion
+	a (F)F cos
+	b (F)F sin

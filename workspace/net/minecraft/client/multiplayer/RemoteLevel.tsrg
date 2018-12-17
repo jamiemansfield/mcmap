@@ -3,4 +3,5 @@ dbi net/minecraft/client/multiplayer/RemoteLevel
 	A ()Layx; getRecipeManager
 	B ()Lyg; getTagManager
 	a (Lb;)Lc; populateCrashReport
+	a (Let;Lxm;Lxo;FFZ)V playSound
 	b (J)V setDayTime

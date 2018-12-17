@@ -1,0 +1,13 @@
+cof cof
+	a width
+	b height
+	c redBits
+	d greenBits
+	e blueBits
+	f refreshRate
+	a ()I getWidth
+	b ()I getHeight
+	c ()I getRedBits
+	d ()I getGreenBits
+	e ()I getBlueBits
+	f ()I getRefreshRate

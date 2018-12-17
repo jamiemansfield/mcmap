@@ -1,4 +1,5 @@
 l net/minecraft/SharedConstants
+	b DEVELOPMENT
 	c ILLEGAL_FILE_CHARACTERS
 	d VERSION
 	a ()Lcom/mojang/bridge/game/GameVersion; getCurrentVersion

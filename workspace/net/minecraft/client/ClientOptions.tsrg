@@ -5,6 +5,9 @@ cpm net/minecraft/client/ClientOptions
 	X backKey
 	Y rightKey
 	Z jumpKey
+	aF fov
+	aG gamma
+	aH saturation
 	aL locale
 	aa sneakKey
 	ab sprintKey
@@ -28,3 +31,4 @@ cpm net/minecraft/client/ClientOptions
 	at loadTooplbarActivatorKey
 	av client
 	aw difficulty
+	c mouseSensitivity

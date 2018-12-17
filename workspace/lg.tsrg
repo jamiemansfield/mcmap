@@ -3,6 +3,9 @@ lg lg
 	d dimensionType
 	e difficulty
 	a (Lit;)V read
+	a (Liw;)V accept
+	a (Lju;)V accept
+	b ()I getEntityId
 	b (Lit;)V write
 	d ()Lbbm; getGameMode
 	e ()Lbsg; getDimensionType

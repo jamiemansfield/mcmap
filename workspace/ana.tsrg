@@ -2,4 +2,6 @@ ana ana
 	bD JUMP_STRENGTH
 	a (Lhs;)V read
 	a (Z)V setTrackOutput
+	b (I)V setWave
 	b (Lhs;)V write
+	u (Z)V setHasRaidGoal

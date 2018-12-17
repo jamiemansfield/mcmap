@@ -1,0 +1,2 @@
+pj net/minecraft/network/packet/status/CStatusListener
+	a (Lpl;)V onStatusResponse
