@@ -1,0 +1,6 @@
+cog cog
+	e monitor
+	p width
+	q height
+	m ()I getWidth
+	n ()I getHeight

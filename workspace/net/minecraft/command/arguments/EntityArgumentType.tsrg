@@ -1,3 +1,3 @@
 ci net/minecraft/command/arguments/EntityArgumentType
 	g EXAMPLES
-ci$a net/minecraft/command/arguments/EntityArgumentType$Serializer
+ci$a net/minecraft/command/arguments/EntityArgumentType$Serialiser
