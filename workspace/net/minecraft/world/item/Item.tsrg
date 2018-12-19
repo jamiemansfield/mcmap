@@ -10,7 +10,7 @@ awj net/minecraft/world/item/Item
 	k ()Z canDamage
 	q ()Lavg; getGroup
 	r ()Lawo; createStack
-awj$a net/minecraft/world/item/Item$Builder
+awj$a net/minecraft/world/item/Item$Properties
 	a maxStackSize
 	b maxDamage
 	d group

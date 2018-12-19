@@ -1,5 +1,5 @@
 awo net/minecraft/world/item/ItemStack
-	a NULL
+	a EMPTY
 	d count
 	f item
 	g tag

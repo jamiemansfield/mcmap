@@ -1,5 +1,10 @@
 bgs net/minecraft/world/level/block/Block
 	c state
+	s material
+	t materialColour
 	a (Lbpm;Lbbb;Let;)Lcmx; getOutlineAABB
 	h ()Lawj; getItem
 	p ()Lbpm; defaultBlockState
+bgs$c net/minecraft/world/level/block/Block$Properties
+	a material
+	b materialColour
