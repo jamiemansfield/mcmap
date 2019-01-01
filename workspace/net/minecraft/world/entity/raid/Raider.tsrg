@@ -5,7 +5,7 @@ asg net/minecraft/world/entity/raid/Raider
 	a (Lasf;)V setRaid
 	a (Lhs;)V read
 	b (I)V setWave
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag
 	dM ()Z hasRaidGoal
 	dN ()Lasf; getRaid
 	dP ()I getWave

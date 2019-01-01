@@ -1,5 +1,5 @@
 amw net/minecraft/world/entity/animal/Turtle
 	a (Lhs;)V read
 	a (Z)V setTrackOutput
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag
 	dD ()Z mayBuild

@@ -1,5 +1,5 @@
 aoj net/minecraft/world/entity/boss/wither/WitherBoss
 	a (Lhs;)V read
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag
 	b (Ljd;)V setCustomName
 	dB ()Z mayBuild

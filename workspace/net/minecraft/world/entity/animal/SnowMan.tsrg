@@ -1,4 +1,4 @@
 amt net/minecraft/world/entity/animal/SnowMan
 	a (Lhs;)V read
 	a (Z)V setTrackOutput
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag

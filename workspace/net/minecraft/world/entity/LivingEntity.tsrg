@@ -3,6 +3,6 @@ ahe net/minecraft/world/entity/LivingEntity
 	aD deathTime
 	bG hurtByTimestamp
 	a (Lhs;)V read
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag
 	l (F)V setHealth
 	w_ ()V tick

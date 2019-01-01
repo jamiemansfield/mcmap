@@ -1,4 +1,4 @@
 ahf net/minecraft/world/entity/Mob
 	bL leashed
 	a (Lhs;)V read
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag

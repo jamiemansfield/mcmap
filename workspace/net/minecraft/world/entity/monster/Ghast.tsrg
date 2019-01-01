@@ -1,4 +1,4 @@
 apn net/minecraft/world/entity/monster/Ghast
 	a (Lhs;)V read
 	a (Z)V setTrackOutput
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag

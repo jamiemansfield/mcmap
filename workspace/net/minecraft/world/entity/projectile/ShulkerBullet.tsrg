@@ -1,4 +1,4 @@
 ars net/minecraft/world/entity/projectile/ShulkerBullet
 	a (D)Z mouseScrolled
 	a (Lhs;)V read
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag

@@ -2,4 +2,4 @@ arj net/minecraft/world/entity/projectile/EvokerFangs
 	a warmup
 	f ownerId
 	a (Lhs;)V read
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag

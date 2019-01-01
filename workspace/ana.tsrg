@@ -3,5 +3,5 @@ ana ana
 	a (Lhs;)V read
 	a (Z)V setTrackOutput
 	b (I)V setWave
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag
 	u (Z)V setHasRaidGoal

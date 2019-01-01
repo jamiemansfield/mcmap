@@ -1,3 +1,3 @@
 amm net/minecraft/world/entity/animal/Pig
 	a (Lhs;)V read
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag

@@ -2,4 +2,4 @@ aqb net/minecraft/world/entity/monster/Shulker
 	a (I)V setSuccessCount
 	a (Lhs;)V read
 	am ()Z isGrounded
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag

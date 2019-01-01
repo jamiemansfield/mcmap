@@ -1,5 +1,5 @@
 asn net/minecraft/world/entity/vehicle/CommandBlockMinecart
 	a (Lhs;)V read
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag
 asn$a net/minecraft/world/entity/vehicle/CommandBlockMinecart$a
 	d ()Luq; getLevel

@@ -2,5 +2,5 @@ agt net/minecraft/world/entity/AreaEffectCloud
 	a (I)V setSuccessCount
 	a (Lhs;)V read
 	a (Z)V setTrackOutput
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag
 	k ()I headerHeight

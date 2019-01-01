@@ -1,5 +1,5 @@
 amh net/minecraft/world/entity/animal/IronGolem
 	a (Lhs;)V read
 	a (Z)V setTrackOutput
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag
 	dB ()Z mayBuild

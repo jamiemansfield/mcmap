@@ -1,4 +1,4 @@
 amj net/minecraft/world/entity/animal/Ocelot
 	a (Lhs;)V read
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag
 	dB ()Z mayBuild

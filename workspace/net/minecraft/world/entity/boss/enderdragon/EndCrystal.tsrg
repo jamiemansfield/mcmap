@@ -3,4 +3,4 @@ ano net/minecraft/world/entity/boss/enderdragon/EndCrystal
 	a (Lhs;)V read
 	a (Z)V setTrackOutput
 	am ()Z isGrounded
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag

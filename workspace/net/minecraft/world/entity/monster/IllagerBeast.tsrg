@@ -1,4 +1,4 @@
 apr net/minecraft/world/entity/monster/IllagerBeast
 	a (Lhs;)V read
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag
 	dC ()Z mayBuild

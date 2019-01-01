@@ -2,5 +2,5 @@ aoz net/minecraft/world/entity/item/PrimedTnt
 	a (I)V setSuccessCount
 	a (Lhs;)V read
 	am ()Z isGrounded
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag
 	k ()I headerHeight

@@ -4,7 +4,7 @@ ahb net/minecraft/world/entity/ExperienceOrb
 	e value
 	a (Lhs;)V read
 	am ()Z isGrounded
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag
 	g (I)V setMaxLength
 	i ()I getValue
 	k ()I headerHeight

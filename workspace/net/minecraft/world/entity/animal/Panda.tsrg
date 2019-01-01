@@ -1,6 +1,6 @@
 amk net/minecraft/world/entity/animal/Panda
 	a (Lhs;)V read
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag
 	dB ()Z mayBuild
 	dC ()Z mayBuild
 	dD ()Z mayBuild

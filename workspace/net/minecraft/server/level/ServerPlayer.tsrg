@@ -6,7 +6,7 @@ us net/minecraft/server/level/ServerPlayer
 	a (Lbom;)V openSign
 	a (Lhs;)V read
 	a (Ljd;)V updateLastOutput
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag
 	s ()Luq; getLevel
 	t ()Z isSpectator
 	u ()Z isCreative

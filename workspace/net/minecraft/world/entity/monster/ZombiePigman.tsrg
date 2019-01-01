@@ -1,4 +1,4 @@
 apx net/minecraft/world/entity/monster/ZombiePigman
 	a (Lhs;)V read
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag
 	dD ()Z mayBuild

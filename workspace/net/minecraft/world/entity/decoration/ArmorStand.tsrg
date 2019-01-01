@@ -2,4 +2,4 @@ aol net/minecraft/world/entity/decoration/ArmorStand
 	a (D)Z mouseScrolled
 	a (Lhs;)V read
 	a (Z)V setTrackOutput
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag

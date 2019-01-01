@@ -1,3 +1,3 @@
 arw arw
 	a (Lhs;)V read
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag

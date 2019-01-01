@@ -1,4 +1,4 @@
 asb net/minecraft/world/entity/projectile/ThrownPotion
 	a (Lhs;)V read
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag
 	l ()Z isVisible

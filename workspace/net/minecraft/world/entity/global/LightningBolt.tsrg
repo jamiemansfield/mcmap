@@ -1,4 +1,4 @@
 aov net/minecraft/world/entity/global/LightningBolt
 	a (I)V setSuccessCount
 	a (Lhs;)V read
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag

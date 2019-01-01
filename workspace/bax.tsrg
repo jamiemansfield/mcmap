@@ -13,11 +13,11 @@ bax bax
 	a (Ljava/lang/String;)V setValue
 	a (Ljd;)V updateLastOutput
 	a (Z)V setTrackOutput
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag
 	b (Ljd;)V setCustomName
 	c (Ljd;)V setLastOutput
 	d ()Luq; getLevel
-	i ()I headerHeight
+	i ()I getSuccessCount
 	j ()Ljd; getLastOutput
 	k ()Ljava/lang/String; getCommand
 	l ()Ljd; getCustomName

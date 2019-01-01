@@ -2,4 +2,4 @@ aon net/minecraft/world/entity/decoration/ItemFrame
 	a (D)Z mouseScrolled
 	a (I)V setSuccessCount
 	a (Lhs;)V read
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag

@@ -2,4 +2,4 @@ alv net/minecraft/world/entity/ambient/Bat
 	a (Lhs;)V read
 	a (Z)V setTrackOutput
 	am ()Z isGrounded
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag

@@ -1,6 +1,6 @@
 aqm net/minecraft/world/entity/monster/Zombie
 	a (I)V setSuccessCount
 	a (Lhs;)V read
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag
 	dD ()Z mayBuild
 	u (Z)V setHasRaidGoal

@@ -1,4 +1,4 @@
 ask net/minecraft/world/entity/vehicle/Boat
 	a (Lhs;)V read
 	am ()Z isGrounded
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag

@@ -6,7 +6,7 @@ arb net/minecraft/world/entity/player/Player
 	a (Lboq;)V openStructureBlock
 	a (Lhs;)V read
 	am ()Z isGrounded
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag
 	dB ()Z mayBuild
 	dC ()Z mayBuild
 	ds ()Lcom/mojang/authlib/GameProfile; getProfile

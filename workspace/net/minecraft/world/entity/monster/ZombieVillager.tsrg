@@ -1,4 +1,4 @@
 aqn net/minecraft/world/entity/monster/ZombieVillager
 	a (Lhs;)V read
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag
 	dD ()Z mayBuild

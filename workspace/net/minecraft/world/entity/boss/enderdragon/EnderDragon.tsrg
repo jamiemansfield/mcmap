@@ -1,4 +1,4 @@
 anp net/minecraft/world/entity/boss/enderdragon/EnderDragon
 	a (I)V setSuccessCount
 	a (Lhs;)V read
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag

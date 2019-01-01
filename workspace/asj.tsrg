@@ -1,5 +1,5 @@
 asj asj
 	X ()V tick
 	a (Lhs;)V read
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag
 	b (Z)V setTrackOutput

@@ -1,4 +1,4 @@
 apj net/minecraft/world/entity/monster/EnderMan
 	a (Lhs;)V read
-	b (Lhs;)V write
+	b (Lhs;)V readFromTag
 	dC ()Z mayBuild
