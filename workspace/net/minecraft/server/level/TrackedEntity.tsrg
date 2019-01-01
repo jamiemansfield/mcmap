@@ -1,0 +1,4 @@
+ux net/minecraft/server/level/TrackedEntity
+	d entity
+	b ()Lagv; getEntity
+	e ()Ljr; addPacket

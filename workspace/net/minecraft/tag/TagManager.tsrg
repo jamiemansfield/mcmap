@@ -1,8 +1,8 @@
 yg net/minecraft/tag/TagManager
-	a BLOCKS
-	b ITEMS
-	c FLUIDS
-	d ENTITY_TYPES
+	a blocks
+	b items
+	c fluids
+	d entityTypes
 	a ()Lyd; blocks
 	a (Lwj;)V reload
 	b ()Lyd; items

@@ -1,4 +1,4 @@
-n net/minecraft/advancement/SimpleAdvancement
+n net/minecraft/advancement/Advancement
 	a parent
 	b display
 	c rewards
@@ -10,7 +10,7 @@ n net/minecraft/advancement/SimpleAdvancement
 	f ()Ljava/util/Map; getCriteria
 	h ()Lqc; getId
 	i ()[[Ljava/lang/String; getRequirements
-n$a net/minecraft/advancement/SimpleAdvancement$a
+n$a net/minecraft/advancement/Advancement$a
 	a parentId
 	c display
 	d rewards

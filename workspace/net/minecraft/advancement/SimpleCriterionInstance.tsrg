@@ -1,0 +1,3 @@
+aa net/minecraft/advancement/SimpleCriterionInstance
+	a criterion
+	a ()Lqc; getCriterion

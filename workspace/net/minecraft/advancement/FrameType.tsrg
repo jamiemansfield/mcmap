@@ -1,4 +1,4 @@
 x net/minecraft/advancement/FrameType
-	f color
+	f format
 	a (Ljava/lang/String;)Lx; of
-	c ()La; getColor
+	c ()La; getFormat

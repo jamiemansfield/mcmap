@@ -1,4 +1,5 @@
 yw net/minecraft/util/Mth
+	a I
 	b SIN_TABLE
 	a (D)F sqrt
 	a (DD)D absMax

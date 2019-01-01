@@ -1,4 +1,5 @@
 ey net/minecraft/core/Direction
+	j id
 	e ()Ley; rotateY
 	m ()Ljava/lang/String; getId
 	o ()Ley; rotateX

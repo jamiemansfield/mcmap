@@ -1,0 +1,3 @@
+ayp net/minecraft/world/item/recipe/AbstractRecipe
+	a id
+	f ()Lqc; getId

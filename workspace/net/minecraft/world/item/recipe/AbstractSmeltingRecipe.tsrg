@@ -1,0 +1,3 @@
+ayk net/minecraft/world/item/recipe/AbstractSmeltingRecipe
+	a id
+	f ()Lqc; getId
