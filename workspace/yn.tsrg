@@ -1,2 +1,2 @@
 yn yn
-	a (Lcom/mojang/datafixers/Dynamic;Lfk;Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object; deserialize
+	a (Lcom/mojang/datafixers/Dynamic;Lfk;Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object; deserialise

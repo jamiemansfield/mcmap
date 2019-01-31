@@ -7,9 +7,9 @@ cpa net/minecraft/client/VertexFormat
 	b (I)I getUvOffset
 	c ()I getNormalOffset
 	c (I)Lcpb; getElement
-	d ()Z hasColor
+	d ()Z hasColour
 	d (I)I getOffset
-	e ()I getColorOffset
+	e ()I getColourOffset
 	f ()I getIntegerSize
 	g ()I getVertexSize
 	h ()Ljava/util/List; getElements

@@ -1,5 +1,5 @@
 dov net/minecraft/client/resources/metadata/texture/TextureMetadataSection
-	a SERIALIZER
+	a SERIALISER
 	b blur
 	c clamp
 	a ()Z isBlur

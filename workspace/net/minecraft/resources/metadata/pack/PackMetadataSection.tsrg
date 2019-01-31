@@ -1,5 +1,5 @@
 vu net/minecraft/resources/metadata/pack/PackMetadataSection
-	a SERIALIZER
+	a SERIALISER
 	b description
 	c packFormat
 	a ()Ljd; getDescription

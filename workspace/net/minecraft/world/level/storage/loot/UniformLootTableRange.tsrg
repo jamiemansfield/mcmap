@@ -8,4 +8,4 @@ cjd net/minecraft/world/level/storage/loot/UniformLootTableRange
 	b ()F getMin
 	b (Ljava/util/Random;)F nextFloat
 	c ()F getMax
-cjd$a net/minecraft/world/level/storage/loot/UniformLootTableRange$Serializer
+cjd$a net/minecraft/world/level/storage/loot/UniformLootTableRange$Serialiser

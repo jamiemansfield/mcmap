@@ -2,4 +2,4 @@ dfs net/minecraft/client/tosort/selector/Selector
 	a condition
 	b variant
 	a ()Ldfl; getVariant
-dfs$a net/minecraft/client/tosort/selector/Selector$Serializer
+dfs$a net/minecraft/client/tosort/selector/Selector$Serialiser

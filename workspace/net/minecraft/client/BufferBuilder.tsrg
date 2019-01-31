@@ -6,9 +6,9 @@ cou net/minecraft/client/BufferBuilder
 	a (DD)Lcou; tex
 	a (DDD)V postProcessFacePosition
 	a (FFF)V sortQuads
-	a (FFFF)Lcou; color
+	a (FFFF)Lcou; colour
 	a (FFFI)V faceTint
-	a (I)V fixupQuadColor
+	a (I)V fixupQuadColour
 	a (II)Lcou; tex2
 	a (IIII)V faceTex2
 	a (ILcpa;)V begin
@@ -17,13 +17,13 @@ cou net/minecraft/client/BufferBuilder
 	b ()V clear
 	b (DDD)Lcou; vertex
 	b (FFF)V postNormal
-	b (FFFI)V fixupVertexColor
-	b (IIII)Lcou; color
-	c ()V noColor
+	b (FFFI)V fixupVertexColour
+	b (IIII)Lcou; colour
+	c ()V noColour
 	c (DDD)V offset
 	c (FFF)Lcou; normal
 	d ()V endVertex
-	d (FFF)V fixupQuadColor
+	d (FFF)V fixupQuadColour
 	e ()V end
 	f ()Ljava/nio/ByteBuffer; getBuffer
 	g ()Lcpa; getVertexFormat

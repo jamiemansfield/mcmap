@@ -9,16 +9,16 @@ yp net/minecraft/util/GsonUtils
 	a (Lcom/google/gson/Gson;Ljava/lang/String;Ljava/lang/reflect/Type;Z)Ljava/lang/Object; read
 	a (Lcom/google/gson/JsonElement;)Z isString
 	a (Lcom/google/gson/JsonElement;Ljava/lang/String;)Ljava/lang/String; getString
-	a (Lcom/google/gson/JsonElement;Ljava/lang/String;Lcom/google/gson/JsonDeserializationContext;Ljava/lang/Class;)Ljava/lang/Object; deserialize
+	a (Lcom/google/gson/JsonElement;Ljava/lang/String;Lcom/google/gson/JsonDeserializationContext;Ljava/lang/Class;)Ljava/lang/Object; deserialise
 	a (Lcom/google/gson/JsonObject;Ljava/lang/String;)Z isString
 	a (Lcom/google/gson/JsonObject;Ljava/lang/String;B)B getByte
 	a (Lcom/google/gson/JsonObject;Ljava/lang/String;F)F getFloat
 	a (Lcom/google/gson/JsonObject;Ljava/lang/String;I)I getInt
 	a (Lcom/google/gson/JsonObject;Ljava/lang/String;J)J getLong
 	a (Lcom/google/gson/JsonObject;Ljava/lang/String;Lcom/google/gson/JsonArray;)Lcom/google/gson/JsonArray; getArray
-	a (Lcom/google/gson/JsonObject;Ljava/lang/String;Lcom/google/gson/JsonDeserializationContext;Ljava/lang/Class;)Ljava/lang/Object; deserialize
+	a (Lcom/google/gson/JsonObject;Ljava/lang/String;Lcom/google/gson/JsonDeserializationContext;Ljava/lang/Class;)Ljava/lang/Object; deserialise
 	a (Lcom/google/gson/JsonObject;Ljava/lang/String;Lcom/google/gson/JsonObject;)Lcom/google/gson/JsonObject; getObject
-	a (Lcom/google/gson/JsonObject;Ljava/lang/String;Ljava/lang/Object;Lcom/google/gson/JsonDeserializationContext;Ljava/lang/Class;)Ljava/lang/Object; deserialize
+	a (Lcom/google/gson/JsonObject;Ljava/lang/String;Ljava/lang/Object;Lcom/google/gson/JsonDeserializationContext;Ljava/lang/Class;)Ljava/lang/Object; deserialise
 	a (Lcom/google/gson/JsonObject;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String; getString
 	a (Lcom/google/gson/JsonObject;Ljava/lang/String;Z)Z getBoolean
 	a (Ljava/io/Reader;)Lcom/google/gson/JsonObject; read

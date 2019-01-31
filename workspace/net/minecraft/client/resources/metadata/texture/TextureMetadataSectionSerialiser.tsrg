@@ -1,0 +1,4 @@
+dow net/minecraft/client/resources/metadata/texture/TextureMetadataSectionSerialiser
+	a ()Ljava/lang/String; getMetadataSectionName
+	a (Lcom/google/gson/JsonObject;)Ljava/lang/Object; deserialise
+	b (Lcom/google/gson/JsonObject;)Ldov; deserialise

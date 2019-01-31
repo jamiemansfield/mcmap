@@ -1,0 +1,8 @@
+eh net/minecraft/command/serialise/MinecraftArgumentTypes
+	a ()V register
+	a (Lit;)Lcom/mojang/brigadier/arguments/ArgumentType; deserialise
+	a (Lit;Lcom/mojang/brigadier/arguments/ArgumentType;)V serialise
+	a (Ljava/lang/String;Ljava/lang/Class;Leg;)V register
+	a (Lqc;)Leh$a; byId
+eh$a net/minecraft/command/serialise/MinecraftArgumentTypes$a
+	a klass

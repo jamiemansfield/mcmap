@@ -3,10 +3,10 @@ ahu net/minecraft/world/entity/attribute/AttributeModifier
 	b operation
 	c name
 	d id
-	e serialize
+	e serialise
 	a ()Ljava/util/UUID; getId
-	a (Z)Lahu; serialize
+	a (Z)Lahu; serialise
 	b ()Ljava/lang/String; getName
 	c ()Lahu$a; getOperation
 	d ()D getAmount
-	e ()Z serialize
+	e ()Z serialise

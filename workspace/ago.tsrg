@@ -1,8 +1,10 @@
 ago ago
+	b effect
 	c duration
 	e splash
 	h particles
 	i showIcon
+	a ()Lagn; getEffect
 	b ()I getDuration
 	e ()Z particles
 	f ()Z showIcons

@@ -5,4 +5,4 @@ jd net/minecraft/network/chat/Component
 	b ()Ljl; getStyle
 	c ()Ljava/util/stream/Stream; stream
 	d ()Ljava/lang/String; getValue
-jd$a net/minecraft/network/chat/Component$Serializer
+jd$a net/minecraft/network/chat/Component$Serialiser

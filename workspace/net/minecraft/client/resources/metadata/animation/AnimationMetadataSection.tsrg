@@ -1,5 +1,5 @@
 dom net/minecraft/client/resources/metadata/animation/AnimationMetadataSection
-	a SERIALIZER
+	a SERIALISER
 	b frames
 	c frameWidth
 	d frameHeight

@@ -49,7 +49,7 @@ agz net/minecraft/world/entity/EntityType
 	aU TRIDENT
 	aW klass
 	aX factory
-	aY serialize
+	aY serialise
 	aZ summon
 	aa PARROT
 	ab PIG
@@ -102,7 +102,7 @@ agz net/minecraft/world/entity/EntityType
 	x EXPERIENCE_ORB
 	y EYE_OF_ENDER
 	z FALLING_BLOCK
-	a ()Z canSerialize
+	a ()Z canSerialise
 	a (ILbbp;)Lagv; create
 	a (Lagz;)Lqc; getKey
 	a (Lbbp;)Lagv; create
@@ -116,7 +116,7 @@ agz net/minecraft/world/entity/EntityType
 agz$a net/minecraft/world/entity/EntityType$Builder
 	a klass
 	b factory
-	c serialize
+	c serialise
 	d summon
 	a ()Lagz$a; noSummon
 	a (Ljava/lang/Class;)Lagz$a; createNothing
